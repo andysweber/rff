@@ -58,13 +58,13 @@ http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://goo.gl/ccdFP9 ,SIGMA
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 tvg-name="Sigma" epg-id=Sigma tvg-logo=https://goo.gl/ccdFP9 ,SIGMA
-http://master.cystreams.com:25461/live/greek/athienitis/12.ts
+http://master.cystreams.com:25461/live/greek/popstar/12.ts
 #EXTINF:0 tvg-logo=http://primetel.com.cy/tvg/logos/219.png ,Capital
-http://master.cystreams.com:25461/live/greek/athienitis/14.ts
+http://master.cystreams.com:25461/live/greek/popstar/14.ts
 #EXTINF:0 tvg-logo=https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg ,EXTRA
-http://master.cystreams.com:25461/live/greek/athienitis/15.ts
+http://master.cystreams.com:25461/live/greek/popstar/15.ts
 #EXTINF:0 tvg-logo=http://www.lakatamia.tv/media/images/banners/348d2c4feecfee8be4cef04e45c0b312-1505304062.jpg ,SMILE TV
-http://master.cystreams.com:25461/live/greek/athienitis/119.ts
+http://master.cystreams.com:25461/live/greek/popstar/119.ts
 #EXTINF:0 tvg-logo=http://www.tvmall.com.cy/image/cache/catalog/logo-100x100-268x109.png ,TV Mall
 https://www.youtube.com/watch?v=46k1mMe_DYE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w9Je47D.png",CYSPORTS
@@ -120,11 +120,11 @@ http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
 #EXTINF:-1 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA (Youtube)
 https://www.youtube.com/watch?v=-q44pYLLgTs
 #EXTINF:0 tvg-name="Mega Channel" epg-id=mega.gr tvg-logo=https://goo.gl/nTCu62 ,MEGA 
-http://master.cystreams.com:25461/live/greek/athienitis/43.ts
+http://master.cystreams.com:25461/live/greek/popstar/43.ts
 #EXTINF:0 tvg-logo=http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/satellite-tv-logos/mega-cosmos.png ,MEGA COSMOS
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://goo.gl/np3siv ,SKAI
-http://master.cystreams.com:25461/live/greek/athienitis/42.ts
+http://master.cystreams.com:25461/live/greek/popstar/42.ts
 #EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI (Youtube)
 https://www.youtube.com/watch?v=fVpHm8TLDmI
 #EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (USE GREECE VPN)
@@ -134,7 +134,7 @@ http://zouglacam.mdc.akamaized.net/zouglalive/main/playlist.m3u8
 #EXTINF:0 tvg-name="E TV" epg-id=ETV.gr tvg-logo=https://goo.gl/tjFpM3 ,E
 https://s1.streamings.gr/epsilontv/epsilontv.m3u8
 #EXTINF:-1 tvg-id="Star.gr" tvg-logo=https://goo.gl/z2xi2U ,STAR
-http://master.cystreams.com:25461/live/greek/athienitis/40.ts
+http://master.cystreams.com:25461/live/greek/popstar/40.ts
 #EXTINF:-1 tvg-logo=https://goo.gl/m1ZYJB ,VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 tvg-logo=http://i.imgur.com/0Ovqq2f.png ,TILESPORT
