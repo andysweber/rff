@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,12/02/18 
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,14/02/18 
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -126,7 +126,7 @@ http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://goo.gl/np3siv ,SKAI
 http://master.cystreams.com:25461/live/greek/popstar/42.ts
 #EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI (Youtube)
-https://www.youtube.com/watch?v=Hk0np0OixH4
+https://www.youtube.com/watch?v=Dn-5NGUGRJM
 #EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (USE GREECE VPN)
 http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
 #EXTINF:-1 tvg-logo=https://goo.gl/kkjOp4 ,ZOUGLA
@@ -270,137 +270,6 @@ http://wpso.com:1936/hls/wzra.m3u8
 
 
 
-
-#EXTINF:8 group-title=”Greece_Premium-MXPlayer”,
-
-#EXTINF:1 tvg-logo=http://cdn.e-radio.gr/logos/gr/big/manaellada.png ,==GREECE==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1,4E
-http://gmcllc.de:25461/live/appco/licoveO1/2325.ts|user-agent=EMVideoView 3.0.5 (30500)  
-#EXTINF:-1,AB Channel
-http://gmcllc.de:25461/live/appco/licoveO1/2327.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AIGAIO TV
-http://gmcllc.de:25461/live/appco/licoveO1/2329.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Aigaio
-http://gmcllc.de:25461/live/appco/licoveO1/2367.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Alpha
-http://gmcllc.de:25461/live/appco/licoveO1/2330.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,ANT1
-http://gmcllc.de:25461/live/appco/licoveO1/2331.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Ant1 Cyprus
-http://gmcllc.de:25461/live/appco/licoveO1/1649.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Ant1 HD
-http://gmcllc.de:25461/live/appco/licoveO1/2332.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Apeiro TV
-http://gmcllc.de:25461/live/appco/licoveO1/2333.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Astra
-http://gmcllc.de:25461/live/appco/licoveO1/2336.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,BBC World News
-http://gmcllc.de:25461/live/appco/licoveO1/2384.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,BLUE SKY
-http://gmcllc.de:25461/live/appco/licoveO1/2338.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Discovery HD
-http://gmcllc.de:25461/live/appco/licoveO1/2371.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Discovery Science
-http://gmcllc.de:25461/live/appco/licoveO1/2378.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1 tvg-logo=https://goo.gl/tjFpM3 ,E
-http://gmcllc.de:25461/live/appco/licoveO1/2343.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Ept 1
-http://gmcllc.de:25461/live/appco/licoveO1/2345.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Ept 2
-http://gmcllc.de:25461/live/appco/licoveO1/2346.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,ERT 2
-http://gmcllc.de:25461/live/appco/licoveO1/2349.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,ERT 3
-http://gmcllc.de:25461/live/appco/licoveO1/2347.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Ert HD
-http://gmcllc.de:25461/live/appco/licoveO1/2348.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Eurosport 1
-http://gmcllc.de:25461/live/appco/licoveO1/2351.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Eurosport 2
-http://gmcllc.de:25461/live/appco/licoveO1/2352.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Extra Channel
-http://gmcllc.de:25461/live/appco/licoveO1/2354.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,High TV
-http://gmcllc.de:25461/live/appco/licoveO1/2355.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Hpeiros TV1
-http://gmcllc.de:25461/live/appco/licoveO1/2356.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Kontra Channel
-http://gmcllc.de:25461/live/appco/licoveO1/2358.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,KONTRA TV
-http://gmcllc.de:25461/live/appco/licoveO1/2359.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Kriti TV
-http://gmcllc.de:25461/live/appco/licoveO1/2360.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Mad TV
-http://gmcllc.de:25461/live/appco/licoveO1/2363.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Makedonia HD
-http://gmcllc.de:25461/live/appco/licoveO1/2364.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Makedonia TV HD
-http://gmcllc.de:25461/live/appco/licoveO1/2365.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1 tvg-logo=https://goo.gl/nTCu62 ,Mega
-http://gmcllc.de:25461/live/appco/licoveO1/2368.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MESSINIA TV
-http://gmcllc.de:25461/live/appco/licoveO1/2369.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,NEA
-http://gmcllc.de:25461/live/appco/licoveO1/2372.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Nea Tv
-http://gmcllc.de:25461/live/appco/licoveO1/2373.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Nickelodeon
-http://gmcllc.de:25461/live/appco/licoveO1/2375.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,NOVA
-http://gmcllc.de:25461/live/appco/licoveO1/2376.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Rik 1
-http://gmcllc.de:25461/live/appco/licoveO1/2379.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,SAMIAKI
-http://gmcllc.de:25461/live/appco/licoveO1/2380.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Sigma
-http://gmcllc.de:25461/live/appco/licoveO1/2382.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Skai
-http://gmcllc.de:25461/live/appco/licoveO1/2383.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Smile
-http://gmcllc.de:25461/live/appco/licoveO1/2370.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Start TV
-http://gmcllc.de:25461/live/appco/licoveO1/2385.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Start TV
-http://gmcllc.de:25461/live/appco/licoveO1/2386.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Start TV
-http://gmcllc.de:25461/live/appco/licoveO1/2387.ts|user-agent=EMVideoView 3.0.5 (30500)  
-#EXTINF:-1,Thraki TV
-http://gmcllc.de:25461/live/appco/licoveO1/2389.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,TILESPORT
-http://gmcllc.de:25461/live/appco/licoveO1/2390.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,TV 1000
-http://gmcllc.de:25461/live/appco/licoveO1/2392.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,TV1 Siros
-http://gmcllc.de:25461/live/appco/licoveO1/2394.ts|user-agent=EMVideoView 3.0.5 (30500)  
-#EXTINF:-1,VOULI
-http://gmcllc.de:25461/live/appco/licoveO1/2397.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Vouli TV
-http://gmcllc.de:25461/live/appco/licoveO1/2398.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,ZOUGL@
-http://gmcllc.de:25461/live/appco/licoveO1/2399.ts|user-agent=EMVideoView 3.0.5 (30500) 
 
 
 
@@ -865,24 +734,11 @@ http://93.91.113.8:9999/play/a06n
 #EXTINF:-1, Nick Jr 
 http://93.91.113.8:9999/play/a06l 
 
-
 #EXTINF:-1 ,Investigation Discovery (Wuffy Player)
 http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
 
 #EXTINF:-1,FOX SPORTS 2 
 rtmp://vxdiptv.zapto.org/live/stream
-
-#EXTINF:-1,CBS Action
-http://185.19.188.38:8090/CBS_Action/index.m3u8
-#EXTINF:-1,CBS Action
-http://185.19.188.37:8090/CBS_Action/index.m3u8
-#EXTINF:-1,CBS Action
-http://185.19.188.36:8090/CBS_Action/index.m3u8
-#EXTINF:-1,CBS Action
-http://185.19.188.36:8090/CBS_Action/index.m3u8
-
-
-
 
 
 
@@ -1502,14 +1358,6 @@ http://wowza2.mysoltv.com:1992/UK_UK_Baby/index.m3u8
 #EXTINF:-1,Nat geo wild
 http://wowza2.mysoltv.com:1992/UK_ENG_nat_geo_wild_shsaa/index.m3u8
 
-#EXTINF:-1,CBS Action
-http://185.19.188.38:8090/CBS_Action/index.m3u8
-#EXTINF:-1,CBS Action
-http://185.19.188.37:8090/CBS_Action/index.m3u8
-#EXTINF:-1,CBS Action
-http://185.19.188.36:8090/CBS_Action/index.m3u8
-#EXTINF:-1,CBS Action
-http://185.19.188.36:8090/CBS_Action/index.m3u8
 
 
 
@@ -1546,9 +1394,92 @@ http://185.19.188.36:8090/CBS_Action/index.m3u8
 
 #EXTINF:3 group-title=”UK1-LOOP_ONE”, 
 
+#EXTINF:1 tvg-logo=http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg ,===UK===
+http://..........
 
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:ENABLE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer LOOP_ONE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,or it may stop
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,every few seconds.
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
 
-
+#EXTINF:-1,Sky Sports Main Event
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/75.ts
+#EXTINF:-1,Sky Sports Main Event HQ
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/124.ts
+#EXTINF:-1,Sky Sports Cricket
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/76.ts
+#EXTINF:-1,Sky Sports Cricket HQ
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/123.ts
+#EXTINF:-1,Sky Sports Action
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/77.ts
+#EXTINF:-1,Sky Sports Action HQ
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/122.ts
+#EXTINF:-1,Sky Sports Golf
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/78.ts
+#EXTINF:-1,Sky Sports Golf HQ
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/121.ts
+#EXTINF:-1,Sky Sports Premier League
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/79.ts
+#EXTINF:-1,Sky Sports Premier League HQ
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/120.ts
+#EXTINF:-1,Sky Sports F1
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/80.ts
+#EXTINF:-1,Sky Sports F1 HQ
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/119.ts
+#EXTINF:-1,Sky Sports News
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/81.ts
+#EXTINF:-1,Sky Sports News HQ
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/118.ts
+#EXTINF:-1,Sky Sports Mix
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/860.ts
+#EXTINF:-1,Bt Sports 1
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/45.ts
+#EXTINF:-1,Bt Sports 1 HQ
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/126.ts
+#EXTINF:-1,BT Sports 1 Backup
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/733.ts
+#EXTINF:-1,Bt Sports 2
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/46.ts
+#EXTINF:-1,Bt Sports 2 HQ
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/125.ts
+#EXTINF:-1,BT Sports 2 Backup
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/734.ts
+#EXTINF:-1,Bt Sports 3
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/127.ts
+#EXTINF:-1,Bt Sports 3 HQ
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/237.ts
+#EXTINF:-1,BT Sports 3 Backup
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/781.ts
+#EXTINF:-1,Bt Sports ESPN UK
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/47.ts
+#EXTINF:-1,Eir Sports1
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/849.ts
+#EXTINF:-1,Eir Sports2
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/850.ts
+#EXTINF:-1,Box Nation
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/44.ts
+#EXTINF:-1,At The Races
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/83.ts
+#EXTINF:-1,Racing UK
+http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/84.ts
 
 
 
@@ -4372,163 +4303,163 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1 tvg-name="BeINSPORTS 1HD Fr",BeINSPORTS 1HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1454.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1454.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 2HD Fr",BeINSPORTS 2HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1455.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1455.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 3HD Fr",BeINSPORTS 3HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1456.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1456.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 04HD Fr",BeINMAX 04HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1457.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1457.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 05HD Fr",BeINMAX 05HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1458.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1458.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 06HD Fr",BeINMAX 06HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1459.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1459.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 07HD Fr",BeINMAX 07HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1460.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1460.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 08HD Fr",BeINMAX 08HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1461.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1461.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 09HD Fr",BeINMAX 09HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1462.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1462.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINMAX 10HD Fr",BeINMAX 10HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1463.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1463.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BOING" ,BOING
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1409.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1409.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="TF1"  ,TF1
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1428.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1428.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="FRANCE 2"  ,FRANCE 2
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1430.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1430.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="FRANCE 3"  ,FRANCE 3
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1431.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1431.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="FRANCE 4"  ,FRANCE 4
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1432.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1432.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="FRANCE 5"  ,FRANCE 5
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1433.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1433.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="FRANCE O"  ,FRANCE O
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1434.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1434.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="M6"  ,M6
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1429.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1429.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ACTION"  ,ACTION
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1453.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1453.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL"  ,CANAL
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1435.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1435.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL CINEMA"  ,CANAL CINEMA
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1436.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1436.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL FAMILY"  ,CANAL FAMILY
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1438.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1438.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL DECALE"  ,CANAL DECALE
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1437.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1437.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL SERIES"  ,CANAL SERIES
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1439.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1439.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE PREMIER"  ,CINE PREMIER
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1440.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1440.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE POLAR"  ,CINE POLAR
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1446.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1446.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE FX"  ,CINE FX
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1447.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1447.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE FRISSON"  ,CINE FRISSON
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1441.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1441.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE FAMIZ"  ,CINE FAMIZ
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1445.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1445.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE EMOTION"  ,CINE EMOTION
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1442.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1442.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE CLUB"  ,CINE CLUB
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1444.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1444.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CINE CLASSIC"  ,CINE CLASSIC
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1443.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1443.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="OCS MAX"  ,OCS MAX
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1451.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1451.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="OCS GEANT"  ,OCS GEANT
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1449.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1449.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="OCS CITY"  ,OCS CITY
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1450.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1450.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="OCS CHOC"  ,OCS CHOC
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1448.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1448.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="COMEDIE"  ,COMEDIE
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1452.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1452.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL PLAY 1"  ,CANAL PLAY 1
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1390.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1390.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL PLAY 2"  ,CANAL PLAY 2
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1391.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1391.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL PLAY 3"  ,CANAL PLAY 3
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1392.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1392.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL PLAY 4"  ,CANAL PLAY 4
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1393.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1393.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL PLAY 5"  ,CANAL PLAY 5
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1394.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1394.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ALACARTE 1"  ,ALACARTE 1
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1395.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1395.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ALACARTE 2"  ,ALACARTE 2
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1396.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1396.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ALACARTE 3"  ,ALACARTE 3
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1397.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1397.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ALACARTE 4"  ,ALACARTE 4
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1398.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1398.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ALACARTE 5"  ,ALACARTE 5
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1399.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1399.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ANIMAUX"  ,ANIMAUX
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1424.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1424.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="DISCOVRY-SCI"  ,DISCOVRY-SCI
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1423.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1423.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="DISCOVRY"  ,DISCOVRY
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1422.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1422.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="USHUAIA TV"  ,USHUAIA TV
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1425.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1425.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SEASON"  ,SEASON
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1427.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1427.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="NATIONAL-GEO"  ,NATIONAL-GEO
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1420.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1420.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="NAT-GEO-WILD"  ,NAT-GEO-WILD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1421.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1421.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CHASSE PECHE"  ,CHASSE PECHE
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1426.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1426.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="France 24"  ,France 24
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1329.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1329.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Euronews"  ,Euronews
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1330.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1330.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="LCI"  ,LCI
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1401.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1401.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="ITELE"  ,ITELE
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1400.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1400.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SFR Sport 1HD Fr"  ,SFR Sport 1HD Fr
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1464.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1464.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SFR Sport 2HD Fr"  ,SFR Sport 2HD Fr
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1465.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1465.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SFR Sport 3HD Fr"  ,SFR Sport 3HD Fr
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1466.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1466.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL SPORT"  ,CANAL SPORT
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1417.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1417.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="INFOSPORT"  ,INFOSPORT
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1419.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1419.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="FOOT 24"  ,FOOT 24
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1418.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1418.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="PIWI"  ,PIWI
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1402.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1402.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CARTON NET"  ,CARTON NET
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1405.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1405.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BOOMERANG"  ,BOOMERANG
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1404.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1404.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="TIJI"  ,TIJI
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1403.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1403.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="GULLI"  ,GULLI
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1406.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1406.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="TELETOON"  ,TELETOON
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1410.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1410.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="CANAL J"  ,CANAL J
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1408.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1408.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="NICKELODEON JUNIOR"  ,NICKELODEON JUNIOR
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1412.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1412.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="NICKELODEON"  ,NICKELODEON
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1411.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1411.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MANGAS"  ,MANGAS
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1407.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1407.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="DISNEY XD"  ,DISNEY XD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1416.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1416.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="DISNEY JUNIOR"  ,DISNEY JUNIOR
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1413.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1413.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="DISNEY CINEMA"  ,DISNEY CINEMA
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1415.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1415.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="DISNEY CHANNEL"  ,DISNEY CHANNEL
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1414.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1414.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 
 
@@ -5881,98 +5812,6 @@ http://aztecalive-lh.akamaihd.net:80/i/0kus659k5_1@501884/index_1_av-p.m3u8
 
 
 #EXTINF:8 group-title=”Spain3”,
-
-#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1,canal13 Arg
-http://br.watcha.live/ch7/hi.m3u8
-#EXTINF:-1,telefe Arg
-http://br.watcha.live/ch6/hi.m3u8
-#EXTINF:-1,America
-http://br.watcha.live/ch3/hi.m3u8
-#EXTINF:-1,A24
-http://br.watcha.live/ch2/hi.m3u8
-#EXTINF:-1,C5N
-http://br.watcha.live/ch1/hi.m3u8
-#EXTINF:-1,TV Publica
-http://br.watcha.live/ch4/hi.m3u8
-#EXTINF:-1,EL Nueve
-http://br.watcha.live/ch5/hi.m3u8
-#EXTINF:-1,Deportv
-http://br.watcha.live/ch8/hi.m3u8
-#EXTINF:-1,CN23
-http://br.watcha.live/ch11/hi.m3u8
-#EXTINF:-1,360 TV
-http://br.watcha.live/ch12/hi.m3u8
-#EXTINF:-1,RT
-http://br.watcha.live/ch13/hi.m3u8
-#EXTINF:-1,MUSICA
-http://br.watcha.live/ch14/hi.m3u8
-#EXTINF:-1,paka-paka
-http://br.watcha.live/ch15/hi.m3u8
-#EXTINF:-1,TATETI
-http://br.watcha.live/ch16/hi.m3u8
-#EXTINF:-1,CINE AR
-http://br.watcha.live/ch17/hi.m3u8
-#EXTINF:-1,A24
-http://br.watcha.live/ch2/full.m3u8
-#EXTINF:-1,America
-http://br.watcha.live/ch3/full.m3u8
-#EXTINF:-1,TV Pública
-http://br.watcha.live/ch4/full.m3u8
-#EXTINF:-1,Canal 9
-http://br.watcha.live/ch5/full.m3u8
-#EXTINF:-1,Telefe
-http://br.watcha.live/ch6/full.m3u8
-#EXTINF:-1,Canal 13
-http://br.watcha.live/ch7/full.m3u8
-#EXTINF:-1,DeporTV
-http://br.watcha.live/ch8/full.m3u8
-#EXTINF:-1,LN
-http://br.watcha.live/ch9/hi.m3u8
-#EXTINF:-1,360 TV
-http://br.watcha.live/ch12/full.m3u8
-#EXTINF:-1,RT
-http://br.watcha.live/ch13/full.m3u8
-#EXTINF:-1,Encuentro
-http://br.watcha.live/ch14/full.m3u8
-#EXTINF:-1,Paka Paka
-http://br.watcha.live/ch15/full.m3u8
-#EXTINF:-1,TaTeTi
-http://br.watcha.live/ch16/full.m3u8
-#EXTINF:-1,N/A
-http://br.watcha.live/ch17/full.m3u8
-#EXTINF:-1,Qm Noticias
-http://br.watcha.live/ch18/hi.m3u8
-#EXTINF:-1,EL TRECE HD
-http://ar.watcha.live/ch7/hi.m3u8
-#EXTINF:-1,Tele HD
-http://br.watcha.live/ch24/full.m3u8
-#EXTINF:-1,Algo Contigo HD
-http://br.watcha.live/ch25/full.m3u8
-#EXTINF:-1,9 M HD
-http://br.watcha.live/ch28/full.m3u8
-#EXTINF:-1,EGO HD
-http://br.watcha.live/ch40/full.m3u8
-#EXTINF:-1,MECA HD
-http://br.watcha.live/ch48/full.m3u8
-
 
 
 
@@ -11974,823 +11813,7 @@ http://bein.website/movecast/beIN.m3u8?id=bein10-hq
 
 
 
-
-#EXTINF:9 group-title=”United.Arab.Emirates2_PREMIUM-MXPlayer”,
-
-#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPLAYER.
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1,Al Jazeera Documentary
-http://gmcllc.de:25461/live/appco/licoveO1/3463.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Abu Dhabi Nat Geo
-http://gmcllc.de:25461/live/appco/licoveO1/3454.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Abu Dhabi Sports 1
-http://gmcllc.de:25461/live/appco/licoveO1/3459.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Abu Dhabi TV
-http://gmcllc.de:25461/live/appco/licoveO1/3455.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AD Sports 1
-http://gmcllc.de:25461/live/appco/licoveO1/3461.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AD Sports 2
-http://gmcllc.de:25461/live/appco/licoveO1/3460.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al Alam
-http://gmcllc.de:25461/live/appco/licoveO1/3458.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al arabia Alhadath
-http://gmcllc.de:25461/live/appco/licoveO1/3456.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al-Manar
-http://gmcllc.de:25461/live/appco/licoveO1/3457.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,BEIN MOVIES 1HD
-http://gmcllc.de:25461/live/appco/licoveO1/3448.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,BEIN MOVIES 2HD
-http://gmcllc.de:25461/live/appco/licoveO1/3453.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,ekhbariya tv
-http://gmcllc.de:25461/live/appco/licoveO1/3444.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,iqraatv
-http://gmcllc.de:25461/live/appco/licoveO1/3412.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,LBC Sat
-http://gmcllc.de:25461/live/appco/licoveO1/3321.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,LDC
-http://gmcllc.de:25461/live/appco/licoveO1/3447.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC 2
-http://gmcllc.de:25461/live/appco/licoveO1/3452.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC 4
-http://gmcllc.de:25461/live/appco/licoveO1/3451.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC 4 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3450.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC Action
-http://gmcllc.de:25461/live/appco/licoveO1/3449.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC MASR
-http://gmcllc.de:25461/live/appco/licoveO1/3322.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC MAX
-http://gmcllc.de:25461/live/appco/licoveO1/3393.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC Pro Sports 1HD
-http://gmcllc.de:25461/live/appco/licoveO1/3323.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC Pro Sports 2HD
-http://gmcllc.de:25461/live/appco/licoveO1/3324.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC Pro Sports 3HD
-http://gmcllc.de:25461/live/appco/licoveO1/3325.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC1
-http://gmcllc.de:25461/live/appco/licoveO1/3326.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MOGA-comedy
-http://gmcllc.de:25461/live/appco/licoveO1/3327.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,NBN Lebanon
-http://gmcllc.de:25461/live/appco/licoveO1/3328.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,NILE CINEMA
-http://gmcllc.de:25461/live/appco/licoveO1/3329.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN  SKY NEWS
-http://gmcllc.de:25461/live/appco/licoveO1/3330.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Action
-http://gmcllc.de:25461/live/appco/licoveO1/3331.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Action 2
-http://gmcllc.de:25461/live/appco/licoveO1/3332.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Al Safwa
-http://gmcllc.de:25461/live/appco/licoveO1/3333.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN AL Yawm
-http://gmcllc.de:25461/live/appco/licoveO1/3334.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Al Youm
-http://gmcllc.de:25461/live/appco/licoveO1/3335.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN AL Youm HD
-http://gmcllc.de:25461/live/appco/licoveO1/3336.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Alkass Sport 1
-http://gmcllc.de:25461/live/appco/licoveO1/3337.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Alkass Sport 2
-http://gmcllc.de:25461/live/appco/licoveO1/3338.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Alkass Sport 3
-http://gmcllc.de:25461/live/appco/licoveO1/3339.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Alkass Sport 4
-http://gmcllc.de:25461/live/appco/licoveO1/3340.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Alkass Sport 5
-http://gmcllc.de:25461/live/appco/licoveO1/3341.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Animal Planet
-http://gmcllc.de:25461/live/appco/licoveO1/3342.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Art Aflam 2
-http://gmcllc.de:25461/live/appco/licoveO1/3343.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Art Hekayat 1
-http://gmcllc.de:25461/live/appco/licoveO1/3344.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN B4U Aflam
-http://gmcllc.de:25461/live/appco/licoveO1/3345.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN B4U Plus
-http://gmcllc.de:25461/live/appco/licoveO1/3346.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN BBC FIRST HD
-http://gmcllc.de:25461/live/appco/licoveO1/3347.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Box Office 1
-http://gmcllc.de:25461/live/appco/licoveO1/3348.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN BOXOFFICE 2
-http://gmcllc.de:25461/live/appco/licoveO1/3349.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Cinema 1
-http://gmcllc.de:25461/live/appco/licoveO1/3350.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN CNBC ARABIA
-http://gmcllc.de:25461/live/appco/licoveO1/3351.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN CRICKET HD
-http://gmcllc.de:25461/live/appco/licoveO1/3352.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN CRICKET HD**
-http://gmcllc.de:25461/live/appco/licoveO1/3415.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN DISCOVERY FAMILY HD
-http://gmcllc.de:25461/live/appco/licoveO1/3353.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Discovery I.D
-http://gmcllc.de:25461/live/appco/licoveO1/3354.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Discovery Science
-http://gmcllc.de:25461/live/appco/licoveO1/3359.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Disney Channel HD
-http://gmcllc.de:25461/live/appco/licoveO1/3360.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN E!
-http://gmcllc.de:25461/live/appco/licoveO1/3361.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Fann
-http://gmcllc.de:25461/live/appco/licoveO1/3362.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Fatafeat
-http://gmcllc.de:25461/live/appco/licoveO1/3363.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Fine Living HD
-http://gmcllc.de:25461/live/appco/licoveO1/3364.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN First
-http://gmcllc.de:25461/live/appco/licoveO1/3266.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN First Comedy
-http://gmcllc.de:25461/live/appco/licoveO1/3366.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN First HBO
-http://gmcllc.de:25461/live/appco/licoveO1/3367.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Fox News HD
-http://gmcllc.de:25461/live/appco/licoveO1/3369.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN France 24
-http://gmcllc.de:25461/live/appco/licoveO1/3370.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN MBC Drama
-http://gmcllc.de:25461/live/appco/licoveO1/3371.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN MBC Plus Drama
-http://gmcllc.de:25461/live/appco/licoveO1/3372.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Mousalsalat
-http://gmcllc.de:25461/live/appco/licoveO1/3373.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Movies 2 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3374.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Movies Action  2 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3375.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Movies Festival
-http://gmcllc.de:25461/live/appco/licoveO1/3376.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Movies HD
-http://gmcllc.de:25461/live/appco/licoveO1/3392.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Movies Kids
-http://gmcllc.de:25461/live/appco/licoveO1/3377.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Movies Premiere 2
-http://gmcllc.de:25461/live/appco/licoveO1/3291.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Movies Premiere 2HD
-http://gmcllc.de:25461/live/appco/licoveO1/3379.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN MTV LIVE HD
-http://gmcllc.de:25461/live/appco/licoveO1/3380.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Nat Geo HD
-http://gmcllc.de:25461/live/appco/licoveO1/3381.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Nat Geo People HD
-http://gmcllc.de:25461/live/appco/licoveO1/3382.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Nat Geo Wild
-http://gmcllc.de:25461/live/appco/licoveO1/3383.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN NEWS
-http://gmcllc.de:25461/live/appco/licoveO1/3384.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Nickelodeon HD
-http://gmcllc.de:25461/live/appco/licoveO1/3385.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN ON DEMAND 1 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3386.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN ON DEMAND 2 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3387.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN ON DEMAND 3 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3388.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN On Demand Extra 1
-http://gmcllc.de:25461/live/appco/licoveO1/3389.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN ON DEMAND EXTRA 3 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3390.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN OSN SPORT FIGHTNETWORK
-http://gmcllc.de:25461/live/appco/licoveO1/3394.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN OSN Yahala Drama HD
-http://gmcllc.de:25461/live/appco/licoveO1/3397.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN StMovies HD
-http://gmcllc.de:25461/live/appco/licoveO1/3398.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN StWorld HD
-http://gmcllc.de:25461/live/appco/licoveO1/3399.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN SyFy HD
-http://gmcllc.de:25461/live/appco/licoveO1/3395.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN TLC HD
-http://gmcllc.de:25461/live/appco/licoveO1/3396.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN TRACE URBAN
-http://gmcllc.de:25461/live/appco/licoveO1/3400.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Travel Channel HD
-http://gmcllc.de:25461/live/appco/licoveO1/3401.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN WWE
-http://gmcllc.de:25461/live/appco/licoveO1/3402.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Yahala Cinema
-http://gmcllc.de:25461/live/appco/licoveO1/3403.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,qurantv
-http://gmcllc.de:25461/live/appco/licoveO1/3404.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Rotana clip
-http://gmcllc.de:25461/live/appco/licoveO1/3405.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,ROTANA KHALIJIAH
-http://gmcllc.de:25461/live/appco/licoveO1/3406.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Rotana Masria
-http://gmcllc.de:25461/live/appco/licoveO1/3407.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Samira_Tv
-http://gmcllc.de:25461/live/appco/licoveO1/3408.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,saudi cultural tv
-http://gmcllc.de:25461/live/appco/licoveO1/3409.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,saudi1 tv
-http://gmcllc.de:25461/live/appco/licoveO1/3410.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,saudi2 tv
-http://gmcllc.de:25461/live/appco/licoveO1/3411.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,SeeVii Beelink HD
-http://gmcllc.de:25461/live/appco/licoveO1/3357.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,SeeVii Drama HD
-http://gmcllc.de:25461/live/appco/licoveO1/3368.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,SeeVii Shamiya HD
-http://gmcllc.de:25461/live/appco/licoveO1/3378.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,sunnatv
-http://gmcllc.de:25461/live/appco/licoveO1/3414.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,TAMAZIGHT MAROC
-http://gmcllc.de:25461/live/appco/licoveO1/3416.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,TUNISIA 1
-http://gmcllc.de:25461/live/appco/licoveO1/3417.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,ZEE AFLAM
-http://gmcllc.de:25461/live/appco/licoveO1/3418.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Zee Alwan
-http://gmcllc.de:25461/live/appco/licoveO1/3420.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPorts
-http://gmcllc.de:25461/live/appco/licoveO1/3421.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN Sports 1 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3422.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN Sports 10 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3423.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN Sports 11 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3424.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN Sports 12 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3425.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN Sports 13 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3426.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN Sports 14 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3427.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Bein Sports 15 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3428.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Bein Sports 16 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3429.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Bein Sports 17 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3430.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN Sports 2 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3431.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN Sports 3 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3432.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN Sports 4 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3433.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN Sports 5 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3434.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN Sports 6 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3435.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN Sports 7 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3436.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN Sports 8 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3437.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN Sports 9 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3438.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,VIP: Bein Sport 1 HD (Backup)
-http://gmcllc.de:25461/live/appco/licoveO1/3948.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,VIP: Bein Sport 10 HD (Backup)
-http://gmcllc.de:25461/live/appco/licoveO1/3947.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,VIP: Bein Sport 11 HD (Backup)
-http://gmcllc.de:25461/live/appco/licoveO1/3946.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,VIP: Bein Sport 12 HD (Backup)
-http://gmcllc.de:25461/live/appco/licoveO1/3945.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,VIP: Bein Sport 2 HD (Backup)
-http://gmcllc.de:25461/live/appco/licoveO1/3944.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,VIP: Bein Sport 3 HD (Backup)
-http://gmcllc.de:25461/live/appco/licoveO1/3943.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,VIP: Bein Sport 4 HD (Backup)
-http://gmcllc.de:25461/live/appco/licoveO1/3942.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,VIP: Bein Sport 5 HD (Backup)
-http://gmcllc.de:25461/live/appco/licoveO1/3941.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,VIP: Bein Sport 6 HD (Backup)
-http://gmcllc.de:25461/live/appco/licoveO1/3940.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,VIP: Bein Sport 7 HD (Backup)
-http://gmcllc.de:25461/live/appco/licoveO1/3939.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,VIP: Bein Sport 8 HD (Backup)
-http://gmcllc.de:25461/live/appco/licoveO1/3938.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,VIP: Bein Sport 9 HD (Backup)
-http://gmcllc.de:25461/live/appco/licoveO1/3937.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1, ZITOUNA HEDAYA
-http://gmcllc.de:25461/live/appco/licoveO1/66.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,2m Maroc
-http://gmcllc.de:25461/live/appco/licoveO1/3439.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AD Sports 3 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3440.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AD Sports 4 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3441.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AD Sports 5 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3442.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AD Sports 6 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3443.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Aden tv
-http://gmcllc.de:25461/live/appco/licoveO1/3308.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AFAK
-http://gmcllc.de:25461/live/appco/licoveO1/3358.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Aghanina
-http://gmcllc.de:25461/live/appco/licoveO1/3317.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al Adjwaa
-http://gmcllc.de:25461/live/appco/licoveO1/38.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AL ANBAR
-http://gmcllc.de:25461/live/appco/licoveO1/3365.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al AnbTV
-http://gmcllc.de:25461/live/appco/licoveO1/3313.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al Anis
-http://gmcllc.de:25461/live/appco/licoveO1/37.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al Aoula
-http://gmcllc.de:25461/live/appco/licoveO1/3311.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al Aqsa
-http://gmcllc.de:25461/live/appco/licoveO1/3299.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al Arabiya
-http://gmcllc.de:25461/live/appco/licoveO1/3312.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AL BASRA TV
-http://gmcllc.de:25461/live/appco/licoveO1/3419.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AL DIYAR
-http://gmcllc.de:25461/live/appco/licoveO1/3446.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AL FAJR TV
-http://gmcllc.de:25461/live/appco/licoveO1/36.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al Falastiniah
-http://gmcllc.de:25461/live/appco/licoveO1/3305.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AL FORATR
-http://gmcllc.de:25461/live/appco/licoveO1/3445.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al Ghad Almushreq
-http://gmcllc.de:25461/live/appco/licoveO1/93.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al Ghadeer
-http://gmcllc.de:25461/live/appco/licoveO1/3301.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AL Hadath
-http://gmcllc.de:25461/live/appco/licoveO1/3413.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AL IMAN TV
-http://gmcllc.de:25461/live/appco/licoveO1/3356.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al Iraqia News
-http://gmcllc.de:25461/live/appco/licoveO1/24.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AL JADEED
-http://gmcllc.de:25461/live/appco/licoveO1/3391.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al Jazeera English
-http://gmcllc.de:25461/live/appco/licoveO1/3296.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al Jazeera Mubasher
-http://gmcllc.de:25461/live/appco/licoveO1/3462.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al KhabarTV
-http://gmcllc.de:25461/live/appco/licoveO1/70.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AL KOFIYA
-http://gmcllc.de:25461/live/appco/licoveO1/3355.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al Kout
-http://gmcllc.de:25461/live/appco/licoveO1/252.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al Magharibia Two
-http://gmcllc.de:25461/live/appco/licoveO1/3320.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al Magharibia1
-http://gmcllc.de:25461/live/appco/licoveO1/3319.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AL MASIRAH
-http://gmcllc.de:25461/live/appco/licoveO1/3292.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AL MAYADEEN TV
-http://gmcllc.de:25461/live/appco/licoveO1/3315.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AL Nada
-http://gmcllc.de:25461/live/appco/licoveO1/35.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al Nas
-http://gmcllc.de:25461/live/appco/licoveO1/34.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AL NOUJABA
-http://gmcllc.de:25461/live/appco/licoveO1/3316.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al Ons
-http://gmcllc.de:25461/live/appco/licoveO1/33.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al Quds
-http://gmcllc.de:25461/live/appco/licoveO1/3101.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AL RAFIDEN
-http://gmcllc.de:25461/live/appco/licoveO1/3300.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AL RASHEED
-http://gmcllc.de:25461/live/appco/licoveO1/3298.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AL SHAHED TV
-http://gmcllc.de:25461/live/appco/licoveO1/251.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AL SHAREYYAH
-http://gmcllc.de:25461/live/appco/licoveO1/92.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al sharqiya
-http://gmcllc.de:25461/live/appco/licoveO1/3297.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al Sharqiya News
-http://gmcllc.de:25461/live/appco/licoveO1/3295.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al Shorooq
-http://gmcllc.de:25461/live/appco/licoveO1/330.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AL SIRAT
-http://gmcllc.de:25461/live/appco/licoveO1/3314.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AL SUMARIA TV
-http://gmcllc.de:25461/live/appco/licoveO1/3294.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Al-Oula
-http://gmcllc.de:25461/live/appco/licoveO1/3309.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Albasra TV
-http://gmcllc.de:25461/live/appco/licoveO1/3290.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,ALBILAD
-http://gmcllc.de:25461/live/appco/licoveO1/3318.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Almaghribia
-http://gmcllc.de:25461/live/appco/licoveO1/3283.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AlNahIraq
-http://gmcllc.de:25461/live/appco/licoveO1/3267.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Altaghier
-http://gmcllc.de:25461/live/appco/licoveO1/3285.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Arrabiaa
-http://gmcllc.de:25461/live/appco/licoveO1/3282.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Arriadia
-http://gmcllc.de:25461/live/appco/licoveO1/3281.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,ARRIYADIA
-http://gmcllc.de:25461/live/appco/licoveO1/3307.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,ART AFLAM 1
-http://gmcllc.de:25461/live/appco/licoveO1/3306.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,ART AFLAM 2
-http://gmcllc.de:25461/live/appco/licoveO1/3304.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,ART CINEMA
-http://gmcllc.de:25461/live/appco/licoveO1/3303.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,ART HEKAYAT 1
-http://gmcllc.de:25461/live/appco/licoveO1/3302.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,ART HEKAYAT 2
-http://gmcllc.de:25461/live/appco/licoveO1/3310.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,ASIA TV
-http://gmcllc.de:25461/live/appco/licoveO1/3293.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Assadissa
-http://gmcllc.de:25461/live/appco/licoveO1/3280.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Azhari
-http://gmcllc.de:25461/live/appco/licoveO1/32.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Bahia TV
-http://gmcllc.de:25461/live/appco/licoveO1/31.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,BARAEM Bein
-http://gmcllc.de:25461/live/appco/licoveO1/3287.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,BEIN MOVIES 3 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3277.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,BEIN MOVIES 4 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3276.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 1 HD (backup3)
-http://gmcllc.de:25461/live/appco/licoveO1/373.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 1 Low
-http://gmcllc.de:25461/live/appco/licoveO1/239.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 10 HD (backup3)
-http://gmcllc.de:25461/live/appco/licoveO1/372.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 10 Low
-http://gmcllc.de:25461/live/appco/licoveO1/238.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 11 HD (backup3)
-http://gmcllc.de:25461/live/appco/licoveO1/371.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 11 Low
-http://gmcllc.de:25461/live/appco/licoveO1/237.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 12 HD (backup3)
-http://gmcllc.de:25461/live/appco/licoveO1/370.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 12 Low
-http://gmcllc.de:25461/live/appco/licoveO1/236.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 13 HD (backup3)
-http://gmcllc.de:25461/live/appco/licoveO1/369.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 14 HD (backup3)
-http://gmcllc.de:25461/live/appco/licoveO1/368.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 15 HD (backup3)
-http://gmcllc.de:25461/live/appco/licoveO1/367.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 2 HD (backup3)
-http://gmcllc.de:25461/live/appco/licoveO1/366.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 2 Low
-http://gmcllc.de:25461/live/appco/licoveO1/235.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 3 HD (backup3)
-http://gmcllc.de:25461/live/appco/licoveO1/365.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 3 Low
-http://gmcllc.de:25461/live/appco/licoveO1/234.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 4 HD (backup3)
-http://gmcllc.de:25461/live/appco/licoveO1/364.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 4 Low
-http://gmcllc.de:25461/live/appco/licoveO1/233.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 5 HD (backup3)
-http://gmcllc.de:25461/live/appco/licoveO1/363.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 5 Low
-http://gmcllc.de:25461/live/appco/licoveO1/232.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 6 HD (backup3)
-http://gmcllc.de:25461/live/appco/licoveO1/362.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 6 Low
-http://gmcllc.de:25461/live/appco/licoveO1/231.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 7 HD (backup3)
-http://gmcllc.de:25461/live/appco/licoveO1/361.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 7 Low
-http://gmcllc.de:25461/live/appco/licoveO1/230.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 8 HD (backup3)
-http://gmcllc.de:25461/live/appco/licoveO1/360.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 8 Low
-http://gmcllc.de:25461/live/appco/licoveO1/229.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 9 HD (backup3)
-http://gmcllc.de:25461/live/appco/licoveO1/359.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,beIN SPORTS 9 Low
-http://gmcllc.de:25461/live/appco/licoveO1/228.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Beladi
-http://gmcllc.de:25461/live/appco/licoveO1/3269.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,BELQEES
-http://gmcllc.de:25461/live/appco/licoveO1/91.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,BEUR TV
-http://gmcllc.de:25461/live/appco/licoveO1/3286.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,BLUE NILE
-http://gmcllc.de:25461/live/appco/licoveO1/329.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Cartoon Network
-http://gmcllc.de:25461/live/appco/licoveO1/3288.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,CBC
-http://gmcllc.de:25461/live/appco/licoveO1/3275.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,CBC Drama
-http://gmcllc.de:25461/live/appco/licoveO1/3274.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,CBC Extra
-http://gmcllc.de:25461/live/appco/licoveO1/3273.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,CBC Sofra
-http://gmcllc.de:25461/live/appco/licoveO1/3272.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,DAMAA TV
-http://gmcllc.de:25461/live/appco/licoveO1/3289.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,dmc DRAMA HD
-http://gmcllc.de:25461/live/appco/licoveO1/3053.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,dmc HD
-http://gmcllc.de:25461/live/appco/licoveO1/3255.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,DMC Sports
-http://gmcllc.de:25461/live/appco/licoveO1/3279.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Dubai 1
-http://gmcllc.de:25461/live/appco/licoveO1/3271.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Dubai One
-http://gmcllc.de:25461/live/appco/licoveO1/3270.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Dubai Racing 2
-http://gmcllc.de:25461/live/appco/licoveO1/3268.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Dubai Sport 3
-http://gmcllc.de:25461/live/appco/licoveO1/3278.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Dubai Sports 1
-http://gmcllc.de:25461/live/appco/licoveO1/3102.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Dubai Sports 4
-http://gmcllc.de:25461/live/appco/licoveO1/3147.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Dubai TV
-http://gmcllc.de:25461/live/appco/licoveO1/3263.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,DUBAI ZAMAN
-http://gmcllc.de:25461/live/appco/licoveO1/3284.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,DzairNews
-http://gmcllc.de:25461/live/appco/licoveO1/30.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Echorouk Benna
-http://gmcllc.de:25461/live/appco/licoveO1/397.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Echorouk News
-http://gmcllc.de:25461/live/appco/licoveO1/396.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Echorouk TV
-http://gmcllc.de:25461/live/appco/licoveO1/3197.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,El Mouritania 2
-http://gmcllc.de:25461/live/appco/licoveO1/183.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,ENNAHTV
-http://gmcllc.de:25461/live/appco/licoveO1/3196.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,ENTV
-http://gmcllc.de:25461/live/appco/licoveO1/3222.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,ETTOUNSIA
-http://gmcllc.de:25461/live/appco/licoveO1/65.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,France 24 AR
-http://gmcllc.de:25461/live/appco/licoveO1/3146.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Free Syria
-http://gmcllc.de:25461/live/appco/licoveO1/3189.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,HALABA TV
-http://gmcllc.de:25461/live/appco/licoveO1/69.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,IRAQ FUTURE
-http://gmcllc.de:25461/live/appco/licoveO1/3265.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Karameesh
-http://gmcllc.de:25461/live/appco/licoveO1/730.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,KBC Algeria
-http://gmcllc.de:25461/live/appco/licoveO1/29.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Koogi
-http://gmcllc.de:25461/live/appco/licoveO1/75.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,LIBYA 218
-http://gmcllc.de:25461/live/appco/licoveO1/90.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Libya 24
-http://gmcllc.de:25461/live/appco/licoveO1/89.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Libya Al Ahrar
-http://gmcllc.de:25461/live/appco/licoveO1/88.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Libya Al Mossta9ella
-http://gmcllc.de:25461/live/appco/licoveO1/87.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,LIBYA AL WATNYAH
-http://gmcllc.de:25461/live/appco/licoveO1/86.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,LIBYA ALHRAR
-http://gmcllc.de:25461/live/appco/licoveO1/85.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Libya Almarah
-http://gmcllc.de:25461/live/appco/licoveO1/84.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,LIBYA ALRASMEYA
-http://gmcllc.de:25461/live/appco/licoveO1/83.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Libya LPC
-http://gmcllc.de:25461/live/appco/licoveO1/82.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Libya News
-http://gmcllc.de:25461/live/appco/licoveO1/81.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Libya One
-http://gmcllc.de:25461/live/appco/licoveO1/80.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,LIBYA RASMIA
-http://gmcllc.de:25461/live/appco/licoveO1/79.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Libya Rsmia
-http://gmcllc.de:25461/live/appco/licoveO1/78.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Libya TV
-http://gmcllc.de:25461/live/appco/licoveO1/77.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Maan
-http://gmcllc.de:25461/live/appco/licoveO1/3246.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Masr 2
-http://gmcllc.de:25461/live/appco/licoveO1/809.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC 1 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3145.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC 1 HD backup
-http://gmcllc.de:25461/live/appco/licoveO1/227.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC 2 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3144.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC 3 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3143.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC 4 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3142.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC ACTION
-http://gmcllc.de:25461/live/appco/licoveO1/3141.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC Action HD
-http://gmcllc.de:25461/live/appco/licoveO1/3140.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC BOLLYWOOD
-http://gmcllc.de:25461/live/appco/licoveO1/3164.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC Drama HD
-http://gmcllc.de:25461/live/appco/licoveO1/3139.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC Dramar
-http://gmcllc.de:25461/live/appco/licoveO1/3238.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC Masr
-http://gmcllc.de:25461/live/appco/licoveO1/3138.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC Max HD
-http://gmcllc.de:25461/live/appco/licoveO1/3137.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC Plus Drama HD(backup1)
-http://gmcllc.de:25461/live/appco/licoveO1/583.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC PRO SPORTS 4
-http://gmcllc.de:25461/live/appco/licoveO1/3136.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC Variety HD
-http://gmcllc.de:25461/live/appco/licoveO1/3135.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Medi 1 Sat
-http://gmcllc.de:25461/live/appco/licoveO1/3134.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MINHAJ TV
-http://gmcllc.de:25461/live/appco/licoveO1/3245.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MTV Lebanon
-http://gmcllc.de:25461/live/appco/licoveO1/3166.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Music Alarrab
-http://gmcllc.de:25461/live/appco/licoveO1/3244.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Music Alremas
-http://gmcllc.de:25461/live/appco/licoveO1/3243.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Nabdh Syria
-http://gmcllc.de:25461/live/appco/licoveO1/68.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,NationalGeo AD
-http://gmcllc.de:25461/live/appco/licoveO1/3133.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,NESSMA
-http://gmcllc.de:25461/live/appco/licoveO1/3132.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Nile Cinema
-http://gmcllc.de:25461/live/appco/licoveO1/3232.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,NILE COMEDY
-http://gmcllc.de:25461/live/appco/licoveO1/3231.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Nile Culture
-http://gmcllc.de:25461/live/appco/licoveO1/3230.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Nile Drama
-http://gmcllc.de:25461/live/appco/licoveO1/3229.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Nile Life
-http://gmcllc.de:25461/live/appco/licoveO1/3228.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,NILE NEWS
-http://gmcllc.de:25461/live/appco/licoveO1/3227.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Nile Sport
-http://gmcllc.de:25461/live/appco/licoveO1/3226.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Nile tv
-http://gmcllc.de:25461/live/appco/licoveO1/3225.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,NileFamily
-http://gmcllc.de:25461/live/appco/licoveO1/3224.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Noursat
-http://gmcllc.de:25461/live/appco/licoveO1/3187.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,NRT 2
-http://gmcllc.de:25461/live/appco/licoveO1/811.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Numidia News TV
-http://gmcllc.de:25461/live/appco/licoveO1/3195.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Omdurman
-http://gmcllc.de:25461/live/appco/licoveO1/64.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,ON Sport HD
-http://gmcllc.de:25461/live/appco/licoveO1/3253.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN  Ya Hala! SHABAB HD
-http://gmcllc.de:25461/live/appco/licoveO1/3131.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Disney Junior
-http://gmcllc.de:25461/live/appco/licoveO1/3130.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN ITV Choice
-http://gmcllc.de:25461/live/appco/licoveO1/3129.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN MOVIE COMEDY HD
-http://gmcllc.de:25461/live/appco/licoveO1/3128.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN MOVIES ACTION HD
-http://gmcllc.de:25461/live/appco/licoveO1/3127.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Movies Drama
-http://gmcllc.de:25461/live/appco/licoveO1/3126.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN MOVIES PREMIERE HD
-http://gmcllc.de:25461/live/appco/licoveO1/3125.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Outdoor
-http://gmcllc.de:25461/live/appco/licoveO1/3124.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Sports 1 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3123.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Sports 2 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3122.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Sports 3 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3121.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN Sports 4 HD
-http://gmcllc.de:25461/live/appco/licoveO1/3120.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,OSN YAHALA HD
-http://gmcllc.de:25461/live/appco/licoveO1/3119.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Otv Tv Lebanon
-http://gmcllc.de:25461/live/appco/licoveO1/3118.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Palestine TV
-http://gmcllc.de:25461/live/appco/licoveO1/3242.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Rotana Aflam HD
-http://gmcllc.de:25461/live/appco/licoveO1/3247.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Rotana Cinema
-http://gmcllc.de:25461/live/appco/licoveO1/3103.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Rotana Cinema HD
-http://gmcllc.de:25461/live/appco/licoveO1/3248.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Rotana Classic HD
-http://gmcllc.de:25461/live/appco/licoveO1/3249.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Rotana Khalijiah HD
-http://gmcllc.de:25461/live/appco/licoveO1/3250.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Rotana Masriah HD
-http://gmcllc.de:25461/live/appco/licoveO1/3251.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Rotana Music HD
-http://gmcllc.de:25461/live/appco/licoveO1/3252.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Sada El Balad 2
-http://gmcllc.de:25461/live/appco/licoveO1/250.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Sada El Balad HD
-http://gmcllc.de:25461/live/appco/licoveO1/249.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Sada Elbalad Drama  2
-http://gmcllc.de:25461/live/appco/licoveO1/248.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Sama TV
-http://gmcllc.de:25461/live/appco/licoveO1/3205.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Sama Yemen
-http://gmcllc.de:25461/live/appco/licoveO1/3204.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,SamaDubai
-http://gmcllc.de:25461/live/appco/licoveO1/3203.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,SAMARRA TV
-http://gmcllc.de:25461/live/appco/licoveO1/3202.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,SANAA TV
-http://gmcllc.de:25461/live/appco/licoveO1/3241.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,SeeVii Al Aoula HD
-http://gmcllc.de:25461/live/appco/licoveO1/3262.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Semsem
-http://gmcllc.de:25461/live/appco/licoveO1/3117.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,SHAM FM
-http://gmcllc.de:25461/live/appco/licoveO1/67.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Sharjah Sport
-http://gmcllc.de:25461/live/appco/licoveO1/63.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,SHARJAH TV
-http://gmcllc.de:25461/live/appco/licoveO1/62.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Sky News Arabic
-http://gmcllc.de:25461/live/appco/licoveO1/3116.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,SLNTV
-http://gmcllc.de:25461/live/appco/licoveO1/3264.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Space Toon
-http://gmcllc.de:25461/live/appco/licoveO1/729.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Sudania24
-http://gmcllc.de:25461/live/appco/licoveO1/61.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,SUHAIL TV
-http://gmcllc.de:25461/live/appco/licoveO1/3258.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,SYRIA DRAMA
-http://gmcllc.de:25461/live/appco/licoveO1/3201.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Syria Medical TV
-http://gmcllc.de:25461/live/appco/licoveO1/3200.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Syria News
-http://gmcllc.de:25461/live/appco/licoveO1/3115.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,SYRIA SATELLITETV
-http://gmcllc.de:25461/live/appco/licoveO1/3199.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,SYRIAN EDUCATION
-http://gmcllc.de:25461/live/appco/licoveO1/3198.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,TAHA
-http://gmcllc.de:25461/live/appco/licoveO1/3165.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Tamazight
-http://gmcllc.de:25461/live/appco/licoveO1/3114.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Tarteel
-http://gmcllc.de:25461/live/appco/licoveO1/3617.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Tele liban TV
-http://gmcllc.de:25461/live/appco/licoveO1/852.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,TNN Tunisia
-http://gmcllc.de:25461/live/appco/licoveO1/3194.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,TOYOR AL JANAH
-http://gmcllc.de:25461/live/appco/licoveO1/3113.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Toyor Baby
-http://gmcllc.de:25461/live/appco/licoveO1/3261.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,TOYOR Iraq
-http://gmcllc.de:25461/live/appco/licoveO1/3188.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,TRT Arabic
-http://gmcllc.de:25461/live/appco/licoveO1/3112.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,TUNISIA NAT 2
-http://gmcllc.de:25461/live/appco/licoveO1/3260.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Yemen Shabab
-http://gmcllc.de:25461/live/appco/licoveO1/3257.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,YEMEN TODAY TV
-http://gmcllc.de:25461/live/appco/licoveO1/3256.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,AlJazerra
-http://gmcllc.de:25461/live/appco/licoveO1/3111.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Almajd_Kids
-http://gmcllc.de:25461/live/appco/licoveO1/3110.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,B4U-AFLAM
-http://gmcllc.de:25461/live/appco/licoveO1/3109.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Future TV
-http://gmcllc.de:25461/live/appco/licoveO1/3108.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC DRAMA
-http://gmcllc.de:25461/live/appco/licoveO1/3107.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,MBC2
-http://gmcllc.de:25461/live/appco/licoveO1/3106.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Panorama-Comedy
-http://gmcllc.de:25461/live/appco/licoveO1/3105.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,Panorama-Film
-http://gmcllc.de:25461/live/appco/licoveO1/3104.ts|user-agent=EMVideoView 3.0.5 (30500) 
-#EXTINF:-1,TOYOR ALJANNAH
-http://gmcllc.de:25461/live/appco/licoveO1/3254.ts|user-agent=EMVideoView 3.0.5 (30500) 
+ 
 
 
 
@@ -12848,259 +11871,259 @@ http://.....
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======BEIN SPORTS=======
 http://......
 #EXTINF:-1 tvg-name="BeINSPORTS News" ,BeINSPORTS News
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1496.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1496.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS Global" ,BeINSPORTS Global
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1495.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1495.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 1HD" ,BeINSPORTS 1HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1494.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1494.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 2HD" ,BeINSPORTS 2HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1493.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1493.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 3HD" ,BeINSPORTS 3HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1492.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1492.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 4HD" ,BeINSPORTS 4HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1491.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1491.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 5HD" ,BeINSPORTS 5HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1490.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1490.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 6HD" ,BeINSPORTS 6HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1489.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1489.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 7HD" ,BeINSPORTS 7HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1488.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1488.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 8HD" ,BeINSPORTS 8HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1487.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1487.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 9HD" ,BeINSPORTS 9HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1486.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1486.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 10HD" ,BeINSPORTS 10HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1485.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1485.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeINSPORTS 11HD" ,BeINSPORTS 11HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1484.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1484.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="beINSPORTS 12HD" ,beINSPORTS 12HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1483.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1483.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======BEIN Movies=======
 http://......
 #EXTINF:-1 tvg-name="BeIN Movies 1HD" ,BeIN Movies 1HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1473.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1473.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Movies 2HD" ,BeIN Movies 2HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1474.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1474.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Movies 3HD" ,BeIN Movies 3HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1475.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1475.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Movies 4HD" ,BeIN Movies 4HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1476.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1476.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Discovery HD" ,BeIN Discovery HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1478.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1478.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN GROUMMET" ,BeIN GROUMMET
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1477.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1477.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Jeem_HD" ,BeIN Jeem_HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1482.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1482.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Baraim_HD" ,BeIN Baraim_HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1480.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1480.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN Fatafeat" ,BeIN Fatafeat
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1479.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1479.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BeIN JUNIOR" ,BeIN JUNIOR
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1481.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1481.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======AD Sports=======
 http://......
 #EXTINF:-1 tvg-name="AD Sports 1HD" ,AD Sports 1HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1467.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1467.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 2HD" ,AD Sports 2HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1468.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1468.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 3HD" ,AD Sports 3HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1469.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1469.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 4HD" ,AD Sports 4HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1470.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1470.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 5HD" ,AD Sports 5HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1471.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1471.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="AD Sports 6HD" ,AD Sports 6HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1472.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1472.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======Maroc=======
 http://......
 #EXTINF:-1 tvg-name="Al-Aoula-Inter" ,Al-Aoula-Inter
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1382.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1382.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="2M-Monde" ,2M-Monde
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1383.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1383.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Medi-1-TV" ,Medi-1-TV
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1381.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1381.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al-Maghribia" ,Al-Maghribia
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1384.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1384.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Tele-Maroc" ,Tele-Maroc
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1380.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1380.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Tamazight" ,Tamazight
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1385.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1385.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Arriadia" ,Arriadia
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1388.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1388.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="SUD24-TV" ,SUD24-TV
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1389.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1389.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Assadisa" ,Assadisa
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1387.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1387.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Arrabia" ,Arrabia
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1386.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1386.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======Algeria=======
 http://......
 #EXTINF:-1 tvg-name="Samira-Tv" ,Samira-Tv
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1379.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1379.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Programme.National" ,Programme.National
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1360.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1360.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Canal-Algerie" ,Canal-Algerie
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1361.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1361.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Algeria 3" ,Algeria 3
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1362.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1362.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Algeria 5" ,Algeria 5
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1363.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1363.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Echorouk TV" ,Echorouk TV
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1358.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1358.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Echorouk news" ,Echorouk news
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1357.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1357.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Echorouk Benna" ,Echorouk Benna
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1359.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1359.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Kbc Algeria" ,Kbc Algeria
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1369.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1369.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Eljazairia-TV" ,Eljazairia-TV
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1372.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1372.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="EnnahLaki" ,EnnahLaki
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1365.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1365.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="EnnahTV" ,EnnahTV
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1364.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1364.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Elhaddaf-TV" ,Elhaddaf-TV
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1371.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1371.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Elbilad" ,Elbilad
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1370.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1370.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Dzair TV" ,Dzair TV
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1368.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1368.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Dzai News" ,Dzai News
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1367.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1367.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Magharibia-1" ,Al Magharibia-1
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1373.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1373.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Magharibia-2" ,Al Magharibia-2
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1374.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1374.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Berbere-TV" ,Berbere-TV
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1376.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1376.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Berbere-Music" ,Berbere-Music
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1377.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1377.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Berbere-Jeuness" ,Berbere-Jeuness
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1378.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1378.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Beur-TV" ,Beur-TV
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1375.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1375.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BAHIA TV" ,BAHIA TV
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1366.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1366.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======Tunesia=======
 http://......
 #EXTINF:-1 tvg-name="Tonesna" ,Tonesna
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1349.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1349.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Tunesia 1" ,Tunesia 1
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1347.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1347.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Tunesia 2" ,Tunesia 2
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1348.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1348.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Nessma" ,Nessma
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1352.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1352.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Hannibal" ,Hannibal
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1351.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1351.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Telvaza" ,Telvaza
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1355.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1355.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Zitouna" ,Zitouna
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1353.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1353.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="El-HiwEttounsi" ,El-HiwEttounsi
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1350.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1350.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Attasiaa" ,Attasiaa
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1354.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1354.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al-Janoubia" ,Al-Janoubia
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1356.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1356.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======KIDS=======
 http://......
 #EXTINF:-1 tvg-name="Alrahma" ,Alrahma
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1343.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1343.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Alnas" ,Alnas
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1344.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1344.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Majd Quran" ,Al Majd Quran
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1340.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1340.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Majd Hadith" ,Al Majd Hadith
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1341.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1341.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Majd" ,Al Majd
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1342.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1342.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Alresalah" ,Alresalah
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1346.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1346.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="IQRAA" ,IQRAA
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1345.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1345.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=============
 http://......
 #EXTINF:-1 tvg-name="CN Arabia" ,CN Arabia
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1335.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1335.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Baraeem" ,Baraeem
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1337.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1337.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Toyour ElJannah" ,Toyour ElJannah
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1338.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1338.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Toyour Baby" ,Toyour Baby
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1339.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1339.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Space Toon" ,Space Toon
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1336.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1336.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Aljazeera" ,Aljazeera
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1324.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1324.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Alarabiyia" ,Alarabiyia
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1325.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1325.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Alhadath" ,Alhadath
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1326.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1326.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Al Ekhbariya" ,Al Ekhbariya
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1328.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1328.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="BBC" ,BBC
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1331.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1331.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Skynews" ,Skynews
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1327.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1327.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Quest-Arabia" ,Quest-Arabia
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1334.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1334.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="National Geo-Abudhabi" ,National Geo-Abudhabi
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1333.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1333.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Aljazeera Doc" ,Aljazeera Doc
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1332.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1332.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======Art=======
 http://......
 #EXTINF:-1 tvg-name="Aflam 1" ,Aflam 1
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1319.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1319.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Aflam 2" ,Aflam 2
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1320.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1320.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Hekayat 1" ,Hekayat 1
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1321.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1321.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Hekayat 2" ,Hekayat 2
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1322.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1322.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="Cinema" ,Cinema
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1323.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1323.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,======MBC=======
 http://......
 #EXTINF:-1 tvg-name="MBC 1" ,MBC 1
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1278.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1278.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC 2" ,MBC 2
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1279.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1279.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC 3" ,MBC 3
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1280.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1280.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC 4" ,MBC 4
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1281.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1281.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC MAX" ,MBC MAX
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1283.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1283.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC ACTION" ,MBC ACTION
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1282.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1282.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC DRAMA" ,MBC DRAMA
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1286.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1286.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC DRAMA HD" ,MBC DRAMA HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1287.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1287.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC BOLLYWOOD" ,MBC BOLLYWOOD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1289.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1289.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC MASR 1" ,MBC MASR 1
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1284.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1284.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC MASR 2" ,MBC MASR 2
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1285.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1285.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC B4U AFLAM" ,MBC B4U AFLAM
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1292.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1292.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC ZEE Alwan" ,MBC ZEE Alwan
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1290.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1290.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC ZEE Aflam" ,MBC ZEE Aflam
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1291.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1291.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC VARIETY HD" ,MBC VARIETY HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1288.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1288.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC SPORT 4HD" ,MBC SPORT 4HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1296.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1296.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC SPORT 3HD" ,MBC SPORT 3HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1295.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1295.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC SPORT 2HD" ,MBC SPORT 2HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1294.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1294.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-name="MBC SPORT 1HD" ,MBC SPORT 1HD
-http://rmd.primatv.club:8899/live/TroyTV/45RTGFF11/1293.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/bEONeTv2/oJBENBeAYf/1293.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 
 
@@ -14207,347 +13230,52 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,My planet 
-http://79.133.121.124:34040/udp/239.191.254.2:13343 
-#EXTINF:-1,CH_50168-TV 
-http://79.133.121.124:34040/udp/239.191.254.3:13343 
-#EXTINF:-1,Multimania 
-http://79.133.121.124:34040/udp/239.191.254.4:13343 
-#EXTINF:-1,TPO 
-http://79.133.121.124:34040/udp/239.191.254.5:13343 
-#EXTINF:-1,Russian Extreme Submit  
-http://79.133.121.124:34040/udp/239.191.254.6:13343 
-#EXTINF:-1,24Doc 
-http://79.133.121.124:34040/udp/239.191.254.7:13343 
-#EXTINF:-1,TV1000 
-http://79.133.121.124:34040/udp/239.191.254.8:13343 
-#EXTINF:-1,Viasat Explore 
-http://79.133.121.124:34040/udp/239.191.254.9:13343 
-#EXTINF:-1,Viasat History
-http://79.133.121.124:34040/udp/239.191.254.10:13343 
-#EXTINF:-1,Viasat Sport Add yourself  
-http://79.133.121.124:34040/udp/239.191.254.11:13343 
-#EXTINF:-1,TV1000 Russian Movies 
-http://79.133.121.124:34040/udp/239.191.254.12:13343 
-#EXTINF:-1,The rain 
-http://79.133.121.124:34040/udp/239.191.254.14:13343 
-#EXTINF:-1,the Cartoon the Network 
-http://79.133.121.124:34040/udp/239.191.254.15:13343 
-#EXTINF:-1,TB6 
-http://79.133.121.124:34040/udp/239.191.254.16:13343 
-#EXTINF:-1,Techno 24 
-http://79.133.121.124:34040/udp/239.191.254.17:13343 
-#EXTINF:-1,Children's
-http://79.133.121.124:34040/udp/239.191.254.18:13343 
-#EXTINF:-1,Science 2.0 We do 
-http://79.133.121.124:34040/udp/239.191.254.19:13343 
-#EXTINF:-1,FOOTBALL 
-http://79.133.121.124:34040/udp/239.191.254.20:13343 
-#EXTINF:-1,Shop 24 
-http://79.133.121.124:34040/udp/239.191.254.21:13343 
-#EXTINF:-1,TV3 
-http://79.133.121.124:34040/udp/239.191.254.22:13343 
-#EXTINF:-1,Home (+7) 
-http://79.133.121.124:34040/udp/239.191.254.23:13343 
-#EXTINF:-1,Star 
-http://79.133.121.124:34040/udp/239.191.254.24:13343 
-#EXTINF:-1,TV1000 Action 
-http://79.133.121.124:34040/udp/239.191.254.25:13343
-#EXTINF:-1,Movie TV Add to your  
-http://79.133.121.124:34040/udp/239.191.254.26:13343 
-#EXTINF:-1,TVC 
-http://79.133.121.124:34040/udp/239.191.254.27:13343 
-#EXTINF:-1,TNB Planet 
-http://79.133.121.124:34040/udp/239.191.254.28:13343 
-#EXTINF:-1,CTC 
-http://79.133.121.124:34040/udp/239.191.254.29:13343 
-#EXTINF:-1,Amedia 
-http://79.133.121.124:34040/udp/239.191.254.30:13343 
-#EXTINF:-1,CTC Love 
-http://79.133.121.124:34040/udp/239.191.254.31:13343 
-#EXTINF:-1,Animal Planet 
-http://79.133.121.124:34040/udp/239.191.254.32:13343 
-#EXTINF: -1, National Geographic 
-http://79.133.121.124:34040/udp/239.191.254.33:13343 
-#EXTINF:-1,the Discovery Channel 
-http://79.133.121.124:34040/udp/239.191.254.34:13343 
-#EXTINF:-1,the DTX 
-http://79.133.121.124:34040/udp/239.191.254.35:13343 
-#EXTINF:-1,the Discovery Science adds  
-http://79.133.121.124:34040/udp/239.191.254.36:13343 
-#EXTINF:-1,STS 
-http://79.133.121.124:34040/udp/239.191.254.37:13343 
-#EXTINF:-1,Extreme Sports 
-http://79.133.121.124:34040/udp/239.191.254.39:13343 
-#EXTINF:-1,Country Life 
-http://79.133.121.124:34040/udp/239.191.254.40:13343
-#EXTINF:-1,Amedia 2 
-http://79.133.121.124:34040/udp/239.191.254.41:13343 
-#EXTINF:-1,TB6 
-http://79.133.121.124:34040/udp/239.191.254.42:13343 
-#EXTINF:-1,Zee TV 
-http://79.133.121.124:34040/udp/239.191.254.43:13343 
-#EXTINF:-1,KHL TV 
-http://79.133.121.124:34040/udp/239.191.254.44:13343 
-#EXTINF:-1,Male 
-http://79.133.121.124:34040/udp/239.191.254.45:13343 
-#EXTINF:-1,1 Eurosport 
-http://79.133.121.124:34040/udp/239.191.254.46:13343 
-#EXTINF:-1,Eurosport 2 
-http://79.133.121.124:34040/udp/239.191.254.47:13343 
-#EXTINF:-1,SET
-http://79.133.121.124:34040/udp/239.191.254.48:13343 
-#EXTINF:-1,World 
-http://79.133.121.124:34040/udp/239.191.254.49:13343 
-#EXTINF:-1,Chanson TV 
-http://79.133.121.124:34040/udp/239.191.254.50:13343 
-#EXTINF:-1,TVXXI 
-http://79.133.121.124:34040/udp/239.191.254.51:13343 
-#EXTINF:-1,Чэ 
-http://79.133.121.124:34040/udp/239.191.254.52:13343 
-#EXTINF:-1,Children's World 
-http://79.133.121.124:34040/udp/239.191.254.53:13343 
-#EXTINF:-1,Sony Sci-Fi 
-http://79.133.121.124:34040/udp/239.191.254.55:13343
-#EXTINF:-1,Russian comedy 
-http://79.133.121.124:34040/udp/239.191.254.56:13343 
-#EXTINF:-1,the MTV Hits 
-http://79.133.121.124:34040/udp/239.191.254.57:13343 
-#EXTINF:-1,Telecafe 
-http://79.133.121.124:34040/udp/239.191.254.58:13343 
-#EXTINF:-1,Our Favorite Movie 
-http://79.133.121.124:34040/udp/239.191.254.60:13343 
-#EXTINF:-1,OTR 
-http://79.133.121.124:34040/udp/239.191.254.61:13343 
-#EXTINF:-1,Nickelodeon 
-http://79.133.121.124:34040/udp/239.191.254.62:13343 
-#EXTINF:-1,Russian The illusion 
-http://79.133.121.124:34040/udp/239.191.254.63:13343 
-#EXTINF:-1,Illusion +
-http://79.133.121.124:34040/udp/239.191.254.64:13343 
-#EXTINF:-1,Zoo 
-http://79.133.121.124:34040/udp/239.191.254.65:13343 
-#EXTINF:-1,TNT4 
-http://79.133.121.124:34040/udp/239.191.254.66:13343 
-#EXTINF:-1,NST 
-http://79.133.121.124:34040/udp/239.191.254.67:13343 
-#EXTINF:-1,EuroCinema 
-http://79.133.121.124:34040/udp/239.191.254.68:13343 
-#EXTINF:-1,Fashion TV 
-http://79.133.121.124:34040/udp/239.191.254.69:13343 
-#EXTINF:-1,Once TV 
-http://79.133.121.124:34040/udp/239.191.254.73:13343
+#EXTINF:-1,Kanal 12 HD 
+http://86.110.32.226:8001/play/a00e 
+#EXTINF:-1,AloTV 
+http://86.110.32.226:8001/play/a006 
+#EXTINF:-1,ETV2 
+http://86.110.32.226:8001/play/002 
+#EXTINF:-1,KANAL2 HD 
+http://86.110.32.226:8001/play/a002 
+#EXTINF:-1,Filmzone + HD 
+http://86.110.32.226:8001/play/a00c 
+#EXTINF:-1,Kidzone+ HD 
+http://86.110.32.226:8001/play/a005 
+#EXTINF:-1,iConcert 
+http://86.110.32.226:8001/play/a00m 
+#EXTINF:-1,FightSportHD 
+http://86.110.32.226:8001/play/a00k 
+#EXTINF:-1,ETV 
+http://86.110.32.226:8001/play/001 
+#EXTINF:-1,Setanta Sport HD 
+http://86.110.32.226:8001/play/a009 
 #EXTINF:-1,TLC 
-http://79.133.121.124:34040/udp/239.191.254.74:13343 
-#EXTINF:-1,Cartoon 
-http://79.133.121.124:34040/udp/239.191.254.75:13343 
-#EXTINF:-1,Belarus 24 
-http://79.133.121.124:34040/udp/239.191.254.76:13343 
-#EXTINF:-1,Game Show 
-http://79.133.121.124:34040/udp/239.191.254.77:13343 
-#EXTINF:-1,Viasat Nature 
-http://79.133.121.124:34040/udp/239.191.254.79:13343 
-#EXTINF:-1,Kaleidoscope of TV 
-http://79.133.121.124:34040/udp/239.191.254.80:13343 
-#EXTINF:-1,Country 
-http://79.133.121.124:34040/udp/239.191.254.8888:13343 
-#EXTINF:-1,First Education
-http://79.133.121.124:34040/udp/239.191.254.82:13343 
-#EXTINF:-1,the TV RU 
-http://79.133.121.124:34040/udp/239.191.254.86:13343 
-#EXTINF:-1,JimJam 
-http://79.133.121.124:34040/udp/239.191.254.87:13343 
-#EXTINF:-1,Ani 
-http://79.133.121.124:34040/udp/239.191.254.88:13343 
-#EXTINF:-1,DW 
-http://79.133.121.124:34040/udp/239.191.254.89:13343 
-#EXTINF:-1,Bridge TV Add  
-http://79.133.121.124:34040/udp/239.191.254.90:13343 
-#EXTINF:-1,the TV RTG 
-http://79.133.121.124:34040/udp/239.191.254.91:13343 
-#EXTINF:-1,Smile Kid HD
-http://79.133.121.124:34040/udp/239.191.254.92:13343 
-#EXTINF:-1,the Music Box Russian 
-http://79.133.121.124:34040/udp/239.191.254.93:13343 
-#EXTINF:-1,the Music Box 
-http://79.133.121.124:34040/udp/239.191.254.94:13343 
-#EXTINF:-1,Humor Box 
-http://79.133.121.124:34040/udp/239.191.254.95:13343 
-#EXTINF:-1,Retro 
-http://79.133.121.124:34040/udp/239.191.254.96:13343 
-#EXTINF:-1,Drive 
-http://79.133.121.124:34040/udp/239.191.254.97:13343 
-#EXTINF:-1,hunting and fishing 
-http://79.133.121.124:34040/udp/239.191.254.98:13343 
-#EXTINF:-1,Healthy TV
-http://79.133.121.124:34040/udp/239.191.254.99:13343 
-#EXTINF:-1,Manor 
-http://79.133.121.124:34040/udp/239.191.254.100:13343 
-#EXTINF:-1,Pets 
-http://79.133.121.124:34040/udp/239.191.254.101:13343 
-#EXTINF:-1,Psychology 21 
-http://79.133.121.124:34040/udp/239.191.254.102:13343 
-#EXTINF:-1,Questions and Answers 
-http://79.133.121.124:34040/udp/239.191.254.103:13343 
-#EXTINF:-1,Topshop 
-http://79.133.121.124:34040/udp/239.191.254.104:13343 
-#EXTINF:-1,the TV Sale 
-http://79.133.121.124:34040/udp/239.191.254.105:13343 
-#EXTINF:-1,Russia Today
-http://79.133.121.124:34040/udp/239.191.254.106:13343 
-#EXTINF:-1,Fox | 
-http://79.133.121.124:34040/udp/239.191.254.107:13343 
-#EXTINF:-1,Life Adds Fox |  
-http://79.133.121.124:34040/udp/239.191.254.108:13343 
-#EXTINF:-1,Life News 
-http://79.133.121.124:34040/udp/239.191.254.109:13343 
-#EXTINF:-1,Music of the First 
-http://79.133.121.124:34040/udp/239.191.254.110:13343 
-#EXTINF:-1,Nano 
-http://79.133.121.124:34040/udp/239.191.254.111:13343 
-#EXTINF:-1,+ Phoenix Film 
-http://79.133.121.124:34040/udp/239.191.254.112:13343 
-#EXTINF:-1,Galaxy
-http://79.133.121.124:34040/udp/239.191.254.113:13343 
-#EXTINF:-1,Live 
-http://79.133.121.124:34040/udp/239.191.254.115:13343 
-#EXTINF:-1,time distant and close 
-http://79.133.121.124:34040/udp/239.191.254.116:13343 
-#EXTINF:-1,Home Cinema 
-http://79.133.121.124:34040/udp/239.191.254.117:13343 
-#EXTINF:-1,the Music THT 
-http://79.133.121.124:34040/udp/239.191.254.118:13343 
-#EXTINF:-1,Russian bestseller 
-http://79.133.121.124:34040/udp/239.191.254.119:13343 
-#EXTINF:-1,mom 
-http://79.133.121.124:34040/udp/239.191.254.120:13343 
-#EXTINF:-1,Russian novel
-http://79.133.121.124:34040/udp/239.191.254.121:13343 
-#EXTINF:-1,Ren TV 
-http://79.133.121.124:34040/udp/239.191.254.122:13343 
-#EXTINF:-1,NTV 
-http://79.133.121.124:34040/udp/239.191.254.123:13343 
-#EXTINF:-1,First Channel 
-http://79.133.121.124:34040/udp/239.191.254.124:13343 
-#EXTINF:-1,TVC 
-http://79.133.121.124:34040/udp/239.191.254.125:13343 
-#EXTINF:-1,Amusement park 
-http://79.133.121.124:34040/udp/239.191.254.126:13343 
-#EXTINF:-1,Fifth Channel 
-http://79.133.121.124:34040/udp/239.191.254.130:13343 
-#EXTINF:-1,CNL 
-http://79.133.121.124:34040/udp/239.191.254.131:13343
-#EXTINF:-1,Our football Add yourself  
-http://79.133.121.124:34040/udp/239.191.254.132:13343 
-#EXTINF:-1,TNT / DALT 
-http://79.133.121,124:34040/udp/239.191.254.133:13343 
-#EXTINF:-1,Travel Channel 
-http://79.133.121.124:34040/udp/239.191.254.134:13343 
-#EXTINF:-1,Sony Turbo 
-http://79.133.121.124:34040/udp/239.191.254.135:13343 
-#EXTINF:-1,World of the series 
-http://79.133.121.124:34040/udp/239.191.254.136:13343 
-#EXTINF:-1,Euronews 
-http://79.133.121.124:34040/udp/239.191.254.137:13343 
-#EXTINF:-1,TiJi 
-http://79.133.121.124:34040/udp/239.191.254.138:13343
-#EXTINF:-1,Auto 24 
-http://79.133.121.124:34040/udp/239.191.254.139:13343 
-#EXTINF:-1,Echo TV (Novouralsk) 
-http://79.133.121.124:34040/udp/239.191.254.140:13343 
-#EXTINF:-1,World Fashion Add to your  
-http://79.133.121.124:34040/udp/239.191.254.141:13343 
-#EXTINF:-1,Russia 1 
-http://79.133.121.124:34040/udp/239.191.254.142:13343 
-#EXTINF:-1,TV point 
-http://79.133.121.124:34040/udp/239.191.254.143:13343 
-#EXTINF:-1,8 channel 
-http://79.133.121.124:34040/udp/239.191.254.144:13343 
-#EXTINF:-1,Red line
-http://79.133.121.124:34040/udp/239.191.254.145:13343 
-#EXTINF:-1,STV 
-http://79.133.121.124:34040/udp/239.191.254.146:13343 
-#EXTINF:-1,DISNEY CHANNEL 
-http://79.133.121.124:34040/udp/239.191.254.147:13343 
-#EXTINF:-1,Yu-TV (+7) 
-http://79.133.121.124:34040/udp/239.191.254.148:13343 
-#EXTINF:-1,Friday 
-http://79.133.121.124:34040/udp/239.191.254.149:13343 
-#EXTINF:-1,Weapons 
-http://79.133.121.124:34040/udp/239.191.254.150:13343 
-#EXTINF:-1,2X2 (+5) 
-http://79.133.121.124:34040/udp/239.191.254.151:13343 
-#EXTINF:-1,Penguin lolo 
-http://79.133.121.124:34040/udp/239.191.254.152:13343
-#EXTINF:-1,Match! 
-http://79.133.121.124:34040/udp/239.191.254.153:13343 
-#EXTINF:-1,Russian 24 
-http://79.133.121.124:34040/udp/239.191.254.154:13343 
-#EXTINF:-1,A Mega TV 
-http://79.133.121.124:34040/udp/239.191.254.155:13343 
-#EXTINF:-1,Savior 
-http://79.133.121.124:34040/udp/239.191.254.157:13343 
-#EXTINF:-1,Muz TV 
-http://79.133.121.124:34040/udp/239.191.254.158:13343 
-#EXTINF:-1,Friday 
-http://79.133.121.124:34040/udp/239.191.254.159:13343 
-#EXTINF:-1,World 24 
-http://79.133.121.124:34040/udp/239.191.254.162:13343 
-#EXTINF:-1,Russian Detective
-http://79.133.121.124:34040/udp/239.191.254.163:13343 
-#EXTINF:-1,History 
-http://79.133.121.124:34040/udp/239.191.254.164:13343 
-#EXTINF:-1,The Inter AZ 
-http://79.133.121.124:34040/udp/239.191.254.165:13343 
-#EXTINF:-1,Moscow 24 
-http://79.133.121.124:34040/udp/239.191.254.166:13343 
-#EXTINF:-1,SET TV 
-http://79.133.121.124:34040/udp/239.191.254.167:13343 
-#EXTINF:-1,VH1 Classic 
-http://79.133.121.124:34040/udp/239.191.254.168:13343 
-#EXTINF:-1,Star 
-http://79.133.121.124:34040/udp/239.191.254.170:13343 
-#EXTINF:-1,ID Xtra 
-http://79.133.121.124:34040/udp/239.191.254.172:13343
-#EXTINF:-1,OTP 
-http://79.133.121.124:34040/udp/239.191.254.175:13343 
-#EXTINF:-1,Travel + Adventure 
-http://79.133.121.124:34040/udp/239.191.254.176:13343 
-#EXTINF:-1,Film Screening 
-http://79.133.121.124:34040/udp/239.191.254.185:13343 
-#EXTINF:-1,Our TV 
-http://79.133.121.124:34040/udp/239.191.254.186:13343 
-#EXTINF:-1,The Open World 
-http://79.133.121.124:34040/udp/239.191.254.199:13343 
-#EXTINF:-1,Match! Arena 
-http://79.133.121.124:34040/udp/239.191.254.201:13343 
-#EXTINF:-1,match! Fighter 
-http://79.133.121.124:34040/udp/239.191.254.202:13343 
-#EXTINF:-1,match! Our sport
-http://79.133.121.124:34040/udp/239.191.254.203:13343 
-#EXTINF:-1,match! Game 
-http://79.133.121.124:34040/udp/239.191.254.204:13343 
-#EXTINF:-1,the Hard Life 
-http://79.133.121.124:34040/udp/239.191.254.207:13343 
-#EXTINF:-1,Boxing TV 
-http://79.133.121.124:34040/udp/239.191.254.210:13343 
-#EXTINF:-1,the first channel 
-http://79.133.121.124:34040/udp/239.191.254.241:13343 
-#EXTINF:-1,Russia 1 
-http://79.133.121.124:34040/udp/239.191.254.242:13343 
-#EXTINF:-1,Russia To: 
-http://79.133.121.124:34040/udp/239.191.254.243:13343 
-#EXTINF:-1,NTV 
-http://79.133.121.124:34040/udp/239.191.254.244:13343
-#EXTINF:-1,fifth channel 
-http://79.133.121.124:34040/udp/239.191.254.245:13343 
-#EXTINF:-1,Russian 24 
-http://79.133.121.124:34040/udp/239.191.254.246:13343 
-#EXTINF:-1,Match! 
-http://79.133.121.124:34040/udp/239.191.254.247:13343 
-#EXTINF:-1,Carousel (+7) 
-http://79.133.121.124:34040/udp/239.191.254.248:13343
-
+http://86.110.32.226:8001/play/a00h 
+#EXTINF:-1,TV6 
+http://86.110.32.226:8001/play/a004 
+#EXTINF:-1,YLE1 
+http://86.110.32.226:8001/play/a00l 
+#EXTINF:-1,Smartzone 
+http://86.110.32.226:8001/play/a00g 
+#EXTINF:-1,EpicDramaHD 
+http://86.110.32.226:8001/play/a00j 
+#EXTINF:-1,DiscoveryChannel 
+http://86.110.32.226:8001/play/a00i 
+#EXTINF:-1,Sony Turbo HD 
+http://86.110.32.226:8001/play/a00b 
+#EXTINF:-1,TV3 
+http://86.110.32.226:8001/play/a001 
+#EXTINF:-1,Sony Channel HD 
+http://86.110.32.226:8001/play/a00a 
+#EXTINF:-1,Kanal 11 HD 
+http://86.110.32.226:8001/play/a00d 
+#EXTINF:-1,Filmzone 
+http://86.110.32.226:8001/play/a008 
+#EXTINF:-1,Kidzone TV 
+http://86.110.32.226:8001/play/a007 
+#EXTINF:-1,TTV 
+http://86.110.32.226:8001/play/a003
 
 
 
