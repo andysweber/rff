@@ -4,38 +4,15 @@
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 
-#EXTINF:1 group-title=”==WARNING==”,
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,New Version
-http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,6.10 Available
-http://.....
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,from
-https://www.youtube.com/watch?v=t4RRga0RUr8
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,http://edoctorcy.xyz
-https://www.youtube.com/watch?v=t4RRga0RUr8
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,or click update
-https://www.youtube.com/watch?v=t4RRga0RUr8
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,button. This
-https://www.youtube.com/watch?v=t4RRga0RUr8
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Version Will Expired
-https://www.youtube.com/watch?v=t4RRga0RUr8
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,12/2/18/
-https://www.youtube.com/watch?v=t4RRga0RUr8
 
 
 #EXTINF:1 group-title=”UPDATED DATE”,
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,07/01/18
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,18/02/18
 http://.....
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -61,24 +38,20 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 
 #EXTINF:-1,Animal Planet (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1251.m3u8$http-refferer=http://localhost
-#EXTINF:-1 tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" ,Animal Planet (Wuffy Player)
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" ,Animal Planet 
-http://www.unlimitedbroadcasts.net:25461/live/39626018/8730386210/954.ts
 #EXTINF:-1,Animal Planet
 http://37.194.121.4:1234/udp/239.1.5.3:1234 
 #EXTINF:-1,Animal Planet
 http://176.108.193.126:4022/udp/235.1.1.46:5678
-#EXTINF:0,National Geographic
-http://37.194.121.4:1234/udp/239.1.5.8:1234 
 #EXTINF:-1,National Geographic (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1195.m3u8$http-refferer=http://localhost
-#EXTINF:-1,National Geographic HD 
-http://91.149.172.100:80/channel?id=91&u=demo&p=demo 
-#EXTINF:-1,Nat Geo Wild HD 
-http://91.149.172.100:80/channel?id=7&u=demo&p=demo 
+#EXTINF:0,National Geographic
+http://37.194.121.4:1234/udp/239.1.5.8:1234 
+#EXTINF:0,National Geographic 
+http://178.57.227.12:4022/udp/234.5.2.128:1234
 #EXTINF:-1,NATGEO WILD (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1193.m3u8$http-refferer=http://localhost
+#EXTINF:-1,NATGEO WILD
+http://178.57.227.12:4022/udp/234.5.2.114:1234 
 #EXTINF:-1,Discovery (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1133.m3u8$http-refferer=http://localhostt
 #EXTINF:-1,DISCOVERY
@@ -95,7 +68,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1271.m3u8$http-refferer
 http://37.194.121.4:1234/udp/239.1.5.9:1234 
 #EXTINF:0,Discovery Science
 http://176.108.193.126:4022/udp/235.1.1.29:5678 
-#EXTINF: -1,DTX 
+#EXTINF:-1,DTX 
 http://176.108.193.126:4022/udp/235.1.1.28:5678
 #EXTINF:0,Investigation Discovery
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
@@ -103,22 +76,14 @@ http://37.194.121.4:1234/udp/239.1.2.8:1234
 http://91.149.172.100:80/channel?id=136&u=demo&p=demo 
 #EXTINF:-1,History
 http://93.91.113.8:9999/play/a06z
-#EXTINF:-1,FOX HD 
-http://91.149.172.100:80/channel?id=100&u=demo&p=demo 
-#EXTINF:-1,FOX
-http://95.82.241.148:81//udp/239.255.2.53:1234
 #EXTINF:0,FOX
 http://37.194.121.4:1234/udp/239.1.4.5:1234 
-#EXTINF:-1,Fox
-http://37.235.148.192:81/udp/225.50.64.22:1234
 #EXTINF:-1,Fox Life 
 http://91.149.172.100:80/channel?id=75&u=demo&p=demo 
 #EXTINF:-1,Fox Life
-http://95.82.241.148:81//udp/239.255.2.58:1234
-#EXTINF:-1,Fox Life
 http://37.194.121.4:1234/udp/239.1.3.11:1234 
-#EXTINF:-1,Fox Life
-http://37.235.148.192:81/udp/225.50.64.23:1234
+#EXTINF:-1,Fox Life 
+http://178.57.227.12:4022/udp/234.5.2.70:1234 
 #EXTINF:-1,TLC
 http://37.194.121.4:1234/udp/239.1.3.16:1234 
 #EXTINF:-1,Amazing Facts TV
@@ -158,7 +123,7 @@ http://cdn-01.bonus-tv.ru:9090/btv/gameshow/type/user/devname/LG-SmartTV/devid/L
 
 
 #EXTINF:-1 tvg-logo=https://goo.gl/ablVkW ,WZRA KID'S (GR)
-mmsh://wpso.com:200/kids?MSWMExt=.asf
+mmsh://wpso.com:200/kids
 #EXTINF:-1 ,Cartoon World (GR)
 http://bit.ly/2rvaV7Q
 #EXTINF:-1,BabyTV 
@@ -167,19 +132,19 @@ http://wowza2.mysoltv.com:1992/UK_UK_Baby/tracks-v1a1/index.m3u8
 http://93.91.113.8:9999/play/a06n
 #EXTINF:0,Jim Jam
 http://37.194.182.58:81/udp/239.1.3.2:1234
-#EXTINF:0,Jim Jam
-http://37.192.132.113:81/udp/239.1.3.2:1234
 #EXTINF:-1 ,JimJam 
 http://91.149.172.100:80/channel?id=25&u=demo&p=demo 
+#EXTINF:-1,JimJam 
+http://178.57.227.12:4022/udp/234.5.2.113:1234 
 #EXTINF:-1 ,Boomerang 
 http://91.149.172.100:80/channel?id=119&u=demo&p=demo 
 #EXTINF:-1,boomerang (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1128.m3u8$http-refferer=http://localhost
-#EXTINF:-1,Boomerang
-http://95.82.241.148:81//udp/239.255.2.144:1234
 #EXTINF:0,Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1,Cartoon Network 
+http://178.57.227.12:4022/udp/234.5.2.107:1234 
+#EXTINF:-1,Cartoon Network (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1264.m3u8$http-refferer=http://localhost
 #EXTINF:-1,Disney Channel (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1272.m3u8$http-refferer=http://localhost
@@ -189,6 +154,8 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1273.m3u8$http-refferer
 http://93.91.113.8:9999/play/a06k
 #EXTINF:0,Nickelodeon
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
+#EXTINF:-1,Nickelodeon HD 
+http://178.57.227.12:4022/udp/234.5.2.51:1234 
 #EXTINF:-1,NICK 
 http://91.149.172.100:80/channel?id=87&u=demo&p=demo 
 #EXTINF:-1,Nick Jr 
@@ -196,11 +163,7 @@ http://91.149.172.100:80/channel?id=76&u=demo&p=demo
 #EXTINF:-1,Nick Jr
 http://93.91.113.8:9999/play/a06l
 #EXTINF:0,Nick Jr
-http://37.49.213.11:81/udp/239.54.7.5:1224
-#EXTINF:0,Nick Jr
 http://176.108.193.126:4022/udp/235.1.1.84:5678
-#EXTINF:-1,Nick Jr.
-http://95.82.241.148:81//udp/239.255.2.218:1234
 #EXTINF:-1 ,Life Kids Network
 rtmp://live.streams.ovh:1935/LIFEHD/LIFEHD
 #EXTINF:-1,Talking TOM
@@ -247,8 +210,6 @@ http://37.194.121.4:1234/udp/239.1.15.12:1234
 
 #EXTINF:0,VH1 Classic
 http://37.192.100.141:81/udp/239.1.8.7:1234
-#EXTINF:-1,MTV Hits
-http://95.82.241.148:81//udp/239.255.2.214:1234
 #EXTINF:-1 ,MTV Hits 
 http://91.149.172.100:80/channel?id=140&u=demo&p=demo 
 #EXTINF:-1 ,MTV Rocks 
@@ -604,3 +565,13 @@ http://bit.ly/2l0o6Os
 http://91.149.172.100:80/channel?id=93&u=demo&p=demo 
 #EXTINF:-1 ,Paramount Comedy 
 http://91.149.172.100:80/channel?id=90&u=demo&p=demo 
+#EXTINF:-1,HBO Comedy (wuffy Player)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/977.m3u8$http-refferer=http://localhost
+#EXTINF:-1,HBO East (wuffy Player)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/978.m3u8$http-refferer=http://localhost
+#EXTINF:-1,HBO HD (wuffy Player)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/979.m3u8$http-refferer=http://localhost
+#EXTINF:-1,HBO Signature (wuffy Player)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/980.m3u8$http-refferer=http://localhost
+#EXTINF:-1,HBO Zone (wuffy Player)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/981.m3u8$http-refferer=http://localhost
