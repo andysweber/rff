@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,20/02/18 
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,21/02/18 
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -126,7 +126,7 @@ http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://goo.gl/np3siv ,SKAI
 http://master.cystreams.com:25461/live/greek/rockstar/42.ts
 #EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI (Youtube)
-https://www.youtube.com/watch?v=xBTsXJeGFRw
+https://www.youtube.com/watch?v=1GbeyS82AVo
 #EXTINF:-1 tvg-id="Star.gr" tvg-logo=https://goo.gl/z2xi2U ,STAR
 http://master.cystreams.com:25461/live/greek/rockstar/40.ts
 #EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (USE GREECE VPN)
@@ -1374,8 +1374,140 @@ http://wowza2.mysoltv.com:1992/UK_ENG_nat_geo_wild_shsaa/index.m3u8
 
 #EXTINF:3 group-title=”UK3”, 
 
+#EXTINF:1 tvg-logo=http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg ,===UK===
+http://..........
 
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
 
+#EXTINF:-1,My5 
+http://94.46.245.190:8000/play/a02y 
+#EXTINF:-1,Challenge 
+http://94.46.245.190:8000/play/a01q 
+#EXTINF:-1,Home 
+http://94.46.245.190:8000/play/a02f 
+#EXTINF:-1,BBC TWO HD 
+http://94.46.245.190:8000/play/a01h 
+#EXTINF:-1,Pick 
+http://94.46.245.190:8000/play/a01p 
+#EXTINF:-1,CBBC HD 
+http://94.46.245.190:8000/play/a01m 
+#EXTINF:-1,Sony Movie Ch 
+http://94.46.245.190:8000/play/a022 
+#EXTINF:-1,TalkingPictures TV 
+http://94.46.245.190:8000/play/a02h 
+#EXTINF:-1,5 USA 
+http://94.46.245.190:8000/play/a02l 
+#EXTINF:-1,QUEST+1 
+http://94.46.245.190:8000/play/a02p 
+#EXTINF:-1,CBS Reality 
+http://94.46.245.190:8000/play/a02q 
+#EXTINF:-1,Dave 
+http://94.46.245.190:8000/play/a01r 
+#EXTINF:-1,ITV2 +1 
+http://94.46.245.190:8000/play/a02w 
+#EXTINF:-1,Food Network 
+http://94.46.245.190:8000/play/a01u 
+#EXTINF:-1,Channel 4 HD 
+http://94.46.245.190:8000/play/a01k 
+#EXTINF:-1,ITV HD 
+http://94.46.245.190:8000/play/a01j 
+#EXTINF:-1,Film4+1 
+http://94.46.245.190:8000/play/a01n 
+#EXTINF:-1,True Christmas 
+http://94.46.245.190:8000/play/a02e 
+#EXTINF:-1,BBC ONE HD 
+http://94.46.245.190:8000/play/a01i 
+#EXTINF:-1,E4+1 
+http://94.46.245.190:8000/play/a01s 
+#EXTINF:-1,Channel 5 HD 
+http://94.46.245.190:8000/play/a01l 
+#EXTINF:-1,4Music 
+http://94.46.245.190:8000/play/a025 
+#EXTINF:-1,QVC 
+http://94.46.245.190:8000/play/a02n 
+#EXTINF:-1,True Entertainment 
+http://94.46.245.190:8000/play/a02u 
+#EXTINF:-1,truTV 
+http://94.46.245.190:8000/play/a01x 
+#EXTINF:-1,Quest Red 
+http://94.46.245.190:8000/play/a020 
+#EXTINF:-1,YourTV 
+http://94.46.245.190:8000/play/a01y 
+#EXTINF:-1,Travel Channel 
+http://94.46.245.190:8000/play/a02c 
+#EXTINF:-1,Channel 5+1 
+http://94.46.245.190:8000/play/a02m 
+#EXTINF:-1,Blaze 
+http://94.46.245.190:8000/play/a02o 
+#EXTINF:-1,TBN UK 
+http://94.46.245.190:8000/play/a01w 
+#EXTINF:-1,Horror Channel 
+http://94.46.245.190:8000/play/a02r 
+#EXTINF:-1,POP 
+http://94.46.245.190:8000/play/a029 
+#EXTINF:-1,Really 
+http://94.46.245.190:8000/play/a01z 
+#EXTINF:-1,RT 
+http://94.46.245.190:8000/play/a02a 
+#EXTINF:-1,5Spike 
+http://94.46.245.190:8000/play/a027 
+#EXTINF:-1,TJC 
+http://94.46.245.190:8000/play/a01v 
+#EXTINF:-1,Gems TV 
+http://94.46.245.190:8000/play/a023 
+#EXTINF:-1,Sky News 
+http://94.46.245.190:8000/play/a01o 
+#EXTINF:-1,Drama 
+http://94.46.245.190:8000/play/a02z 
+#EXTINF:-1,QVC Beauty 
+http://94.46.245.190:8000/play/a02i 
+#EXTINF:-1,ITV3 
+http://94.46.245.190:8000/play/a02x 
+#EXTINF:-1,5STAR 
+http://94.46.245.190:8000/play/a02k 
+#EXTINF:-1,ITVBe 
+http://94.46.245.190:8000/play/a02v 
+#EXTINF:-1,QUEST 
+http://94.46.245.190:8000/play/a02s 
+#EXTINF:-1,movies4men 
+http://94.46.245.190:8000/play/a021 
+#EXTINF:-1,4seven 
+http://94.46.245.190:8000/play/a028 
+#EXTINF:-1,CBS Action 
+http://94.46.245.190:8000/play/a02d 
+#EXTINF:-1,Dave ja vu 
+http://94.46.245.190:8000/play/a02g 
+#EXTINF:-1,Christmas Food 
+http://94.46.245.190:8001/play/a02a 
+#EXTINF:-1,Drama 
+http://94.46.245.190:8001/play/a02f 
+#EXTINF:-1,Eden 
+http://94.46.245.190:8001/play/a026 
+#EXTINF:-1,Disc.Science 
+http://94.46.245.190:8001/play/a007 
+#EXTINF:-1,propeller 
+http://94.46.245.190:8001/play/a00t 
+#EXTINF:-1,TLC 
+http://94.46.245.190:8001/play/a006 
+#EXTINF:-1,Kanshi TV 
+http://94.46.245.190:8001/play/a00x 
+#EXTINF:-1,W 
+http://94.46.245.190:8001/play/a02b
 
 
 
@@ -2800,6 +2932,127 @@ http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
 
 #EXTINF:8 group-title=”Italy-LOOP_ONE”,
 
+#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg ,==Italy==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:ENABLE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer LOOP_ONE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,or it may stop
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,every few seconds.
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+
+
+
+#EXTINF:-1,IT:RAI_1_HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/120.ts
+#EXTINF:-1,IT:RAI_2_HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/119.ts
+#EXTINF:-1,IT:RAI_4_HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/117.ts
+#EXTINF:-1,IT:RAI_3_HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/118.ts
+#EXTINF:-1,IT:RETE_4_HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/121.ts
+#EXTINF:-1,IT:RAIMOVIE
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/154.ts
+#EXTINF:-1,IT RAI SPORT 1
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/149.ts
+#EXTINF:-1,IT:RAI SPORT 2
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/150.ts
+#EXTINF:-1,IT:PREMIUM CALCIO 1 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1836.ts
+#EXTINF:-1,IT:PREMIUM CALCIO 2 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1837.ts
+#EXTINF:-1,IT:PREMIUM CALCIO 3 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1838.ts
+#EXTINF:-1,IT:PREMIUM CALCIO 4 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1839.ts
+#EXTINF:-1,IT:PREMIUM CALCIO 5 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1840.ts
+#EXTINF:-1,IT:PREMIUM CALCIO 6 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1841.ts
+#EXTINF:-1,IT:SUPPER TENNIS HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2224.ts
+#EXTINF:-1,IT:EUROSPORT 1 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2234.ts
+#EXTINF:-1,IT:EUROSPORT 2 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2235.ts
+#EXTINF:-1,IT:RAI PREMIUM
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/161.ts
+#EXTINF:-1,IT:SPORT ITALIA
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/148.ts
+#EXTINF:-1,IT:PREMIUM SPORT HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/158.ts
+#EXTINF:-1,IT:PREMIUM SPORT 2 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/157.ts
+#EXTINF:-1,IT:ITALIA_1_HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/122.ts
+#EXTINF:-1,IT:ITALIA2
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/163.ts
+#EXTINF:-1,IT:CANALE 5 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/123.ts
+#EXTINF:-1,IT:SKY TG24
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/164.ts
+#EXTINF:-1,IT:ALICE
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2227.ts
+#EXTINF:-1,IT:AXN HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2229.ts
+#EXTINF:-1,IT:SKY CINEMA 1 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/155.ts
+#EXTINF:-1,IT:SKY_CINEMA_FAMILY_HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/156.ts
+#EXTINF:-1,IT:PREMIUM ACTION HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/153.ts
+#EXTINF:-1,IT:PREMIUM CINEMA HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/151.ts
+#EXTINF:-1,IT:PREMIUM CINEMA 2 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/152.ts
+#EXTINF:-1,IT:PREMIUM CINEMA 24 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1842.ts
+#EXTINF:-1,IT:PREMIUM CINEMA EMOTION
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1835.ts
+#EXTINF:-1,IT:PREMIUM CINEMA PRIME
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1834.ts
+#EXTINF:-1,IT:PREMIUM STORIES
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1843.ts
+#EXTINF:-1,IT:SKY DISCOVERY HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/166.ts
+#EXTINF:-1,IT: SKY CINEMA CULT
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2225.ts
+#EXTINF:-1,IT:SKY CINEMA MAX HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2226.ts
+#EXTINF:-1,IT:SKY ATLANTIC
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2223.ts
+#EXTINF:-1,IT:ANIMAL PLANET HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2228.ts
+#EXTINF:-1,IT:DISCOVERY ID
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2230.ts
+#EXTINF:-1,IT:DISCOVERY SCI HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2231.ts
+#EXTINF:-1,IT:DISCOVERY T&L
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2232.ts
+#EXTINF:-1,IT:DISNEY JUNIOR
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2233.ts
+#EXTINF:-1,IT:SKY CINEMAMAX HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/165.ts
 
 
 
@@ -3259,6 +3512,135 @@ http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
 
 
 #EXTINF:6 group-title=”France1-LOOP_ONE”,
+
+#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:ENABLE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer LOOP_ONE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,or it may stop
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,every few seconds.
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+#EXTINF:-1,FR:TF1
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/282.ts
+#EXTINF:-1,FR:NT1
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/290.ts
+#EXTINF:-1,FR:M6
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/283.ts
+#EXTINF:-1,FR:W9
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/281.ts
+#EXTINF:-1,FR:FRANCE 0
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/284.ts
+#EXTINF:-1,FR:FRANCE2
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/285.ts
+#EXTINF:-1,FR:FRANCE3
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/286.ts
+#EXTINF:-1,FR:FRANCE4
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/287.ts
+#EXTINF:-1,FR:FRANCE5
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/288.ts
+#EXTINF:-1,FR:FRANCE 24
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/289.ts
+#EXTINF:-1,FR:DISCOVERY SCIENCE
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/297.ts
+#EXTINF:-1,FR:BEIN SPORTS 1HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/293.ts
+#EXTINF:-1,FR:BEIN SPORTS 2HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/292.ts
+#EXTINF:-1,FR:BEIN SPORT 3 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/294.ts
+#EXTINF:-1,FR:BEIN SPORT MAX4
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1023.ts
+#EXTINF:-1,FR:BEIN SPORT MAX5
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1024.ts
+#EXTINF:-1,FR:BEIN SPORT MAX6
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1025.ts
+#EXTINF:-1,FR:BEIN SPORT MAX7
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1026.ts
+#EXTINF:-1,FR:BEIN SPORT MAX8
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1027.ts
+#EXTINF:-1,FR:BEIN SPORT MAX9
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1028.ts
+#EXTINF:-1,FR:BEIN SPORT MAX10
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1029.ts
+#EXTINF:-1,FR:ARTE
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/291.ts
+#EXTINF:-1,FR:ANIMAUX
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/295.ts
+#EXTINF:-1,FR:AB MOTEURS
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/296.ts
+#EXTINF:-1,FR:DISCOVERY HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/730.ts
+#EXTINF:-1,FR:NAT GEO
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/727.ts
+#EXTINF:-1,FR:CANAL+ HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/723.ts
+#EXTINF:-1,FR:CANAL CINEMA HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/724.ts
+#EXTINF:-1,FR:CANAL+ SERIES
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/761.ts
+#EXTINF:-1,FR:CANAL+ DECALE HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/762.ts
+#EXTINF:-1,FR:CANAL DECALE HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/725.ts
+#EXTINF:-1,FR:CANAL  FAMILY
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/726.ts
+#EXTINF:-1,FR:CANAL+ SPORT HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/760.ts
+#EXTINF:-1,FR:OCS MAX HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/766.ts
+#EXTINF:-1,FR:DISNEY CINEMA
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/767.ts
+#EXTINF:-1,FR:CINE+FRISSON
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/728.ts
+#EXTINF:-1,FR:CINE+ PREMIER
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/729.ts
+#EXTINF:-1,FR:CINE FAMIZ
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/764.ts
+#EXTINF:-1,FR:CINE EMOTION HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/765.ts
+#EXTINF:-1,FR:GULLI
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/299.ts
+#EXTINF:-1,FR:CANAL J
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/300.ts
+#EXTINF:-1,FR:DISNEY JUNIOR HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1801.ts
+#EXTINF:-1,FR:PIWI+
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1968.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4352,8 +4734,242 @@ http://live.vidoo.de/live/weltderwunder/f1tv.m3u8
 
 
 #EXTINF:8 group-title=”Germany1-LOOP_ONE”,
+#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif ,==Germany==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:ENABLE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer LOOP_ONE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,or it may stop
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,every few seconds.
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
 
 
+
+#EXTINF:-1,DE:DAS ERSTE HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/95.ts
+#EXTINF:-1,DE:ZDF HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/84.ts
+#EXTINF:-1,DE:ZDF NEO
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1089.ts
+#EXTINF:-1,DE:ZDF INFO HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2382.ts
+#EXTINF:-1,DE:WDR
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/254.ts
+#EXTINF:-1,DE:RTL HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/87.ts
+#EXTINF:-1,DE:RTL2 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/88.ts
+#EXTINF:-1,DE:SAT1 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/86.ts
+#EXTINF:-1,DE:PROSIEBEN MAXX HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/269.ts
+#EXTINF:-1,DE:SIXX
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/525.ts
+#EXTINF:-1,DE:3SAT
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2075.ts
+#EXTINF:-1,DE:VOX HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/85.ts
+#EXTINF:-1,DE:PRO7
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/77.ts
+#EXTINF:-1,DE:KABEL 1 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/91.ts
+#EXTINF:-1,DE:RTL LIVING HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/104.ts
+#EXTINF:-1,DE:RTL CRIME HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/258.ts
+#EXTINF:-1,DE:RTL PASSION
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/267.ts
+#EXTINF:-1,DE:RTL NITRO
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1090.ts
+#EXTINF:-1,DE:SUPER RTL
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/92.ts
+#EXTINF:-1,DE:KIKA HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/375.ts
+#EXTINF:-1,DE:DISNEY CHANNEL HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/374.ts
+#EXTINF:-1,DE:TELE 5 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/524.ts
+#EXTINF:-1,DE:TAGESSCHAU 24
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/531.ts
+#EXTINF:-1,DE:SAT EINS GOLD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/529.ts
+#EXTINF:-1,DE:ROMANCE TV HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/527.ts
+#EXTINF:-1,DE:PHOENIX
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/532.ts
+#EXTINF:-1,DE:TLC HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/526.ts
+#EXTINF:-1,DE:N-TV
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/530.ts
+#EXTINF:-1,DE:HEIMAT KANAL
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/528.ts
+#EXTINF:-1,DE:FOX
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/97.ts
+#EXTINF:-1,DE:DMAX
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/76.ts
+#EXTINF:-1,DE:NDR
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/255.ts
+#EXTINF:-1,DE:ARTE HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/94.ts
+#EXTINF:-1,DE:ORF 1
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/106.ts
+#EXTINF:-1,DE:ORF 2
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/105.ts
+#EXTINF:-1,DE:ORF SPORT
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1091.ts
+#EXTINF:-1,DE:N24
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/480.ts
+#EXTINF:-1,DE:ZEE ONE HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/833.ts
+#EXTINF:-1,DE:SKY CINEMA
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/71.ts
+#EXTINF:-1,DE:SKY CINEMA + 1
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/377.ts
+#EXTINF:-1,DE:SKY CINEMA+24
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/72.ts
+#EXTINF:-1,DE:SKY-HITS
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/96.ts
+#EXTINF:-1,DE:SKY ACTION
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/73.ts
+#EXTINF:-1,DE:SKY KRIMI
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/100.ts
+#EXTINF:-1,DE:SKY CINEMA NOSTALGIE
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/522.ts
+#EXTINF:-1,DE:SKY CINEMA FAMILY HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/523.ts
+#EXTINF:-1,DE:SKY EMOTION HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/101.ts
+#EXTINF:-1,DE:SKY COMEDY HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/102.ts
+#EXTINF:-1,DE:13TH STREET
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/74.ts
+#EXTINF:-1,DE:CARTOON NETWORK
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1171.ts
+#EXTINF:-1,DE:DISNEY XD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1170.ts
+#EXTINF:-1,DE:SYFY HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/259.ts
+#EXTINF:-1,DE:SKY 1 FULL HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1085.ts
+#EXTINF:-1,DE:SKY ATLANTIC
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/256.ts
+#EXTINF:-1,DE:KINOWELT TV
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/268.ts
+#EXTINF:-1,DE:SKY DISNEY CINEMAGIC
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/93.ts
+#EXTINF:-1,DE:SKY DISCOVERY
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/75.ts
+#EXTINF:-1,DE:NATIONAL GEOGRAPHIC HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/89.ts
+#EXTINF:-1,DE:NAT GEO WILD HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/90.ts
+#EXTINF:-1,DE:HISTORY
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/99.ts
+#EXTINF:-1,DE:UNIVERSAL CHANNEL HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/261.ts
+#EXTINF:-1,DE:TNT SERIE HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/257.ts
+#EXTINF:-1,DE:TNT FILM HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/264.ts
+#EXTINF:-1,DE:AXN
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/260.ts
+#EXTINF:-1,DE:BOOMERANG HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1845.ts
+#EXTINF:-1,DE:SPIEGEL GESCHICHTE HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/265.ts
+#EXTINF:-1,DE:E! ENTERTAINEMENT HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/504.ts
+#EXTINF:-1,DE:SKYSELECT 1
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/82.ts
+#EXTINF:-1,DE:SKYSELECT 2
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/81.ts
+#EXTINF:-1,DE:SKYSELECT 3
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/80.ts
+#EXTINF:-1,DE:SKYSELECT 4
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/79.ts
+#EXTINF:-1,DE:SKYSELECT 5
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/307.ts
+#EXTINF:-1,DE:SKY SELECT 6
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/308.ts
+#EXTINF:-1,DE:SKY SELECT 7
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/309.ts
+#EXTINF:-1,DE:SKYSELECT 8
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/310.ts
+#EXTINF:-1,DE:SKYSELECT 9
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/311.ts
+#EXTINF:-1,DE:SKYSELECT 10
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/312.ts
+#EXTINF:-1,DE:SPORT1 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/180.ts
+#EXTINF:-1,DE:SPORT DIGITAL
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/344.ts
+#EXTINF:-1,DE:EUROSPORT1 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/262.ts
+#EXTINF:-1,DE:EUROSPORT2 HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/263.ts
+#EXTINF:-1,DE:EUROSPORT 2 HD XTRA
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1634.ts
+#EXTINF:-1,DE:SKY SPORT AUSTRIA
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/98.ts
+#EXTINF:-1,DE:SKY SPORT NEWS
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/67.ts
+#EXTINF:-1,DE:SKY SPORT 1
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/69.ts
+#EXTINF:-1,DE:SKY SPORT 2
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/68.ts
+#EXTINF:-1,DE:SKY SPORT 3 HD( DURING GAMES ONLY )
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/301.ts
+#EXTINF:-1,DE:SKY SPORT 4 HD( DURING GAMES ONLY )
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/302.ts
+#EXTINF:-1,DE:SKY SPORT 5 HD ( DURING GAMES ONLY )
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/361.ts
+#EXTINF:-1,DE:SKY SPORT 6 HD ( DURING GAMES ONLY )
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/356.ts
+#EXTINF:-1,DE:SKY SPORT 7 HD ( DURING GAMES ONLY )
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/357.ts
+#EXTINF:-1,DE:SKY SPORT 8 HD ( DURING GAMES ONLY )
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/358.ts
+#EXTINF:-1,DE:SKY SPORT 9 HD ( DURING GAMES ONLY )
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/359.ts
+#EXTINF:-1,DE:SKY SPORT 10 HD ( DURING GAMES ONLY )
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/360.ts
+#EXTINF:-1,DE:SKY BUNDESLIGA
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/70.ts
+#EXTINF:-1,DE:SKY BUNDESLIGA 2 HD ( DURING GAMES ONLY )
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/83.ts
+#EXTINF:-1,DE:SKY BUNDESLIGA 3 HD ( DURING GAMES ONLY )
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/273.ts
+#EXTINF:-1,DE:SKY BUNDESLIGA 4 HD ( DURING GAMES ONLY )
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/274.ts
+#EXTINF:-1,DE:SKY BUNDESLIGA 5 HD ( DURING GAMES ONLY )
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/275.ts
+#EXTINF:-1,DE:SKY BUNDESLIGA 6 HD ( DURING GAMES ONLY )
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/351.ts
+#EXTINF:-1,DE:SKY BUNDESLIGA 7 HD ( DURING GAMES ONLY )
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/352.ts
+#EXTINF:-1,DE:SKY BUNDESLIGA 8 HD ( DURING GAMES ONLY )
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/353.ts
+#EXTINF:-1,DE:SKY BUNDESLIGA 9 HD ( DURING GAMES ONLY )
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/354.ts
+#EXTINF:-1,DE:SKY BUNDESLIGA 10 HD ( DURING GAMES ONLY )
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/355.ts
 
 
 
@@ -5423,8 +6039,94 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/211/inde
 
 #EXTINF:8 group-title=”Spain4”,
 
+#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
+http://..........
 
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
 
+#EXTINF:-1,Disney Junior
+http://83.33.201.230:7777/udp/239.0.0.10:8208
+#EXTINF:-1,Disney XD
+http://83.33.201.230:7777/udp/239.0.0.11:8208
+#EXTINF:-1,Disney Channel
+http://83.33.201.230:7777/udp/239.0.0.64:8208
+#EXTINF:-1,Boing
+http://83.33.201.230:7777/udp/239.0.0.66:8208
+#EXTINF:-1,Nickelodeon
+http://83.33.201.230:7777/udp/239.0.0.69:8208
+#EXTINF:-1,Nick Jr.
+http://83.33.201.230:7777/udp/239.0.0.115:8208
+#EXTINF:-1,Canal Sur Andalucia
+http://83.33.201.230:7777/udp/239.0.0.1:8208
+#EXTINF:-1,La 2 (EN)
+http://83.33.201.230:7777/udp/239.0.0.2:8208
+#EXTINF:-1,Antena 3
+http://83.33.201.230:7777/udp/239.0.0.3:8208
+#EXTINF:-1,Cuatro (EN)
+http://83.33.201.230:7777/udp/239.0.0.4:8208
+#EXTINF:-1,Telecinco (EN)
+http://83.33.201.230:7777/udp/239.0.0.5:8208
+#EXTINF:-1,AMC (EN)
+http://83.33.201.230:7777/udp/239.0.0.8:8208
+#EXTINF:-1,40 TV
+http://83.33.201.230:7777/udp/239.0.0.12:8208
+#EXTINF:-1,Calle 13 (EN)
+http://83.33.201.230:7777/udp/239.0.0.13:8208
+#EXTINF:-1,AXN (EN)
+http://83.33.201.230:7777/udp/239.0.0.14:8208
+#EXTINF:-1,Cosmo (EN)
+http://83.33.201.230:7777/udp/239.0.0.15:8208
+#EXTINF:-1,Hollywoood (EN)
+http://83.33.201.230:7777/udp/239.0.0.16:8208
+#EXTINF:-1,Sportmania
+http://83.33.201.230:7777/udp/239.0.0.17:8208
+#EXTINF:-1,Eurosport (EN)
+http://83.33.201.230:7777/udp/239.0.0.18:8208
+#EXTINF:-1,Historia (EN)
+http://83.33.201.230:7777/udp/239.0.0.19:8208
+#EXTINF:-1,Viajar (EN)
+http://83.33.201.230:7777/udp/239.0.0.20:8208
+#EXTINF:-1,Discovery Ch. (EN)
+http://83.33.201.230:7777/udp/239.0.0.21:8208
+#EXTINF:-1,Odisea (EN)
+http://83.33.201.230:7777/udp/239.0.0.22:8208
+#EXTINF:-1,Tele Madrid (EN)
+http://83.33.201.230:7777/udp/239.0.0.25:8208
+#EXTINF:-1,L https://www.tvonlinestreams.com
+http://83.33.201.230:7777/udp/239.0.0.26:8208
+#EXTINF:-1,Canal Cocina
+http://83.33.201.230:7777/udp/239.0.0.27:8208
+#EXTINF:-1,Euronews (EN)
+http://83.33.201.230:7777/udp/239.0.0.28:8208
+#EXTINF:-1,EXTINF:-1 Bloomberg TV
+http://83.33.201.230:7777/udp/239.0.0.29:8208
+#EXTINF:-1,BBC World
+http://83.33.201.230:7777/udp/239.0.0.30:8208
+#EXTINF:-1,TV5 Monde Europe
+http://83.33.201.230:7777/udp/239.0.0.31:8208
+#EXTINF:-1,Discovery MAX (EN)
+http://83.33.201.230:7777/udp/239.0.0.32:8208
+#EXTINF:-1,Eurosport 2 (EN)
+http://83.33.201.230:7777/udp/239.0.0.37:8208
+#EXTINF:-1,EWTN
+http://83.33.201.230:7777/udp/239.0.0.72:8208
+#EXTINF:-1,FOX
+http://83.33.201.230:7777/udp/239.0.0.74:8208
+#EXTINF:-1,VH+1
+http://83.33.201.230:7777/udp/239.0.0.75:8208
 
 
 
@@ -5747,58 +6449,11 @@ http://207.244.157.34:25461/live/newap/streamz/3736.ts|refferer=http://solidstre
 
 
 
-
-
-
 #EXTINF:8 group-title=”Spain3-PREMIUM-MXPlayer”,
 
-#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer.
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
 
 
-#EXTINF:-1,A AND E
-http://207.244.157.34:25461/live/newap/streamz/3722.ts|refferer=http://solidstreamz.com/&user-agent=token
-#EXTINF:-1,A&E
-http://207.244.157.34:25461/live/newap/streamz/450.ts|refferer=http://solidstreamz.com/&user-agent=token
-#EXTINF:-1,CALLE 13
-http://207.244.157.34:25461/live/newap/streamz/458.ts|refferer=http://solidstreamz.com/&user-agent=token
-#EXTINF:-1,CANAL ACCION HD
-http://207.244.157.34:25461/live/newap/streamz/461.ts|refferer=http://solidstreamz.com/&user-agent=token
-#EXTINF:-1,CANAL COMEDIA HD
-http://207.244.157.34:25461/live/newap/streamz/462.ts|refferer=http://solidstreamz.com/&user-agent=token
-#EXTINF:-1,CANAL+ DEPORTES 2
-http://207.244.157.34:25461/live/newap/streamz/459.ts|refferer=http://solidstreamz.com/&user-agent=token8
-#EXTINF:-1,CUATRO HD
-http://207.244.157.34:25461/live/newap/streamz/3745.ts|refferer=http://solidstreamz.com/&user-agent=token
-#EXTINF:-1,M ESTRENOS
-http://207.244.157.34:25461/live/newap/streamz/3733.ts|refferer=http://solidstreamz.com/&user-agent=token
-#EXTINF:-1,M SERIES
-http://207.244.157.34:25461/live/newap/streamz/3736.ts|refferer=http://solidstreamz.com/&user-agent=token
-#EXTINF:-1,BARCA TV
-http://207.244.157.34:25461/live/newap/streamz/455.ts|refferer=http://solidstreamz.com/&user-agent=token
-#EXTINF:-1,CANAL LIGA HD
-http://207.244.157.34:25461/live/newap/streamz/4948.ts|refferer=http://solidstreamz.com/&user-agent=token
+
 
 
 
@@ -6762,7 +7417,57 @@ http://asdp.ddns.net:8000/live/adriano/adriano/480.m3u8
 
 #EXTINF:4 group-title=”Portugal5”,
 
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png ,==Portugal==
+http://..........
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NDgJgRa.png" ,SUPER RTL
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/660/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/MTV_Dance_2017_logo.svg/1200px-MTV_Dance_2017_logo.svg.png" ,MTV DANCE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/228/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/MTV_Hits_2017_logo.svg/1024px-MTV_Hits_2017_logo.svg.png" ,MTV HITS
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/229/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" ,MTV ROCKS
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/230/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" ,MEZZO LIVE HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/153/index.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/6e/VOX-Logo_2013.png/revision/latest?cb=20150928151756" ,VOX
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/661/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RTL_Logo.svg/2000px-RTL_Logo.svg.png" ,RTL
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/658/index.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_RAI1" ,RAI 1
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/965/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Outdoor_Channel.svg/280px-Outdoor_Channel.svg.png" ,OUTDOOR CHANNEL
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/90/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Outdoor_Channel.svg/280px-Outdoor_Channel.svg.png" ,OUTDOOR CHANNEL
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/90/index.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2lsG9sq" ,RTP INTERNACIONAL
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/794/index.m3u8
+#EXTINF:-1 tvg-logo="http://savepic.net/8124090.png" ,MEZZO
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/67/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" ,FTV
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/625/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qO4kj9RlQ2A/WPIT3mAjrXI/AAAAAAAAFGY/E8sbiyA0_DEb3IV6wDcHfIUbBtyA6hEPwCLcB/s1600/cbs_reality_za.png" ,CBS REALITY
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/125/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-CNBC_logo.svg.png" ,CNBC
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/340/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DzLrn28.png" ,VH1 CLASSIC
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/237/index.m3u8
+#EXTINF:-1 tvg-logo="http://savepic.net/8100452.png" ,FINE LIVING NETWORK
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/941/index.m3u8
 
 
 
@@ -8200,6 +8905,98 @@ http://eshare.live.otvcloud.com/otv/nyz/live/channel90/700.m3u8
 
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/255px-Flag_of_the_People%27s_Republic_of_China.svg.png ,==China==
 http://..........
+
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg , Server 1
+http://.....
+
+#EXTINF:-1,CCTV-4
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225521/index.m3u8
+#EXTINF:-1,CCTV-7
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225832/index.m3u8
+#EXTINF:-1,CCTV-11
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225983/index.m3u8
+#EXTINF:-1,ShengZhenWeiShi
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225501/index.m3u8
+#EXTINF:-1,JiangSuWeiShi
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225989/index.m3u8
+#EXTINF:-1,DianYing
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8
+#EXTINF:-1,ShanDongWeiShi
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225775/index.m3u8
+#EXTINF:-1,LiaoNingWeiShi
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225782/index.m3u8
+#EXTINF:-1,BeiJingWeiShi
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225988/index.m3u8
+#EXTINF:-1,DongFangWeiShi
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
+#EXTINF:-1,GuangDongWeiShi
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225985/index.m3u8
+#EXTINF:-1,AnHuiWeiShi
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225809/index.m3u8
+#EXTINF:-1,GuangXiWeiShi
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225811/index.m3u8
+#EXTINF:-1,GuangXiWeiShi
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226002/index.m3u8
+#EXTINF:-1,JiaoYuQingNian
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225872/index.m3u8
+#EXTINF:-1,ShengHuo
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225873/index.m3u8
+#EXTINF:-1,DongMan
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225996/index.m3u8
+#EXTINF:-1,YouXiFengYun
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226003/index.m3u8
+#EXTINF:-1,KaKuShaoEr
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
+#EXTINF:-1,JingYingKaTong
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+#EXTINF:-1,BST TiYu1
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226030/index.m3u8
+#EXTINF:-1,BST TiYu2
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226035/index.m3u8
+#EXTINF:-1,Knews24
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226041/index.m3u8
+
+
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,Server 2
+http://.....
+
+#EXTINF:-1,CCTV1 HD
+http://58.54.72.225:9981/stream/channelid/1995100015
+#EXTINF:-1,CCTV2
+http://58.54.72.225:9981/stream/channelid/184840229
+#EXTINF:-1,CCTV3
+http://58.54.72.225:9981/stream/channelid/473587624
+#EXTINF:-1,CCTV4
+http://58.54.72.225:9981/stream/channelid/566362955
+#EXTINF:-1,CCTV5
+http://58.54.72.225:9981/stream/channelid/75084244
+#EXTINF:-1,CCTV6
+http://58.54.72.225:9981/stream/channelid/1035030915
+#EXTINF:-1,CCTV7
+http://58.54.72.225:9981/stream/channelid/447422695
+#EXTINF:-1,CCTV8
+http://58.54.72.225:9981/stream/channelid/1412443548
+#EXTINF:-1,CCTV9
+http://58.54.72.225:9981/stream/channelid/1225260424
+#EXTINF:-1,CCTV10
+http://58.54.72.225:9981/stream/channelid/1892217406
+#EXTINF:-1,CCTV11
+http://58.54.72.225:9981/stream/channelid/1427051472
+#EXTINF:-1,CCTV12
+http://58.54.72.225:9981/stream/channelid/1671594759
+#EXTINF:-1,CCTV13
+http://58.54.72.225:9981/stream/channelid/185931780
+#EXTINF:-1,CCTV14
+http://58.54.72.225:9981/stream/channelid/1825506351
+#EXTINF:-1,CCTV15
+http://58.54.72.225:9981/stream/channelid/880554123
+#EXTINF:-1,CGTN
+http://58.54.72.225:9981/stream/channelid/2022558056
+
+
+
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,Server 3
+http://.....
 
 #EXTINF:-1,cctv-1
 http://183.252.176.40/PLTV/88888888/224/3221225922/index.m3u8
