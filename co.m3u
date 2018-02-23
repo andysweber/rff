@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,21/02/18 !!
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,23/02/18
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -126,7 +126,7 @@ http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://goo.gl/np3siv ,SKAI
 http://master.cystreams.com:25461/live/greek/rockstar/42.ts
 #EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI (Youtube)
-https://www.youtube.com/watch?v=1GbeyS82AVo
+https://www.youtube.com/watch?v=9JDf3u_cm2Y
 #EXTINF:-1 tvg-id="Star.gr" tvg-logo=https://goo.gl/z2xi2U ,STAR
 http://master.cystreams.com:25461/live/greek/rockstar/40.ts
 #EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (USE GREECE VPN)
@@ -733,9 +733,6 @@ http://93.91.113.8:9999/play/a06z
 http://93.91.113.8:9999/play/a06n
 #EXTINF:-1, Nick Jr 
 http://93.91.113.8:9999/play/a06l 
-
-#EXTINF:-1 ,Investigation Discovery (Wuffy Player)
-http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
 
 #EXTINF:-1,FOX SPORTS 2 
 rtmp://vxdiptv.zapto.org/live/stream
@@ -1347,10 +1344,6 @@ http://93.91.113.8:9999/play/a06n
 #EXTINF:-1, Nick Jr 
 http://93.91.113.8:9999/play/a06l 
 
-
-#EXTINF:-1 ,Investigation Discovery (Wuffy Player)
-http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
-
 #EXTINF:-1,BabyTV 
 http://wowza2.mysoltv.com:1992/UK_UK_Baby/index.m3u8
 #EXTINF:-1,Nat geo wild
@@ -1377,8 +1370,6 @@ http://wowza2.mysoltv.com:1992/UK_ENG_nat_geo_wild_shsaa/index.m3u8
 #EXTINF:1 tvg-logo=http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg ,===UK===
 http://..........
 
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE
-https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
@@ -1391,123 +1382,154 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,My5 
-http://94.46.245.190:8000/play/a02y 
-#EXTINF:-1,Challenge 
-http://94.46.245.190:8000/play/a01q 
-#EXTINF:-1,Home 
-http://94.46.245.190:8000/play/a02f 
-#EXTINF:-1,BBC TWO HD 
-http://94.46.245.190:8000/play/a01h 
-#EXTINF:-1,Pick 
-http://94.46.245.190:8000/play/a01p 
-#EXTINF:-1,CBBC HD 
-http://94.46.245.190:8000/play/a01m 
-#EXTINF:-1,Sony Movie Ch 
-http://94.46.245.190:8000/play/a022 
-#EXTINF:-1,TalkingPictures TV 
-http://94.46.245.190:8000/play/a02h 
-#EXTINF:-1,5 USA 
-http://94.46.245.190:8000/play/a02l 
-#EXTINF:-1,QUEST+1 
-http://94.46.245.190:8000/play/a02p 
-#EXTINF:-1,CBS Reality 
-http://94.46.245.190:8000/play/a02q 
-#EXTINF:-1,Dave 
-http://94.46.245.190:8000/play/a01r 
-#EXTINF:-1,ITV2 +1 
-http://94.46.245.190:8000/play/a02w 
-#EXTINF:-1,Food Network 
-http://94.46.245.190:8000/play/a01u 
-#EXTINF:-1,Channel 4 HD 
-http://94.46.245.190:8000/play/a01k 
-#EXTINF:-1,ITV HD 
-http://94.46.245.190:8000/play/a01j 
-#EXTINF:-1,Film4+1 
-http://94.46.245.190:8000/play/a01n 
-#EXTINF:-1,True Christmas 
-http://94.46.245.190:8000/play/a02e 
-#EXTINF:-1,BBC ONE HD 
-http://94.46.245.190:8000/play/a01i 
-#EXTINF:-1,E4+1 
-http://94.46.245.190:8000/play/a01s 
-#EXTINF:-1,Channel 5 HD 
-http://94.46.245.190:8000/play/a01l 
-#EXTINF:-1,4Music 
-http://94.46.245.190:8000/play/a025 
-#EXTINF:-1,QVC 
-http://94.46.245.190:8000/play/a02n 
-#EXTINF:-1,True Entertainment 
-http://94.46.245.190:8000/play/a02u 
-#EXTINF:-1,truTV 
-http://94.46.245.190:8000/play/a01x 
-#EXTINF:-1,Quest Red 
-http://94.46.245.190:8000/play/a020 
-#EXTINF:-1,YourTV 
-http://94.46.245.190:8000/play/a01y 
-#EXTINF:-1,Travel Channel 
-http://94.46.245.190:8000/play/a02c 
-#EXTINF:-1,Channel 5+1 
-http://94.46.245.190:8000/play/a02m 
-#EXTINF:-1,Blaze 
-http://94.46.245.190:8000/play/a02o 
-#EXTINF:-1,TBN UK 
-http://94.46.245.190:8000/play/a01w 
-#EXTINF:-1,Horror Channel 
-http://94.46.245.190:8000/play/a02r 
-#EXTINF:-1,POP 
-http://94.46.245.190:8000/play/a029 
-#EXTINF:-1,Really 
-http://94.46.245.190:8000/play/a01z 
-#EXTINF:-1,RT 
-http://94.46.245.190:8000/play/a02a 
-#EXTINF:-1,5Spike 
-http://94.46.245.190:8000/play/a027 
-#EXTINF:-1,TJC 
-http://94.46.245.190:8000/play/a01v 
-#EXTINF:-1,Gems TV 
-http://94.46.245.190:8000/play/a023 
-#EXTINF:-1,Sky News 
-http://94.46.245.190:8000/play/a01o 
-#EXTINF:-1,Drama 
-http://94.46.245.190:8000/play/a02z 
-#EXTINF:-1,QVC Beauty 
-http://94.46.245.190:8000/play/a02i 
-#EXTINF:-1,ITV3 
-http://94.46.245.190:8000/play/a02x 
-#EXTINF:-1,5STAR 
-http://94.46.245.190:8000/play/a02k 
-#EXTINF:-1,ITVBe 
-http://94.46.245.190:8000/play/a02v 
-#EXTINF:-1,QUEST 
-http://94.46.245.190:8000/play/a02s 
-#EXTINF:-1,movies4men 
-http://94.46.245.190:8000/play/a021 
-#EXTINF:-1,4seven 
-http://94.46.245.190:8000/play/a028 
-#EXTINF:-1,CBS Action 
-http://94.46.245.190:8000/play/a02d 
-#EXTINF:-1,Dave ja vu 
-http://94.46.245.190:8000/play/a02g 
-#EXTINF:-1,Christmas Food 
-http://94.46.245.190:8001/play/a02a 
-#EXTINF:-1,Drama 
-http://94.46.245.190:8001/play/a02f 
-#EXTINF:-1,Eden 
-http://94.46.245.190:8001/play/a026 
-#EXTINF:-1,Disc.Science 
-http://94.46.245.190:8001/play/a007 
-#EXTINF:-1,propeller 
-http://94.46.245.190:8001/play/a00t 
-#EXTINF:-1,TLC 
-http://94.46.245.190:8001/play/a006 
-#EXTINF:-1,Kanshi TV 
-http://94.46.245.190:8001/play/a00x 
-#EXTINF:-1,W 
-http://94.46.245.190:8001/play/a02b
+#EXTINF:-1,Al Jazeera
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/AL_Jazeera/AL_Jazeera_800.m3u8
+#EXTINF:-1,Animal Planet (Eng)
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Animal_Planet_English/Animal_Planet_English_800.m3u8
+#EXTINF:-1,Animal Planet HD World
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Animal_Planet_HD/Animal_Planet_HD_800.m3u8
+#EXTINF:-1,Arre
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Arre/Arre_800.m3u8
+#EXTINF:-1,AXN HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/AXN_HD/AXN_HD_800.m3u8
+#EXTINF:-1,BBC World News
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/BBC_World_News/BBC_World_News_800.m3u8
+#EXTINF:-1,Brilliant Living TV
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Brilliant_TV_English/Brilliant_TV_English_800.m3u8
+#EXTINF:-1,BTVi
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/BTVi/BTVi_800.m3u8
+#EXTINF:-1,CNBC TV18
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/CNBC_Tv_18/CNBC_Tv_18_800.m3u8
+#EXTINF:-1,CNBC TV18 Prime HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/CNBC_Tv18_Prime_HD/CNBC_Tv18_Prime_HD_800.m3u8
+#EXTINF:-1,CNN
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/CNN/CNN_800.m3u8
+#EXTINF:-1,CNN News 18
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/CNN_NEWS_18/CNN_NEWS_18_800.m3u8
+#EXTINF:-1,CVR https://www.tvonlinestreams.com
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/CVR_English/CVR_English_800.m3u8
+#EXTINF:-1,Deutshe Welle
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/dw/dw_800.m3u8
+#EXTINF:-1,Discovery
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Discovery/Discovery_800.m3u8
+#EXTINF:-1,Discovery HD World
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Discovery_HD_World/Discovery_HD_World_800.m3u8
+#EXTINF:-1,Discovery Kids 1
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Discovery_Kids_1/Discovery_Kids_1_800.m3u8
+#EXTINF:-1,Discovery Science
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Discovery_Science/Discovery_Science_800.m3u8
+#EXTINF:-1,Discovery Turbo
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Discovery_Turbo/Discovery_Turbo_800.m3u8
+#EXTINF:-1,DSports HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1,ET Now
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ET_Now/ET_Now_800.m3u8
+#EXTINF:-1,Euro News
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Euro_News/Euro_News_800.m3u8
+#EXTINF:-1,France 24
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/France_24/France_24_800.m3u8
+#EXTINF:-1,Goa 365
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Goa365/Goa365_800.m3u8
+#EXTINF:-1,TV18 HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/FYI_TV18/FYI_TV18_800.m3u8
+#EXTINF:-1,Good News Channel
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/GoodNews_Channel/GoodNews_Channel_800.m3u8
+#EXTINF:-1,HBO HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/HBO_HD/HBO_HD_800.m3u8
+#EXTINF:-1,History HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/History_HD/History_HD_800.m3u8
+#EXTINF:-1,India Today
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/India_Today/India_Today_800.m3u8
+#EXTINF:-1,Insight
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Insight/Insight_800.m3u8
+#EXTINF:-1,Jio Events
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Jio_Events/Jio_Events_800.m3u8
+#EXTINF:-1,Jio Sports
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Jio_Sports/Jio_Sports_800.m3u8
+#EXTINF:-1,Living Foodz
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Living_Foodz/Living_Foodz_800.m3u8
+#EXTINF:-1,Millionlights
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Millionlights/Millionlights_800.m3u8
+#EXTINF:-1,Mirror Now
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Magic_bricks_Now/Magic_bricks_Now_800.m3u8
+#EXTINF:-1,MN+
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/MNPLUS/MNPLUS_800.m3u8
+#EXTINF:-1,MNX
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Movies_Now2/Movies_Now2_800.m3u8
+#EXTINF:-1,MNX HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Movies_Now2_HD/Movies_Now2_HD_800.m3u8
+#EXTINF:-1,Movies Now HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Movies_Now_HD/Movies_Now_HD_800.m3u8
+#EXTINF:-1,NDTV 24×7
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/NDTV_24x7/NDTV_24x7_800.m3u8
+#EXTINF:-1,NDTV Good Times
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/NDTV_Good_Times/NDTV_Good_Times_800.m3u8
+#EXTINF:-1,NDTV Profit
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/NDTV_Profit/NDTV_Profit_800.m3u8
+#EXTINF:-1,Neo Prime
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Neo_Prime/Neo_Prime_800.m3u8
+#EXTINF:-1,Neo Sports
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Neo_Sports/Neo_Sports_800.m3u8
+#EXTINF:-1,News 9
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/News_9/News_9_800.m3u8
+#EXTINF:-1,News Asia
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Channel_News_Asia_International/Channel_News_Asia_International_800.m3u8
+#EXTINF:-1,News X
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/News_X/News_X_800.m3u8
+#EXTINF:-1,Nick (Eng)
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Nickelodeon/Nickelodeon_800.m3u8
+#EXTINF:-1,Nick Jr.
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Nickelodeon_Jr/Nickelodeon_Jr_800.m3u8
+#EXTINF:-1,Republic TV
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Republic_TV/Republic_TV_800.m3u8
+#EXTINF:-1,Romedy Now HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Romedy_Now_HD/Romedy_Now_HD_800.m3u8
+#EXTINF:-1,Nick Sonic
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sonic_Nickelodeon/Sonic_Nickelodeon_800.m3u8
+#EXTINF:-1,Sony BBC Earth
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_BBC_Earth_SD/Sony_BBC_Earth_SD_800.m3u8
+#EXTINF:-1,Sony BBC Earth HD (Eng)
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_BBC_Earth_HD_English/Sony_BBC_Earth_HD_English_800.m3u8
+#EXTINF:-1,Sony ESPN
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_ESPN_SD/Sony_ESPN_SD_800.m3u8
+#EXTINF:-1,Sony ESPN HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_ESPN_HD/Sony_ESPN_HD_800.m3u8
+#EXTINF:-1,Sony Le PLEX HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_Le_PLEX_HD/Sony_Le_PLEX_HD_800.m3u8
+#EXTINF:-1,Sony Pix HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_Pix_HD/Sony_Pix_HD_800.m3u8
+#EXTINF:-1,Sony Six (Hindi)
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_Six_SD/Sony_Six_SD_800.m3u8
+#EXTINF:-1,Sony Six HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Six_HD/Six_HD_800.m3u8
+#EXTINF:-1,Star Sports HD 1
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Sports_HD_1/Star_Sports_HD_1_800.m3u8
+#EXTINF:-1,Star Sports HD 2
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Sports_HD_2/Star_Sports_HD_2_800.m3u8
+#EXTINF:-1,Star Sports Select HD 1
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Sports_Select_HD_1/Star_Sports_Select_HD_1_800.m3u8
+#EXTINF:-1,Star Sports Select HD 2
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Sports_Select_HD_2/Star_Sports_Select_HD_2_800.m3u8
+#EXTINF:-1,Sony Ten 1
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten_1/Ten_1_800.m3u8
+#EXTINF:-1,Sony Ten 1 HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten_HD/Ten_HD_800.m3u8
+#EXTINF:-1,Sony Ten 2
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten_2/Ten_2_800.m3u8
+#EXTINF:-1,Sony Ten 2 HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten2_HD/Ten2_HD_800.m3u8
+#EXTINF:-1,Sony Ten 3
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten_3/Ten_3_800.m3u8
+#EXTINF:-1,Sony Ten 3 HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten3_HD/Ten3_HD_800.m3u8
+#EXTINF:-1,Sony Ten Golf HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten_Golf_HD/Ten_Golf_HD_800.m3u8
+
+
+
 
 
 
@@ -1912,378 +1934,378 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,ALIBI
-http://207.244.157.34:25461/live/newap/streamz/594.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/594.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TG4
-http://207.244.157.34:25461/live/newap/streamz/3930.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3930.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,COMEDY CENTRAL
-http://207.244.157.34:25461/live/newap/streamz/610.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/610.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DAVE
-http://207.244.157.34:25461/live/newap/streamz/611.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/611.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISCOVERY SCIENCE
-http://207.244.157.34:25461/live/newap/streamz/5474.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5474.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISCOVERY HISTORY
-http://207.244.157.34:25461/live/newap/streamz/613.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/613.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISCOVERY TURBO
-http://207.244.157.34:25461/live/newap/streamz/3862.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3862.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISCOVERY SCi
-http://207.244.157.34:25461/live/newap/streamz/614.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/614.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISCOVERY
-http://207.244.157.34:25461/live/newap/streamz/612.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/612.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DW
-http://207.244.157.34:25461/live/newap/streamz/4483.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4483.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BBC ONE
-http://207.244.157.34:25461/live/newap/streamz/596.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/596.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,E4
-http://207.244.157.34:25461/live/newap/streamz/592.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/592.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BBC TWO
-http://207.244.157.34:25461/live/newap/streamz/597.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/597.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BBC FOUR
-http://207.244.157.34:25461/live/newap/streamz/599.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/599.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BBC THREE
-http://207.244.157.34:25461/live/newap/streamz/598.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/598.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BBC NEWS
-http://207.244.157.34:25461/live/newap/streamz/600.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/600.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BBC WORLD NEWS
-http://207.244.157.34:25461/live/newap/streamz/3980.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3980.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CBS ACTION
-http://207.244.157.34:25461/live/newap/streamz/603.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/603.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CBS DRAMA
-http://207.244.157.34:25461/live/newap/streamz/604.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/604.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CNBC
-http://207.244.157.34:25461/live/newap/streamz/608.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/608.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CNN INTERNATIONAL
-http://207.244.157.34:25461/live/newap/streamz/3979.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3979.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MOVIES NOW 2
-http://207.244.157.34:25461/live/newap/streamz/3961.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3961.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MORE 4
-http://207.244.157.34:25461/live/newap/streamz/626.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/626.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,LIVING FOODZ
-http://207.244.157.34:25461/live/newap/streamz/4496.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4496.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ITV 4
-http://207.244.157.34:25461/live/newap/streamz/624.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/624.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ANIMAL PLANET
-http://207.244.157.34:25461/live/newap/streamz/5473.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5473.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,AL JAZEERA NEWS
-http://207.244.157.34:25461/live/newap/streamz/4498.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4498.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,FOX
-http://207.244.157.34:25461/live/newap/streamz/4188.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4188.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,FILM 4
-http://207.244.157.34:25461/live/newap/streamz/619.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/619.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ITV 3
-http://207.244.157.34:25461/live/newap/streamz/3904.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3904.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ITV 2
-http://207.244.157.34:25461/live/newap/streamz/3970.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3970.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ITV 1
-http://207.244.157.34:25461/live/newap/streamz/3903.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3903.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,PICK TV
-http://207.244.157.34:25461/live/newap/streamz/638.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/638.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RT NEWS
-http://207.244.157.34:25461/live/newap/streamz/640.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/640.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TLC
-http://207.244.157.34:25461/live/newap/streamz/5476.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5476.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,WATCH
-http://207.244.157.34:25461/live/newap/streamz/4175.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4175.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,WARNER BROTHERS
-http://207.244.157.34:25461/live/newap/streamz/3963.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3963.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,UNIVERSAL
-http://207.244.157.34:25461/live/newap/streamz/4189.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4189.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TRUE MOVIES 2
-http://207.244.157.34:25461/live/newap/streamz/3891.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3891.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TRUE MOVIES 1
-http://207.244.157.34:25461/live/newap/streamz/3890.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3890.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TRAVEL CHANNEL
-http://207.244.157.34:25461/live/newap/streamz/3865.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3865.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,3E
-http://207.244.157.34:25461/live/newap/streamz/591.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/591.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,4 MUSIC
-http://207.244.157.34:25461/live/newap/streamz/4192.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4192.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,4 SEVEN
-http://207.244.157.34:25461/live/newap/streamz/4182.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4182.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,5 STAR
-http://207.244.157.34:25461/live/newap/streamz/593.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/593.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,5 USA
-http://207.244.157.34:25461/live/newap/streamz/3973.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3973.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ANIMAL PLANET
-http://207.244.157.34:25461/live/newap/streamz/3858.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3858.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BBC PARLIMENT
-http://207.244.157.34:25461/live/newap/streamz/3945.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3945.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BLOOMBERG
-http://207.244.157.34:25461/live/newap/streamz/601.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/601.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CHALLENGE TV
-http://207.244.157.34:25461/live/newap/streamz/4191.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4191.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CHART SHOW HITS
-http://207.244.157.34:25461/live/newap/streamz/4176.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4176.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,E! ENTERTAINMENT
-http://207.244.157.34:25461/live/newap/streamz/4185.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4185.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,FOOD NETWORK
-http://207.244.157.34:25461/live/newap/streamz/3931.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3931.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,FOX NEWS
-http://207.244.157.34:25461/live/newap/streamz/3947.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3947.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,GOLD CHANNEL
-http://207.244.157.34:25461/live/newap/streamz/4186.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4186.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,HEART TV
-http://207.244.157.34:25461/live/newap/streamz/4197.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4197.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,HOME
-http://207.244.157.34:25461/live/newap/streamz/4183.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4183.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,HORROR CHANNEL
-http://207.244.157.34:25461/live/newap/streamz/4195.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4195.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ITV BE
-http://207.244.157.34:25461/live/newap/streamz/4194.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4194.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ITV ENCORE
-http://207.244.157.34:25461/live/newap/streamz/4187.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4187.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MTV ROCKS
-http://207.244.157.34:25461/live/newap/streamz/3935.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3935.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,S4C
-http://207.244.157.34:25461/live/newap/streamz/4184.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4184.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SCUZZ
-http://207.244.157.34:25461/live/newap/streamz/4177.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4177.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY NEWS
-http://207.244.157.34:25461/live/newap/streamz/3946.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3946.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY CHANNEL
-http://207.244.157.34:25461/live/newap/streamz/4171.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4171.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SPIKE
-http://207.244.157.34:25461/live/newap/streamz/4190.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4190.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,THE VAULT
-http://207.244.157.34:25461/live/newap/streamz/4174.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4174.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TRUE CRIME
-http://207.244.157.34:25461/live/newap/streamz/4178.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4178.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,VH1
-http://207.244.157.34:25461/live/newap/streamz/3936.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3936.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,VIVA HITS
-http://207.244.157.34:25461/live/newap/streamz/3934.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3934.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,YESTERDAY
-http://207.244.157.34:25461/live/newap/streamz/3929.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3929.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ITV +1
-http://207.244.157.34:25461/live/newap/streamz/3943.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3943.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ITV 2 +1
-http://207.244.157.34:25461/live/newap/streamz/3939.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3939.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ITV 3 +1
-http://207.244.157.34:25461/live/newap/streamz/3938.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3938.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ITV 4 +1
-http://207.244.157.34:25461/live/newap/streamz/3937.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3937.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,KERRANG!
-http://207.244.157.34:25461/live/newap/streamz/4181.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4181.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,KISS TV
-http://207.244.157.34:25461/live/newap/streamz/4180.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4180.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MAGIC
-http://207.244.157.34:25461/live/newap/streamz/625.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/625.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MOVIES 24
-http://207.244.157.34:25461/live/newap/streamz/620.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/620.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MTV BASE
-http://207.244.157.34:25461/live/newap/streamz/627.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/627.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MTV CLASSICS
-http://207.244.157.34:25461/live/newap/streamz/628.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/628.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MTV DANCE
-http://207.244.157.34:25461/live/newap/streamz/629.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/629.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MTV HITS
-http://207.244.157.34:25461/live/newap/streamz/630.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/630.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MTV MUSIC
-http://207.244.157.34:25461/live/newap/streamz/631.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/631.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MTV
-http://207.244.157.34:25461/live/newap/streamz/3949.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3949.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NAT GEO CHANNEL
-http://207.244.157.34:25461/live/newap/streamz/633.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/633.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NAT GEO WILD
-http://207.244.157.34:25461/live/newap/streamz/632.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/632.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,QUEST
-http://207.244.157.34:25461/live/newap/streamz/639.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/639.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,REALLY
-http://207.244.157.34:25461/live/newap/streamz/609.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/609.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RTE 1
-http://207.244.157.34:25461/live/newap/streamz/641.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/641.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RTE 2
-http://207.244.157.34:25461/live/newap/streamz/642.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/642.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY ARTS 1
-http://207.244.157.34:25461/live/newap/streamz/3887.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3887.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY ATLANTIC
-http://207.244.157.34:25461/live/newap/streamz/3883.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3883.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY LIVING
-http://207.244.157.34:25461/live/newap/streamz/3889.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3889.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY MOVIES ACTION
-http://207.244.157.34:25461/live/newap/streamz/3881.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3881.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY MOVIES COMEDY
-http://207.244.157.34:25461/live/newap/streamz/3872.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3872.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY MOVIES CRI/THR
-http://207.244.157.34:25461/live/newap/streamz/3876.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3876.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY MOVIES DRAMA
-http://207.244.157.34:25461/live/newap/streamz/3879.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3879.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY MOVIES FAMILY
-http://207.244.157.34:25461/live/newap/streamz/3880.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3880.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY MOVIES MODERN GREAT
-http://207.244.157.34:25461/live/newap/streamz/3878.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3878.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY MOVIES PREMIER
-http://207.244.157.34:25461/live/newap/streamz/3874.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3874.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY MOVIES SCiFi/HORROR
-http://207.244.157.34:25461/live/newap/streamz/3873.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3873.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY MOVIES SELECT
-http://207.244.157.34:25461/live/newap/streamz/3875.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3875.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY MOVIES SHOWCASE
-http://207.244.157.34:25461/live/newap/streamz/3877.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3877.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY NEWS
-http://207.244.157.34:25461/live/newap/streamz/4102.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4102.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY ONE
-http://207.244.157.34:25461/live/newap/streamz/3885.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3885.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY TWO
-http://207.244.157.34:25461/live/newap/streamz/3886.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3886.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TCM
-http://207.244.157.34:25461/live/newap/streamz/3898.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3898.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,THE BOX
-http://207.244.157.34:25461/live/newap/streamz/4179.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4179.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TLC
-http://207.244.157.34:25461/live/newap/streamz/3899.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3899.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TRU TV
-http://207.244.157.34:25461/live/newap/streamz/3893.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3893.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TRUE CRIME
-http://207.244.157.34:25461/live/newap/streamz/3892.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3892.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,UTV IRELAND
-http://207.244.157.34:25461/live/newap/streamz/3910.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3910.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,VH1 CLASSIC
-http://207.244.157.34:25461/live/newap/streamz/3900.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3900.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,VIVA
-http://207.244.157.34:25461/live/newap/streamz/3902.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3902.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BBC ONE WALES
-http://207.244.157.34:25461/live/newap/streamz/3941.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3941.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BBC1 N.IRELAND
-http://207.244.157.34:25461/live/newap/streamz/3942.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3942.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BBC1 SCOTLAND
-http://207.244.157.34:25461/live/newap/streamz/3940.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3940.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BOX HITS
-http://207.244.157.34:25461/live/newap/streamz/4172.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4172.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BOX UPFRONT
-http://207.244.157.34:25461/live/newap/streamz/4173.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4173.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CBS REALITY
-http://207.244.157.34:25461/live/newap/streamz/605.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/605.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CHANNEL 4
-http://207.244.157.34:25461/live/newap/streamz/607.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/607.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CHANNEL 5
-http://207.244.157.34:25461/live/newap/streamz/606.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/606.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CHART SHOW TV
-http://207.244.157.34:25461/live/newap/streamz/3905.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3905.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CRIME AND INVESTIGATION
-http://207.244.157.34:25461/live/newap/streamz/3869.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3869.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISCOVERY ID
-http://207.244.157.34:25461/live/newap/streamz/615.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/615.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISCOVERY TURBO
-http://207.244.157.34:25461/live/newap/streamz/3901.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3901.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DMAX
-http://207.244.157.34:25461/live/newap/streamz/3953.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3953.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DRAMA
-http://207.244.157.34:25461/live/newap/streamz/3894.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3894.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,EDEN
-http://207.244.157.34:25461/live/newap/streamz/3868.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3868.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,HBO
-http://207.244.157.34:25461/live/newap/streamz/3972.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3972.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,HISTORY 2
-http://207.244.157.34:25461/live/newap/streamz/3860.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3860.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,HISTORY
-http://207.244.157.34:25461/live/newap/streamz/3859.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3859.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BBO TV
-http://207.244.157.34:25461/live/newap/streamz/5664.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5664.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,KBO UK
-http://207.244.157.34:25461/live/newap/streamz/5629.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5629.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BABY TV
-http://207.244.157.34:25461/live/newap/streamz/4686.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4686.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BBC CBEEBIES
-http://207.244.157.34:25461/live/newap/streamz/4696.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4696.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BOOMERANG
-http://207.244.157.34:25461/live/newap/streamz/4689.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4689.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CARTOONITO
-http://207.244.157.34:25461/live/newap/streamz/4678.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4678.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CBBC
-http://207.244.157.34:25461/live/newap/streamz/4697.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4697.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CITV
-http://207.244.157.34:25461/live/newap/streamz/4698.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4698.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NICKTOONS
-http://207.244.157.34:25461/live/newap/streamz/4682.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4682.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RTE JUNIOR
-http://207.244.157.34:25461/live/newap/streamz/4688.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4688.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CAPITAL LONDON
-http://207.244.157.34:25461/live/newap/streamz/595.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/595.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CARTOON NETWORK
-http://207.244.157.34:25461/live/newap/streamz/602.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/602.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISNEY JR
-http://207.244.157.34:25461/live/newap/streamz/617.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/617.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISNEY
-http://207.244.157.34:25461/live/newap/streamz/616.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/616.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISNEY XD
-http://207.244.157.34:25461/live/newap/streamz/618.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/618.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,KIX
-http://207.244.157.34:25461/live/newap/streamz/4196.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4196.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NICK JR TOO
-http://207.244.157.34:25461/live/newap/streamz/635.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/635.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NICKELODEON
-http://207.244.157.34:25461/live/newap/streamz/637.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/637.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISCOVERY KIDS
-http://207.244.157.34:25461/live/newap/streamz/4748.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4748.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,PEACE TV
-http://207.244.157.34:25461/live/newap/streamz/4999.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4999.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 
 #EXTINF:-1,SKY SPORTS ACTION
-http://207.244.157.34:25461/live/newap/streamz/5920.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5920.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY SPORTS CRICKET
-http://207.244.157.34:25461/live/newap/streamz/5921.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5921.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY SPORTS F1
-http://207.244.157.34:25461/live/newap/streamz/5926.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5926.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY SPORTS FOOTBALL
-http://207.244.157.34:25461/live/newap/streamz/5922.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5922.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY SPORTS GOLF
-http://207.244.157.34:25461/live/newap/streamz/5927.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5927.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY SPORTS MAIN EVENT
-http://207.244.157.34:25461/live/newap/streamz/5923.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5923.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY SPORTS MIX
-http://207.244.157.34:25461/live/newap/streamz/5924.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5924.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY SPORTS NEWS
-http://207.244.157.34:25461/live/newap/streamz/5928.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5928.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY SPORTS P.LEAGUE
-http://207.244.157.34:25461/live/newap/streamz/5925.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5925.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SETANTA SPORTS
-http://207.244.157.34:25461/live/newap/streamz/5933.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5933.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,PREMIER SPORTS
-http://207.244.157.34:25461/live/newap/streamz/4201.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4201.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,PTV SPORTS
-http://207.244.157.34:25461/live/newap/streamz/5056.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5056.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NEO SPORTS
-http://207.244.157.34:25461/live/newap/streamz/5457.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5457.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NEO PRIME
-http://207.244.157.34:25461/live/newap/streamz/5435.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5435.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MUTV
-http://207.244.157.34:25461/live/newap/streamz/5931.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5931.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,LFC TV
-http://207.244.157.34:25461/live/newap/streamz/5932.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5932.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,GEO SUPER
-http://207.244.157.34:25461/live/newap/streamz/4806.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4806.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,FREE SPORTS
-http://207.244.157.34:25461/live/newap/streamz/5930.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5930.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CHELSEA TV UK
-http://207.244.157.34:25461/live/newap/streamz/3981.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3981.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DSPORTS HD
-http://207.244.157.34:25461/live/newap/streamz/5441.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5441.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BT SPORTS 1
-http://207.244.157.34:25461/live/newap/streamz/5919.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5919.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BT SPORTS 2
-http://207.244.157.34:25461/live/newap/streamz/4202.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4202.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BT SPORTS 3
-http://207.244.157.34:25461/live/newap/streamz/4199.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4199.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BT SPORTS ESPN
-http://207.244.157.34:25461/live/newap/streamz/4200.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4200.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,EIR SPORTS 1
-http://207.244.157.34:25461/live/newap/streamz/5929.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5929.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RACING UK
-http://207.244.157.34:25461/live/newap/streamz/4135.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4135.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,OSN WWE
-http://207.244.157.34:25461/live/newap/streamz/4365.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4365.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MOTORSPORT TV
-http://207.244.157.34:25461/live/newap/streamz/5935.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5935.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MOTORS TV UK
-http://207.244.157.34:25461/live/newap/streamz/3950.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3950.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,HORSE AND COUNTRY
-http://207.244.157.34:25461/live/newap/streamz/5936.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5936.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DD SPORTS
-http://207.244.157.34:25461/live/newap/streamz/5046.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5046.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BOX NATION
-http://207.244.157.34:25461/live/newap/streamz/4198.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4198.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,AT THE RACE
-http://207.244.157.34:25461/live/newap/streamz/4136.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4136.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 
 
 
@@ -2745,10 +2767,40 @@ http://185.134.228.141:8891
 
 #EXTINF:4 group-title=”Bulgaria2”,
 
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/255px-Flag_of_Bulgaria.svg.png ,==Bulgaria==
+http://..........
 
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
 
-
-
+#EXTINF:0, film+ bulgaria
+http://93.123.65.3:9124/124
+#EXTINF:0, hd super tennis
+http://93.123.65.3:9130/130
+#EXTINF:0, f+ bulgaria
+http://93.123.65.3:9143/143
+#EXTINF:0, eurosport 2 bl (srp)
+http://93.123.65.3:9146/146
+#EXTINF:0, tlc (srp)
+http://93.123.65.3:9148/148
+#EXTINF:0, hd tivibu spor
+http://93.123.65.3:9246/246
+#EXTINF:0, animal planet (srp)
+http://93.123.65.3:9257/257
+#EXTINF:0, hd sport+ bulgaria
+http://93.123.65.3:9262/262
 
 
 
@@ -2917,8 +2969,38 @@ http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
 
 #EXTINF:8 group-title=”Italy2”,
 
+#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg ,==Italy==
+http://..........
 
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
 
+#EXTINF:-1,RAI 2
+http://185.231.160.52/1063/4/index.m3u8
+#EXTINF:-1,RAI 4
+http://185.231.160.52/1077/4/index.m3u8
+#EXTINF:-1,RAI 4
+http://185.231.160.52/1078/4/index.m3u8
+#EXTINF:-1,RAI 5
+http://185.231.160.52/1081/4/index.m3u8
+#EXTINF:-1,RAI 5
+http://185.231.160.52/1082/4/index.m3u8
+#EXTINF:-1,Rai News 24
+http://185.231.160.52/1065/4/index.m3u8
 
 
 
@@ -3330,9 +3412,9 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,NICKELODEON
-http://207.244.157.34:25461/live/newap/streamz/826.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/826.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CARTOONITO
-http://207.244.157.34:25461/live/newap/streamz/4942.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4942.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 
 
 
@@ -3999,27 +4081,27 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,BOOMERANG
-http://207.244.157.34:25461/live/newap/streamz/4718.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4718.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CANAL J
-http://207.244.157.34:25461/live/newap/streamz/4717.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4717.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CARTOON NETWORK
-http://207.244.157.34:25461/live/newap/streamz/4716.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4716.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISNEY JR
-http://207.244.157.34:25461/live/newap/streamz/4715.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4715.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZOUZOU TV
-http://207.244.157.34:25461/live/newap/streamz/4709.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4709.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TFOU TV
-http://207.244.157.34:25461/live/newap/streamz/4719.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4719.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TIJI
-http://207.244.157.34:25461/live/newap/streamz/4710.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4710.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TELETOON PLUS
-http://207.244.157.34:25461/live/newap/streamz/4711.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4711.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,PIWI +
-http://207.244.157.34:25461/live/newap/streamz/4712.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4712.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISNEY XD
-http://207.244.157.34:25461/live/newap/streamz/4714.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4714.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,GULLI
-http://207.244.157.34:25461/live/newap/streamz/4713.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4713.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 
 
 
@@ -5160,219 +5242,219 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,DISNEY XD
-http://207.244.157.34:25461/live/newap/streamz/4720.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4720.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SUPER RTL HD.
-http://207.244.157.34:25461/live/newap/streamz/582.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/582.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISNEY CINEMAGIC HD 
-http://207.244.157.34:25461/live/newap/streamz/531.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/531.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISNEY HD 
-http://207.244.157.34:25461/live/newap/streamz/530.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/530.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISNEY JR HD 
-http://207.244.157.34:25461/live/newap/streamz/532.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/532.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISNEY XD HD 
-http://207.244.157.34:25461/live/newap/streamz/533.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/533.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,KIKA HD 
-http://207.244.157.34:25461/live/newap/streamz/540.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/540.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NICKLODEON HD
-http://207.244.157.34:25461/live/newap/streamz/5945.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5945.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TOGGO PLUS
-http://207.244.157.34:25461/live/newap/streamz/5956.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5956.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,13 STREET HD
-http://207.244.157.34:25461/live/newap/streamz/3694.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3694.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,3 SAT HD
-http://207.244.157.34:25461/live/newap/streamz/5938.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5938.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,A AND E
-http://207.244.157.34:25461/live/newap/streamz/5937.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5937.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ANIMAL PLANET HD
-http://207.244.157.34:25461/live/newap/streamz/5939.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5939.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ANIXE HD
-http://207.244.157.34:25461/live/newap/streamz/5331.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5331.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ARD HD
-http://207.244.157.34:25461/live/newap/streamz/5329.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5329.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ARTE HD
-http://207.244.157.34:25461/live/newap/streamz/5328.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5328.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,AXN HD
-http://207.244.157.34:25461/live/newap/streamz/526.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/526.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CLASSICA HD
-http://207.244.157.34:25461/live/newap/streamz/5940.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5940.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISCOVERY HD
-http://207.244.157.34:25461/live/newap/streamz/529.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/529.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DMAX HD
-http://207.244.157.34:25461/live/newap/streamz/534.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/534.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,E! ENTERTAINMENT HD
-http://207.244.157.34:25461/live/newap/streamz/5323.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5323.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,EURO NEWS
-http://207.244.157.34:25461/live/newap/streamz/816.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/816.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,FOX HD
-http://207.244.157.34:25461/live/newap/streamz/537.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/537.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,HEIMAT KANAL
-http://207.244.157.34:25461/live/newap/streamz/5332.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5332.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,HISTORY HD
-http://207.244.157.34:25461/live/newap/streamz/538.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/538.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,JUKEBOX TV
-http://207.244.157.34:25461/live/newap/streamz/3702.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3702.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,KABEL EINS HD
-http://207.244.157.34:25461/live/newap/streamz/539.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/539.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,KINO WELT HD
-http://207.244.157.34:25461/live/newap/streamz/541.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/541.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,KRONEHIT
-http://207.244.157.34:25461/live/newap/streamz/5943.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5943.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MUNCHEN TV HD
-http://207.244.157.34:25461/live/newap/streamz/5942.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5942.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,N24 HD
-http://207.244.157.34:25461/live/newap/streamz/823.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/823.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NAT GEO CHANNEL HD
-http://207.244.157.34:25461/live/newap/streamz/543.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/543.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NAT GEO PEOPLE HD
-http://207.244.157.34:25461/live/newap/streamz/828.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/828.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NAT GEO WILD HD
-http://207.244.157.34:25461/live/newap/streamz/544.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/544.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NDR HD
-http://207.244.157.34:25461/live/newap/streamz/5326.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5326.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,N-TV
-http://207.244.157.34:25461/live/newap/streamz/3701.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3701.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ORF EINS HD
-http://207.244.157.34:25461/live/newap/streamz/829.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/829.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ORF 2 HD
-http://207.244.157.34:25461/live/newap/streamz/830.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/830.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ORF 3 HD
-http://207.244.157.34:25461/live/newap/streamz/5946.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5946.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,PHOENIX HD
-http://207.244.157.34:25461/live/newap/streamz/5947.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5947.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,PLANET HD
-http://207.244.157.34:25461/live/newap/streamz/5324.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5324.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,PRO 7 HD
-http://207.244.157.34:25461/live/newap/streamz/3696.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3696.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,PRO 7 FUN HD
-http://207.244.157.34:25461/live/newap/streamz/545.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/545.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,PRO 7 MAXX HD
-http://207.244.157.34:25461/live/newap/streamz/546.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/546.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY KIRIMI /
-http://207.244.157.34:25461/live/newap/streamz/5948.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5948.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ROMANCE TV
-http://207.244.157.34:25461/live/newap/streamz/547.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/547.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RTL HD
-http://207.244.157.34:25461/live/newap/streamz/550.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/550.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RTL 2 HD
-http://207.244.157.34:25461/live/newap/streamz/548.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/548.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RTL CRIME HD
-http://207.244.157.34:25461/live/newap/streamz/549.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/549.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RTL LIVING HD
-http://207.244.157.34:25461/live/newap/streamz/551.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/551.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RTL NITRO HD
-http://207.244.157.34:25461/live/newap/streamz/552.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/552.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RTL PASSION HD
-http://207.244.157.34:25461/live/newap/streamz/553.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/553.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RTL PLUS HD
-http://207.244.157.34:25461/live/newap/streamz/554.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/554.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SAT.1 HD
-http://207.244.157.34:25461/live/newap/streamz/555.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/555.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SAT.1 GOLD
-http://207.244.157.34:25461/live/newap/streamz/5949.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5949.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SERVUS TV
-http://207.244.157.34:25461/live/newap/streamz/5950.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5950.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SIXX HD
-http://207.244.157.34:25461/live/newap/streamz/556.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/556.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY 1 HD
-http://207.244.157.34:25461/live/newap/streamz/5951.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5951.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY ACTION HD
-http://207.244.157.34:25461/live/newap/streamz/3695.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3695.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY ATLANTIC HD
-http://207.244.157.34:25461/live/newap/streamz/577.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/577.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY CINEMA 1 HD
-http://207.244.157.34:25461/live/newap/streamz/857.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/857.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY CINEMA 24 HD
-http://207.244.157.34:25461/live/newap/streamz/559.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/559.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY CINEMA ACTION HD
-http://207.244.157.34:25461/live/newap/streamz/557.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/557.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY CINEMA COMEDY HD
-http://207.244.157.34:25461/live/newap/streamz/563.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/563.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY CINEMA EMOTION HD
-http://207.244.157.34:25461/live/newap/streamz/560.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/560.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY CINEMA HD
-http://207.244.157.34:25461/live/newap/streamz/562.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/562.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY CINEMA HITS HD
-http://207.244.157.34:25461/live/newap/streamz/565.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/565.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY CINEMA FAMILY HD
-http://207.244.157.34:25461/live/newap/streamz/561.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/561.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY KIRIMI
-http://207.244.157.34:25461/live/newap/streamz/542.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/542.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY NOSTALGIE HD
-http://207.244.157.34:25461/live/newap/streamz/5952.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5952.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY SELECT HD 1
-http://207.244.157.34:25461/live/newap/streamz/3686.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3686.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY SELECT 2 HD
-http://207.244.157.34:25461/live/newap/streamz/567.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/567.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY SELECT 3 HD
-http://207.244.157.34:25461/live/newap/streamz/568.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/568.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY SELECT 4 HD
-http://207.244.157.34:25461/live/newap/streamz/569.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/569.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY SELECT 5 HD
-http://207.244.157.34:25461/live/newap/streamz/570.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/570.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY SELECT 6 HD
-http://207.244.157.34:25461/live/newap/streamz/571.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/571.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY SELECT 7 HD
-http://207.244.157.34:25461/live/newap/streamz/572.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/572.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY SELECT 8 HD
-http://207.244.157.34:25461/live/newap/streamz/573.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/573.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY SELECT 9 HD
-http://207.244.157.34:25461/live/newap/streamz/566.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/566.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY SELECT HD 10
-http://207.244.157.34:25461/live/newap/streamz/3687.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3687.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY CHANNEL
-http://207.244.157.34:25461/live/newap/streamz/579.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/579.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SPIEGEL GESCHICHTE
-http://207.244.157.34:25461/live/newap/streamz/580.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/580.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SYFY HD
-http://207.244.157.34:25461/live/newap/streamz/578.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/578.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SWR HD
-http://207.244.157.34:25461/live/newap/streamz/5958.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5958.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TELE 5 HD
-http://207.244.157.34:25461/live/newap/streamz/5957.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5957.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TLC HD
-http://207.244.157.34:25461/live/newap/streamz/583.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/583.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TNT FILM HD
-http://207.244.157.34:25461/live/newap/streamz/585.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/585.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TNT SERIES HD
-http://207.244.157.34:25461/live/newap/streamz/586.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/586.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,UNIVERSAL CHANNEL HD
-http://207.244.157.34:25461/live/newap/streamz/587.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/587.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,VIVA
-http://207.244.157.34:25461/live/newap/streamz/5955.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5955.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,VOX HD
-http://207.244.157.34:25461/live/newap/streamz/588.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/588.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,WDR
-http://207.244.157.34:25461/live/newap/streamz/5327.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5327.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZDF HD
-http://207.244.157.34:25461/live/newap/streamz/589.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/589.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZDF INFO
-http://207.244.157.34:25461/live/newap/streamz/5954.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5954.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZDF NEO HD
-http://207.244.157.34:25461/live/newap/streamz/5953.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5953.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE ONE HD
-http://207.244.157.34:25461/live/newap/streamz/590.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/590.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY SPORTS NEWS HD
-http://207.244.157.34:25461/live/newap/streamz/576.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/576.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY SPORT 1 HD 
-http://207.244.157.34:25461/live/newap/streamz/581.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/581.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY SPORT 2 HD
-http://207.244.157.34:25461/live/newap/streamz/5964.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5964.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SKY SPORT AUSTRIA 
-http://207.244.157.34:25461/live/newap/streamz/5965.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5965.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SRF 1 HD 
-http://207.244.157.34:25461/live/newap/streamz/5960.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5960.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SRF 2 HD 
-http://207.244.157.34:25461/live/newap/streamz/5959.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5959.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SPORT 1 HD
-http://207.244.157.34:25461/live/newap/streamz/5962.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5962.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SPORT DIGITAL HD 
-http://207.244.157.34:25461/live/newap/streamz/5961.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5961.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MOTORVISON TV 
-http://207.244.157.34:25461/live/newap/streamz/5944.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5944.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,EUROSPORT 2 HD
-http://207.244.157.34:25461/live/newap/streamz/5941.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5941.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,EUROSPORTS 1 HD
-http://207.244.157.34:25461/live/newap/streamz/254.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/254.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 
 
 
@@ -6039,94 +6121,6 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/211/inde
 
 #EXTINF:8 group-title=”Spain4”,
 
-#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
-http://..........
-
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1,Disney Junior
-http://83.33.201.230:7777/udp/239.0.0.10:8208
-#EXTINF:-1,Disney XD
-http://83.33.201.230:7777/udp/239.0.0.11:8208
-#EXTINF:-1,Disney Channel
-http://83.33.201.230:7777/udp/239.0.0.64:8208
-#EXTINF:-1,Boing
-http://83.33.201.230:7777/udp/239.0.0.66:8208
-#EXTINF:-1,Nickelodeon
-http://83.33.201.230:7777/udp/239.0.0.69:8208
-#EXTINF:-1,Nick Jr.
-http://83.33.201.230:7777/udp/239.0.0.115:8208
-#EXTINF:-1,Canal Sur Andalucia
-http://83.33.201.230:7777/udp/239.0.0.1:8208
-#EXTINF:-1,La 2 (EN)
-http://83.33.201.230:7777/udp/239.0.0.2:8208
-#EXTINF:-1,Antena 3
-http://83.33.201.230:7777/udp/239.0.0.3:8208
-#EXTINF:-1,Cuatro (EN)
-http://83.33.201.230:7777/udp/239.0.0.4:8208
-#EXTINF:-1,Telecinco (EN)
-http://83.33.201.230:7777/udp/239.0.0.5:8208
-#EXTINF:-1,AMC (EN)
-http://83.33.201.230:7777/udp/239.0.0.8:8208
-#EXTINF:-1,40 TV
-http://83.33.201.230:7777/udp/239.0.0.12:8208
-#EXTINF:-1,Calle 13 (EN)
-http://83.33.201.230:7777/udp/239.0.0.13:8208
-#EXTINF:-1,AXN (EN)
-http://83.33.201.230:7777/udp/239.0.0.14:8208
-#EXTINF:-1,Cosmo (EN)
-http://83.33.201.230:7777/udp/239.0.0.15:8208
-#EXTINF:-1,Hollywoood (EN)
-http://83.33.201.230:7777/udp/239.0.0.16:8208
-#EXTINF:-1,Sportmania
-http://83.33.201.230:7777/udp/239.0.0.17:8208
-#EXTINF:-1,Eurosport (EN)
-http://83.33.201.230:7777/udp/239.0.0.18:8208
-#EXTINF:-1,Historia (EN)
-http://83.33.201.230:7777/udp/239.0.0.19:8208
-#EXTINF:-1,Viajar (EN)
-http://83.33.201.230:7777/udp/239.0.0.20:8208
-#EXTINF:-1,Discovery Ch. (EN)
-http://83.33.201.230:7777/udp/239.0.0.21:8208
-#EXTINF:-1,Odisea (EN)
-http://83.33.201.230:7777/udp/239.0.0.22:8208
-#EXTINF:-1,Tele Madrid (EN)
-http://83.33.201.230:7777/udp/239.0.0.25:8208
-#EXTINF:-1,L https://www.tvonlinestreams.com
-http://83.33.201.230:7777/udp/239.0.0.26:8208
-#EXTINF:-1,Canal Cocina
-http://83.33.201.230:7777/udp/239.0.0.27:8208
-#EXTINF:-1,Euronews (EN)
-http://83.33.201.230:7777/udp/239.0.0.28:8208
-#EXTINF:-1,EXTINF:-1 Bloomberg TV
-http://83.33.201.230:7777/udp/239.0.0.29:8208
-#EXTINF:-1,BBC World
-http://83.33.201.230:7777/udp/239.0.0.30:8208
-#EXTINF:-1,TV5 Monde Europe
-http://83.33.201.230:7777/udp/239.0.0.31:8208
-#EXTINF:-1,Discovery MAX (EN)
-http://83.33.201.230:7777/udp/239.0.0.32:8208
-#EXTINF:-1,Eurosport 2 (EN)
-http://83.33.201.230:7777/udp/239.0.0.37:8208
-#EXTINF:-1,EWTN
-http://83.33.201.230:7777/udp/239.0.0.72:8208
-#EXTINF:-1,FOX
-http://83.33.201.230:7777/udp/239.0.0.74:8208
-#EXTINF:-1,VH+1
-http://83.33.201.230:7777/udp/239.0.0.75:8208
 
 
 
@@ -6404,30 +6398,29 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,CANAL PANDA
-http://207.244.157.34:25461/live/newap/streamz/4722.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4722.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BARCA TV 
-http://207.244.157.34:25461/live/newap/streamz/455.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/455.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CANAL LIGA HD 
-http://207.244.157.34:25461/live/newap/streamz/4948.ts|refferer=http://solidstreamz.com/&user-agent=token
-
+http://207.244.157.34:25461/live/psl/match/4948.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,A AND E
-http://207.244.157.34:25461/live/newap/streamz/3722.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3722.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,A&E
-http://207.244.157.34:25461/live/newap/streamz/450.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/450.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CALLE 13
-http://207.244.157.34:25461/live/newap/streamz/458.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/458.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CANAL ACCION HD
-http://207.244.157.34:25461/live/newap/streamz/461.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/461.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CANAL COMEDIA HD
-http://207.244.157.34:25461/live/newap/streamz/462.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/462.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CANAL+ DEPORTES 2
-http://207.244.157.34:25461/live/newap/streamz/459.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/459.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CUATRO HD
-http://207.244.157.34:25461/live/newap/streamz/3745.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3745.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,M ESTRENOS
-http://207.244.157.34:25461/live/newap/streamz/3733.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3733.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,M SERIES
-http://207.244.157.34:25461/live/newap/streamz/3736.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3736.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 
 
 
@@ -7746,17 +7739,17 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,BABY TV
-http://207.244.157.34:25461/live/newap/streamz/471.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/471.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BIGGS KIDS
-http://207.244.157.34:25461/live/newap/streamz/473.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/473.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CANAL PANDA
-http://207.244.157.34:25461/live/newap/streamz/477.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/477.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CARTOON NETWORK
-http://207.244.157.34:25461/live/newap/streamz/643.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/643.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISNEY CHANNEL
-http://207.244.157.34:25461/live/newap/streamz/644.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/644.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISNEY JR
-http://207.244.157.34:25461/live/newap/streamz/645.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/645.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 
 
 
@@ -8031,6 +8024,95 @@ mms://62.162.58.55/TVIris
 #EXTINF:0,KANAL 21
 mms://62.162.58.55/TVKanal21
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:8 group-title=”Albania2”,
+
+#EXTINF:1 tvg-logo=http://www.worldatlas.com/webimage/flags/countrys/zzzflags/allarge.gif ,==Albania==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+#EXTINF:-1,ALSATM 
+http://37.187.160.19:8080/ALSATM/index.m3u8 
+#EXTINF:-1,ARTE 
+http://37.187.160.19:8080/ARTEHD/index.m3u8 
+#EXTINF:-1,BANBANG 
+http://37.187.160.19:8080/BANGBANG/index.m3u8 
+#EXTINF:-1,FILM AKSION 
+http://37.187.160.19:8080/FILMAKSION/index.m3u8 
+#EXTINF:-1,FILMDY 
+http://37.187.160.19:8080/FILMDY/index.m3u8 
+#EXTINF:-1,KIKA 
+http://37.187.160.19:8080/KIKA/index.m3u8 
+#EXTINF:-1,N24 
+http://37.187.160.19:8080/N24/index.m3u 
+#EXTINF:-1,RTK1 
+http://37.187.160.19:8080/RTK1SAT/index.m3u8 
+#EXTINF:-1,RTL NITRO 
+http://37.187.160.19:8080/RTLNITRO/index.m3u8 
+#EXTINF:-1,RTL CH 
+http://37.187.160.19:8080/RTLCH/index.m3u8 
+#EXTINF:-1,RTL 2 CH 
+http://37.187.160.19:8080/RTL2CH/index.m3u8 
+#EXTINF:-1,RTV21 
+http://37.187.160.19:8080/RTV21/index.m3u8 
+#EXTINF:-1,RTV21M 
+http://37.187.160.19:8080/RTV21M/index.m3u8 
+#EXTINF:-1,SAT 1 
+http://37.187.160.19:8080/SAT1GOLD/index.m3u8 
+#EXTINF:-1,SRF INFO 
+http://37.187.160.19:8080/SRFINFO/index.m3u8 
+#EXTINF:-1,SRF 1 
+http://37.187.160.19:8080/SRF1/index.m3u8 
+#EXTINF:-1,SRF 2 
+http://37.187.160.19:8080/SRF2/index.m3u8 
+#EXTINF:-1,SUPER RTL 
+http://37.187.160.19:8080/SUPERRTL/index.m3u8 
+#EXTINF:-1,TOP CHANNEL 
+http://37.187.160.19:8080/TOPCHANNEL/index.m3u8 
+#EXTINF:-1,TRING 
+http://37.187.160.19:8080/TRINGSUPER/index.m3u8 
+#EXTINF:-1,TRING 
+http://37.187.160.19:8080/TRINGFANTASY/index.m3u8 
+#EXTINF:-1,TRING 
+http://37.187.160.19:8080/TRINGLIFE/index.m3u8 
+#EXTINF:-1,TRING 
+http://37.187.160.19:8080/TRINGPLANET/index.m3u8 
+#EXTINF:-1,TRING 
+http://37.187.160.19:8080/TRINGSHQIP/index.m3u8 
+#EXTINF:-1,TRING 
+http://37.187.160.19:8080/TRINGTRING/index.m3u8 
+#EXTINF:-1,TRING 
+http://37.187.160.19:8080/TRINGWORLD/index.m3u8
 
 
 
@@ -9145,151 +9227,151 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,24 GHANTA
-http://207.244.157.34:25461/live/newap/streamz/5188.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5188.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,AAKAASH BANGLA
-http://207.244.157.34:25461/live/newap/streamz/5237.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5237.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,AAMAR BANGLA
-http://207.244.157.34:25461/live/newap/streamz/5238.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5238.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ABP ANANDA
-http://207.244.157.34:25461/live/newap/streamz/5202.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5202.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ASIAN TV
-http://207.244.157.34:25461/live/newap/streamz/5222.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5222.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ATN BANGLA UK
-http://207.244.157.34:25461/live/newap/streamz/5220.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5220.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ATN BANGLA
-http://207.244.157.34:25461/live/newap/streamz/5221.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5221.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ATN MUSIC TV
-http://207.244.157.34:25461/live/newap/streamz/5192.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5192.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ATN NEWS
-http://207.244.157.34:25461/live/newap/streamz/5193.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5193.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BANGLA ETV
-http://207.244.157.34:25461/live/newap/streamz/5244.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5244.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BANGLA TIMES
-http://207.244.157.34:25461/live/newap/streamz/5217.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5217.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BANGLA TV UK
-http://207.244.157.34:25461/live/newap/streamz/5219.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5219.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BANGLA VISION
-http://207.244.157.34:25461/live/newap/streamz/5218.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5218.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BIJOY TV
-http://207.244.157.34:25461/live/newap/streamz/5236.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5236.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BNS1 TV
-http://207.244.157.34:25461/live/newap/streamz/5235.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5235.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BOISHAKHI TV
-http://207.244.157.34:25461/live/newap/streamz/5194.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5194.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BTV WORLD
-http://207.244.157.34:25461/live/newap/streamz/5233.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5233.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BTV
-http://207.244.157.34:25461/live/newap/streamz/5234.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5234.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CHANNEL 24
-http://207.244.157.34:25461/live/newap/streamz/5191.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5191.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CHANNEL 9
-http://207.244.157.34:25461/live/newap/streamz/5215.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5215.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CHANNEL I EU
-http://207.244.157.34:25461/live/newap/streamz/5240.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5240.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CHANNEL I
-http://207.244.157.34:25461/live/newap/streamz/5239.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5239.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CHANNEL S
-http://207.244.157.34:25461/live/newap/streamz/5241.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5241.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,COLORS BANGLA
-http://207.244.157.34:25461/live/newap/streamz/5252.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5252.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DBC NEWS
-http://207.244.157.34:25461/live/newap/streamz/5232.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5232.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DD BANGLA
-http://207.244.157.34:25461/live/newap/streamz/5242.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5242.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DESH TV
-http://207.244.157.34:25461/live/newap/streamz/5195.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5195.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DESHE BIDESHE TV
-http://207.244.157.34:25461/live/newap/streamz/5196.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5196.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DESHI TV
-http://207.244.157.34:25461/live/newap/streamz/5231.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5231.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DHOOM MUSIC
-http://207.244.157.34:25461/live/newap/streamz/5230.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5230.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISCOVERY CHANNEL
-http://207.244.157.34:25461/live/newap/streamz/5187.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5187.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DOOM MUSIC
-http://207.244.157.34:25461/live/newap/streamz/5197.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5197.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,EKATTOR TV
-http://207.244.157.34:25461/live/newap/streamz/5198.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5198.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ETV BANGLA
-http://207.244.157.34:25461/live/newap/streamz/5182.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5182.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,G TV
-http://207.244.157.34:25461/live/newap/streamz/5199.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5199.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,GAAN BANGLA
-http://207.244.157.34:25461/live/newap/streamz/5200.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5200.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,INDEPENDENT TV
-http://207.244.157.34:25461/live/newap/streamz/5201.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5201.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,iTV
-http://207.244.157.34:25461/live/newap/streamz/5229.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5229.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MAGIC BANGLA TV
-http://207.244.157.34:25461/live/newap/streamz/5203.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5203.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MASRANGA TV
-http://207.244.157.34:25461/live/newap/streamz/5204.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5204.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MILLENNIUM TV
-http://207.244.157.34:25461/live/newap/streamz/5205.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5205.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MOHONA TV
-http://207.244.157.34:25461/live/newap/streamz/5206.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5206.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MOVIE BANGLA
-http://207.244.157.34:25461/live/newap/streamz/5249.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5249.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MUSIC BANGLA
-http://207.244.157.34:25461/live/newap/streamz/5207.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5207.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MY CINEMA TV
-http://207.244.157.34:25461/live/newap/streamz/5189.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5189.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MY TV
-http://207.244.157.34:25461/live/newap/streamz/5214.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5214.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NEWS TIME
-http://207.244.157.34:25461/live/newap/streamz/5186.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5186.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NJ24 BANGLA
-http://207.244.157.34:25461/live/newap/streamz/5227.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5227.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NRB TV
-http://207.244.157.34:25461/live/newap/streamz/5208.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5208.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NTV UK
-http://207.244.157.34:25461/live/newap/streamz/5210.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5210.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NTV
-http://207.244.157.34:25461/live/newap/streamz/5209.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5209.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,PROBASHI BANGLA
-http://207.244.157.34:25461/live/newap/streamz/5226.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5226.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,R PLUS
-http://207.244.157.34:25461/live/newap/streamz/5211.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5211.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RTV
-http://207.244.157.34:25461/live/newap/streamz/5212.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5212.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RUPOSHI BANGLA
-http://207.244.157.34:25461/live/newap/streamz/5213.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5213.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SANGEET BANGLA
-http://207.244.157.34:25461/live/newap/streamz/5185.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5185.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SATV
-http://207.244.157.34:25461/live/newap/streamz/5225.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5225.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SK MOVIES
-http://207.244.157.34:25461/live/newap/streamz/5223.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5223.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SOLID MOVIE BANGLA
-http://207.244.157.34:25461/live/newap/streamz/5247.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5247.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SOMOY NEWS TV
-http://207.244.157.34:25461/live/newap/streamz/5250.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5250.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY AATH
-http://207.244.157.34:25461/live/newap/streamz/5184.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5184.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR JHALSA MOVIES
-http://207.244.157.34:25461/live/newap/streamz/5246.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5246.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR JHALSA
-http://207.244.157.34:25461/live/newap/streamz/5254.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5254.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR PRAVAH
-http://207.244.157.34:25461/live/newap/streamz/5183.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5183.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TARA MUZIK
-http://207.244.157.34:25461/live/newap/streamz/5245.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5245.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TIME TELEVISION
-http://207.244.157.34:25461/live/newap/streamz/5243.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5243.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TV ASIA
-http://207.244.157.34:25461/live/newap/streamz/5224.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5224.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE BANGLA CINEMA
-http://207.244.157.34:25461/live/newap/streamz/5248.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5248.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE BANGLA
-http://207.244.157.34:25461/live/newap/streamz/5251.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5251.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,COLORS BANGLA-HD
-http://207.244.157.34:25461/live/newap/streamz/5253.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5253.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DEEPTO-HD
-http://207.244.157.34:25461/live/newap/streamz/5216.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5216.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DIGI BANGLA-HD
-http://207.244.157.34:25461/live/newap/streamz/5190.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5190.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NEWS 24-HD
-http://207.244.157.34:25461/live/newap/streamz/5228.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5228.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 
 
 
@@ -9798,629 +9880,640 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1,STAR SPORTS 1
-http://207.244.157.34:25461/live/newap/streamz/5065.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5065.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR SPORTS 1 HD
-http://207.244.157.34:25461/live/newap/streamz/5066.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5066.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR SPORTS 1 HINDI HD
-http://207.244.157.34:25461/live/newap/streamz/5061.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5061.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR SPORTS 2
-http://207.244.157.34:25461/live/newap/streamz/5063.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5063.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR SPORTS 2 HD
-http://207.244.157.34:25461/live/newap/streamz/5064.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5064.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR SPORTS SELECT 1 HD
-http://207.244.157.34:25461/live/newap/streamz/5060.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5060.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR SPORTS SELECT 2 HD
-http://207.244.157.34:25461/live/newap/streamz/5059.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5059.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR SPORTS FIRST.
-http://207.244.157.34:25461/live/newap/streamz/5067.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5067.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,WILLOW CRICKET HD
-http://207.244.157.34:25461/live/newap/streamz/5062.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5062.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY SIX HD
-http://207.244.157.34:25461/live/newap/streamz/5055.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5055.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY SIX
-http://207.244.157.34:25461/live/newap/streamz/5054.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5054.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY TEN 1 HD
-http://207.244.157.34:25461/live/newap/streamz/5053.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5053.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY TEN 1
-http://207.244.157.34:25461/live/newap/streamz/5052.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5052.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY TEN 2 HD
-http://207.244.157.34:25461/live/newap/streamz/5050.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5050.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY TEN 2
-http://207.244.157.34:25461/live/newap/streamz/5051.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5051.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TEN 3 HD
-http://207.244.157.34:25461/live/newap/streamz/5439.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5439.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TEN 3
-http://207.244.157.34:25461/live/newap/streamz/5049.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5049.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TEN SPORTS
-http://207.244.157.34:25461/live/newap/streamz/5057.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5057.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TEN CRICKET
-http://207.244.157.34:25461/live/newap/streamz/5058.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5058.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TEN GOLF HD
-http://207.244.157.34:25461/live/newap/streamz/5087.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5087.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 
 #EXTINF:-1,NICK JR
-http://207.244.157.34:25461/live/newap/streamz/5045.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5045.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TOONAMI
-http://207.244.157.34:25461/live/newap/streamz/4724.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4724.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TELETOON-KDZ
-http://207.244.157.34:25461/live/newap/streamz/4721.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4721.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONIC
-http://207.244.157.34:25461/live/newap/streamz/4279.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4279.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY YAY
-http://207.244.157.34:25461/live/newap/streamz/4700.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4700.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,POGO
-http://207.244.157.34:25461/live/newap/streamz/4690.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4690.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NICKELODEON
-http://207.244.157.34:25461/live/newap/streamz/4685.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4685.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISCOVERY KIDS
-http://207.244.157.34:25461/live/newap/streamz/4723.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4723.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CARTOON NETWORK
-http://207.244.157.34:25461/live/newap/streamz/4680.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4680.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 
 #EXTINF:-1,1st INDIA NEWS
-http://207.244.157.34:25461/live/newap/streamz/4615.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4615.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,9X JALWA
-http://207.244.157.34:25461/live/newap/streamz/4575.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4575.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,AAJ TAK NEWS
-http://207.244.157.34:25461/live/newap/streamz/4599.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4599.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,AAJ TAK UK
-http://207.244.157.34:25461/live/newap/streamz/4600.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4600.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,AASTHA BHAJAN BHAKTI
-http://207.244.157.34:25461/live/newap/streamz/4623.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4623.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,AASTHA TV BHAKTI
-http://207.244.157.34:25461/live/newap/streamz/4622.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4622.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ANIMAL PLANET HINDI
-http://207.244.157.34:25461/live/newap/streamz/4629.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4629.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ARIHANT BHAKTI
-http://207.244.157.34:25461/live/newap/streamz/4621.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4621.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BHAKTI SAGAR BHAKTI
-http://207.244.157.34:25461/live/newap/streamz/4620.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4620.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BHOJPURI CINEMA-BH
-http://207.244.157.34:25461/live/newap/streamz/4630.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4630.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CNN IBN NEWS 18
-http://207.244.157.34:25461/live/newap/streamz/4614.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4614.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DD GIRNAR
-http://207.244.157.34:25461/live/newap/streamz/4634.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4634.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DD NATIONAL
-http://207.244.157.34:25461/live/newap/streamz/4635.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4635.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DD NEWS
-http://207.244.157.34:25461/live/newap/streamz/4636.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4636.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DD URDU
-http://207.244.157.34:25461/live/newap/streamz/4637.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4637.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISCOVERY HINDI
-http://207.244.157.34:25461/live/newap/streamz/4648.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4648.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISCOVERY SCIENCE HINDI
-http://207.244.157.34:25461/live/newap/streamz/4639.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4639.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISHA TV BHAKTI
-http://207.244.157.34:25461/live/newap/streamz/4641.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4641.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ET NOW NEWS
-http://207.244.157.34:25461/live/newap/streamz/4613.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4613.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,HISTORY TV18 HINDI
-http://207.244.157.34:25461/live/newap/streamz/4643.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4643.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,HOUSEFULL ACTION
-http://207.244.157.34:25461/live/newap/streamz/4645.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4645.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,HOUSEFULL MOVIES
-http://207.244.157.34:25461/live/newap/streamz/4646.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4646.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,INDIA TODAY NEWS
-http://207.244.157.34:25461/live/newap/streamz/4612.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4612.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,INVEST DISCOVERY HINDI
-http://207.244.157.34:25461/live/newap/streamz/4649.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4649.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,LIVING FOODZ USA
-http://207.244.157.34:25461/live/newap/streamz/4650.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4650.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MAHA MOVIES
-http://207.244.157.34:25461/live/newap/streamz/4651.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4651.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RENGONI-AS
-http://207.244.157.34:25461/live/newap/streamz/5042.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5042.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MOVIES OK
-http://207.244.157.34:25461/live/newap/streamz/4544.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4544.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MTV BEATS
-http://207.244.157.34:25461/live/newap/streamz/4661.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4661.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MTV INDIA
-http://207.244.157.34:25461/live/newap/streamz/4572.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4572.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NAT GEO WILD HINDI
-http://207.244.157.34:25461/live/newap/streamz/4490.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4490.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NDTV 24x7 NEWS
-http://207.244.157.34:25461/live/newap/streamz/4610.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4610.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NDTV 24x7 UK NEWS
-http://207.244.157.34:25461/live/newap/streamz/4611.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4611.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NDTV GOODTIMES NEWS
-http://207.244.157.34:25461/live/newap/streamz/4607.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4607.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NDTV INDIA NEWS
-http://207.244.157.34:25461/live/newap/streamz/4609.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4609.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NDTV PRIME NEWS
-http://207.244.157.34:25461/live/newap/streamz/4608.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4608.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NDTV PROFIT NEWS
-http://207.244.157.34:25461/live/newap/streamz/4606.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4606.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NEWS 9
-http://207.244.157.34:25461/live/newap/streamz/4604.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4604.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NEWS NATION
-http://207.244.157.34:25461/live/newap/streamz/5092.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5092.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NEWS X
-http://207.244.157.34:25461/live/newap/streamz/4616.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4616.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,REPUBLIC NEWS TV
-http://207.244.157.34:25461/live/newap/streamz/4627.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4627.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SANSKAR TV BHAKTI
-http://207.244.157.34:25461/live/newap/streamz/4655.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4655.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ASSAM TALKS-AS
-http://207.244.157.34:25461/live/newap/streamz/4619.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4619.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SHUBHSANDESH TV BHAKTI
-http://207.244.157.34:25461/live/newap/streamz/5044.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5044.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY MIX
-http://207.244.157.34:25461/live/newap/streamz/5041.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5041.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY PAL
-http://207.244.157.34:25461/live/newap/streamz/4662.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4662.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MAGIC BRICKS NOW
-http://207.244.157.34:25461/live/newap/streamz/4665.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4665.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR BHARAT
-http://207.244.157.34:25461/live/newap/streamz/4658.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4658.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR GOLD
-http://207.244.157.34:25461/live/newap/streamz/4529.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4529.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR GOLD UK
-http://207.244.157.34:25461/live/newap/streamz/4530.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4530.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR UTSAV MOVIES.
-http://207.244.157.34:25461/live/newap/streamz/4657.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4657.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TIMES NOW NEWS
-http://207.244.157.34:25461/live/newap/streamz/4605.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4605.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,UTV ACTION ''
-http://207.244.157.34:25461/live/newap/streamz/5039.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5039.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,UTV MOVIES INTERNATIONAL
-http://207.244.157.34:25461/live/newap/streamz/4546.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4546.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE ACTION
-http://207.244.157.34:25461/live/newap/streamz/4526.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4526.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE CINEMA
-http://207.244.157.34:25461/live/newap/streamz/4500.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4500.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE CLASSIC
-http://207.244.157.34:25461/live/newap/streamz/4503.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4503.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,9XM
-http://207.244.157.34:25461/live/newap/streamz/4574.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4574.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,AAP KA COLORS
-http://207.244.157.34:25461/live/newap/streamz/4564.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4564.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ABP NEWS
-http://207.244.157.34:25461/live/newap/streamz/4598.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4598.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,AND TV ME
-http://207.244.157.34:25461/live/newap/streamz/4485.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4485.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,AND TV UK
-http://207.244.157.34:25461/live/newap/streamz/4486.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4486.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,APB NEWS
-http://207.244.157.34:25461/live/newap/streamz/5093.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5093.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,APN NEWS
-http://207.244.157.34:25461/live/newap/streamz/4597.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4597.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,B4U MOVIES
-http://207.244.157.34:25461/live/newap/streamz/4543.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4543.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,B4U MUSIC
-http://207.244.157.34:25461/live/newap/streamz/4573.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4573.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BHARAT SAMACHAR NEWS
-http://207.244.157.34:25461/live/newap/streamz/4596.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4596.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,BIG MAGIC
-http://207.244.157.34:25461/live/newap/streamz/4560.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4560.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NEWS 18-AS
-http://207.244.157.34:25461/live/newap/streamz/4559.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4559.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CHANNEL V
-http://207.244.157.34:25461/live/newap/streamz/5114.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5114.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CINEMA TV.
-http://207.244.157.34:25461/live/newap/streamz/4550.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4550.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CNBC AWAZ NEWS
-http://207.244.157.34:25461/live/newap/streamz/4595.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4595.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CNBC TV18 NEWS
-http://207.244.157.34:25461/live/newap/streamz/4601.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4601.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,COLORS TV
-http://207.244.157.34:25461/live/newap/streamz/4460.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4460.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,COLORS TV AUS
-http://207.244.157.34:25461/live/newap/streamz/4464.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4464.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,COLORS TV ME
-http://207.244.157.34:25461/live/newap/streamz/4461.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4461.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,COLORS TV UK
-http://207.244.157.34:25461/live/newap/streamz/4462.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4462.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DABANGG TV
-http://207.244.157.34:25461/live/newap/streamz/4555.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4555.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DANGAAL TV
-http://207.244.157.34:25461/live/newap/streamz/4557.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4557.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DARSHAN 24 BHAKTI
-http://207.244.157.34:25461/live/newap/streamz/5113.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5113.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DD INDIA
-http://207.244.157.34:25461/live/newap/streamz/4561.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4561.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DD UTTAR PARDESH
-http://207.244.157.34:25461/live/newap/streamz/4562.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4562.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DELHI AAJTAK NEWS
-http://207.244.157.34:25461/live/newap/streamz/4594.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4594.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DESI BEATS
-http://207.244.157.34:25461/live/newap/streamz/4563.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4563.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DHAMAAL TV
-http://207.244.157.34:25461/live/newap/streamz/4556.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4556.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DILLAGI TV
-http://207.244.157.34:25461/live/newap/streamz/4558.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4558.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DIVYA TV BHAKTI
-http://207.244.157.34:25461/live/newap/streamz/5112.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5112.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,E24
-http://207.244.157.34:25461/live/newap/streamz/4569.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4569.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ENTER 10
-http://207.244.157.34:25461/live/newap/streamz/4545.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4545.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ETV BIHAR
-http://207.244.157.34:25461/live/newap/streamz/4580.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4580.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ETV HARYANA
-http://207.244.157.34:25461/live/newap/streamz/4579.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4579.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ETV MP NEWS
-http://207.244.157.34:25461/live/newap/streamz/4578.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4578.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ETV RAJASTHAN
-http://207.244.157.34:25461/live/newap/streamz/4577.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4577.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ETV UP NEWS
-http://207.244.157.34:25461/live/newap/streamz/4576.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4576.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ETV URDU
-http://207.244.157.34:25461/live/newap/streamz/4581.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4581.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,FOOD FOOD
-http://207.244.157.34:25461/live/newap/streamz/4494.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4494.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,JONACK TV-AS
-http://207.244.157.34:25461/live/newap/streamz/5107.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5107.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,HOME SHOP 18
-http://207.244.157.34:25461/live/newap/streamz/5108.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5108.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,IBN 7 NEWS
-http://207.244.157.34:25461/live/newap/streamz/4593.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4593.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,IBN LOKMAT NEWS
-http://207.244.157.34:25461/live/newap/streamz/4592.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4592.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,INDIA TV NEWS
-http://207.244.157.34:25461/live/newap/streamz/4591.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4591.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ISHWAR TV BHAKTI
-http://207.244.157.34:25461/live/newap/streamz/5111.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5111.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,JINVANI TV BHAKTI
-http://207.244.157.34:25461/live/newap/streamz/5110.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5110.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,KATYAYANI BHAKTI
-http://207.244.157.34:25461/live/newap/streamz/5109.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5109.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MANORANGAN MOVIES.
-http://207.244.157.34:25461/live/newap/streamz/4548.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4548.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MANORANGAN TV
-http://207.244.157.34:25461/live/newap/streamz/4554.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4554.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MASTI TV
-http://207.244.157.34:25461/live/newap/streamz/4553.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4553.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MUSIC INDIA
-http://207.244.157.34:25461/live/newap/streamz/4571.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4571.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NEWS 24
-http://207.244.157.34:25461/live/newap/streamz/4588.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4588.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,OSCAR MOVIES BHOJPORI-BH
-http://207.244.157.34:25461/live/newap/streamz/5106.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5106.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,PARAS TV BHAKTI
-http://207.244.157.34:25461/live/newap/streamz/5105.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5105.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,PEACE OF MIND BHAKTI
-http://207.244.157.34:25461/live/newap/streamz/5104.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5104.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RISHTAY AMERICA
-http://207.244.157.34:25461/live/newap/streamz/4480.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4480.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RISHTAY ASIA
-http://207.244.157.34:25461/live/newap/streamz/4477.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4477.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RISHTEY CINEPLEX
-http://207.244.157.34:25461/live/newap/streamz/4539.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4539.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RISHTAY CINEPLEX UK
-http://207.244.157.34:25461/live/newap/streamz/4540.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4540.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RISHTEY EU
-http://207.244.157.34:25461/live/newap/streamz/4478.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4478.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RISHTEY INDIA
-http://207.244.157.34:25461/live/newap/streamz/4476.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4476.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SADHNA TV BHAKTI
-http://207.244.157.34:25461/live/newap/streamz/5103.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5103.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SAHARA SAMAY AALAMI NEWS
-http://207.244.157.34:25461/live/newap/streamz/4585.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4585.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SAHARA SAMAY BIHAR NEWS
-http://207.244.157.34:25461/live/newap/streamz/4584.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4584.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SAHARA SAMAY MP NEWS
-http://207.244.157.34:25461/live/newap/streamz/4583.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4583.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SAHARA SAMAY NEWS
-http://207.244.157.34:25461/live/newap/streamz/4586.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4586.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SAHARA SAMAY RJ NEWS
-http://207.244.157.34:25461/live/newap/streamz/4582.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4582.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SAHARA SAMAY UP
-http://207.244.157.34:25461/live/newap/streamz/4632.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4632.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SANATANTV BHAKTI
-http://207.244.157.34:25461/live/newap/streamz/5102.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5102.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SANGEET BHOJPORI-BH
-http://207.244.157.34:25461/live/newap/streamz/5101.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5101.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SATSANG TV BHAKTI
-http://207.244.157.34:25461/live/newap/streamz/4603.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4603.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY SETMAX
-http://207.244.157.34:25461/live/newap/streamz/4533.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4533.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY SETMAX AUS
-http://207.244.157.34:25461/live/newap/streamz/4532.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4532.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY MAX 2
-http://207.244.157.34:25461/live/newap/streamz/4535.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4535.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY SAB ASIA
-http://207.244.157.34:25461/live/newap/streamz/4467.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4467.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY SAB TV
-http://207.244.157.34:25461/live/newap/streamz/4466.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4466.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY SAB UK
-http://207.244.157.34:25461/live/newap/streamz/4469.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4469.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY SETMAX UK
-http://207.244.157.34:25461/live/newap/streamz/4534.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4534.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY TV
-http://207.244.157.34:25461/live/newap/streamz/4441.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4441.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY TV AUS
-http://207.244.157.34:25461/live/newap/streamz/4442.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4442.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY TV HD USA
-http://207.244.157.34:25461/live/newap/streamz/4444.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4444.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY TV UK
-http://207.244.157.34:25461/live/newap/streamz/4443.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4443.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SRI VENKATESHWAR BHAKTI
-http://207.244.157.34:25461/live/newap/streamz/4626.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4626.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR BHARAT MENA
-http://207.244.157.34:25461/live/newap/streamz/4474.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4474.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR BHARAT UK
-http://207.244.157.34:25461/live/newap/streamz/4473.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4473.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR PLUS
-http://207.244.157.34:25461/live/newap/streamz/4448.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4448.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR PLUS ME
-http://207.244.157.34:25461/live/newap/streamz/4452.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4452.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR PLUS UK
-http://207.244.157.34:25461/live/newap/streamz/4449.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4449.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR UTSAV
-http://207.244.157.34:25461/live/newap/streamz/4551.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4551.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR UTSAV UK
-http://207.244.157.34:25461/live/newap/streamz/4638.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4638.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SUDARSHAN NEWS
-http://207.244.157.34:25461/live/newap/streamz/4587.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4587.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TAAZA TV NEWS
-http://207.244.157.34:25461/live/newap/streamz/4631.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4631.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TEZ TV
-http://207.244.157.34:25461/live/newap/streamz/4488.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4488.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TLC HINDI
-http://207.244.157.34:25461/live/newap/streamz/4493.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4493.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TRAVEL XP HINDI
-http://207.244.157.34:25461/live/newap/streamz/4628.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4628.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,UTV BINDAAS
-http://207.244.157.34:25461/live/newap/streamz/4552.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4552.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,VIP NEWS
-http://207.244.157.34:25461/live/newap/streamz/4491.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4491.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,WOW CINEMA
-http://207.244.157.34:25461/live/newap/streamz/4547.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4547.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE ANMOL
-http://207.244.157.34:25461/live/newap/streamz/4481.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4481.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE ANMOL CINEMA
-http://207.244.157.34:25461/live/newap/streamz/4487.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4487.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE BUSINESS NEWS
-http://207.244.157.34:25461/live/newap/streamz/4590.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4590.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE CINEMA ME
-http://207.244.157.34:25461/live/newap/streamz/4501.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4501.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE CINEMA UK
-http://207.244.157.34:25461/live/newap/streamz/4502.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4502.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE ETC BOLLYWOOD
-http://207.244.157.34:25461/live/newap/streamz/4565.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4565.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE LIVING
-http://207.244.157.34:25461/live/newap/streamz/4497.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4497.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE NEWS
-http://207.244.157.34:25461/live/newap/streamz/4589.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4589.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE PURAIYA-BH
-http://207.244.157.34:25461/live/newap/streamz/4492.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4492.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE RAJASTHAN NEWS
-http://207.244.157.34:25461/live/newap/streamz/4495.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4495.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE SALAAM
-http://207.244.157.34:25461/live/newap/streamz/4489.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4489.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE SANGAM
-http://207.244.157.34:25461/live/newap/streamz/5094.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5094.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE TV HD USA
-http://207.244.157.34:25461/live/newap/streamz/4436.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4436.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE TV ME
-http://207.244.157.34:25461/live/newap/streamz/4438.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4438.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE TV UK
-http://207.244.157.34:25461/live/newap/streamz/4439.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4439.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZING INDIA
-http://207.244.157.34:25461/live/newap/streamz/4568.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4568.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZING UK
-http://207.244.157.34:25461/live/newap/streamz/4567.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4567.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZOOM TV
-http://207.244.157.34:25461/live/newap/streamz/4538.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4538.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZOOM TV UK
-http://207.244.157.34:25461/live/newap/streamz/4566.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4566.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISCOVERY TURBO
-http://207.244.157.34:25461/live/newap/streamz/5472.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5472.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,EPIC CHANNEL
-http://207.244.157.34:25461/live/newap/streamz/5442.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5442.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,JAN TV
-http://207.244.157.34:25461/live/newap/streamz/5462.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5462.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,K NEWS
-http://207.244.157.34:25461/live/newap/streamz/5464.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5464.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,KASHISH NEWS
-http://207.244.157.34:25461/live/newap/streamz/5463.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5463.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,LAKSHYA TV-GUJ
-http://207.244.157.34:25461/live/newap/streamz/3667.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3667.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,AND TV APAC
-http://207.244.157.34:25461/live/newap/streamz/5666.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5666.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ME TV
-http://207.244.157.34:25461/live/newap/streamz/5652.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5652.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NEWS 18 INDIA
-http://207.244.157.34:25461/live/newap/streamz/5631.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5631.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR BHARAT APAC
-http://207.244.157.34:25461/live/newap/streamz/5645.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5645.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR PLUS AUS
-http://207.244.157.34:25461/live/newap/streamz/5644.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5644.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE CINEMA APAC
-http://207.244.157.34:25461/live/newap/streamz/5636.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5636.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE TV APAC
-http://207.244.157.34:25461/live/newap/streamz/5635.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5635.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 
 #EXTINF:-1,MK MUSIC-TM
-http://207.244.157.34:25461/live/newap/streamz/5467.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5467.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MK NEWS-TM
-http://207.244.157.34:25461/live/newap/streamz/5468.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5468.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MK TV-TM
-http://207.244.157.34:25461/live/newap/streamz/5469.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5469.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NAMBIKKAI TV-TM
-http://207.244.157.34:25461/live/newap/streamz/5446.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5446.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NEWS 18-TM
-http://207.244.157.34:25461/live/newap/streamz/5447.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5447.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RAJ MUSIX-TM
-http://207.244.157.34:25461/live/newap/streamz/5486.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5486.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SUN NEWS-TM
-http://207.244.157.34:25461/live/newap/streamz/4121.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4121.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SUN TV-TM
-http://207.244.157.34:25461/live/newap/streamz/5456.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5456.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE TAMIL-TM
-http://207.244.157.34:25461/live/newap/streamz/5445.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5445.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CAPTAIN NEWS-TM
-http://207.244.157.34:25461/live/newap/streamz/3410.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3410.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CAPTAIN TV-TM
-http://207.244.157.34:25461/live/newap/streamz/3387.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3387.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISCOVERY TAMIL-TM
-http://207.244.157.34:25461/live/newap/streamz/3422.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3422.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,HISTORY 18-TM
-http://207.244.157.34:25461/live/newap/streamz/3421.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3421.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MAKKAL TV-TM
-http://207.244.157.34:25461/live/newap/streamz/3390.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3390.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MURASU TV-TM
-http://207.244.157.34:25461/live/newap/streamz/3411.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3411.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,NEWS 7-TM
-http://207.244.157.34:25461/live/newap/streamz/3409.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3409.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,PEPPERS TV-TM
-http://207.244.157.34:25461/live/newap/streamz/3408.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3408.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,POLIMER NEWS-TM
-http://207.244.157.34:25461/live/newap/streamz/3407.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3407.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,POLIMER TV-TM
-http://207.244.157.34:25461/live/newap/streamz/3375.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3375.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,PUTHIYA THALAIMURAI-TM
-http://207.244.157.34:25461/live/newap/streamz/3404.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3404.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RAJ DIGITAL PLUS-TM
-http://207.244.157.34:25461/live/newap/streamz/3373.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3373.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RAJ NEWS 24x7-TM
-http://207.244.157.34:25461/live/newap/streamz/3402.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3402.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RAJ TV-TM
-http://207.244.157.34:25461/live/newap/streamz/3372.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3372.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SRI SANKARA-TM
-http://207.244.157.34:25461/live/newap/streamz/3415.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3415.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SUN LIFE-TM
-http://207.244.157.34:25461/live/newap/streamz/3389.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3389.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SUN MUSIC-TM
-http://207.244.157.34:25461/live/newap/streamz/3368.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3368.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,THANTHI NEWS-TM
-http://207.244.157.34:25461/live/newap/streamz/3406.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3406.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TRAVEL XP TAMIL-TM
-http://207.244.157.34:25461/live/newap/streamz/3420.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3420.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TUNE6-TM
-http://207.244.157.34:25461/live/newap/streamz/3397.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3397.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,VENDHAR-TM
-http://207.244.157.34:25461/live/newap/streamz/3392.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3392.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CHITHIRAM TV-TM
-http://207.244.157.34:25461/live/newap/streamz/3384.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3384.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DAN NEWS-TM
-http://207.244.157.34:25461/live/newap/streamz/3417.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3417.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DAN TV-TM
-http://207.244.157.34:25461/live/newap/streamz/3416.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3416.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DHEERAN TV-TM
-http://207.244.157.34:25461/live/newap/streamz/5660.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5660.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ISAI ARUVI-TM
-http://207.244.157.34:25461/live/newap/streamz/3412.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3412.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,JAYA MAX UK-TM
-http://207.244.157.34:25461/live/newap/streamz/5622.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5622.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,JAYA MAX-TM
-http://207.244.157.34:25461/live/newap/streamz/3382.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3382.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,JAYA MOVIES UK-TM
-http://207.244.157.34:25461/live/newap/streamz/5624.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5624.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,JAYA MOVIES-TM
-http://207.244.157.34:25461/live/newap/streamz/3396.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3396.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,JAYA PLUS-TM
-http://207.244.157.34:25461/live/newap/streamz/3381.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3381.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,JAYA TV UK-TM
-http://207.244.157.34:25461/live/newap/streamz/5625.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5625.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,KALAIGNAR TV-TM
-http://207.244.157.34:25461/live/newap/streamz/3388.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3388.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,KTV-TM
-http://207.244.157.34:25461/live/newap/streamz/3369.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3369.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,PUTHUYUGAM TV-TM
-http://207.244.157.34:25461/live/newap/streamz/5634.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5634.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RAJ DIGITAL PLUS UK-TM
-http://207.244.157.34:25461/live/newap/streamz/5632.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5632.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,RAJ TV UK-TM
-http://207.244.157.34:25461/live/newap/streamz/5633.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5633.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR VIJAY-TM
-http://207.244.157.34:25461/live/newap/streamz/3377.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3377.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 
 #EXTINF:-1,AND PICTURES-HD
-http://207.244.157.34:25461/live/newap/streamz/4537.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4537.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,AND TV-HD
-http://207.244.157.34:25461/live/newap/streamz/4484.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4484.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ANIMAL PLANET WORLD-HD
-http://207.244.157.34:25461/live/newap/streamz/5437.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5437.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,AXN-HD
-http://207.244.157.34:25461/live/newap/streamz/3998.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3998.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,CNBC TV18 PRIME-HD
-http://207.244.157.34:25461/live/newap/streamz/5090.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5090.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,COLORS TV-HD
-http://207.244.157.34:25461/live/newap/streamz/4456.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4456.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,DISCOVERY HD WORLD-HD
-http://207.244.157.34:25461/live/newap/streamz/5438.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5438.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,FYI TV18-HD
-http://207.244.157.34:25461/live/newap/streamz/4625.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4625.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,GEMINI MOVIES-HD
-http://207.244.157.34:25461/live/newap/streamz/5450.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5450.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,GEMINI MUSIC-HD
-http://207.244.157.34:25461/live/newap/streamz/5449.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5449.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,GEMINI TV-HD
-http://207.244.157.34:25461/live/newap/streamz/5429.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5429.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,HBO-HD
-http://207.244.157.34:25461/live/newap/streamz/3956.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3956.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,HISTORY 18-HD
-http://207.244.157.34:25461/live/newap/streamz/5091.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5091.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,JAYA TV-HD
-http://207.244.157.34:25461/live/newap/streamz/3379.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3379.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,KTV-HD
-http://207.244.157.34:25461/live/newap/streamz/5427.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5427.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MAA GOLD-HD
-http://207.244.157.34:25461/live/newap/streamz/3423.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3423.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MAA MOVIES-HD
-http://207.244.157.34:25461/live/newap/streamz/3435.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3435.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MAA TV-HD
-http://207.244.157.34:25461/live/newap/streamz/3432.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3432.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MAZHAVIL MANORAMA-HD
-http://207.244.157.34:25461/live/newap/streamz/5466.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5466.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MN+-HD
-http://207.244.157.34:25461/live/newap/streamz/3957.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3957.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MNX-HD
-http://207.244.157.34:25461/live/newap/streamz/4624.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4624.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MOVIES NOW-HD
-http://207.244.157.34:25461/live/newap/streamz/3971.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3971.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,MTV BEATS-HD
-http://207.244.157.34:25461/live/newap/streamz/5089.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5089.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ROMEDY NOW-HD
-http://207.244.157.34:25461/live/newap/streamz/4000.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4000.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY BBC EARTH TAMIL-HD
-http://207.244.157.34:25461/live/newap/streamz/5470.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5470.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY BBC EARTH TELUGU-HD
-http://207.244.157.34:25461/live/newap/streamz/5471.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5471.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY BBC EARTH-HD
-http://207.244.157.34:25461/live/newap/streamz/4663.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4663.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY EARTH HINDI-HD
-http://207.244.157.34:25461/live/newap/streamz/5088.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5088.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY LE PLEX-HD
-http://207.244.157.34:25461/live/newap/streamz/3995.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3995.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY PIX-HD
-http://207.244.157.34:25461/live/newap/streamz/3997.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3997.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY ROX-HD
-http://207.244.157.34:25461/live/newap/streamz/4664.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4664.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY SAB-HD
-http://207.244.157.34:25461/live/newap/streamz/5040.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5040.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY SETMAX-HD
-http://207.244.157.34:25461/live/newap/streamz/5038.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5038.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SONY TV-HD
-http://207.244.157.34:25461/live/newap/streamz/4440.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4440.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR BHARAT-HD
-http://207.244.157.34:25461/live/newap/streamz/5043.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5043.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR GOLD SELECT-HD
-http://207.244.157.34:25461/live/newap/streamz/4617.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4617.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR GOLD-HD
-http://207.244.157.34:25461/live/newap/streamz/4528.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4528.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR PLUS-HD
-http://207.244.157.34:25461/live/newap/streamz/5037.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5037.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,STAR VIJAY-HD
-http://207.244.157.34:25461/live/newap/streamz/3366.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3366.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SUN MUSIC-HD
-http://207.244.157.34:25461/live/newap/streamz/5448.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5448.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SUN TV-HD
-http://207.244.157.34:25461/live/newap/streamz/5428.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5428.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,SURYA-HD
-http://207.244.157.34:25461/live/newap/streamz/5426.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/5426.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TIMES NOW-HD
-http://207.244.157.34:25461/live/newap/streamz/3994.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/3994.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TLC HD WORLD-HD
-http://207.244.157.34:25461/live/newap/streamz/4002.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4002.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,TRAVEL XP-HD
-http://207.244.157.34:25461/live/newap/streamz/4602.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4602.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE CINEMA-HD
-http://207.244.157.34:25461/live/newap/streamz/4499.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4499.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 #EXTINF:-1,ZEE TV-HD
-http://207.244.157.34:25461/live/newap/streamz/4435.ts|refferer=http://solidstreamz.com/&user-agent=token
+http://207.244.157.34:25461/live/psl/match/4435.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -14523,81 +14616,6 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
-
-#EXTINF:-1,16 Friday 
-http://31.130.18.160:81/udp/238.1.1.9:1234 
-#EXTINF:-1,TNT MUSIC
-http://31.130.18.160:81/udp/238.1.1.13:1234 
-#EXTINF:-1,SHOP24 
-http://31.130.18.160:81/udp/238.1.1.14:1234 
-#EXTINF:-1,RBC 
-http://31.130.18.160:81/udp/238.1.1.20:1234 
-#EXTINF:-1,18 WORLD 
-http://31.130.18.160:81/udp/238.1.1.22:1234 
-#EXTINF:-1,TNV 
-http://31.130.18.160:81/udp/238.1.1.24:1234 
-#EXTINF:-1,TPO 
-http://31.130.18.160:81/udp/238.1.1.25:1234 
-#EXTINF:-1,Russia Today HD 
-http://31.130.18.160:81/udp/238.1.1.26:1234 
-#EXTINF:-1,Volgograd24HD 
-http://31.130.18.160:81/udp/238.1.1.28:1234 
-#EXTINF:-1,Point of TV
-http://31.130.18.160:81/udp/238.1.1.29:1234 
-#EXTINF:-1,15 TV3 
-http://31.130.18.160:81/udp/238.1.1.34:1234 
-#EXTINF:-1,RU. TV 
-http://31.130.18.160:81/udp/238.1.1.35:1234 
-#EXTINF:-1,Home Shop 
-http://31.130.18.160:81/udp/238.1.1.46:1234 
-#EXTINF:-1,04NTV 
-http://31.130.18.160:81/udp/238.1.1.52:1234 
-#EXTINF:-1,Ю 
-http://31.130.18.160:81/udp/238.1.1.51:1234 
-#EXTINF:-1,U 
-http://31.130.18.160:81/udp/238.1.1.56:1234 
-#EXTINF:-1,TV TOP SHOP 
-http://31.130.18.160:81/udp/238.1.1.55:1234 
-#EXTINF:-1,11 REN TV 
-http://31.130.18.160:81/udp/238.1.1.57:1234 
-#EXTINF:-1,Resurrection 
-http://31.130.18.160:81/udp/238.1.1.58:1234 
-#EXTINF:-1,the Union 
-http://31.130.18.160:81/udp/238.1.1.60:1234 
-#EXTINF:-1,PODMOSKOVYE 
-http://31.130.18.160:81/udp/238.1.1.59:1234 
-#EXTINF:-1,17 Star 
-http://31.130.18.160:81/udp/238.1.1.63:1234 
-#EXTINF:-1,Europe Plus TV 
-http://31.130.18.160:81/udp/238.1.1.67:1234 
-#EXTINF:-1,01 FIRST CHANNEL
-http://31.130.18.160:81/udp/238.1.1.70:1234 
-#EXTINF:-1,02 RUSSIA-1
-http://31.130.18.160:81/udp/238.1.1.71:1234 
-#EXTINF:-1,13 STS 
-http://31.130.18.160:81/udp/238.1.1.73:1234 
-#EXTINF:-1,19 TNT 
-http://31.130.18.160:81/udp/238.1.1.74:1234 
-#EXTINF:-1,14Domestic 
-http://31.130.18.160:81/udp/238.1.1.77:1234 
-#EXTINF:-1,10 TV Center 
-http://31.130.18.160:81/udp/238.1.1.78:1234 
-#EXTINF:-1,03 MATCH! 
-http://31.130.18.160:81/udp/238.1.1.79:1234 
-#EXTINF:-1,08 KARUSEL 
-http://31.130.18.160:81/udp/238.1.1.8000:1234 
-#EXTINF:-1,05 FIVE CHANNEL 
-http://31.130.18.160:81/udp/238.1.1.80:1234 
-#EXTINF:-1,07 RUSSIA-24
-http://31.130.18.160:81/udp/238.1.1.87:1234 
-#EXTINF:-1,Ladies' Club 
-http://31.130.18.160:81/udp/238.1.1.101:1234 
-#EXTINF:-1,Che
-http://31.130.18.160:81/udp/238.1.1.102:1234 
-#EXTINF:-1,Fashion TV 
-http://31.130.18.160:81/udp/238.1.1.103:1234 
-#EXTINF:-1,20 MUZ TV 
-http://31.130.18.160:81/udp/238.1.1.127:1234
 
 
 
