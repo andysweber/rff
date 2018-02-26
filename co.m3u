@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,24/02/18 !!
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,26/02/18
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -2816,6 +2816,258 @@ http://93.123.65.3:9262/262
 
 
 
+
+
+
+
+
+
+#EXTINF:4 group-title=”Bulgaria3”,
+
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/255px-Flag_of_Bulgaria.svg.png ,==Bulgaria==
+http://..........
+
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+
+#EXTINF:0,Bg Music Channel HD 
+http://87.246.0.130:88/m3u8/bgmusicchannelhd.m3u8 
+#EXTINF:0,BOX HD 
+http://87.246.0.130:88/m3u8/boxhd.m3u8 
+#EXTINF:0,BNT World HD 
+http://87.246.0.130:88/m3u8/bntworldhd.m3u8 
+#EXTINF:0,BNT 2 HD 
+http://87.246.0.130:88/m3u8/bnt2hd.m3u8 
+#EXTINF:0,Diema Sport HD 
+http://87.246.0.130:88/m3u8/diamasporthd.m3u8 
+#EXTINF:0,Diema Sport 2 HD 
+http://87.246.0.130:88/m3u8/diemasport2hd.m3u8 
+#EXTINF:0,bTV HD 
+http://87.246.0.130:88/m3u8/btvhd.m3u8 
+#EXTINF:0,bTV Action HD 
+http://87.246.0.130:88/m3u8/btvactionhd.m3u8 
+#EXTINF:0,Planeta HD 
+http://87.246.0.130:88/m3u8/planetahd.m3u8 
+#EXTINF:0,Eurosport HD 
+http://87.246.0.130:88/m3u8/eurosporthd.m3u8 
+#EXTINF:0,Nat Geo HD 
+http://87.246.0.130:88/m3u8/natgeohd.m3u8 
+#EXTINF:0,Nat Geo Wild HD 
+http://87.246.0.130:88/m3u8/natgeowildhd.m3u8 
+#EXTINF:0,Balkanika HD 
+http://87.246.0.130:88/m3u8/balkanikahd.m3u8 
+#EXTINF:0,Ring BG HD 
+http://87.246.0.130:88/m3u8/ringbghd.m3u8 
+#EXTINF:0,FOX HD 
+http://87.246.0.130:88/m3u8/foxhd.m3u8 
+#EXTINF:0,FOX life HD 
+http://87.246.0.130:88/m3u8/foxlivehd.m3u8 
+#EXTINF:0,TV1 HD 
+http://87.246.0.130:88/m3u8/tv1hd.m3u8 
+#EXTINF:0,Nat Geo HD 
+http://87.246.0.130:88/m3u8/natgeohd.m3u8 
+#EXTINF:0,Nat Geo Wild HD 
+http://87.246.0.130:88/m3u8/natgeowildhd.m3u8 
+#EXTINF:0,travel HD 
+http://87.246.0.130:88/m3u8/travelhd.m3u8 
+#EXTINF:-1,B1B Action 
+http://87.246.0.130:88/m3u8/B1B_Actionhd.m3u8 
+#EXTINF:-1,Deluxe Lounge 
+http://87.246.0.130:88/m3u8/Deluxe_Loungehd.m3u8 
+#EXTINF:-1,Deluxe Music HD 
+http://87.246.0.130:88/m3u8/Deluxe_Musichd.m3u8 
+#EXTINF:-1,Arena Sport 1 
+http://87.246.0.130:88/m3u8/arenasport1.m3u8 
+#EXTINF:-1,Arena Sport 2 
+http://87.246.0.130:88/m3u8/arenasport2.m3u8 
+#EXTINF:-1,Arena Sport 3 
+http://87.246.0.130:88/m3u8/arenasport3.m3u8 
+#EXTINF:-1,Arena Sport 4 
+http://87.246.0.130:88/m3u8/arenasport4.m3u8 
+#EXTINF:-1,Arena Sport 5 
+http://87.246.0.130:88/m3u8/arenasport5.m3u8 
+#EXTINF:-1,The Fight Network HD 
+http://87.246.0.130:88/m3u8/The_Fight_Networkhd.m3u8 
+#EXTINF:-1,arte HD 
+http://87.246.0.130:88/m3u8/artehd.m3u8 
+#EXTINF:-1,Bloomberg BG HD 
+http://87.246.0.130:88/m3u8/blumberg_bulgariahd.m3u8 
+#EXTINF:-1,BNT SD 
+http://87.246.0.130:88/m3u8/bntsd.m3u8 
+#EXTINF:-1,24 Horas 
+http://87.246.0.130:88/m3u8/canal24horas.m3u8 
+#EXTINF:-1,Porn 
+http://87.246.0.130:88/m3u8/centoxcento.m3u8 
+#EXTINF:-1,Das erte HD 
+http://87.246.0.130:88/m3u8/daserstehd.m3u8 
+#EXTINF:-1,Eurochannel HD 
+http://87.246.0.130:88/m3u8/eurochannelhd.m3u8 
+#EXTINF:-1,Fashion HD 
+http://87.246.0.130:88/m3u8/fashion_tvhd.m3u8 
+#EXTINF:-1,Porn 
+http://87.246.0.130:88/m3u8/exoticatv.m3u8 
+#EXTINF:-1,TelePace HD 
+http://87.246.0.130:88/m3u8/hdTelePacehd.m3u8 
+#EXTINF:-1,BiT HD 
+http://87.246.0.130:88/m3u8/hdbithd.m3u8 
+#EXTINF:-1,Bloomberg 
+http://87.246.0.130:88/m3u8/hdbloomberg.m3u8 
+#EXTINF:-1,BNT 1 HD 
+http://87.246.0.130:88/m3u8/hdbnt1hd.m3u8 
+#EXTINF:-1,BNT HD 
+http://87.246.0.130:88/m3u8/hdbnthd.m3u8 
+#EXTINF:0,BNT 
+http://87.246.0.130:88/m3u8/webbnt1_web.m3u8 
+#EXTINF:0,BNT 2 
+http://87.246.0.130:88/m3u8/webbnt2_web.m3u8 
+#EXTINF:0,BNT HD 
+http://87.246.0.130:88/m3u8/webbnthd_web.m3u8 
+#EXTINF:0,bTV 
+http://87.246.0.130:88/m3u8/webbtv_web.m3u8 
+#EXTINF:0,bTV Action 
+http://87.246.0.130:88/m3u8/webbtvaction_web.m3u8 
+#EXTINF:0,bTV Cinema 
+http://87.246.0.130:88/m3u8/webbtvcinema_web.m3u8 
+#EXTINF:0,bTV Comedy 
+http://87.246.0.130:88/m3u8/webbtvcomedy_web.m3u8 
+#EXTINF:0,bTV Lady 
+http://87.246.0.130:88/m3u8/webbtvlady_web.m3u8 
+#EXTINF:0,Sport+ 
+http://87.246.0.130:88/m3u8/websportplus_web.m3u8 
+#EXTINF:0,Diema Sport 
+http://87.246.0.130:88/m3u8/webdiemasport_web.m3u8 
+#EXTINF:0,Diema Sport 2 
+http://87.246.0.130:88/m3u8/webdiemasport2_web.m3u8 
+#EXTINF:0,Mtelsport 1 
+http://87.246.0.130:88/m3u8/webmtelsport_web.m3u8 
+#EXTINF:0,Eurosport 
+http://87.246.0.130:88/m3u8/webeurosport_web.m3u8 
+#EXTINF:0,Eurosport 2 
+http://87.246.0.130:88/m3u8/webeurosport2_web.m3u8 
+#EXTINF:0,Nova Sport 
+http://87.246.0.130:88/m3u8/webnovasport_web.m3u8 
+#EXTINF:0,Kino Nova 
+http://87.246.0.130:88/m3u8/webkinonova_web.m3u8 
+#EXTINF:0,Ring 
+http://87.246.0.130:88/m3u8/webringbg_web.m3u8 
+#EXTINF:0,Diema 
+http://87.246.0.130:88/m3u8/webdiema_web.m3u8 
+#EXTINF:0,Diema Family 
+http://87.246.0.130:88/m3u8/webdiemafamily_web.m3u8 
+#EXTINF:0,Nova 
+http://87.246.0.130:88/m3u8/webnova_web.m3u8 
+#EXTINF:0,K3 
+http://87.246.0.130:88/m3u8/webkanal3_web.m3u8 
+#EXTINF:0,Fox 
+http://87.246.0.130:88/m3u8/webfox_web.m3u8 
+#EXTINF:0,Fox Crime 
+http://87.246.0.130:88/m3u8/webfoxcrime_web.m3u8 
+#EXTINF:0,Fox life 
+http://87.246.0.130:88/m3u8/webfoxlive_web.m3u8 
+#EXTINF:0,AXN 
+http://87.246.0.130:88/m3u8/webaxn_web.m3u8 
+#EXTINF:0,AXN White 
+http://87.246.0.130:88/m3u8/webaxnwhite_web.m3u8 
+#EXTINF:0,HBO 
+http://87.246.0.130:88/m3u8/webhbo_web.m3u8 
+#EXTINF:0,Discovery 
+http://87.246.0.130:88/m3u8/webdiscovery_web.m3u8 
+#EXTINF:0,History 
+http://87.246.0.130:88/m3u8/webhistory_web.m3u8 
+#EXTINF:0,Nat Geo 
+http://87.246.0.130:88/m3u8/webnatgeo_web.m3u8 
+#EXTINF:0,Nat Geo Wild 
+http://87.246.0.130:88/m3u8/webnatgeowild_web.m3u8 
+#EXTINF:0,TLC 
+http://87.246.0.130:88/m3u8/webtlc_web.m3u8 
+#EXTINF:0,BiT 
+http://87.246.0.130:88/m3u8/webbit_web.m3u8 
+#EXTINF:0,Bloomberg 
+http://87.246.0.130:88/m3u8/webbloomberg_web.m3u8 
+#EXTINF:0,Evrokom 
+http://87.246.0.130:88/m3u8/webevrokom_web.m3u8 
+#EXTINF:0,SKAT 
+http://87.246.0.130:88/m3u8/webskat_web.m3u8 
+#EXTINF:0,F+ 
+http://87.246.0.130:88/m3u8/webfplus_web.m3u8 
+#EXTINF:0,Balkanika 
+http://87.246.0.130:88/m3u8/webbalkanika_web.m3u8 
+#EXTINF:0,BG Music Channel 
+http://87.246.0.130:88/m3u8/webbgmusic_web.m3u8 
+#EXTINF:0,BOX 
+http://87.246.0.130:88/m3u8/webbox_web.m3u8 
+#EXTINF:0,City TV 
+http://87.246.0.130:88/m3u8/webcitytv_web.m3u8 
+#EXTINF:0,The Voice 
+http://87.246.0.130:88/m3u8/webthevoice_web.m3u8 
+#EXTINF:0,Magic TV 
+http://87.246.0.130:88/m3u8/webmagictv_web.m3u8 
+#EXTINF:0,Planeta 
+http://87.246.0.130:88/m3u8/webplaneta_web.m3u8 
+#EXTINF:0,Planeta folk 
+http://87.246.0.130:88/m3u8/webplanetafolk_web.m3u8 
+#EXTINF:0,FEN TV 
+http://87.246.0.130:88/m3u8/webfen_web.m3u8 
+#EXTINF:0,Folklor TV 
+http://87.246.0.130:88/m3u8/webfolklor_web.m3u8 
+#EXTINF:0,Tiankov 
+http://87.246.0.130:88/m3u8/webtiankov_web.m3u8 
+#EXTINF:0,baby tv 
+http://87.246.0.130:88/m3u8/webbabytv_web.m3u8 
+#EXTINF:0,?kids 
+http://87.246.0.130:88/m3u8/webekids_web.m3u8 
+#EXTINF:0,Disney 
+http://87.246.0.130:88/m3u8/webdisney_web.m3u8 
+#EXTINF:0,hobby 
+http://87.246.0.130:88/m3u8/webhobby_web.m3u8 
+#EXTINF:0,24Kitchen 
+http://87.246.0.130:88/m3u8/web24kitchen_web.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:5 group-title=”Italy-WebTV”,
 
 #EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg ,==Italy==
@@ -3553,8 +3805,116 @@ http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
 
 #EXTINF:6 group-title=”France2”,
 
+#EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg ,==France==
+http://..........
 
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
 
+#EXTINF:-1,W9
+http://144.217.253.140/W9/mpegts
+#EXTINF:-1,TF 1
+http://144.217.253.140/TF1/mpegts
+#EXTINF:-1,Piwi
+http://144.217.253.140/Piwi/mpegts
+#EXTINF:-1,NRJ 12
+http://144.217.253.140/NRJ12/mpegts
+#EXTINF:-1,MBC
+http://144.217.253.140/MBC/mpegts
+#EXTINF:-1,MBC MASR
+http://144.217.253.140/MBCMASR/mpegts
+#EXTINF:-1,MBC MAX
+http://144.217.253.140/MBCMAX/mpegts
+#EXTINF:-1,MBC DRAMA
+http://144.217.253.140/MBCDRAMA/mpegts
+#EXTINF:-1,MBC ACTION
+http://144.217.253.140/MBCACTION/mpegts
+#EXTINF:-1,MBC 4
+http://144.217.253.140/MBC4/mpegts
+#EXTINF:-1,MBC 2
+http://144.217.253.140/MBC2/mpegts
+#EXTINF:-1,M6
+http://144.217.253.140/M6/mpegts
+#EXTINF:-1,LBC
+http://144.217.253.140/LBC/mpegts
+#EXTINF:-1,LDC
+http://144.217.253.140/LDC/mpegts
+#EXTINF:-1,Gulli
+http://144.217.253.140/Gulli/mpegts
+#EXTINF:-1,France 4
+http://144.217.253.140/France4/mpegts
+#EXTINF:-1,France 3
+http://144.217.253.140/France3/mpegts
+#EXTINF:-1,France 2
+http://144.217.253.140/France2/mpegts
+#EXTINF:-1,C8
+http://144.217.253.140/C8/mpegts
+#EXTINF:-1,Cherie25
+http://144.217.253.140/Cherie25/mpegts
+#EXTINF:-1,tiji
+http://144.217.253.140/tiji/mpegts
+#EXTINF:-1,OTV
+http://144.217.253.140/OTV/mpegts
+#EXTINF:-1,Nickelodeon
+http://144.217.253.140/Nickelodeon/mpegts
+#EXTINF:-1,Nessma
+http://144.217.253.140/Nessma/mpegts
+#EXTINF:-1,NBN
+http://144.217.253.140/NBN/mpegts
+#EXTINF:-1,Mangas
+http://144.217.253.140/Mangas/mpegts
+#EXTINF:-1,Boomerang
+http://144.217.253.140/Boomerang/mpegts
+#EXTINF:-1,Boing
+http://144.217.253.140/Boing/mpegts
+#EXTINF:-1,TRT 1
+http://144.217.76.52:8080/TRT1/mpegts
+#EXTINF:-1,OTV
+http://144.217.76.52:8080/OTV/mpegts
+#EXTINF:-1,KTV 2
+http://144.217.76.52:8080/KTV2/mpegts
+#EXTINF:-1,CBC
+http://144.217.76.52:8080/CBC/mpegts
+#EXTINF:-1,LDC
+http://144.217.76.52:8080/LDC/mpegts
+#EXTINF:-1,natgeo
+http://144.217.74.192:8080/natgeo/mpegts
+#EXTINF:-1,zeemarathi
+http://144.217.74.192:8080/zeemarathi/mpegts
+#EXTINF:-1,syfy
+http://144.217.74.192:8080/syfy/mpegts
+#EXTINF:-1,AMC HD
+http://144.217.74.192:8080/AMCHD/mpegts
+#EXTINF:-1,SPIKE TV
+http://144.217.74.192:8080/SPIKETV/mpegts
+#EXTINF:-1,sky movies family
+http://144.217.74.192:8080/skymoviesfamily/mpegts
+#EXTINF:-1,pogo
+http://144.217.74.192:8080/pogo/mpegts
+#EXTINF:-1,comedy central
+http://144.217.74.192:8080/comedycentral/mpegts
+#EXTINF:-1,hbo comedy
+http://144.217.74.192:8080/hbocomedy/mpegts
+#EXTINF:-1,TSN 3 HD
+http://144.217.74.122:8080/TSN3HD/mpegts
+#EXTINF:-1,TSN 1 HD
+http://144.217.74.122:8080/TSN1HD/mpegts
+#EXTINF:-1,TSN 2 HD
+http://144.217.74.122:8080/TSN2HD/mpegts
 
 
 
@@ -14080,6 +14440,133 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
+
+#EXTINF:-1,Планета HD
+http://195.49.206.243:8000/udp/239.255.1.114:1234
+#EXTINF:-1,Наука 2.0
+http://195.49.206.243:8000/udp/239.255.1.51:1234
+#EXTINF:-1,Техно 24
+http://195.49.206.243:8000/udp/239.255.1.66:1234
+#EXTINF:-1,Бобёр
+http://195.49.206.243:8000/udp/239.255.1.102:1234
+#EXTINF:-1,Домашние животные
+http://195.49.206.243:8000/udp/239.255.1.43:1234
+#EXTINF:-1,Усадьба
+http://195.49.206.243:8000/udp/239.255.1.45:1234
+#EXTINF:-1,Телекафе
+http://195.49.206.243:8000/udp/239.255.1.106:1234
+#EXTINF:-1,Живая природа
+http://195.49.206.243:8000/udp/239.255.1.77:1234
+#EXTINF:-1,Пятница!
+http://195.49.206.243:8000/udp/239.255.1.16:1234
+#EXTINF:-1,Поехали!
+http://195.49.206.243:8000/udp/239.255.1.107:1234
+#EXTINF:-1,Авто 24
+http://195.49.206.243:8000/udp/239.255.1.35:1234
+#EXTINF:-1,Драйв
+http://195.49.206.243:8000/udp/239.255.1.47:1234
+#EXTINF:-1,Russian Extreme HD
+http://195.49.206.243:8000/udp/239.255.1.129:1234
+#EXTINF:-1,Телеканал Футбол
+http://195.49.206.243:8000/udp/239.255.1.76:1234
+#EXTINF:-1,Матч! HD
+http://195.49.206.243:8000/udp/239.255.1.128:1234
+#EXTINF:-1,Матч!
+http://195.49.206.243:8000/udp/239.255.1.3:1234
+#EXTINF:-1,Охота и рыбалка
+http://195.49.206.243:8000/udp/239.255.1.49:1234
+#EXTINF:-1,Cinema
+http://195.49.206.243:8000/udp/239.255.1.63:1234
+#EXTINF:-1,XXI
+http://195.49.206.243:8000/udp/239.255.1.78:1234
+#EXTINF:-1,Домашний
+http://195.49.206.243:8000/udp/239.255.1.14:1234
+#EXTINF:-1,Дом кино
+http://195.49.206.243:8000/udp/239.255.1.104:1234
+#EXTINF:-1,Дом кино премиум HD
+http://195.49.206.243:8000/udp/239.255.1.111:1234
+#EXTINF:-1,Еврокино
+http://195.49.206.243:8000/udp/239.255.1.34:1234
+#EXTINF:-1,Иллюзион+
+http://195.49.206.243:8000/udp/239.255.1.32:1234
+#EXTINF:-1,Комедия
+http://195.49.206.243:8000/udp/239.255.1.60:1234
+#EXTINF:-1,НСТ
+http://195.49.206.243:8000/udp/239.255.1.67:1234
+#EXTINF:-1,>>>Родное кино
+http://91.149.172.100:80/channel?id=74&u=demo&p=demo
+#EXTINF:-1,Ретро
+http://195.49.206.243:8000/udp/239.255.1.40:1234
+#EXTINF:-1,Русский Бестселлер
+http://195.49.206.243:8000/udp/239.255.1.53:1234
+#EXTINF:-1,Русский Детектив
+http://195.49.206.243:8000/udp/239.255.1.61:1234
+#EXTINF:-1,Русский Иллюзион
+http://195.49.206.243:8000/udp/239.255.1.31:1234
+#EXTINF:-1,Русский роман HD
+http://195.49.206.243:8000/udp/239.255.1.112:1234
+#EXTINF:-1,Русский Роман
+http://195.49.206.243:8000/udp/239.255.1.52:1234
+#EXTINF:-1,Телеклуб/Детский мир
+http://195.49.206.243:8000/udp/239.255.1.74:1234
+#EXTINF:-1,5 канал
+http://195.49.206.243:8000/udp/239.255.1.5:1234
+#EXTINF:-1,360 HD
+http://195.49.206.243:8000/udp/239.255.1.115:1234
+#EXTINF:-1,Москва Доверие
+http://195.49.206.243:8000/udp/239.255.1.118:1234
+#EXTINF:-1,НТВ
+http://195.49.206.243:8000/udp/239.255.1.4:1234
+#EXTINF:-1,ОТР
+http://195.49.206.243:8000/udp/239.255.1.9:1234
+#EXTINF:-1,Первый HD
+http://195.49.206.243:8000/udp/239.255.1.127:1234
+#EXTINF:-1,Первый
+http://195.49.206.243:8000/udp/239.255.1.1:1234
+#EXTINF:-1,Психология 21
+http://195.49.206.243:8000/udp/239.255.1.41:1234
+#EXTINF:-1,Рен ТВ
+http://195.49.206.243:8000/udp/239.255.1.11:1234
+#EXTINF:-1,Россия 24 HQ
+http://195.49.206.243:8000/udp/239.255.1.7:1234
+#EXTINF:-1,Сарафан
+http://195.49.206.243:8000/udp/239.255.1.54:1234
+#EXTINF:-1,CTC
+http://195.49.206.243:8000/udp/239.255.1.13:1234
+#EXTINF:-1,ТВ 3
+http://195.49.206.243:8000/udp/239.255.1.15:1234
+#EXTINF:-1,ТВЦ
+http://195.49.206.243:8000/udp/239.255.1.10:1234
+#EXTINF:-1,ТНТ
+http://195.49.206.243:8000/udp/239.255.1.19:1234
+#EXTINF:1,Ю ТВ
+http://195.49.206.243:8000/udp/239.255.1.83:1234
+#EXTINF:-1,Здоровое ТВ
+http://195.49.206.243:8000/udp/239.255.1.44:1234
+#EXTINF:-1,О!
+http://195.49.206.243:8000/udp/239.255.1.126:1234
+#EXTINF:-1,Детский
+http://195.49.206.243:8000/udp/239.255.1.30:1234
+#EXTINF:-1,Карусель
+http://195.49.206.243:8000/udp/239.255.1.8:1234
+#EXTINF:-1,Мама
+http://195.49.206.243:8000/udp/239.255.1.65:1234
+#EXTINF:-1,Мульт
+http://195.49.206.243:8000/udp/239.255.1.64:1234
+#EXTINF:-1,Мульт музыка
+http://195.49.206.243:8000/udp/239.255.1.55:1234
+#EXTINF:-1,Інтер+
+http://195.49.206.243:8000/udp/239.255.1.71:1234
+
+
+
+
+
+
+
+
+
+
 
 
 
