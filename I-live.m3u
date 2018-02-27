@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Updated
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,18/02/18
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,27/02/18
 https://www.youtube.com/watch?v=t4RRga0RUr8
 
 
@@ -42,18 +42,8 @@ http://37.9.0.201:8889
 http://37.9.0.201:8811 
 #EXTINF:-1,Passion XXX 
 http://37.9.0.201:8888	
-#EXTINF:-1,Ovr 18
-http://playlist.prg09.v-ip-tv.com/atip/05eff8af2c9811881571e0e9bd243eeb/231/channel-15/0/512.m3u8
-#EXTINF:-1,XXX Adult 80 (+18) 
-http://playlist.prg09.v-ip-tv.com/atip/2c899c93153f3acae05651afbffad3a5/1506693147727/channel-80/1/512.m3u8	
-#EXTINF:-1,Dollhouse Back [+18] 
-http://playlist.prg09.v-ip-tv.com/atip/a232679d2e2529cf8c88a46389b2dd84/1506693452661/channel-71/1/515.m3u8
-#EXTINF:-1,Bla 
-http://playlist.prg09.v-ip-tv.com/atip/c7d3bca2c1c4133f1fb061095ba4d754/21/channel-16/0/512.m3u8
 #EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" , Visit-X Tv 720P
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8?MWINFO		
-#EXTINF:-1,Brazzers TV Europe 
-http://93.91.113.8:9999/play/a07s
 #EXTINF:-1,BRAZZERS TV Europe 
 http://109.248.93.241:3371/udp/239.195.2.4:1234 
 #EXTINF:-1,BRAZZERS TV Europe 
@@ -63,9 +53,11 @@ http://91.203.208.65:3371/udp/239.195.2.4:1234
 #EXTINF:-1,BRAZZERS TV Europe 
 http://37.192.213.121:81/udp/239.1.6.40:1234 
 #EXTINF:-1,BRAZZERS TV Europe 
-http://185.107.242.133:34040/udp/230.3.4.143:5678 
-#EXTINF:-1,РУССКАЯ НОЧЬ (RUSSIAN NIGHT)  
-http://93.91.113.8:9999/play/a07r 
+http://46.235.68.74:34040/udp/230.3.4.143:5678
+#EXTINF:-1,BRAZZERS TV Europe 
+http://79.133.111.103:34040/udp/239.191.254.170:15285
+#EXTINF:-1,Brazzers TV Europe 
+http://93.91.113.8:9999/play/a07s
 #EXTINF:-1,РУССКАЯ НОЧЬ (RUSSIAN NIGHT)  
 http://109.248.93.241:3371/udp/239.195.2.3:1234 
 #EXTINF:-1,РУССКАЯ НОЧЬ (RUSSIAN NIGHT)  
@@ -73,11 +65,11 @@ http://91.203.208.77:3371/udp/239.195.2.3:1234
 #EXTINF:-1,РУССКАЯ НОЧЬ (RUSSIAN NIGHT)  
 http://91.203.208.65:3371/udp/239.195.2.3:1234 
 #EXTINF:-1,РУССКАЯ НОЧЬ (RUSSIAN NIGHT)  
-http://185.107.242.133:34040/udp/230.3.4.110:5678
+http://46.235.68.74:34040/udp/230.3.4.110:5678
+#EXTINF:-1,РУССКАЯ НОЧЬ (RUSSIAN NIGHT)
+http://79.133.111.103:34040/udp/239.191.254.13:15285
 #EXTINF:-1,РУССКАЯ НОЧЬ (RUSSIAN NIGHT)  
-http://5.128.94.62:81/udp/239.1.6.32:1234 
-#EXTINF:-1,PLAYBOY TV 
-http://93.91.113.8:9999/play/a07t 
+http://93.91.113.8:9999/play/a07r 
 #EXTINF:-1,PLAYBOY TV 
 http://109.248.93.241:3371/udp/239.195.2.5:1234 
 #EXTINF:-1,PLAYBOY TV 
@@ -85,40 +77,18 @@ http://91.203.208.77:3371/udp/239.195.2.5:1234
 #EXTINF:-1,PLAYBOY TV 
 http://91.203.208.65:3371/udp/239.195.2.5:1234 
 #EXTINF:-1,PLAYBOY TV 
-http://37.192.213.121:81/udp/239.1.6.39:1234 
-#EXTINF:-1,PLAYBOY TV 
-http://5.128.94.62:81/udp/239.1.6.39:1234 
-#EXTINF:-1,Night Club 
-http://5.128.94.62:81/udp/239.1.6.33:1234 
-#EXTINF:-1,Ola-la 
-http://5.128.94.62:81/udp/239.1.6.34:1234 
-#EXTINF:-1,Ola -la 
-http://37.192.213.121:81/udp/239.1.6.34:1234 
+http://93.91.113.8:9999/play/a07t 
+#EXTINF:-1,Frenchlover
+http://79.133.111.103:34040/udp/239.191.254.251:15285
+#EXTINF:-1,Ovr 18
+http://playlist.prg09.v-ip-tv.com/atip/05eff8af2c9811881571e0e9bd243eeb/231/channel-15/0/512.m3u8
+#EXTINF:-1,XXX Adult 80 (+18) 
+http://playlist.prg09.v-ip-tv.com/atip/2c899c93153f3acae05651afbffad3a5/1506693147727/channel-80/1/512.m3u8	
+#EXTINF:-1,Dollhouse Back [+18] 
+http://playlist.prg09.v-ip-tv.com/atip/a232679d2e2529cf8c88a46389b2dd84/1506693452661/channel-71/1/515.m3u8
+#EXTINF:-1,Bla 
+http://playlist.prg09.v-ip-tv.com/atip/c7d3bca2c1c4133f1fb061095ba4d754/21/channel-16/0/512.m3u8
 
-
-
-
-
-
-
-#EXTINF:1 group-title="LIVE TV 2 - Testing",
-
-#EXTINF:-1,Penthouse
-http://stream:starperkish@85.14.32.15:8003/udp/239.100.102.142:8888
-#EXTINF:-1,PASSIONXX
-http://stream:starperkish@85.14.32.15:8003/udp/239.100.20.45:8888
-#EXTINF:-1,Cento Cento
-http://stream:starperkish@85.14.32.15:8003/udp/239.100.20.46:8888
-#EXTINF:-1,BRAZZERS TV Europe
-http://stream:starperkish@85.14.32.15:8003/udp/239.100.111.59:8888
-#EXTINF:-1,PINK O
-http://stream:starperkish@85.14.32.15:8003/udp/239.100.20.44:8888
-#EXTINF:-1,SCT
-http://stream:starperkish@85.14.32.15:8003/udp/239.100.20.39:8888
-#EXTINF:-1,EvilAngelTV
-http://stream:starperkish@85.14.32.15:8003/udp/239.100.20.40:8888
-#EXTINF:-1,SESTOXSENSO TV
-http://stream:starperkish@85.14.32.15:8003/udp/239.100.20.29:8888
 
 
 
@@ -156,7 +126,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 https://www.youtube.com/watch?v=t4RRga0RUr8		
 
 #EXTINF:-1,Babestation 
-acestream://abe6864097806541ec58bbc22ad53027806a2ba8
+acestream://4e87184562f4ea979c79649e54bcae6153959f0c
 #EXTINF:-1,Barely Legal TV 
 acestream://3cef719c4b14fd8d82a2674cdf881578ecd94dac
 #EXTINF:-1,Blue Hustler 
@@ -164,7 +134,7 @@ acestream://413b7a7d038f2a5313d360c279e297a250567280
 #EXTINF:-1,Brazzers TV 
 acestream://51b20eed4c65c3f4e07895c452efb1a14f2139e8
 #EXTINF:-1,Brazzers TV Europe 
-acestream://72e265768082313ccd4627fa721d239772842e4b
+acestream://70000e0dba2fee36fa7de06efc152f9851f361b6
 #EXTINF:-1,CentoXCento TV 
 acestream://01e5476291d1bb1e1e9cbd91fa67e1fddf0f98d5
 #EXTINF:-1,Dusk TV 
@@ -208,17 +178,17 @@ acestream://81a5a0ce3da66e928adb60c632423ecfcbdf3e18
 #EXTINF:-1,FAP TV Trans 
 acestream://6277e3285ca4c3605484eab03d14ef7599a96b49
 #EXTINF:-1,FAP TV UHD 4K 
-acestream://57af1164043a7f08f2bcbdf55fe7ee14e9573988
-#EXTINF:-1,Frenchlover 
-acestream://ceaed05401c459d5f4f27c14f674656744c08d5f
+acestream://11d096f42a279d9e97672ab02472b0f0f18646c3
+#EXTINF:-1,French Lovеr TV 
+acestream://8fc4c43a90ff535539d9dbdb8fba52bb191b3eef
 #EXTINF:-1,Hustler HD 
-acestream://5c66dd3a4775330751eb6da8df83dc438c2415ef
+acestream://d84f100d69c076ef4892de14ec770b47276c15ff
 #EXTINF:-1,Jasmin TV 
 acestream://114e10f9fad02cb5409d7c6861925416c07f21a4
 #EXTINF:-1,Nuart TV 
-acestream://80192e98fa013aec86b02acf3c7ccf95ee75284b
+acestream://805ef38fc6c86c407ab59178a20bbbfb4d2cf32a
 #EXTINF:-1,O-la-la 
-acestream://3c9420f7fe6271bd067a005c21f4f205d3cfe358
+acestream://732abe30b26b022736acec6dd93a6f2a1f160c66
 #EXTINF:-1,PassionXXX 
 acestream://6a7f34146faba09853ef226275742541abd60398
 #EXTINF:-1,Phoenix Marie TV 
@@ -230,21 +200,25 @@ acestream://c8fab9ca50f5d0c0fc4ace526216851c40f182ad
 #EXTINF:-1,Private HD 
 acestream://6ba7598508e49afa695b9b39790e2de22527cf62
 #EXTINF:-1,Redlight HD 
-acestream://bce7c501db16ea676b5649777d3fb549618e57f2
+acestream://a3cb9a93e61bf01abcc99f218c96a2927cfe6b8d
 #EXTINF:-1,SCT 
 acestream://06c9d7956d980c467140ce31d85d083b02c2d1d2
 #EXTINF:-1,Satisfaction HD 
-acestream://9baed369314787c279c12bab5072bf80a41fbae1
+acestream://7090d6b3db76df7917a2445a2437e16812c87fe2
 #EXTINF:-1,Sextosenso 
-acestream://e285362361872af346ea74adeed232c00b9feda4
+acestream://295c6a58102ad06833c06425bb4c61930f15ada3
 #EXTINF:-1,Visit-X HD 
 acestream://9066a6ad322f9679391edf654bb61b67afb3338c
+#EXTINF:-1,Vivid TV Europe 
+acestream://024a20d47aa7093ce399d9c47f82b4432e6578eb
 #EXTINF:-1,Ночной клуб 
-acestream://338eb4f45ebc99f6a276815e09687f8a1552bc2a
+acestream://208fb38604e7e1ce05ab8fc1a84d7c8f6dca5d8a
 #EXTINF:-1,Русская ночь 
 acestream://59f5f7934c75d3bf60d7876bafdc8a798ea425b4
 #EXTINF:-1,Эгоист ТВ 
 acestream://6046cf33cddd917877bd8412da516a281e3d7028
+
+
 
 
 
