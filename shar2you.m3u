@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Updated 
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,18/02/18
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,27/02/18
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 
@@ -378,18 +378,16 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 acestream://ce76841dfdfc711aaf8765259804dbf82a7c624e
 #EXTINF:-1,Baby TV 
 acestream://b866daff2efa435998b0f72a89e12369dbd8c550
-#EXTINF:-1,Boomerang TV (RU) 
-acestream://91e16996fa741da9dca78daa3380a2ae7f6c945c
 #EXTINF:-1,Cartoon Network 
-acestream://a320c556e8136d9d010b79b1fa80cd23bd948a5b
+acestream://04390adafd94f06dfd0ef86c8f74d5f042b526b2
 #EXTINF:-1,Disney Channel 
-acestream://5089b28e8aa246bb5c9bf4a5dc302d62a333aca1
+acestream://2e4ac0c9e88aa67258f9c992a08012112758fc8a
 #EXTINF:-1,Disney Channel Deutschland 
-acestream://90fb4ce2ebafb177fd9abbd5d3f3e4e92df2d715
+acestream://24943991ea8dc99b2ed4da94aca4c7eb1f493d02
 #EXTINF:-1,Gulli Girl 
-acestream://685c7c389595890247e692dce04814db983f639e
+acestream://67df5c28768696dc06e138e1f496c645f7385a35
 #EXTINF:-1,JimJam 
-acestream://8731d991efd94e1a0129ea48c438e48d265011e3
+acestream://37f196aaa9df86c21b7b8bc8d675b5e1f7a8216f
 #EXTINF:-1,KidZone Baltic 
 acestream://17fccf66280297231781f45a92270f5d99564cef
 #EXTINF:-1,Kids TV 
@@ -397,27 +395,27 @@ acestream://1cd05a0f63aeadc3fea0b19ecb1d8cf2ab8008d8
 #EXTINF:-1,Lale 
 acestream://f42f9777b95cf83cc0e49a0f32d18687c1dcc716
 #EXTINF:-1,Nick Austria 
-acestream://47869966766af68006f522849ed77669502d50d2
+acestream://3037e316f124d60630956687f9b17091177c2e2f
 #EXTINF:-1,Nick Jr. 
-acestream://13b66b42d0a229ac65b8aa407a57e0a3c91a3eb5
+acestream://e24bddcb0e38bfae8d537f37b12fc6a4d268290d
 #EXTINF:-1,Nickelodeon 
-acestream://c243808f97928dae2da8556c4ab574f87f1a94bd
+acestream://34cba7746b57ef3f3ecd2a7728e5a913197e4c53
 #EXTINF:-1,Nickelodeon HD 
-acestream://d8ec1a2629a580f8e7eb9812b250ed020e54e421
+acestream://8018fb275563d67430239f1b9e7b55135bc61cc5
 #EXTINF:-1,TiJi 
 acestream://0bcf491a2f423b5658cfd0c8e0f6643172a67fcc
 #EXTINF:-1,Toggo Plus 
-acestream://957261745226937ee839ebae88f66f42d8262b26
+acestream://2d87967fa387d132ef267ee6cf3227eb90c7cccc
 #EXTINF:-1,В гостях у сказки 
 acestream://6700bfbcb9d662de46ca20b677158dae18c7f407
 #EXTINF:-1,Детский 
-acestream://c3d83c2fc8371ae324753e0b63b4a1e999593f7c
+acestream://95c33395a3091b89c2cb40d45b92438338e4c97d
 #EXTINF:-1,Детский мир 
-acestream://0f61a174e325eb1394550cc6bee3d1f6f12b4ac2
+acestream://f9729a88c07274b1dd6de1f0d846800f6dbf65e5
 #EXTINF:-1,Ералаш HD 
 acestream://07639691e039ee646b964ab7fab43b9c69f2aa4d
 #EXTINF:-1,Карусель 
-acestream://baea3b986add55238249362ecd35f108c110dbd7
+acestream://1197cd22a0666a9aed975d6100104ba38e5b24b4
 #EXTINF:-1,Карусель (+3) 
 acestream://4ef009d7a0b60ebb752543592fb2a3fa1036e4a8
 #EXTINF:-1,Любимое ТВ 
@@ -425,37 +423,37 @@ acestream://c3af190ca1d9de89cd061d46d8c2ad48c26c1b20
 #EXTINF:-1,Малыш 
 acestream://5611081c52c2d3fdcbdb9ea52c1d6befd749c87a
 #EXTINF:-1,Малятко ТВ 
-acestream://c0470ed5e0516c67cb36b06ce3c61536514b0ec9
+acestream://4603774690d871928798179f73aaf04aa6abdf23
 #EXTINF:-1,Мама 
-acestream://403a42b7de7df5699120afbf16ee43e2acba7140
+acestream://37286efff68d3dffbe41040bcf295af6db94f5b7
 #EXTINF:-1,Мульт 
-acestream://cc4e56468f2d5ac77524ab3f87fdbf527ec002b0
+acestream://d0cf476901117287a63f789701ad82899f3fee78
 #EXTINF:-1,Мультимания 
-acestream://948f23a83dbde652364c5c07a0d552a340524c4c
+acestream://487e09868b03881e02feb84a554be845cc10c170
 #EXTINF:-1,Мультимузыка 
-acestream://da7dab60805d9762bcaaf6a93e0752bf63ff28c7
+acestream://6db8641bc8ad77771206519f9c8a89c37c72a455
 #EXTINF:-1,О! 
-acestream://d19644de318758fc69cfffd7b0628364c2113d63
+acestream://a2052eb8ba853987ebd39171e7291d359fff07c7
 #EXTINF:-1,Пиксель ТВ 
-acestream://500d5202037836537ba1f1d751a409fc3f50e2da
+acestream://1faecc381216c4ce544c69f1c3edba9c864c7c3b
 #EXTINF:-1,Пингвин Лоло 
 acestream://ddb5970735d8b1fe2c465c0e50842da705d4315b
 #EXTINF:-1,ПлюсПлюс 
-acestream://b46d5a235939e8c20cc00a2fa060127389094ea8
+acestream://27c9c25c848d1bf3303dc70acbc64ccb07ce7c19
 #EXTINF:-1,Радость моя 
-acestream://67350e226f75031ba95c4b63e0e685101ef56b50
+acestream://2b2211e9ce25b35e45b4db174a790483b8b6f09b
 #EXTINF:-1,Рыжий 
-acestream://dab47a2ad3c705f910fa597c1c31854d525049df
+acestream://13b3abcfd129e9aab1cf877f217374e3d9b7edaf
 #EXTINF:-1,Рыжий (сурд.) 
 acestream://642642f12c6fc1134954af2f44d2b8f64e176ed9
 #EXTINF:-1,Рыжий HD 
-acestream://3939066f0780cd0bd8c2145283cfd33cf460ac0a
+acestream://b2d98d77f8506c1fa0af0be94ac5961b262d17ab
 #EXTINF:-1,Сказки Зайки 
 acestream://07aba4843e084b4c6344bae54e2d0600f5406958
 #EXTINF:-1,Смайлик ТВ HD 
 acestream://92f790447fca783cf73cab3866d5b28b3b9e38ce
 #EXTINF:-1,Тлум HD 
-acestream://9f3e50ec08f860ef59bda03bbf293c8868545c30
+acestream://a647c19f79146e57e10559ad66ad22c99e785e07
 
 
 
@@ -523,27 +521,23 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1,CBS Reality 
-acestream://7fded831677aeae5274979a58f20a9a174a3939a
-#EXTINF:-1,Fast and FunBox HD 
-acestream://baf44bedfa8a7dce2180d2b0c6c455ce824a0a7a
+acestream://d44828dd9c7004454951885f41f3fdbe31b017e6
 #EXTINF:-1,GlobalStar TV 
 acestream://402350efab1f256d0c63cd2e440eba557abde4f2
 #EXTINF:-1,Outdoor Channel 
-acestream://d473f065e803a12d9961ca516e77bb3c43751099
+acestream://6931257a48b5bedb952d3c71de298f1209dad6be
 #EXTINF:-1,Outdoor Channel HD 
-acestream://a4c50f271ad949a0d7298dc12702394e31662367
+acestream://e2feba4c3f5894630486c38c81a05839fa8c8a6d
 #EXTINF:-1,Авто 24 
-acestream://416f16bbc3637a90d015705a948b33e60506def2
+acestream://1de514647ae005c5dc17b939378fce59dc99522c
 #EXTINF:-1,Авто плюс 
-acestream://3840a57385f26585b324d81f5eb0530dc9ef7b4a
+acestream://0ca49f86d2a16b11a77f103d18f26e959654dc78
 #EXTINF:-1,Бокс ТВ 
-acestream://52abea12a5b8c675da62cd5ecd7b18d5ac9e0b35
+acestream://fc7e13a2d82f9a7eae291d7515ef7e4c25118499
 #EXTINF:-1,Бокс ТВ HD 
 acestream://011501fbec1f3137e4453c2249f0ad2e32e4bbb0
 #EXTINF:-1,Диалоги о рыбалке 
-acestream://00d25899d2d0c289a59fde541ae427005a733ccc
-#EXTINF:-1,Драйв ТВ 
-acestream://274cb9ee2d83f63fcc39b5a959d039164d065d78
+acestream://b55e32f40750cac5de7fa5a6f44143a17169d7d1
 #EXTINF:-1,Матч! Боец 
 acestream://9287f248a5169878d303286dd0282ccfbd17a99a
 #EXTINF:-1,Морской 
@@ -551,19 +545,19 @@ acestream://8b941c8e101b4190aa84776d42851cf4a1b72d0d
 #EXTINF:-1,Мужской 
 acestream://524cf7cc008f669a45952295ade39cb1a1e8a368
 #EXTINF:-1,Оружие 
-acestream://d7150d21cf7172900a0ee345fe490feaee9f4969
+acestream://8adf8fd7a54831e980fae8168844de16b4546acc
 #EXTINF:-1,Охота и рыбалка 
-acestream://4ca69d147b70a6b152abedc6da8ad5187c0da5d7
+acestream://f41ca1375adc4b9e015698e47a413a6cb432a952
 #EXTINF:-1,Охотник и рыболов 
-acestream://a274e2bdf8ce09478a8853c7ac8521f680b19577
+acestream://fd925084648cccbbe27dca9a3894dc5bbcb48df4
 #EXTINF:-1,Охотник и рыболов HD 
-acestream://fe573c2b90c2d33da247933f8e72b35d44e04d78
+acestream://ba41f970a516307c7c12aa70498a1767ed1e9c3d
 #EXTINF:-1,Русский экстрим 
 acestream://e88ebd0a29cfcd879dfdcb1e6aff6519ec11c360
 #EXTINF:-1,Русский экстрим HD 
-acestream://8b4a60428c47ac7e1fbb099af7e4f930d53426ce
+acestream://855c3758997e1cbb3a4cc40d1829c4eb6d18d4de
 #EXTINF:-1,Техно 24 
-acestream://2db59dad0bbca39671f01712770d0a44f872b004
+acestream://522b86328ae6660ae0f6965020f54566eeb46eba
 #EXTINF:-1,Трофей 
 acestream://81c2ffbebc3ff6fe0584b4de1def0526686b6c34
 
@@ -676,33 +670,33 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1,0x0 Music HD 
-acestream://eb21161fb1ae6ac1fa809050a96ca653b869aeb6
+acestream://795e19dade01039c0add7daaf0d1ba078bcd1b63
 #EXTINF:-1,1 HD 
-acestream://63e605d3a1f5df9f82975ea53bd701203983e379
+acestream://26cab48be982a8aef2ade7b9c3dddb5a1065e9a7
 #EXTINF:-1,1 MUSIC CHANNEL 
 acestream://71e4113524c1e480e40cba88bbb946d919d7f219
 #EXTINF:-1,4Fun Gold Hits 
-acestream://7cc93fc98328d0e269bd302c000131323663e599
+acestream://59c5ad988b861f022331925da63683007313a6ad
 #EXTINF:-1,4fun Dance 
-acestream://2c3833d63d3a22bf57584dce54779b3b32a37a41
+acestream://0af302a4cff1493aae087bcd93333dcf718febf8
 #EXTINF:-1,9 волна 
-acestream://4f765abd9ca5a35ead023531ade7279289860014
+acestream://131390a1043c0c7cacd61203d37fe7032725ed9c
 #EXTINF:-1,Aurora TV 
 acestream://50026737cd8bc117355dc01a132e434f10c777c6
 #EXTINF:-1,Bridge HD 
-acestream://df00d33bf3ebc760be221d50dd77f760d73f0b73
+acestream://14aed5d4799ff6993634936b37f54ff687ad1725
 #EXTINF:-1,Bridge TV 
-acestream://6e3ad98728ede4c679fb8aa4cd92b81d8d8b286e
+acestream://13ee9b2c01d44b9e42f07d364cdc8b3077802016
 #EXTINF:-1,Bridge TV Classic 
-acestream://7867c33d4bde82d2a218c81533ffadb3185606c3
+acestream://66990553cf66e6e2a75a40202fa0f90c286340df
 #EXTINF:-1,Bridge TV Dance 
-acestream://9b7d984da016f0fac8de51465a0695e8718d932a
+acestream://978c4e9578d51786e29aae6895df8d8df64f5b4f
 #EXTINF:-1,C Music TV HD 
-acestream://7357c9114f15bccf1e156e04c15092284e63be17
+acestream://a261eb404bf091ff40d1bcd79438c7f098a16a75
 #EXTINF:-1,Channel AKA 
-acestream://1ae6b57f5aa93479c4b3f421150220147106654d
+acestream://d56cdf8b2ee71c98781e6fb91fcf8e2bffce258e
 #EXTINF:-1,Deluxe Music 
-acestream://61bac6fe540828ac635eed1bb7de126613c2cbc8
+acestream://4a14e6613dc007f471e41ce8081e6e8529b890ee
 #EXTINF:-1,Eska Best Music TV HD 
 acestream://3d229e2a6db72ee224ed04ef0fbb410622c94c52
 #EXTINF:-1,Eska OldsCool TV HD 
@@ -714,81 +708,49 @@ acestream://419efd7db10890e4c1e98a20663b2e4d2bedefcb
 #EXTINF:-1,Eska Wawa TV HD 
 acestream://b8dd185a4e06925d2c706721d45df3a85b7a44a8
 #EXTINF:-1,Europa Plus TV 
-acestream://dbd70aedc79e7e922e4b1d1e321c377460d0c76d
+acestream://eeed505285c64b1f8ebc151f895dc5bcd5f0cf53
 #EXTINF:-1,FRESH TV 
 acestream://663e2f01c9e10d6f96220d973062d689a984732a
 #EXTINF:-1,GDS TV 
-acestream://dc9692dc4f44a3d0581775ee58c90789f6c532d9
+acestream://68ec7129283776b80d3b3ae644af0d0c07579f2b
 #EXTINF:-1,HIТV HD 
 acestream://d57bfd8e47842ce314e58f5640dca257b9c7418b
 #EXTINF:-1,HardLife TV 
 acestream://065add957b2583c15cf1af19cfeefa3ec6180ed8
 #EXTINF:-1,HiT Music Channel 
-acestream://998e527ec1c8a30d67ba6b44d03dd9cf44dc1143
+acestream://8e2bc89c75ef273fc4a25fdbb779e9ca94294de9
 #EXTINF:-1,Kino Polska Muzyka 
-acestream://5d190c8723776cc5e20e88d64647beb0f974f17b
+acestream://633fa46cfa3c209fc9fd95c80b3141c9d7850086
 #EXTINF:-1,KissFm 
 acestream://15d016583f9b104c94a888e8dd1e0238d0a000f9
 #EXTINF:-1,MCM Top 
-acestream://2509999767898f6c3af2f29a094421a97c86f5c1
+acestream://26dd670819d307076dc90964e80986b865f808dc
 #EXTINF:-1,MTV AM HD 
 acestream://484463cc60b28ee68efa20b3cb8edfdf39ab8b1e
 #EXTINF:-1,MTV Dance 
-acestream://c7ff6513ec01e9cbc13a3dad30d02123fd728d37
+acestream://962ee4b358c2761e4525f2cd7698c87eddf0edca
 #EXTINF:-1,MTV Hits 
-acestream://2511ff36b847207534bd871dd60f4fb4a3d5805d
+acestream://3bfc258c70bb39bdc25269345dc2e88bd06f4fa5
 #EXTINF:-1,MTV Hits UK 
 acestream://53367fadd55d0041753b630db19d181221dcef5e
 #EXTINF:-1,MTV Live HD 
-acestream://8ab9ac50398996f2e88e12acf5bafd2653b54865
+acestream://ad6a0958d656bfa662924e0a74b7ba3b996511c4
 #EXTINF:-1,MTV Rocks 
-acestream://9876209f37fa2719d24fc82db052e1845af96c89
+acestream://bfdeffbc4bf8b8202c7a161d775a128c399da46a
 #EXTINF:-1,MTV Россия 
-acestream://ed274de8ee17743b08c73f6550e475345fbba42b
+acestream://2571ff1980146f7f3ca94668ab6046e9cd01653f
 #EXTINF:-1,MTV Россия HD 
 acestream://fda664a195e2e247775775d6a53083f406158ca4
 #EXTINF:-1,Mezzo 
-acestream://7308013db32f1ff5901b2bc5378d6d1c32ed09c5
+acestream://a0a5a2726b378d6976e8751ff90dd69e3f3c7cfb
 #EXTINF:-1,Mezzo Live HD 
-acestream://5a38eb60f7fb5f63498c8c196c5ce7fa63ef03ac
+acestream://811a2ea20a54fccbba228de1f4036e24b0c60fc5
 #EXTINF:-1,Music Box RU 
-acestream://debc5add96af9818c7ed018b73da3a310dec4a36
+acestream://a66c884f56310cc5b1e4c7c3a8f4032788cb3126
 #EXTINF:-1,Music Box TV 
-acestream://5d3b94817d44bd42e85d0ead92cf372fcd613fdd
+acestream://1d4da0d45aa8e94adaf8dc21626134f3eb258d06
 #EXTINF:-1,Music Box UA 
-acestream://58ca3a5593e7c8b91a02ebeed46db5bfcdf8e2b9
-#EXTINF:-1,Music Choice 
-acestream://5879cc01334ca01ed8a82388abfb55b307727e68
-#EXTINF:-1,Music Choice 90s 
-acestream://7a6a7a39d8aa53930c7e50f458a40ea4e6598cff
-#EXTINF:-1,Music Choice Alternative 
-acestream://b0ac66855f066b018e6083236a01cd1c72d50c03
-#EXTINF:-1,Music Choice Brits Hits 
-acestream://818a2d448a92c0aa0b11e521234fb91e19edf7bf
-#EXTINF:-1,Music Choice Dance EDM 
-acestream://b603f8f32ca61042245864dd325bd500ea626522
-#EXTINF:-1,Music Choice Hit List 
-acestream://ba22f0b9764c1c55e0daed7357a192d89895a07d
-#EXTINF:-1,Music Choice Metal 
-acestream://5b4dac5e78f75884ee7ead48222d53cee61e420b
-#EXTINF:-1,Music Choice Mexicana 
-acestream://25d7ec4f903294df9313d4cf231eaa269c7ddb13
-#EXTINF:-1,Music Choice Pop Country 
-acestream://c3f0e26a7daf7663aee186fbd4965417c80e1e84
-#EXTINF:-1,Music Choice Pop Hits 
-acestream://5a52b3f8b4a8dad708ea68ecce50dfe22493b182
-#EXTINF:-1,Music Choice Rap 
-acestream://d4d5e84f8f7d4a3c198adca7452b80f987fa523a
-#EXTINF:-1,Music Choice Teen Beats 
-acestream://6330dca43ba4f9b18cc21d203677805fe04f0216
-#EXTINF:-1,Music Choice Today 
-acestream://dd68d011d38956d519a6bd26e469b9d1a7ac4f6b
-#EXTINF:-1,Music Choice Toddler Tunes 
-acestream://04c7e9ce3cd63e794414755b7750a2e66736b58e
-#EXTINF:-1,Music Choice Tropicales 
-acestream://af7a0a5c1e719d23cfaca1b3030e6fb4f8c58495
-#EXTINF:-1,Music Choice Y2K 
-acestream://caab3da4abb328b72136623b0f5f39e5187a6578
+acestream://f04380e5ad089edb121fa7fb050ec9a8d02ac417
 #EXTINF:-1,MyНits 
 acestream://a5a7e10612daa2b56fd30c95acf4a1ea580bf21a
 #EXTINF:-1,NEBISET TV 
@@ -796,7 +758,7 @@ acestream://5ca8cde5157929c5bbf4189f2eb3073cb14cf4d1
 #EXTINF:-1,NRJ Hits HD 
 acestream://262becb5006d26c8d8cbfce3bef4fa65758cf0ea
 #EXTINF:-1,O-TV 
-acestream://be6e60fb0fbefd17cb70d551b5215c59ed07e503
+acestream://b72709b18f433b65b7521514b2891c414e3570e1
 #EXTINF:-1,Ocko Expres 
 acestream://67ea9f223f86676f3a037013437b7ac6711d39ab
 #EXTINF:-1,Ocko Star 
@@ -814,7 +776,7 @@ acestream://d3bfea37bf4a9dac3757fe1014dfec750b43ddd3
 #EXTINF:-1,Retro Music TV 
 acestream://5e682b45c1508050eff56e7ede02a9d796b5a0f9
 #EXTINF:-1,Rusong TV 
-acestream://0aa2752e937345cac7ae98c37d9ec044578e8625
+acestream://f7c792613fb3f46100ed2dfa7a68c121f8651bf9
 #EXTINF:-1,Russian Music Box HD 
 acestream://2042048b4b938cc1ae5b4d9174e17944ae0be1b1
 #EXTINF:-1,SGDF 24 
@@ -824,7 +786,7 @@ acestream://2e45b72c04fccdb46982382d07b4211302f28720
 #EXTINF:-1,TRT Muzik 
 acestream://e84e9b52ba9e65da9b5f597c02234708d2adda72
 #EXTINF:-1,VH1 
-acestream://95768740674e7ab6dfd45bfa1542aa521777221f
+acestream://c853542e6cb94c093622facdbcde6d0e92bdcba9
 #EXTINF:-1,VH1 Classic 
 acestream://7b3480bac76d3bb2799fda3ce11dfd7553e1aa90
 #EXTINF:-1,Vin HD 
@@ -836,17 +798,17 @@ acestream://092f7ff44f91af6ae1f7520e9486a4bcfe00cebd
 #EXTINF:-1,XITE Music HD (GR) 
 acestream://9aeb73f85701303ddafa9ee8897caab4e3c7e68b
 #EXTINF:-1,Жара 
-acestream://876cccdcad3e081f01309bbff81b42c921e65364
+acestream://2969ebbc3b92fae930145f67a4625865edc01c4f
 #EXTINF:-1,Ля-минор 
-acestream://01a88bf369bcd2bf81f89bf08b74f27b3a1c3ce9
+acestream://2b20e60570595acbad7b33b39899de5d70825ca2
 #EXTINF:-1,М1 
 acestream://a3b4337f08a973404683ae2f658477e08ad375b3
 #EXTINF:-1,М2 
-acestream://3e6aae08f1de5ea31964962dfa5928fe1c0e4567
+acestream://1f0514d23ddba83fa0c7f3ef22d505704ba57a00
 #EXTINF:-1,Муз ТВ 
-acestream://c7e5b8e44b5d7d9e68dc1d38e313835281c14324
+acestream://bfc22074647442c59b7bced086f635669b158c0b
 #EXTINF:-1,Муз ТВ Азербайджан 
-acestream://1db23bbe2b6b088ad73fa9aa8f6ffc1976606117
+acestream://117530a53648485671daa2fe152fd1c429123c2c
 #EXTINF:-1,МузСоюз 
 acestream://fb824b19f43917efa54a5fe11324a548226e9345
 #EXTINF:-1,Музыка Первого 
@@ -854,7 +816,7 @@ acestream://5889c67633ce0963a89483700014ceaa41cb8339
 #EXTINF:-1,Наше ТВ 
 acestream://303945c99f30ea17ff9574dacf26fc5941a9dbd5
 #EXTINF:-1,О2ТВ 
-acestream://821c0f98ec46d9cb3f29b4402924672ff95ee55a
+acestream://616a45706b95bce5cc8ffa17f63194f409ae649b
 #EXTINF:-1,О2ТВ HD 
 acestream://b1eaba3d62293ddb892f4f6ccc9f476839d01a60
 #EXTINF:-1,Открытый HD 
@@ -870,9 +832,9 @@ acestream://3b4fe95bc09519c7c8a87efcdb09f29d924a6b4c
 #EXTINF:-1,Страна FM ТВ 
 acestream://5909cdb270c17a056f084a7e7a0499c1cf0b5194
 #EXTINF:-1,ТНТ-Music 
-acestream://30ce318a21476529df1142d9285a7e0e211b26c9
+acestream://c750d8b7bfe6f5da4335799d860c9c36fe10bb5c
 #EXTINF:-1,Шансон ТВ 
-acestream://971880af31ec251909acaa40c35f1439ff43ca8f
+acestream://0897244f31bc06fa8e92c9631b0902d81eb74fb5
 
 
 
@@ -981,85 +943,86 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
-
 #EXTINF:-1,112 Украина 
-acestream://07ffc9844d84463b6c67e3a109cb055f099fd3fc
+acestream://8d2f94a29334050360cc90012af7a404bd961ffb
 #EXTINF:-1,112 Украина HD 
-acestream://cd1b7361281e3c4feaba1a09b4f8bc67b18b9a30
+acestream://35a141be4d72fb08f8b19236678b03588a4a18c0
 #EXTINF:-1,24 Украина 
-acestream://1f3f713fe073123779d213e090714ad35b8d9d00
+acestream://ba4d45bc5d4a45b9c41ca26848e32480cd9cf5d1
 #EXTINF:-1,360 Новости HD 
 acestream://e7c6a132d62749330c3a9edc705aebf2048dfe18
 #EXTINF:-1,360 градусов 
-acestream://75cdcf886ddfcb0b27fabd7a12c613e84515b884
+acestream://ba4341d4972e433b4444148f04f7d2965e6ffb1e
 #EXTINF:-1,360 градусов HD 
-acestream://d72511f304ff94ed70c65f5922d153e481a861df
+acestream://3826d34df85674e952a165bf51a5384b4c440b9b
 #EXTINF:-1,5 канал (Украина) 
-acestream://d423846d40ae4c795f7941a058129f2bc54162f5
+acestream://7b3aa26e3639919a70cea354950babeefb95def8
 #EXTINF:-1,BBC World News 
-acestream://e52cecd4c32d29ffc1af35db06fb944c19500d9d
+acestream://14a04cf56622e32342abb824b2d1b4e6fb36fa98
 #EXTINF:-1,Bloomberg 
-acestream://4abcd2343394fd58c5693978508cff07c81f6d13
+acestream://c899089c6554af99ffda45c20889a1661c9ba2c5
 #EXTINF:-1,CGTN 
-acestream://fe3041e3dc79d5e5f43080ff76e6fabc9f782f00
+acestream://3880e13803e4df355f4622f64991f650fa5f2248
 #EXTINF:-1,CNN International 
-acestream://99e9941e88ed4a28031e83c56597b01c2af3718f
+acestream://99aa3d8ba1ebbafd819f4df070ab31884ed93bad
 #EXTINF:-1,Deutsche Welle 
-acestream://99f26aeb37d78c4b25edc9d86568e34c9b0bad8c
+acestream://9b3ac73e4bac4772fd239786e6197a27141623ad
 #EXTINF:-1,EuroNews 
-acestream://a75bb3c8079a7a54f786f17c08e61bc19d0f8781
+acestream://00edcef7b5a7312f8a46dc4bd85f2a65a053577d
 #EXTINF:-1,EuroNews German 
-acestream://5393c7b7d3e4516f5a122048931a389ccf9d214d
+acestream://c9d99d2a686066fd32cb1665075d2d637450854a
 #EXTINF:-1,Eurosport News 
 acestream://aa53acdc27263561ee57f17be254e492160d0086
 #EXTINF:-1,France 24 
-acestream://f228081635fd31bdefae3b49a94b2dd4a5479078
+acestream://75662b9102eb3e178b48aa01e91ba912b04b56c7
 #EXTINF:-1,Kan 11 (Israel) 
 acestream://8453844a46bc4896beae719a4a67dfbcb18251dc
 #EXTINF:-1,NHK World TV 
-acestream://91104322fa960c63fef66336e709da3486b77c15
+acestream://124c3aa84ad3a13315f01274bb369afdef5d933e
 #EXTINF:-1,NTV TURKIYE HD 
 acestream://b5bf631a62d93463992e4e72f991691c63204969
 #EXTINF:-1,News Network 
-acestream://c3ae1782299fce8c8516c49c44ad2fb9215e8777
+acestream://654420d700e234917e94e1d972acbe8510a1e369
 #EXTINF:-1,News One 
-acestream://6f0f2f7dd6c3697e085c9a59f7adee377a714da9
+acestream://ad9493707abac32292a1e7176d2b0599661c024a
 #EXTINF:-1,News One HD 
 acestream://3c8d31faba7eca4adcf3fed45ea47939bba485f5
 #EXTINF:-1,Publika TV 
 acestream://f2b23760c7bca722947f5221b6b2502a3e026630
 #EXTINF:-1,Rai News 24 
-acestream://981087d6d5978ab3b2a42ffc0e8c460cbce2c52a
+acestream://75d620f5bcf2b35a54aae9bf25de8e67880258d1
 #EXTINF:-1,Russia Today 
-acestream://0442d218a0badb5b8cb6e3ea4e3065892a2e3318
+acestream://1f1fb666397bb3f9c2b448d8abbef601cc31f372
 #EXTINF:-1,Russia Today Arabic 
-acestream://1ea03bbe985ce111b16e97f2427a629488282289
+acestream://426dbd7bf780b4bc9cccdd8de00098e0be53c323
 #EXTINF:-1,Russia Today Espanol 
-acestream://04cb03d36436843b36f05d0a266d232ac51a2051
+acestream://38905833ed358da13b216f9afeff7de7be582ae3
 #EXTINF:-1,Russia Today HD 
-acestream://8be59423c9d9c9e6c1c40a308a15a5705978d315
+acestream://debabf7655eae8a4c6a178887e8e54ca72c98424
+#EXTINF:-1,TV Evropa Bulgaria 
+acestream://9b483b1a0f34478172796e8bd99e6b684f57bbc6
 #EXTINF:-1,ZIK (Украина) 
-acestream://bc8f919a5b36f2c489084b738b3dba6a492d61ca
+acestream://21b155fb926f7280ef9a097d1e377be8e97d7660
 #EXTINF:-1,Беларусь 24 
-acestream://b6804867777bd6317fd21f08a9ab605cf49dea6b
+acestream://6d572c69bb4fabcf56c3db654d9db8749a858ff1
 #EXTINF:-1,Вместе РФ 
-acestream://f5cd16b819242d5ebd9993d1639f7ea65475f324
+acestream://16f51716615bc702908096b2655be27018e991bb
 #EXTINF:-1,Вместе РФ HD 
 acestream://02dd2aa790fb1cbe0658e56c35bbfca5a5464412
 #EXTINF:-1,Громадське 
-acestream://e9a98cb9f7c856c840bf6a78f87249ec1b0b0004
+acestream://03282058bc1c07a111fbfaeec046c8044fb7e243
 #EXTINF:-1,Дождь 
-acestream://45d0d893b31a9eb51ccb6d9fd8b7d634f8d6eb6f
+acestream://288f59ec9c92248e009a6de0f6717ab64c494ea9
 #EXTINF:-1,Евроновости 
 acestream://65b2c649d43dc852acf63fc4f7391186a6398ed7
 #EXTINF:-1,Еспресо ТВ 
 acestream://356379cf32e6469e3e69bb9c2e6eb049fc9edfa6
 #EXTINF:-1,Известия 
-acestream://b862a04a2fcf65b7c48c2d350e09ef25ab6b199d
+acestream://e5c12560dcb6e4cdf27a3d877154448e78deb73a
 #EXTINF:-1,Известия HD 
 acestream://5872b195847f87ed39d9409569287e338363cf26
 #EXTINF:-1,Канал 3 Болгария 
-acestream://8138108a52dadff16c58bc561c3851c88564e2c4
+acestream://4deba531105e6b93c699003bb8aa8792c56c50ba
 #EXTINF:-1,Крик-ТВ 
 acestream://1ae6e67d956fef4658ecf1a01c1d96aadba552a1
 #EXTINF:-1,ЛДПР ТВ 
@@ -1067,11 +1030,11 @@ acestream://0318cc2a58f2493e7da7233373abff13570504fd
 #EXTINF:-1,ЛДПР ТВ HD 
 acestream://56f66d14f2d3a072fee46577d09867ee812566bd
 #EXTINF:-1,Мир 24 
-acestream://87276b6136d5ccdc596e5a9a6242b5b37b9bae97
+acestream://d06eed816c038b33967ba3ce3b120e62a5fa3d42
 #EXTINF:-1,Настоящее время HD 
-acestream://c9e9ff23e2c6c09c6ddbb3510127e29e717971b9
+acestream://b17930ec7d3f5b118fb729261d0dd040a6bfd37e
 #EXTINF:-1,Первый Метео 
-acestream://ff9fc1ecfd243836224d0aa96ec138373908e85e
+acestream://97988c2ab32cee0cf430a9bc7f31e2cad34b070d
 #EXTINF:-1,Первый деловой 
 acestream://8fc45d8267224c76b72c7c4704542214ddd4fa8e
 #EXTINF:-1,Про Бизнес 
@@ -1079,19 +1042,18 @@ acestream://b0c1ca791bbc5be32b57151a8a7aa0c349ffef8a
 #EXTINF:-1,Прямий 
 acestream://7861b84f4d02fdcd2c37e59b10e41be5dd62bb9a
 #EXTINF:-1,Прямий HD 
-acestream://94f64841878613cdd1d589e8ea13be6da4e5326f
+acestream://0a481a66727dd53a48aa610f1a9e93f007761738
 #EXTINF:-1,РБК 
-acestream://c688107a203e43b969ebfa497190f5bbc8856766
+acestream://02e54a172cedc2ffce7d067b4480199ec2ca437e
 #EXTINF:-1,Рада (Украина) 
-acestream://b512e90a416a8bcb6947a71394001ab8989e48f0
+acestream://ae824279d1d9c4afab7b030c05d506ff59e399c7
 #EXTINF:-1,Россия 24 
-acestream://3a299ee259498acab05fa454f9878c650cec01e6
-#EXTINF:-1,ТВ Европа Болгария 
-acestream://aaea435eb0ba739359c9401349b4f7148ac9c4c6
+acestream://3502d023d60fa701fcfa8412a99ef357d20d60cf
 #EXTINF:-1,Украина 24 HD 
 acestream://944e7b196f16aaac0584f1090fcb8fce3e36308f
 #EXTINF:-1,ЧП-Инфо 
-acestream://d1ec087548d77dad0f00bbf80e43659af6241a46
+acestream://f85b01c2e46822690ae90768eec182672e570eb7
+
 
 
 
@@ -1141,23 +1103,23 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1,1 TV Georgia 
-acestream://ec74d8186435391ed56093845aba1357aacd6042
+acestream://8adc8aad4368865c33458e65a257ba52c9dbc915
 #EXTINF:-1,1+1 
-acestream://82946a3da135eaa2380b398f6ff9c247cdde0199
+acestream://9ffdd8b4cfbff178af3359a1fba127727635283b
 #EXTINF:-1,1+1 International ! 
 acestream://15c185614e9cd8e532c6dbefbed34b036e36c903
 #EXTINF:-1,2+2 
-acestream://4ead981ad5af41fef4d1c4e0025962c6f3057949
+acestream://e9e71c19556edeb35ba51461b4ab57554aaa5d95
 #EXTINF:-1,8 канал 
-acestream://bf06e438bf60c90b37410590b17cba48147e315d
+acestream://ba8abd551ebca9ed2e2c52090a53ab72f64055f1
 #EXTINF:-1,American Embassy TV Network 
-acestream://a9a8a7a665a7ad26e3c7787b56e41fd5db9bf9c0
+acestream://a0b42bd9eadfd8fe35b6a38e79170ff1a6cffb51
 #EXTINF:-1,Anixe 
-acestream://a0c6b4ea568179cd4abb2ba1866c64ab78ff1aee
+acestream://2ba393175349f57222abb2f0bb15840865d7e70a
 #EXTINF:-1,Arirang TV 
-acestream://4024cef2a685172ed0aea3760fff8f31472cb13f
+acestream://25e72d2d7679e8105e97556f7e73af70a2ec48f0
 #EXTINF:-1,BB-MV Lokal-TV 
-acestream://58aa6493f2a5570612fa5f5d2a534e1e952a8529
+acestream://eaf1d96f4d95a1eb0b284a3069f3c8861fa00a02
 #EXTINF:-1,Canal Japanet DX 
 acestream://124dcb16309999209e257a0d43e9c7f910a7eee8
 #EXTINF:-1,ERT 2 GR HD 
@@ -1165,41 +1127,41 @@ acestream://6f33ca167037e7c7f39793d773020d4150fb4bbf
 #EXTINF:-1,ERT WORLD GR HD 
 acestream://2d776fee33ec4e9957b18bbcd8b7f5db6e8ee8b7
 #EXTINF:-1,EuroNews France 
-acestream://bf88db41f18dbb9261f8e0a471062dbdf0e11b52
+acestream://4cf0b67818a9232af0f737d879bb70b9b83b1d5e
 #EXTINF:-1,HSE 24 Extra 
-acestream://6bce4f77f8261150c897a6a720c45ba1ddfc56bb
+acestream://3ee7879cd78c125aea28bfc1c464ca2721ba98bf
 #EXTINF:-1,ICTV 
-acestream://0bbac153f1fdbd15f981a56dc4e1884602699287
+acestream://f205cc9f39a9bcd746c95f3a72d6b34e74f7b0f5
 #EXTINF:-1,JML Direct Shop 
-acestream://e2aa36e02bef276bcba6e3ba6a5512f39a8fab61
+acestream://5d9baa06002f58973dfb28f62e6d51dcc1dac300
 #EXTINF:-1,Kahkeshan TV 
-acestream://9667185e84a2a297c1057d408253d870a7182829
+acestream://dad6276b1310b0ebc9cccf98a198b11db8085051
 #EXTINF:-1,N-TV 
-acestream://1f0654e751628a233f50f2fcf89691bcf44324a8
+acestream://c89b7069162bd2e6498e6691dd7f42c3b1a163b6
 #EXTINF:-1,NTD TV 
-acestream://81ec040e94e5fccaca730ff8563559d40a4fe97c
+acestream://7f47e78b952ddd6247289bc4e0b246695a28aedf
 #EXTINF:-1,Obieqtivi TV 
-acestream://4a31195c17a5d2483379e999420e809a8b658dc6
+acestream://b9b0536faf62b04fd7852d236c2d5d3aa0f4c07c
 #EXTINF:-1,Polsat News 2 
-acestream://cad85fb0e29ce2c9a24c126dab4f352f97573ae4
+acestream://04e46b685e6ed5d514c09ee776892bf4aeb0166e
 #EXTINF:-1,Pro100 TV 
-acestream://7b7c1e22357811a0793c48f84762ba0ed4171d24
+acestream://e6d8bd87f2cf2d8bfdcb1eb2fe81c645d218aa1e
 #EXTINF:-1,RTL 
-acestream://2fbaa14cddd58b1ab06d7886fbb64c722f0d9c16
+acestream://ed1812e8a209625b1cdef9e375c489c57062c194
 #EXTINF:-1,RTL 2 Austria 
-acestream://2ce30a071272ee8e2957ec9cea9af72e53179df1
+acestream://9fab81bc402463a2ebdfa0e96247fa199909940b
 #EXTINF:-1,RTL 2 Deutschland 
-acestream://50f2c258fdfd8bf44a52586637756982d966cef9
+acestream://655c1144284ad436fc8e405e93d78b1d140e0b1f
 #EXTINF:-1,RTL Austria 
-acestream://7699297ecdd755db431082643231b6976979ccdc
+acestream://acd849628403ee8057af0a19397fc793424a5595
 #EXTINF:-1,RTL Nitro 
-acestream://997b9b4109fe800c6b0df828d062a43500c73521
+acestream://080dae3426eed3726011544aa8fd672f82d1af68
 #EXTINF:-1,RTL Switzerland 
-acestream://fee30f370f9c608725a88be41788a6d5ae3a2970
+acestream://4fb074d33b68290c2914ab70f19207a40e4c202d
 #EXTINF:-1,RTL West 
-acestream://f57e5af898d24e27482f99b30d9253f34cafc273
+acestream://e7ba3295c776489da6f27c5952f8485a4fa7c3bd
 #EXTINF:-1,RTLplus Deutschland 
-acestream://1677bba79b4a1ff44529928eb3e4ad79f84b0347
+acestream://d2394a3057e77b1b6526b86f97ff16d3f24a2f6a
 #EXTINF:-1,RTVI ! 
 acestream://9a6952db85e4ca88e66fc5d36d0350cfcbd7742d
 #EXTINF:-1,Rai 1 
@@ -1207,65 +1169,67 @@ acestream://589ae50ffbce252e7ab6045bfb53e88128062e30
 #EXTINF:-1,Rai 2 
 acestream://d14f05bfdbc45fabdaf1639bf926a5c4c0cba981
 #EXTINF:-1,Rai 3 
-acestream://39effed333cbce1710b9591e712c69c07e0f0f5d
+acestream://ad005c7d2012a3083b761dd7884257a0608fd6e4
 #EXTINF:-1,Rai 5 
 acestream://494d42f4a792f044c0b578046a975fb3c5fe5125
 #EXTINF:-1,SciFi Universal 
-acestream://fbcea426465ce502923039ac9fd16a89a628add3
+acestream://63c1c3d01e09a5ef8d83528d7991363c44891dbe
 #EXTINF:-1,Sixx Deutschland 
-acestream://2f71af2338939cf511fee4a204abbf90576be643
+acestream://a4a2ba235ea3b876a4a7ccf6202d573275ba1f57
 #EXTINF:-1,Super RTL Austria 
-acestream://71339a14bf845d1ef77ff497666ec5d96a02a2cd
+acestream://5c8815d4c0fa0a1f14563ada074b753f2c5cf908
 #EXTINF:-1,Super RTL Deutschland 
-acestream://71339a14bf845d1ef77ff497666ec5d96a02a2cd
+acestream://5c8815d4c0fa0a1f14563ada074b753f2c5cf908
 #EXTINF:-1,UA:Крим 
-acestream://9670310527309ce3a31e58b4781b5f4df129386b
+acestream://8df2bac514b40ed94ab6fe631dee174527a21f00
 #EXTINF:-1,UATV 
-acestream://c61b1e497be26eb9eb8f6e35371b159f09a2ed09
+acestream://69fa360eae6cd6ee6152fc4eb30ef82a9b6e60a4
 #EXTINF:-1,VOX Austria 
-acestream://a88a87b5f0cb8f3f0e796937204296fccb0eade0
+acestream://27e63416a3f5a989af18bc27b3ee09549a33fa8a
 #EXTINF:-1,VOX Deutschland 
-acestream://60b36a222ddab553640dbbc365849587a35987e2
+acestream://2e983b87e007487abd60b5bb1c85e8d0a0f5c4d8
 #EXTINF:-1,VOX Switzerland 
-acestream://5f3044adf450b4573c61e8d6b74f03061fd7a41e
+acestream://b203ae5cfeb03a98232e677a279c8b2b709b9e23
 #EXTINF:-1,VoA TV 
-acestream://00cb21c247a63e95e1ae4b2bca037575088ca943
+acestream://a274919bfcbd29a70a54060c1d205a790889333a
 #EXTINF:-1,VoA TV Persian 
-acestream://11143b5ab5db0940d42e12a2603a2cdf491362b0
+acestream://d3366b14d8feab13881b2c67506e4cb17a83c94e
 #EXTINF:-1,imedi tv 
 acestream://3a6df189b2bb883138767bbd60ef32639c46f48b
 #EXTINF:-1,torrent-tv.ru 
-acestream://7ad5a20690b7117e8089ef03d00400dfa2a810cd
+acestream://eba39c53b447d688af2bd25fcd9c9e4efa4d13a1
 #EXTINF:-1,Винтаж ТВ 
 acestream://8a7367acaf1c8e2e8c81b05590ba1f7ad8b89a96
 #EXTINF:-1,Время 
-acestream://fd3eeb69be0de3ac9d812231086d24fbd11fdeb9
+acestream://73a4d19bb76445f685ac429d95b6f053fe915bdb
 #EXTINF:-1,Домашний 
 acestream://f1e6c70791cc10152d9ec9fbf30505f06bd5cefd
 #EXTINF:-1,Домашний (+2) 
-acestream://a06b65a0c4e9ef4a7a2cb4ede1137f208f8df561
+acestream://67955c577a5a0eb033168ff83c1f91c4d4ba5851
 #EXTINF:-1,Звезда 
-acestream://2651aa17d3f201ad02b24020546db85f8ebcf820
+acestream://3c8a7fc5304eb95ff5d33881670a858a2bfedb3a
+#EXTINF:-1,Звезда (+2) 
+acestream://0658e2e3e2bf06161076b5a8668dd0aa0d7a9f0b
 #EXTINF:-1,Звезда (+4) 
-acestream://dd7ba467080a64bf4a026d440efb2e92777ed87e
+acestream://1dfe28f0d4516e1a5a0abe765493a1c7ca980593
 #EXTINF:-1,Звезда (16:9) 
 acestream://5a1b8cf642a12bf2d97a270d6657d3bc70755609
 #EXTINF:-1,Индиго 
-acestream://ae2b9065af7604e12d4876410d9fe6ada3a33241
+acestream://dbc17b33ff06a1ec514e0458d0b04eed402cbb2a
 #EXTINF:-1,Интер 
-acestream://cbaf163dc62e459be08e90d3bbefc8465006426e
+acestream://3166c240e823b45a8982a06388fe24b6c912d2fe
 #EXTINF:-1,Киевская Русь 
-acestream://fdf0ffcb66d1454efdcf54947f2f4872559e14ad
+acestream://99da68245b2f958a76bb710242d95f20a3585a4c
 #EXTINF:-1,Красная линия 
 acestream://78d44e234cdacfcfb91e9b8089519cd7e6d27b16
 #EXTINF:-1,Макс 24 (Сочи) 
 acestream://444b2b8a46b27b318d6259af26f54a431fafb461
 #EXTINF:-1,Мир 
-acestream://1f925e56ba5de191954d3cf7c7db8e7cdb714bb5
+acestream://20fdebf6b74d71b5d2657e40ce59d2c52fbf0b24
 #EXTINF:-1,Мир (+3) 
-acestream://5cccdf6791674592a4d9a7a08fb0c3c9e01a0d3c
+acestream://2cfff49388d8b9525509ce563d40798d9487995a
 #EXTINF:-1,Мир HD 
-acestream://ff490a7d233e2ee83f53fcb9699ef9b559237f5e
+acestream://feca1a712ea3209630b5e2a287a238ff13e9a81e
 #EXTINF:-1,НТВ 
 acestream://5f401a50349cba84e30fe4e6cca46f9ea8c4d762
 #EXTINF:-1,НТВ (+2) 
@@ -1273,21 +1237,21 @@ acestream://6869fb394a2b3e185ef85c18bad02edec8745530
 #EXTINF:-1,НТВ (+4) 
 acestream://2ed21a53c98822e4a9e733c9b196b092f02d6ed9
 #EXTINF:-1,НТВ HD 
-acestream://93193abd374bfcb253cbf3c3ad8027745db736b1
+acestream://496753359df6924bb5765636697bdbb007c3ad06
 #EXTINF:-1,НТВ Мир Балтия 
-acestream://a082ea1b5642bafa29e298c9f0ba1e9ae23904c0
+acestream://1e648ef87964513b6d5e684233ef6c1e318d8c27
 #EXTINF:-1,НТК 
 acestream://0dd304a6fb09008b3103daaf6edce33d3cbaa48d
 #EXTINF:-1,НТМ Телевидение Мордовии 
 acestream://8ede34a804eeff5f7d1cf117ac1ded60722f4492
 #EXTINF:-1,НТН (Украина) 
-acestream://4da6f0557d341ddaf8a9aabd8aaa37d2611b6dcc
+acestream://9178ee5d69621b5b2e9157387a9e26cd2bf7624f
 #EXTINF:-1,НоваТВ Болгария 
 acestream://e05ebe1232dfa513edde57699d5ccd5feb0694c5
 #EXTINF:-1,Ностальгия 
-acestream://a2c86720900e091257d801abae41c601050ea90b
+acestream://9376b88bd18aca21a80024f11454969ef46ff376
 #EXTINF:-1,ОТР 
-acestream://8171d8a2a6041495dabf1bbf45a46b7205933a2d
+acestream://ebeecdf3a294fcf18410f39f01acf0154a89ebff
 #EXTINF:-1,Первый канал 
 acestream://ecd8f4ccb3dc64bd8dc3f77b3d68886a8e01d67f
 #EXTINF:-1,Первый канал (+2) 
@@ -1297,21 +1261,21 @@ acestream://deed1a776073df5a07d5e4df79aa38d2a8ef9430
 #EXTINF:-1,Первый канал (+6) 
 acestream://0e4886a5b848e984add598bf10a982cc2845cd7e
 #EXTINF:-1,Первый канал (4:3) 
-acestream://35ec653ca513f094621b3e1da0a11e28479a987f
+acestream://1885659e75b91b5688bb93759daab287a22e95e8
 #EXTINF:-1,Первый канал (Евразия) 
 acestream://373302c8116737e4b2f4f75b961a7190961edf23
 #EXTINF:-1,Первый канал (СНГ) 
-acestream://2431c1dddefcf3fead160b199c1749c38bc36240
+acestream://c8080ea1311e19c87b7c1e3d11170250d869ddad
 #EXTINF:-1,Первый канал HD 
-acestream://2b207409f628a7e23ad7471d9eb568e9c6eb32fa
+acestream://083566e742a9691c1a9d040ebcc4fca394a1a445
 #EXTINF:-1,Первый канал HD (+4) 
-acestream://271ff813fb3c5dabc287d406e348f377ea49992f
+acestream://680c1d1cdfd0711d1aed4df9728d6ffb6f83ebf1
 #EXTINF:-1,Правда тут 
-acestream://a0e53fdf0aa36d21f19de8cdbbb28f5a2a99c727
+acestream://8679944dc183992681be7b03d07fc5e24de2d70f
 #EXTINF:-1,Правда тут HD 
 acestream://85bed5df56f7316bf18277b5c051451287f84648
 #EXTINF:-1,Пятый канал 
-acestream://8010bccf9d7bcbaedebc9845fcf586a747baadbb
+acestream://b74b9663a01468345fe8a25254cc7f3315550b63
 #EXTINF:-1,Пятый канал (+2) 
 acestream://6b8c6a867d71898f53f142c6bc3cc140e685842a
 #EXTINF:-1,Пятый канал HD Ready 
@@ -1327,35 +1291,36 @@ acestream://ddcb2d1f7a641966195b26e3718ca9e751d7117b
 #EXTINF:-1,РЕН ТВ (резерв) 
 acestream://e423d8015ea677df327d18c7c3dc2c55726983a7
 #EXTINF:-1,РТР Планета 
-acestream://5fc3eada65b702ce64734768ae91419d5cddd9cb
-#EXTINF:-1,Ретро ТВ ! 
-acestream://28922f8be47069b246b5f5ccd46bc57480731a26
+acestream://b640b81d6d95a401c3a64e82ea28eb6c50bee553
 #EXTINF:-1,Россия 1 
-acestream://aca94619a2b37effa420d36e1ee33b74cec23352
+acestream://3067686645f51374a20aec84a7a5862befdf2707
 #EXTINF:-1,Россия 1 (+4) 
-acestream://387b5ba013453f7475e922c57b226cbb8caabac5
+acestream://b0ad3531b90587dfc6359a1d11598df3056e6b0d
 #EXTINF:-1,Россия 1 (+8) 
 acestream://ae94f0066237267cf7d9c930feae9e17b9069284
 #EXTINF:-1,Россия 1 (Чита) 
 acestream://7d3cdbbc0add8de8f779f704cf9732e9c08aef16
 #EXTINF:-1,Россия HD 
-acestream://41b938226e30f7b05f31632912e896091bad689e
+acestream://3e442ead5030534e253cc2ed6030d00c57c10ceb
 #EXTINF:-1,СТБ 
-acestream://61da10e9400c8d04405c0431a9559191cf49ea1b
+acestream://1e23f66ddf79a2add2749ec09241c2f6c3463a60
 #EXTINF:-1,СТВ 
 acestream://0374a3d6f00fabe3cdbae5ec002469493fe8fd8c
 #EXTINF:-1,ТВ Центр (Москва) 
 acestream://9c3eddb17f05a59e9837f8a31b20dc722d96b073
 #EXTINF:-1,ТВЦ 
-acestream://7615d8b92f22492db80cbf9e00b957b9e415d378
+acestream://78e2342ec204a512d732131eb66a19d9b0ca2e85
 #EXTINF:-1,ТРК Украина 
-acestream://e76c4969d1ff4fda39dc1ab6ac404aa26dfefb8d
+acestream://e4c6ae68c61a00faf1be036244e29929fed81f61
 #EXTINF:-1,ТРК Украина HD 
 acestream://3dffec37f125b3a47d6f6296654d1b563a194fcc
 #EXTINF:-1,Точка ТВ 
-acestream://9dffa2d5e677baf41cced79c5d9510c57f1af08b
+acestream://f8a05f27c1b9e150b2e5551b43a539f54ebb0f7c
 #EXTINF:-1,Унiан 
-acestream://d0c3544805aeea7616bfc9440f74e96d13aa32b1
+acestream://70f0c3655ca223589d3443741463e1d1a8f30017
+#EXTINF:-1,ФАНТАСТИКА HD 
+acestream://21c7322a1280ebfb04f058334332fc465ea68f70
+
 
 
 
@@ -1486,25 +1451,27 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1,100% News 
-acestream://9dd8d2cac1b3e8c96e7594cc6702b3ce50a74188
+acestream://7cfe019d9d1274a9c975b1e517d1dd4341eea4d5
 #EXTINF:-1,365 Дней 
-acestream://fbf7d522970540c8c0a7d91bd3d4a0a02098daca
+acestream://6e300c2936ac786f873d816def0ccbf0a0c7b01f
 #EXTINF:-1,Animal Planet 
 acestream://82102a3d12f3debd9c4982db3b45ad635fdd0f13
 #EXTINF:-1,Animal Planet HD 
-acestream://aad7434a6b61faaf2739f657d54e43113ef69bc8
+acestream://28e11684f90df20350c18ff65f5e7819080bb726
+#EXTINF:-1,Brodilo TV HD 
+acestream://ff2d2cb7d4cf7e4e39231e671abe8670e8639649
 #EXTINF:-1,DTX 
 acestream://e651a167c5fdf7e5c344ecf5fb56e07cedfad65f
 #EXTINF:-1,DTX HD 
 acestream://2561fce1c99a605e6477ed553e7902148858c6f1
 #EXTINF:-1,Da Vinci Learning 
-acestream://6dc123b0eebdefd154b865923ea68130001727d6
+acestream://cf953fbfb8ad482aa1afbe944ffbf05c522187e6
 #EXTINF:-1,Discovery Channel 
-acestream://e72e48f21c7774edda0824ded9be4d528f3d233f
+acestream://464f5d5b7e20558bdd95e235e1b2b100bf2ea55b
 #EXTINF:-1,Discovery Channel HD 
-acestream://cc6cdab0c29e51e8a7f0103da35a17026a0170a4
+acestream://a3e92486d0381840177e45c777d9e3a22db82d7a
 #EXTINF:-1,Discovery Historia Polska 
-acestream://1e6617a9414aa688b200f08d586d2e53bbdc3571
+acestream://52148dd1738e3066ca636594b5e692f833c0be72
 #EXTINF:-1,Discovery Science 
 acestream://ba05a2b50ac2465bba325d692456b80066d97d44
 #EXTINF:-1,Discovery Showcase HD 
@@ -1512,131 +1479,127 @@ acestream://d01bcf8744de6d47cb280a3ef42e47e813d6ec23
 #EXTINF:-1,EPOQUЕ HD 
 acestream://a81f3e0c1adfe6beaf66677775c26e1e5ffe1dbc
 #EXTINF:-1,English Club TV 
-acestream://204b6483d25313b269a89a0094cc925c18d0f5de
+acestream://09f5650c5c587928ff48eaf8dfc0c47181af9bfe
 #EXTINF:-1,Epoque 
-acestream://574a138f28fea27fea4581c765d586257564f445
+acestream://e031642dffe03d1a6fb0f8ce20e2a656d80a9262
 #EXTINF:-1,Eureka HD 
-acestream://750a3be246d7e913f481e1997b627471e6fb6453
+acestream://b7f2a8a970aedf5ed9c9c73fdd64dc1bde6c6837
 #EXTINF:-1,Fine Living 
-acestream://85a36592169cf0af7e3c582faabc7b95c19a4d10
+acestream://8d72d5790cae5baafa44cd4e0112f42d39cbe063
 #EXTINF:-1,Fine Living HD ! 
 acestream://3e6af22d7fbfcd9f0e875a0ed317d3220b8730e3
 #EXTINF:-1,Food Network 
-acestream://8d9a282a7eadbb5b0d5486a24c243601b199cde1
+acestream://36e12a4dced4ca5dfd503eda5e5401ce7acd7df0
 #EXTINF:-1,Food Network HD! 
 acestream://560aeaf9b5ca3d2ef1d7769c4e22fe3229fe2436
 #EXTINF:-1,Galaxy TV 
-acestream://6f27de709cab68ade37e16d676a1adbc18957643
+acestream://2cd9e64f9445e6fca88555cb4d5b38ab63f598d5
 #EXTINF:-1,HD Life 
-acestream://c0a5dd50719e8a8368f0cabc67b7deced6e4db6e
+acestream://61fb09ed16144b9259de5cb8b1cb10911d33a861
 #EXTINF:-1,History Channel 
-acestream://76fe2a349737102fc7b0a08bfe9f4616cb62dea9
+acestream://9daa057d02e7ca2531ad9cd4d5ab9497db6b6c60
 #EXTINF:-1,History Channel Europe 
-acestream://e8df15234acf210d10886843fccafe61704ec400
+acestream://f238f07aacbac1a388bdeb2b9233b0f9a222d720
 #EXTINF:-1,History Channel HD 
-acestream://9f73c403c57aa5ba9ee1f6cf2c33acf94188978f
+acestream://7dfb114f47c080190d77895a207d2ba7f2ceb231
 #EXTINF:-1,ID Xtra 
-acestream://76603ba41b16547a6adbb6a46c34af8a91c16ceb
-#EXTINF:-1,Investigation Discovery HD 
-acestream://b41669532e944003f16ade91423688b37ec5df60
+acestream://9bda5d8a8204256eca5466400fc84ee3b0002196
 #EXTINF:-1,N24 Doku 
-acestream://de52ba0775e93d24654531a2d88824a97dbe9e84
+acestream://74713b1d1027aa1c7440772f5f51dc843f29b5a5
 #EXTINF:-1,Nat Geo Wild 
-acestream://0870714212ce55ae52ef8ae2f303147d6ec90019
+acestream://79766c37356ce84bd69c3fe312e2c63188ca5cab
 #EXTINF:-1,Nat Geo Wild HD 
-acestream://985e0d014812d97590a4aba203cbadb1eaba4c3c
+acestream://7c457c2794861445bf791b5321c734b4d7172870
 #EXTINF:-1,National Geographic 
-acestream://86a64438ba79469f773850c6193345e5d41ae44a
+acestream://22540d340e919bbb386441d8abd5c8fcba4d3094
 #EXTINF:-1,National Geographic HD 
-acestream://f8147e1739e8b3627ad0a822cec3c61228cf16b9
+acestream://c56155098c674cc666c672b063c3c8ac0387b7a2
 #EXTINF:-1,National Geographic Polska 
-acestream://25b9ac64fd68e7020134934feb4c0d1ab253116e
+acestream://5f2ce63256cd4d25211069f1151bda1ac3ee8bb3
 #EXTINF:-1,Ocean-TV 
-acestream://43997a63accf554599d8f8cc1fa517af2133135a
+acestream://567d20fe7b496e59333c06ee71ec0ea2703df295
 #EXTINF:-1,RTG HD 
-acestream://77dc437f36feb56b3055d871af926a66bdde57b7
+acestream://fe37e52c7f3ef7b009977ed12220b3d6adcd4bc2
 #EXTINF:-1,RTG TV 
-acestream://feac4e56716e5a1aab0e9741b0799b111502861a
+acestream://97fddb3f3dc3100f61acdf135c39ce8be44a8c56
 #EXTINF:-1,Russia Today Doc HD 
-acestream://28c3e9eb26660f89744a286b8297273a5725c606
+acestream://7005251e9689ac7e90c5d7d0a7f661bcc329dd04
 #EXTINF:-1,Russia Today Doc. 
 acestream://7ac3af3a13ff5ca3bc144914fd364cc0b2d93c57
 #EXTINF:-1,Silence TV HD 
 acestream://721d75ecefbfed5fcf6f3663ac66732f9197fad2
-#EXTINF:-1,SmartHome 
-acestream://dfed078f6c127120a96025da6a6effef3c5e92c0
 #EXTINF:-1,TLC 
-acestream://0907594fa3fb1d5e67fb75d46181767f0bf9732e
+acestream://e9df352de294a26daf8bce0bdce2ded68bd39f60
 #EXTINF:-1,TLC HD 
-acestream://58035897e78bb791c942bb82301a1bb34c976c55
+acestream://68b81943c7d1b9053e02b92ec0aa4b4905a167fb
+#EXTINF:-1,This is Bulgaria HD 
+acestream://cead96f24b922ae3e730e43f50dd509be266ad09
 #EXTINF:-1,Travel + adventure 
-acestream://767d0351b0237eefffb54fcea93c3df66208fa38
+acestream://e37c71a16587349b6f1348c0233b69fd97ef24bb
 #EXTINF:-1,Travel + adventure HD 
-acestream://ee3fec34d35f0c5eb591946da385744235c0698e
+acestream://d8654c340ab67dca711e472496b6623d4ab63694
 #EXTINF:-1,Travel Channel 
-acestream://dc15f64d6f987775c076b081989dc03f6fc937f2
+acestream://71078cf65ae41d8a2b945e6821b34f80921cbb30
 #EXTINF:-1,Travel Channel HD 
-acestream://5e6f0224db9a6e26520d81880ab2b7a586df14a9
+acestream://49e522390062fc100d8921e1363c62f0a57b07ec
 #EXTINF:-1,UA:Культура 
 acestream://54fa0ada45523a72fbe73e657713d0b5163466f4
 #EXTINF:-1,Viasat Explore 
-acestream://a5e269730322bd42d8c56d9b2c79dc0489d10bdd
+acestream://7b992fd21912a43c6ee6a2bbfd64d29e8df904d0
 #EXTINF:-1,Viasat History 
-acestream://de105d8ba0bf1e38c2f06bc62503c51cbb2b3d87
+acestream://ee3159115ed7b845a5221d209a0f5b13c837a8e0
 #EXTINF:-1,Viasat Nature East 
-acestream://b1ba03aa1c5461495ea22ea3c4247b768a25e552
+acestream://d88834ecef6c7b2cad77bb4f7a22e105af13d759
 #EXTINF:-1,Viasat Nature-History HD 
-acestream://d56118f9e8cca88e08c9ae2a66a26f26652292ff
+acestream://edfb0e551effbf0764edc1f174bb6897a0a37994
 #EXTINF:-1,Бобер 
 acestream://7c2eba32b62692059901984b5f521778f2e40cf5
 #EXTINF:-1,Большая Азия 
-acestream://0ceb91af8a067b8b896f0ec116c7fbea6d7fe6e0
+acestream://04797210a0fd9507a33a07e6283ac49fab83ff35
 #EXTINF:-1,В мире животных HD 
-acestream://ae302e64cbfe07d78cce21bacbff9eddb2bc4492
+acestream://8f0b5938cc989982c204d966d6b2277c623c1865
 #EXTINF:-1,Дача 
 acestream://ef69743e7b6132b601f1110340e76c502f4060a8
 #EXTINF:-1,Доктор 
-acestream://e0dbfd0d47f594820b7186b2686379af78459c1c
+acestream://e73a9a51160dc7cda0fe3a2dc2608b7ace30ece2
 #EXTINF:-1,Домашние животные 
-acestream://490359c3d197e94b951ddc17f82863c326b1a14b
-#EXTINF:-1,ЕГЭ 
-acestream://373394c98d31d360a2bb75bae319a1d92d916c09
+acestream://34d45b2cea18d479f9242ce30fadabb00b5016a2
+#EXTINF:-1,ЕГЭ ТВ 
+acestream://580425b10240f283c23109076c23d7748cc96979
 #EXTINF:-1,Еда HD 
-acestream://0392245dd7caf8c4a5ec85a7a3c116413171eef1
+acestream://9a9f6dda675c8f7da4331d698e2a71bd0391a7e6
 #EXTINF:-1,Живая Планета 
-acestream://89f87994ca466de11553c4e8dc711be7011b858c
+acestream://c94e9185e53a89548d1e08d04650fc11ec905901
 #EXTINF:-1,Загородная жизнь 
-acestream://0e1c11a7b55963e88f0442b33c343ecdb05f904c
+acestream://512a807275b5ac3b1ba0c5eed4d95b3572b2c39b
 #EXTINF:-1,Загородный 
-acestream://b1e1b92d02cf37d5571a6e12bc3d10af1d3adeb4
-#EXTINF:-1,Здоровое ТВ 
-acestream://76bc0304bbaebf2f1672e535d57643f5bb42459c
+acestream://dea726fda88a76a3caeb631ec30ecbdf77b99864
 #EXTINF:-1,Зоо ТВ 
-acestream://5ef74ef6b8cef564511d8db0f8134f3c987cca31
+acestream://32cbfa9a527ea65750ac9ae4fdb5de380f06ce72
 #EXTINF:-1,Зоопарк 
 acestream://e1e1b33b9d47be588d7d872b65d47d8a64a061ad
 #EXTINF:-1,История 
-acestream://867242df16a630eb23ca818b81afdb2ce1bf9d1c
+acestream://3d5ec834d15c0912e866f97ba175ddc340891c1f
 #EXTINF:-1,Калейдоскоп ТВ 
-acestream://830437c15d0c3808e615bbdc382e1b67d64a4684
+acestream://dc08181c657b926bc45e131ebb1e838d749626dd
 #EXTINF:-1,Кто есть кто 
-acestream://8008eda1f2bb9c193139b275955ac44894639507
+acestream://75424d67a78ff95926c81bc700db49aa2b0151fa
 #EXTINF:-1,Кухня ТВ 
-acestream://ab6f5ebd621d06bda73889912186e4bb32eb07e2
+acestream://8b1e7f855f72d11f64e1ef14e772621b351af636
 #EXTINF:-1,Мега 
-acestream://bdcbdebde601c008885d468b08a1f46a19c0d7de
+acestream://e10124c8505566f05254564eb1229fbd2aa43109
 #EXTINF:-1,Министерство идей 
-acestream://aa015504380ea318a25dc896ca42a091509b6659
+acestream://96be7357c56a10e972e8b89904048dfce583a959
 #EXTINF:-1,Мир увлечений 
-acestream://3f8370007dbf253671a9443bac38ada4ce4e0217
+acestream://445f140981a09976d775edc3b91dde9adf9cd6dd
 #EXTINF:-1,Моя планета 
-acestream://fff790bf187aaac55a1033e51eec148de719adaa
+acestream://5e240653765dca46b7c3d779979648f6e9596a3a
 #EXTINF:-1,Нано ТВ 
-acestream://cce3259c267f37c7fb3cd714bc8c8e87aaa47513
+acestream://908cea60da819476de01288d7f5b02c5952785ca
 #EXTINF:-1,Наука 
-acestream://c9cc86441eb25d16cf5e5f029ecd948e6d7728d0
+acestream://3ccb7034cac1d25dd42a5fe41bdbdfa320b0b566
 #EXTINF:-1,Наука 2.0 
-acestream://aae37f736ec03ee4283ec68abbb9ebb7a7db8ff8
+acestream://6e4c2a3d3d7dbadb499cd81819176f280b5e83db
 #EXTINF:-1,Неизвестная Планета HD 
 acestream://ebe2810655da6699381298709d19d198c3ffd7ca
 #EXTINF:-1,Неизвестная планета 
@@ -1644,45 +1607,44 @@ acestream://5db331658d5d94eed838ed9248f559accdc2c931
 #EXTINF:-1,Открытый мир 
 acestream://cb340b3fac9f49e484bfa4ecb4fbde77ffc26719
 #EXTINF:-1,Первый вегетарианский 
-acestream://451b5a1fe56b78c491c30d6d40fd8a14af3bbf84
+acestream://ba00cec18a2d31f6709b4480318112f8105d2b7a
 #EXTINF:-1,Первый образовательный 
-acestream://6b98db7031622d5a6601af1a08684577d9cec47e
+acestream://659d2798d70fe715fea0d079bb26bf482c90aaa8
 #EXTINF:-1,Планета HD 
-acestream://3e6487f4b5b5262485a3d9ec1dbd0470a9b2c846
+acestream://431b47042860f1f7db4a3af7d231a9635d1c039e
 #EXTINF:-1,Приключения HD 
-acestream://84bfd8b3f2e2731506589e9f8f3178c8b5db19ce
+acestream://0f2614b66317bc6942b636c8e5e95da0524446ed
 #EXTINF:-1,Просвещение 
-acestream://cf6fe592576baaa90f67d0779803b367618dc84c
+acestream://f482ccbf831332410779b2cd9bd2a1a1e6b76201
 #EXTINF:-1,Психология 21 
-acestream://fbba178c5427556d2aa1f3cf1000bd0e5797f3ee
+acestream://a7037226e9eebaa5eba531128df5d450e8d5dcdc
 #EXTINF:-1,Ратник ТВ 
 acestream://29195426312e4ae016acc4ab82990248c68dc9cc
 #EXTINF:-1,Россия К 
-acestream://1994cea19e8cfa59b23b20d125f3186b6fb7ca9a
+acestream://e4a0c0940149eac2b726ad5883a723bcab908944
 #EXTINF:-1,Россия К (+2) 
 acestream://4e0286e360cc20635f2c4c8e11ec7c4f4a9262ed
 #EXTINF:-1,Россия К (+4) 
 acestream://3bdcba989e23890ecb74bfe0fa58e7bd60278bcb
 #EXTINF:-1,Совершенно секретно 
-acestream://81c579b425d2b56000889ae1208b176cba049d92
+acestream://bcf97e28d42228fd1dd0676756e20941d01d9a3e
 #EXTINF:-1,Твой Дом 
-acestream://38b6eeb8aa00b182498c144b06b0678bfa3f9b51
+acestream://b0d4a29ec1e1fc41694d41ba134a8a12f4d765f6
 #EXTINF:-1,Теледом HD 
-acestream://88f9be5919c818bb6735867b0df77ec7f678fc33
+acestream://ecd2db01312db08c00fc25b3479e1ee705ccb06e
 #EXTINF:-1,Телекафе 
 acestream://90fb3019fb243e5cf7cc7ae3252d8d590e9362ef
 #EXTINF:-1,Телепутешествия 
-acestream://5807abca1a3b27f4b69a247772bb0b2c1ec4bcf2
+acestream://b7807afc853c62c4607c31074ac7c9949aa2af4d
 #EXTINF:-1,Терра 
-acestream://401b56f65eb89d40c84b0ff50b7717498ceda9b3
-#EXTINF:-1,Травэл ТВ Болгария 
-acestream://f0d714053bc97b9840167afe12872852388f9e15
+acestream://81f9849c456ea8b19272fdd7eece3b40ffef975d
 #EXTINF:-1,Усадьба ТВ 
 acestream://309ca4d20ee3b392f294a30dea1597254342e530
 #EXTINF:-1,Фауна (Украина) 
-acestream://f1fb70db000b1469d10cc8990531dc125eb75236
+acestream://d1af0936bde6e13a249ad46893f7f77a4578ac4d
 #EXTINF:-1,Эко-ТВ 
 acestream://3bfded8a530d9fb993846654db9050aeeddca1d1
+
 
 
 
@@ -1824,13 +1786,15 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1,0x0 Fireplace HD 
-acestream://eb809da9a8e7c231bb4e490f9906e43c9bcf517f
+acestream://2c554ce438d91e7ece8225e404c2e31f0f9cd3c6
 #EXTINF:-1,2x2 
-acestream://90323df4298c02bfa354bcd4ad313b6210fdc81e
+acestream://d4703741e3f2c59b89a26cd68984b20ba348ce29
 #EXTINF:-1,2x2 (+2) 
-acestream://0856139508e588b184c8ca239bd65c18afa2e361
+acestream://6043f80b77e0ba0d641952270acc19decefd7778
 #EXTINF:-1,2x2 (+4) 
-acestream://bc752d1bc8eff7a082315a42e7037e363cc8ef52
+acestream://ec10727dde9fdb5201f4791a5b6bedee8023cc4d
+#EXTINF:-1,2x2 (+7) 
+acestream://17972ff53d08df59968bfc43209144c5eaa6d5ce
 #EXTINF:-1,7 TV 
 acestream://1276b3af450aa92e93ce59b78d1ec684e82e9d2f
 #EXTINF:-1,Anyday 3D 
@@ -1842,37 +1806,35 @@ acestream://2702e3db43f2df26438a190ea181cff320c7ca46
 #EXTINF:-1,Boutique TV (Россия) 
 acestream://c7e5c34456b95e10e026e920a77dea8b3f603724
 #EXTINF:-1,Channel 21 
-acestream://378f5a1e6d96b8d36cd8af1fbefeceb35a97100e
+acestream://166e42eca62174b8fce7281415f357646f28aa13
 #EXTINF:-1,Comedy Central Austria 
-acestream://a4bfde45a484d82babc0a84d536d6865543eb03e
+acestream://2a14a8fe0b7c016cfe7db7d8635b0b726a32f551
 #EXTINF:-1,DMAX Austria 
-acestream://5a53226e2b5a5452e8756fdfd0c7e4ad508d124a
+acestream://336f3be8d2bb13a0df3b1648ff03e366fd60aab0
 #EXTINF:-1,Dog TV 
 acestream://ec7fc00fb3ca51a4abb89de7e308ce5818f8714f
 #EXTINF:-1,E! Entertainment TV 
-acestream://6d336278fa195dc4885e51518af9f4507ba8eb09
+acestream://855f21fbface0640fd9f438fe1f7f140a4642600
 #EXTINF:-1,Familia Domashniy 
 acestream://de500804ce2fbebfdc6b4c469f122514f9817b89
 #EXTINF:-1,Fashion One HD 
-acestream://b861e3ea3e00e1137afd9e833294b1c6874f23f0
+acestream://96dc712e07947b737f031beda31b4eb62e7ad88d
 #EXTINF:-1,Fashion TV 
 acestream://48cc8dea888050b2335ab67656291cd58aac26e1
 #EXTINF:-1,Fashion TV HD 
-acestream://29daf3c11c2e1958289d53827945e0b815684505
-#EXTINF:-1,FashionBox HD 
-acestream://30c35a012203700088d44a56caa94f3d8083872e
+acestream://148d5c93251213a0ad21a61900f2515809bf7697
 #EXTINF:-1,France 4 
-acestream://850953fc97d1d1518828ea273547977598646e73
+acestream://83c6f032a6a53143a5b29d65cb431cd77126740a
 #EXTINF:-1,GAME SHOW HD 
 acestream://46f6881dbf02fc14b32b1d1f87ae94ffc7b26e95
 #EXTINF:-1,Game Show 
-acestream://044326dcdd0e09340f6fca842caae6d16ae927f0
+acestream://f05016c8988c01ff292a17b1ea01dd487a82e243
 #EXTINF:-1,Gametoon (HD) 
 acestream://5672338ac5e43696c4c1ecb72ad6b79eed4ca2ce
 #EXTINF:-1,HD FASHION UA 
 acestream://0a9a5bed67922cc6beff7cc123523ec79eb943e0
 #EXTINF:-1,HD Media 
-acestream://fbdd4f3a110e584d8a75dd17b180b195ceb85895
+acestream://3007adc6766de35d4f12f27c34eb8d30729d2242
 #EXTINF:-1,HD Media 3D 
 acestream://b777ba6c982ace2898e650526a2e63a6c1e57a92
 #EXTINF:-1,ID Fashion UA HD 
@@ -1880,95 +1842,95 @@ acestream://dca7061f2ffcaeeb38fc7e942818113279989e73
 #EXTINF:-1,Leomax 
 acestream://61593ff99e130f133d53a385e673eef2116d65b3
 #EXTINF:-1,Maxxi-TV 
-acestream://ac272ca407a2b178fddea54752bfc5c2dd238f45
+acestream://dcb2c71e3b87f5747708c603e7f82377c52c90be
 #EXTINF:-1,MediaShop 
-acestream://5829d8186da4339ee754a211923d29814ea7ddcf
+acestream://4fc95b937b8851f577219334bf2d1a72d2cfa99d
 #EXTINF:-1,Metro 
-acestream://1fb6a4948159607d66ebf30205500dc2c5138500
+acestream://3b33fe11733d4cae45cba6400b8d8b74da7f28bc
 #EXTINF:-1,Mi Lady 
-acestream://b9ca1a89bf7a5957ef770b06c19812a32158b8b0
+acestream://2b6a1d6b3302863e980e16ae921addd6f8406b84
 #EXTINF:-1,Mnogo-tv 
 acestream://8557b3a375a0cade5c1369108f8e68f61237ecdc
 #EXTINF:-1,Paramount Comedy 
-acestream://325eea5746b7969bfbbe4cdc376dc1a0b5c8b187
+acestream://9a773f5a4a97e1360fd3470840cf7efaec58eeb8
 #EXTINF:-1,Paramount Comedy (Украина) 
 acestream://b2b284b8ca68b1cf4c51eae87413df15686a2234
 #EXTINF:-1,Pearl TV 
-acestream://99216161bb3e43ad31f53902e0d832a42fc6f353
+acestream://96a4efa75777681ee6b2ace67ad26ca1f7ff6a36
 #EXTINF:-1,Pro Все 
 acestream://85a4f94998a851d27b3e6b220cfd57ba711097d5
 #EXTINF:-1,Propeller TV 
-acestream://b324ab790734098f85794e281bfa004fde14c4c5
+acestream://f40a17fcade0aad9a7b9bc03c04f1d22e123e62e
 #EXTINF:-1,QTV 
 acestream://b12facdfde2ebabd9a2773db1a2fa83fda0b9787
 #EXTINF:-1,QVC Beauty and Style 
-acestream://39b9d1445d71245944249c032660dd1db782ada2
+acestream://4feda796c9e5af3c096b11eb4c927b0c3cc64dcd
 #EXTINF:-1,QVC Deutschland 
-acestream://0a66a190a6ca778f322afc9875efc78099132738
+acestream://3e17760b0b0207b420cca9d9cd5ed71d897b32dd
 #EXTINF:-1,RENOME+ 
 acestream://9aa9b4face4974893da4523124636735f183e183
 #EXTINF:-1,Shop and Show 
-acestream://db8485e63996aa6ebfdeb7e0da14eaca6570d56c
+acestream://962319227dbbbebe92b411a063a65d37c2e2760f
 #EXTINF:-1,Shop24 
-acestream://7441d3376dfdb6fda7793e2df54289371acad7f8
+acestream://5e0ba0f2c8a20e590d93cabcce0b7ce0ff062537
 #EXTINF:-1,Shop24Direct 
-acestream://a97f59bded935a9d6e1ce984d6f57a69accc63a9
+acestream://5a9eb134ef60b55870326ee583f9acb6fac45a96
 #EXTINF:-1,Shopping Live 
-acestream://9c1b3fb55bae921b15341b0d23b9fcf8e1ac3d5d
+acestream://9ba9c5ff109e882cad5450ba6f486081dcd991e4
 #EXTINF:-1,Shopping TV 
 acestream://3448e48b4f98979d5bd253be4eae05a3637c7e69
 #EXTINF:-1,Sparhandy TV 
-acestream://22d1fe0969955079c908c195fd53c6f759275873
+acestream://621ddb24f967e4ed0b449a3fac075ee4c54ff68a
 #EXTINF:-1,Star Family HD (UA) 
 acestream://c69878d81f5a1280840d64c585c1447f54119d7f
 #EXTINF:-1,Stars TV 
-acestream://10919f2c0fa5f274170cd6a80af2b679524d2e15
+acestream://524d76c5b29627477c527d16fcb085dc19fbea13
 #EXTINF:-1,TLC Deutschland 
-acestream://33d726297995a57e6c58c374d7bf963b139babe1
+acestream://a6c961363b5fcc5124b85809cde23e62a684f66d
 #EXTINF:-1,TV Mall 
 acestream://ba84e35f4c8cf19b1c4db1cf4fdf9fc3ad350a29
 #EXTINF:-1,TV5 Monde 
-acestream://f40765492fda4999fa3af76e4e39648a88d938e4
+acestream://d9768e44452789e6badb86499ebc640661cb2a50
 #EXTINF:-1,TVP Rozrywka 
-acestream://374b6638c61bdfc26ebcc8ee2c4d0ae025ebbf97
+acestream://fdc7cfab0c20a8d2504ac602604f6be753562ebe
 #EXTINF:-1,Top Shop 
-acestream://6b327b2238dd105a6919eb89f2a57a03c94d053a
+acestream://3cf716ea464f445033337925d9c916fbcf62c86b
 #EXTINF:-1,VIP TV HD 
 acestream://49e352a039e89003c391226f87834b5a91c4a538
 #EXTINF:-1,World Fashion 
-acestream://8ebe57e00b7c488b8044cf008de7a6be41466fde
+acestream://f584b087198504ee346de5d749800fb61dad96ba
 #EXTINF:-1,World Fashion HD 
-acestream://cc519c3e158cbc5c2e7b2927bbb347ea4057188a
+acestream://16594442411ea2daeb05a1af5ec3a1670528a0e9
 #EXTINF:-1,Zoom 
-acestream://c1b915d834b429a0d1ac7324a62e82c9a287738c
+acestream://a51ca884c5938decff69a2ed44a0df4785b5da63
 #EXTINF:-1,Zoom TV 
-acestream://433fa5f782304285e214f0bdefe79c321118313a
+acestream://c9fad9124d1a3536d3ce9b810471ed8ebd58c99f
 #EXTINF:-1,БУМ ТВ HD 
 acestream://41ce2bdc27dc76421a1f0008f7c3a8cd37dd03f4
 #EXTINF:-1,Бигуди 
 acestream://8d83cdeeedca6cb1ef8d456a4781f6199d82c0d5
-#EXTINF:-1,Витрина ТВ 
-acestream://a647e424fbac35853e018ddf1126c4fa0b53a44b
+#EXTINF:-1,Вопросы и Oтветы 
+acestream://44946fec6bc4cef92728f85e01e7d4e3a69eab9c
 #EXTINF:-1,Домашний магазин 
-acestream://c6adddc9bce8d713f558c6a6d35dc04e23211c1f
+acestream://de8e2784e0b25792791f853f48982ec7323e19a9
 #EXTINF:-1,Живая природа HD 
-acestream://181da15e5473bd5d9adbb95e608b3824eb072e98
+acestream://ba5a4ef90355da79c76ce785c0eab45fcfbb02c9
 #EXTINF:-1,Живи 
-acestream://85887234382931f2c7c3f853ba2bca06752e05ca
+acestream://c98e8743ffd18c8f53fd0221ac5018644a21d1f5
 #EXTINF:-1,К1 
-acestream://c396aed6655b18f2a0246385f2668f49568b2d09
+acestream://86d694360b2f6cfbf1c81ea424a264b022c8cf7e
 #EXTINF:-1,К2 
-acestream://eb8a06a3707c93c1d45c0a99f9ae98c66bcc3f60
+acestream://6ad402454a4dd86746c2f90308efb204bade833b
 #EXTINF:-1,КВН ТВ 
-acestream://e79518cbdd0e73a095308f7a0deca40f95dd4492
+acestream://4e8d563b4139243bea4626b02d31734b662b8b14
 #EXTINF:-1,Кот ТВ 
 acestream://9295e071845f45938bee487d76188f11c3625688
 #EXTINF:-1,НТВ Стиль 
-acestream://6006b4e4640f4cb681ab6df6147cff25c4561d2e
+acestream://f6016ee2bab39aa22b69d16d94a74934dcf1a0e1
 #EXTINF:-1,НТВ+ Инфоканал 
 acestream://dbc0b6cb3038026d05e05a520d45bdd1805cf4c9
 #EXTINF:-1,Новый канал 
-acestream://fd8518d6cbf49cd77964b2c95b42ee76cfbb9e58
+acestream://cb231c6d74eb155d45c5b5cb6909c4a2b1b9a640
 #EXTINF:-1,Перец International 
 acestream://3753855a8a8e550a79440609f6f08dda1e5c0640
 #EXTINF:-1,Про все 
@@ -1976,71 +1938,74 @@ acestream://85a4f94998a851d27b3e6b220cfd57ba711097d5
 #EXTINF:-1,Пятница 
 acestream://7103cc5e14c8994e39b6de5097a218b750fe44eb
 #EXTINF:-1,Пятница (+2) 
-acestream://a31146172aac3458900e2f6b5b0cb264770faa36
+acestream://ff857fdeb6da345977db51c2e8a0778b790494d5
 #EXTINF:-1,Пятница (+7) 
 acestream://977d974db824e2ec0ebc8924694a7391e39b4d81
 #EXTINF:-1,Раз ТВ 
 acestream://f06d67198cda8c53bbb086807df019539aecc14e
 #EXTINF:-1,СТРК HD 
-acestream://517962c7a0250c841bb0235ba459e9f9ec06ac22
+acestream://dea6bdb3872d6fa6ea47d8b85339bac3dcdb0393
 #EXTINF:-1,СТС 
-acestream://3a5d0464f15b6e567a4b5e11fab3908ee07792ba
+acestream://6095464762b4ed9d62f7f2fa89a4c3efbf506322
 #EXTINF:-1,СТС (+2) 
-acestream://80c56843fe7bb0de7aff37be3038110b7705bef7
+acestream://dfcec646249a3db1dc131def62077c815405fca8
 #EXTINF:-1,СТС (+4) 
-acestream://5a7ff09ebe19d3c5bc5b58a7ae12f80f3b69b30d
+acestream://9c2f1ebfb429ff641704f9ab282f8ec8fd7e64c6
 #EXTINF:-1,СТС (+7) 
 acestream://c5485852c21c9bed9abe51a812eb73766db693d1
 #EXTINF:-1,СТС (резерв) 
 acestream://6a6523b1df26e320541ddd6ac87062984a31442e
 #EXTINF:-1,СТС Love 
-acestream://446e228281c49d9aedfa4e069ffd80bb27796c28
+acestream://480872669ba0e53ecf949c5d3d1ce755b38d73e3
+#EXTINF:-1,СТС Балтия 
+acestream://c058c3d7bc66d5b5ccde2c6ad8c0d61888d927b2
 #EXTINF:-1,Сарафан ТВ 
-acestream://23443ab95063d5ce2b238c0f97e09cf05868ef98
+acestream://4b7f2797027098cee46a2a9407ab66d30a110be3
 #EXTINF:-1,Сонце 
-acestream://c50be134c783c16cdfcac6414ba0cbb19910f70e
+acestream://4411021229bcd1b186a28ad14cbaa1895eb4c91f
 #EXTINF:-1,ТДК 
-acestream://9e4995a6fbe5209b4b83ea799a5df161b1ee12bf
+acestream://be19af652f4237ffc4779aee4aa059964c9c9642
 #EXTINF:-1,ТЕТ 
-acestream://43128968374634ca4739e606593b2700fd4e7375
+acestream://50fb15b0774c8219bcb63f0de672c3ac1c3d0745
 #EXTINF:-1,ТНТ 
-acestream://c22f90a24e4d3f07e5458661c14261b62a06bd4f
+acestream://64174835bd898fcef776d75edc204238bc244b7b
 #EXTINF:-1,ТНТ (+2) 
-acestream://b292ef65ccfe4bc121b6f1f2a13594804af5cc89
+acestream://4e098763a12b3e26a737e23c6af302238130331e
 #EXTINF:-1,ТНТ (+4) 
-acestream://17ba6c38aed0006e2a42e8038d77a7cd8c9e3b1c
+acestream://34ea2ee707e82150f536297749270913ba29fe8a
 #EXTINF:-1,ТНТ (+7) 
-acestream://2096949f0fac6be0560153f1919c1e1bbdaa29ac
+acestream://22d018db14fee2b49818a98f09a8b97f3fc8c3e2
 #EXTINF:-1,ТНТ (резерв) 
 acestream://5a7ba468e46979e3391f8480a7e9aac138c3e0c9
 #EXTINF:-1,ТНТ HD 
-acestream://705a8f199244325f2fc24abdd195cd99a9f535f8
+acestream://a87502a128afdde520da158e6c20ae7bbf1001f1
 #EXTINF:-1,ТНТ International (Беларусь) 
 acestream://bab153a7f54c3f29c436a0c4d2b0cf8412aa13a2
 #EXTINF:-1,ТНТ4 
 acestream://f302feb144a6c9515c09a0a7063aa6e2b2828991
 #EXTINF:-1,ТНТ4 (+2) 
-acestream://7c8aff7883074281ee0a2fc20620f8dd515996f7
+acestream://8139d1c724f23e11f806556852438abd723b65ea
 #EXTINF:-1,ТТС 
-acestream://65df0589a555a3b0d0d68367d36a69d245330d18
+acestream://6524fd694b9ccc794c7d709911c766775cf13729
 #EXTINF:-1,Театр 
 acestream://4c4a4b487b72bab85ec5e4251c65a42109340898
 #EXTINF:-1,Тонус ТВ 
-acestream://1ab0a4084ae4f9ffdea8cb0a0811e9dccb289a11
+acestream://73d60fb5a661b8debd87dd96d67c0e70fd56f7f2
 #EXTINF:-1,Че 
 acestream://7a6cb37278449e89eb0cfd4edc3793e8eebb16c3
 #EXTINF:-1,Че (+2) 
-acestream://aaa6e5b5bd6b5c93e081c2693a464536c6a25706
+acestream://3afa677c6fa5ea6db76a9e2fd066ec2164fdf07b
 #EXTINF:-1,Че (+7) 
 acestream://90b44ebbd77c78b2c4a22081e06f7bad81e79e2d
 #EXTINF:-1,Ю 
-acestream://ed225d3d2b3d39b6d44a187f5abae3d356484b80
+acestream://210476c7464afa0df755dd4565b812b9f4f6fd11
 #EXTINF:-1,Ювелирочка 
 acestream://6969c17874ec6ded103535a96f848387751f414a
 #EXTINF:-1,Ювелирочка Мода 
 acestream://8ec189f97861d518c539d77a80f1a7ab2b09fac1
 #EXTINF:-1,Юмор ТВ 
-acestream://1543c098c23876204e6105bae672dea49c46df4d
+acestream://6cb4cd430257e1da277a35952a87f856734a4880
+
 
 
 
@@ -2151,7 +2116,7 @@ acestream://df9624286280660f3bcfaeb233fe0ff29c78b6b1
 #EXTINF:-1,49 канал (Новосибирск) 
 acestream://8e2bad59bae07c177ed0bb39fdaddb6d7e271dbc
 #EXTINF:-1,4Fun TV 
-acestream://bd1efead2ac80e257406546c49aea31c94dee189
+acestream://96a7ad049cc0644edfc5a00f72a3a0af994fa653
 #EXTINF:-1,5 канал (Киргизия) 
 acestream://ad1db560aee2aee294da3f2a3108a6a4bf643152
 #EXTINF:-1,66 канал (Израиль) 
@@ -2161,9 +2126,9 @@ acestream://e55b2f20b098c51228959ffd5f59b4fdb868cefb
 #EXTINF:-1,78 канал 
 acestream://ece558ca1ed467ef4699b8fba1d210be9b8138bf
 #EXTINF:-1,78 канал HD 
-acestream://981963447fb73a960fc9d8fc4b3a62f41617600a
+acestream://3141a94b90aa3a9db0742a661aeca82934175de2
 #EXTINF:-1,8 канал (Красноярск) 
-acestream://bf06e438bf60c90b37410590b17cba48147e315d
+acestream://ba8abd551ebca9ed2e2c52090a53ab72f64055f1
 #EXTINF:-1,9 канал (Израиль) 
 acestream://c0e03492735ecae07bfb5c7ff707652033e9d37f
 #EXTINF:-1,9 канал (Рязань) 
@@ -2171,35 +2136,37 @@ acestream://7b12edf5688bf63382f86e349b05768a1ac40def
 #EXTINF:-1,ATR 
 acestream://d4e222302c9dcecf4aff22f632a1e7d4c3766258
 #EXTINF:-1,ATV 
-acestream://72fa4f3ec4efb3aca8e4015bb108205a69bd3740
+acestream://31997dda21bee44b7c477ebfe6038d4d01cb12bd
 #EXTINF:-1,ATV Azerbaycan 
 acestream://9631379cfd67e047a7917820d5fb8c3ff595eb1a
 #EXTINF:-1,Abu Dhabi TV HD 
-acestream://39ed2648495ff90d0ceec7b25943d444fa08e00c
+acestream://f8818a5b0b2007be56fed54299d26cb37da60cf6
 #EXTINF:-1,Al Jazeera English 
-acestream://38fe6937a5f967f6a039cd2558f792799efaccf2
+acestream://86623b1cee83b73f7e90234286e76e2a1cc27167
 #EXTINF:-1,Almaty HD 
 acestream://34061c9b45c1b16568e49394bee08a3f2cc116ff
 #EXTINF:-1,Armenia 1 Satellite HD 
 acestream://a7924b874879a2c365bd35244be660e92d6f598f
 #EXTINF:-1,Armenia TV Satellite 
-acestream://d685284c0b11982185db7931c0d534f614513588
+acestream://fbcc9a39f6c2a9931937d3394c6689962dda2711
+#EXTINF:-1,Astrakhan.Ru live 
+acestream://60b0c51120b09965d76679c47f0167b04a4d5235
 #EXTINF:-1,Az TV 
-acestream://13ad6ea4b053167c4327763f49d32013b3959bef
+acestream://e1dfa268116ee66156770e56c6dfced5607294e8
 #EXTINF:-1,CBC TV 
-acestream://a3f8724a79b7a5c896988909fe0213f0518f18ff
+acestream://5b567a6e1a6cd3c3ff95ca5c83c963395d47f9f9
 #EXTINF:-1,CCTV 4 
-acestream://81003d43cd3e73b87be72c1cdf3b7ec909c72a22
+acestream://4e3485054a13b50eb41b93cc61c12a457007e725
 #EXTINF:-1,CGTN Documentary 
-acestream://cc2e3e3005d2f2c970a5e59e2cd8caf0c1eb2a1e
+acestream://a1fbf0f242bcfcc9a6a25b76c54e6f6cc0a71bb3
 #EXTINF:-1,CGTN Русский 
-acestream://7977207e7617a11e25b664f118160f2b090bb8d2
+acestream://c98c0658baeccc086b5b32250cc9e67cd97ee600
 #EXTINF:-1,Canal 3 
 acestream://bde6d1a1b16e39011a456153ece756c722bf0b76
 #EXTINF:-1,Channel 20 (Israel) 
 acestream://8a66b9cbdd32ca65f2cf79c5566a5e83589d2269
 #EXTINF:-1,Dunya TV 
-acestream://ad22c22503c4e754cf51cfcd031a124aff062e0a
+acestream://294032e62c350d9a5d596bb2dc57c9294b4e0eb0
 #EXTINF:-1,ETV 
 acestream://18e298be68a63a30ed5c3aa65e23b1bca6905743
 #EXTINF:-1,ETV2 
@@ -2211,37 +2178,41 @@ acestream://b7863bfd1a998e4770f7466ccfb0fcd3d84d44e1
 #EXTINF:-1,Iland 
 acestream://f45c04067f34af806175372b338743185919614e
 #EXTINF:-1,InterAz 
-acestream://11fd5051ca40a689ca998b02f9dfb6c40a50017e
+acestream://f309ee075a90c3355980df15bfe91b67e98e499e
 #EXTINF:-1,KBS World HD 
-acestream://5e1854ebca8fe36a98c6d43eccf4790d68d675fd
+acestream://48b33e22a12d622baf37b5e840b00ba574ae014c
+#EXTINF:-1,Kanаl 2 (1) 
+acestream://7b728ba2f809122be909b50141127dad46bfcec4
+#EXTINF:-1,LRT TELEVIZIJA 
+acestream://bda67285eb3fc89e59e601799a96757143e17006
 #EXTINF:-1,LTV World 
 acestream://5bc33bf06f57cd78b5832ba2cc787cc5fa907296
 #EXTINF:-1,Lider TV 
-acestream://35ebfd2042a8bc4ff94ba2dff128e1fa210ad195
+acestream://855e9af2a82e29c350a24a39e8f0aedcf666535d
 #EXTINF:-1,Lviv TV 
 acestream://7b6cc8fdefd283425e7a408572274778962ce81e
 #EXTINF:-1,MTA International 
-acestream://9dc192f9a95bd7f51e74d8213361f3b6c0640240
+acestream://eeec225e1fd5e1d9b1032efac3167c44cf8f9979
 #EXTINF:-1,Moldova 1 
 acestream://0f0e8ac7d53d6bdffa5d6bc6a07bdb9679dc67c9
 #EXTINF:-1,Moldova 2 
 acestream://22db81745a7d3a428272bef9adf63babcfa28e58
 #EXTINF:-1,N24 Austria 
-acestream://4ee979e57e33a6e2077f3061ab109a78bd84c653
+acestream://c24327d1c8c7eb9d07337e711b990f3fccab8169
 #EXTINF:-1,N4 TV 
 acestream://1dd3e55c19bac63a031fa0bc105ae6fbc11aee7c
 #EXTINF:-1,Phoenix CNE 
-acestream://ed80b38902f00155ed246b13c93fe82bc0ec7854
+acestream://0e79f910ab296ae331831613cccf4e1454635664
 #EXTINF:-1,Polonia 1 
-acestream://f5bed51c514ae6aaee5215cfda0cf2a104f5a829
+acestream://dab54cab47c8312a6ba9286bab5cc89d655664e6
 #EXTINF:-1,RaiNews 24 
-acestream://a4200d02417bfa0a580726be5039aa907fc75ed6
+acestream://cd7b005982b317cbbc45046f2924944922bbd10d
 #EXTINF:-1,SHOW MAX 
 acestream://130f13f765e5f27e607ac9e05bf8f6e80f7c27b9
 #EXTINF:-1,Shant TV Armenia 
-acestream://94b4a5543c4c844f30a9bf794f3e6b30f20fbd03
+acestream://25d862d63e81118b971ec2873ecea51472a2dfb9
 #EXTINF:-1,Space TV 
-acestream://012af72ef439a65f3c637a80368dee06f9373b1c
+acestream://bdca8fe8228de3bc1549da365b86b1cc9cbadf92
 #EXTINF:-1,TRT Haber HD 
 acestream://2b967f647d2ecc9d56d44c7ee52cb364399fa240
 #EXTINF:-1,TV-4 (Украина) 
@@ -2251,7 +2222,7 @@ acestream://532e9be798807dc27ba065c767d23fa7b3173cb5
 #EXTINF:-1,TV3 Catalunya 
 acestream://e8e772cfe4d5d3d614025e6b469141977baeb136
 #EXTINF:-1,TVP Kultura 
-acestream://93b757720e18648e1686de25822904fde5269c30
+acestream://e554803c8bbac0d78b3fefba35f549f5546d46b8
 #EXTINF:-1,Tele 5 
 acestream://0836046d7cc802cec57f45a8a0e5dba0d2725c78
 #EXTINF:-1,Telesur 
@@ -2259,19 +2230,19 @@ acestream://106a0e7745c7eb4ebc4b5d9044ed595df21abfe1
 #EXTINF:-1,USArmenia TV HD 
 acestream://976aef7477d04681734cf469dd5be4ace9c3d423
 #EXTINF:-1,Viva Austria 
-acestream://b40cab96b090fc3a2c665ca9455392e64b01efca
+acestream://8ba07f839206ab2a74c7f6180d68cede487ab931
 #EXTINF:-1,Xezer TV 
-acestream://8816eaa558ba0854ae5d55bcd182d3a2c863309e
+acestream://ccfcbb253fc29ffcda1d487e29d8e94eba75e60e
 #EXTINF:-1,ZDF 
-acestream://5ed9acd8617a3c1b07adbd459a23965d52859531
+acestream://963bc072825d3f19d7fd517a4ee034705758c92d
 #EXTINF:-1,Абхазское Телевидение 
 acestream://79400f64e7f842bee394be258a99e5b9da3c422b
 #EXTINF:-1,Ариг Ус 24 
 acestream://80c5c40c2ae791a9c1d16c31649fa49cac3a6d04
-#EXTINF:-1,Арктик ТВ 
-acestream://b785637fc5a837130e90eaac5049d1ae357a25fd
+#EXTINF:-1,АрктикТВ 
+acestream://106529421a6acb86dcba6d3c8837c24d6606663a
 #EXTINF:-1,Архыз24 
-acestream://f8f2a1c60aa6ea17f5910a3cde7e99eaf6cb5c85
+acestream://38d5278ac9f949115079e5c7bdcba610b53ea00e
 #EXTINF:-1,Астрахань 24 
 acestream://cd9bd1be32b12eb125b51fa849e939098f7041db
 #EXTINF:-1,Астрахань 24 HD 
@@ -2285,7 +2256,7 @@ acestream://06e446ed505b43eab00fc1d27737822c63efb4d9
 #EXTINF:-1,Белсат ТВ 
 acestream://c6f80de31b5fba0fb1f15ab0b3deba2a2be23206
 #EXTINF:-1,Брянская губерния 
-acestream://a0384fa39a8cad96fbb8a880f9585909565b9f76
+acestream://5f26277bc67beb60e305197decf4e3c3893f46c9
 #EXTINF:-1,ВIНТЕРА 
 acestream://292269cd4cf2b626b3a9d6b1586136dac495528c
 #EXTINF:-1,ВТВ-Плюс 
@@ -2294,10 +2265,12 @@ acestream://587f308f7c30d1e49a03a67321fd9c167ce96690
 acestream://c1221e73badbc59e9e290a0813980d70ef57c011
 #EXTINF:-1,Волгоград 24 
 acestream://748e5f56ccea20f733b9051d975f221a70812ddd
+#EXTINF:-1,Волжский + 
+acestream://9d3cc3e9ab4c0c4b4acb589122a464be646124ed
 #EXTINF:-1,Галичина 
-acestream://d168b0c73bfd870519d9ece8e03169dc6142088e
+acestream://ba39e0e329169414b9f9583119810c55b0063e60
 #EXTINF:-1,Горизонт 
-acestream://d1b79816750dd21242406a5433ee8a24333ba3be
+acestream://0115ddd090006dc0d5f01ce897d3eefec217170f
 #EXTINF:-1,Городской телеканал г. Ярославль 
 acestream://560285b0899d1d57f6145d035dc48e7bc0dcb744
 #EXTINF:-1,Губерния (Самара) 
@@ -2305,47 +2278,45 @@ acestream://d8ddbbe939c90b5330506d613ce8b8e521d28298
 #EXTINF:-1,Губерния ТВ (Воронеж) 
 acestream://1287a7be833a2d5cd7c8f884a6777d4c33b4393a
 #EXTINF:-1,Дон 24 
-acestream://b4eef01af06412723d19e7e6be804b6268163550
+acestream://923da0a3e61f783a92d66bfadfb56432140b9384
 #EXTINF:-1,Донбас 
-acestream://f788d6c9ffa78c6c85cb92a6236fe220c0ecc4c7
+acestream://200292b79c81d80048f34ef3ca48bb2e2898cc4b
 #EXTINF:-1,Енисей 
 acestream://8d33e266ee5643b041d2a44a7d346b5cfd0583df
 #EXTINF:-1,ИКС 
 acestream://e0c52343e4dd29d9b626b5b0dd316c440de40835
-#EXTINF:-1,Кanal 2 
-acestream://ceca47adf82a713d0e6c15d28e12567537775d22
 #EXTINF:-1,КТК 
 acestream://d0c27123ceac76231fe831ddeb06a33781074ce8
 #EXTINF:-1,Камеры Санкт-Петербурга 
 acestream://467c52ec5d3018482fe50e45a2e124f4ee989aa5
 #EXTINF:-1,Караван ТВ 
-acestream://0ebfad81f90ad52b3605715806620431a39646a5
+acestream://212ee0b7dfb96df25838748ffb0691d1e7f99197
 #EXTINF:-1,Катунь 24 
 acestream://87ce41dcc9d39a7af51899fa850283be352f5d6a
 #EXTINF:-1,Крым 24 
-acestream://59a62abbfb46ebc2fb0d2d7ef18161aa3ffde195
+acestream://c7caf8101d748ea015b1da5dbe13ea69dbe769bb
 #EXTINF:-1,Кубань 24 Орбита 
-acestream://a152961413e8d021efdecfc5e9f293e54f48b25b
+acestream://44e82feab7a11c424419d8491b9e8ae4308a3299
 #EXTINF:-1,Курай ТВ 
-acestream://b66a0d7359ce2023f42f825bd158586b144bf4f1
+acestream://c795f8f59ead2473df0a478f1afa494162e11ecd
 #EXTINF:-1,Майдан 
-acestream://791e694d4598fb1f4f1f27c17ec6cd35a7a10f5a
+acestream://28368435f8cfa5d0022e8765a65dffd2f222d669
 #EXTINF:-1,Между.Net HD (Междуреченск) 
 acestream://91ed3c0dc45d2a3feb68a4057f228375f762e5f7
 #EXTINF:-1,Миллет 
 acestream://196aa6418d8a722fd42e94eb6f0e74e50a180921
 #EXTINF:-1,Мир Белогорья 
-acestream://023bf7fa4dee0e5e06d27445e910798d28cb4497
+acestream://73e9e554b378e7204d126fe258500a2685ed2f4a
 #EXTINF:-1,Москва 24 
-acestream://95b827703874974c42690d0b48a7c7297ae004db
+acestream://8cbdbfe75f5f1cdc3043333cf2b4a5db7d12fd0d
 #EXTINF:-1,Москва Доверие 
-acestream://c8607e17b23091c05c21fee19dbd3b91a92c9355
+acestream://882b44cb53a9c04e3c284c85f065f677dbfdbeac
 #EXTINF:-1,Моя Удмуртия 
 acestream://6afa02caf3d73cfbebeeffb5eaec374cd7c8285a
 #EXTINF:-1,ННТВ 
 acestream://ab0f67d44d71f3c8d065408418028d76f9d9e07c
 #EXTINF:-1,Новое Телевидение 
-acestream://3a214158f3f7272d6bfcacc2ef87b19d07308e95
+acestream://f4058d45615e1fb9a94ab7d6bbbb0600a39bc835
 #EXTINF:-1,Новосибирские Новости 
 acestream://ec141bf664415fe9e3bcd79c8ee490c562f76a1b
 #EXTINF:-1,Новый век-Звезда (Тамбов) 
@@ -2359,35 +2330,35 @@ acestream://d454c5de63f5352ea2f585fc42a5bb01420a9d73
 #EXTINF:-1,ОТБ (Харьков) 
 acestream://06292d1075f4f2a4642a91b92fa00c76b8e76cb5
 #EXTINF:-1,ОТВ (Екатеринбург) 
-acestream://f7feb5de4565a150b8d767eb64386c643b5a6c21
+acestream://c4b49a0884ec58212e00f933de36a57cd0633b83
 #EXTINF:-1,ОТВ (Приморье) 
 acestream://c4a79ea8c8378a23b7c27995ffe2a708df10a143
 #EXTINF:-1,ОТВ (Челябинск) 
-acestream://709adabe64465325eb66b00f1f9a291d1f9b2839
+acestream://117d271ffdd53be90ca958cb8ff22508a693090a
 #EXTINF:-1,ОТВ HD (Челябинск) 
 acestream://a487386b5b9bd67c33ba84594768ce8227faefd3
 #EXTINF:-1,ОТРК Кыргызстан 
-acestream://853f165957fe8c92b18e733a75a6cf442a9fd5d0
+acestream://d3b2af38989cbd356d45e1c9b8bf86861003a27c
 #EXTINF:-1,ОТС 
 acestream://6fafc55a3ed2b001f823a1d38add728eea5d5196
 #EXTINF:-1,Первый Городской (Киров) 
 acestream://6e520b95821a85b72d63f9038c8090f40979700f
 #EXTINF:-1,Первый Городской (Кривой Рог) 
-acestream://c3082a8351ead377415ae7ec614726de1e88cf1f
+acestream://e83ab40679d12ca0420a483622a554d942eaadf2
 #EXTINF:-1,Первый Городской (Нижний Новгород) 
 acestream://f0f083d43a4aa67505f1331ce6cdf4b8a48f30a1
 #EXTINF:-1,Первый канал Санкт-Петербург 
-acestream://69af1a43608cf78ee4b8a38e1f9dca8d8473daa4
+acestream://8ada07a8ba4d47b508c5517be923b3385c3fd175
 #EXTINF:-1,Первый крымский HD 
 acestream://0393b85f26445136de15595e3a5559fd4d86b11d
 #EXTINF:-1,Продвижение (+4) 
-acestream://d094053c571789ada5c407be601f2fe04b73de76
+acestream://9b88e768820692d81a43dd8fec5532e93f003c45
 #EXTINF:-1,Продвижение HD (Омск) 
 acestream://5c7b6b19083fb88c9a6630b493118af8dd2a03a4
 #EXTINF:-1,РГВК Дагестан 
 acestream://21c305950a2699c36e91f36801dbd45bb5567f8c
 #EXTINF:-1,РЕН ТВ Санкт-Петербург 
-acestream://7c93a1a037d65da08ef18b31bbb6b7978881ca6d
+acestream://fb9e42b3908824331644490f998dd21ca3047707
 #EXTINF:-1,РЕН-ТВ ИСТОКИ - ОРЕЛ 
 acestream://c02f01c6b27676ff5027490476ff8d52436fe328
 #EXTINF:-1,Регион 67 
@@ -2409,7 +2380,7 @@ acestream://93cd8a4a4b4dbaec5e42eeee8a2f32a1612a780e
 #EXTINF:-1,СТС+ТВ21 (Мурманск) 
 acestream://be81a828b08a5e14207629a65a4d7636acb7251f
 #EXTINF:-1,Санкт-Петербург 
-acestream://6de54652a614d9cf17e0971c39e16ac74b088921
+acestream://44acecbe13cb761197d0771cd65599cf02c85d24
 #EXTINF:-1,Саратов 24 
 acestream://24488489ffa8b70bd1cde4fe4dd6f50bc445b9d6
 #EXTINF:-1,Светлое ТВ 
@@ -2417,27 +2388,27 @@ acestream://f68312c2ebc2f0d51d5e9ff29e86046aa1ed786c
 #EXTINF:-1,Своё ТВ (Ставрополь) 
 acestream://f90b5c1e27e371df0855750437bf71ac90fbac30
 #EXTINF:-1,Север 
-acestream://7a70b1a250a591755ef282857f7ab8801b3a4935
-#EXTINF:-1,ТВ 3 (Belarus) 
-acestream://a457c017d1785d0eeed37311f4f8cd64a8fb5ae9
+acestream://de4f393ee1bbec6d7f4671bda54eef92a681981e
 #EXTINF:-1,ТВ FM 
 acestream://7e2b74a6daa763eb42b778fc7446a3582711d382
 #EXTINF:-1,ТВ21+ 
 acestream://a3c0684dc114d37f7d1dec0dce83c332d3ee0a50
+#EXTINF:-1,ТВ3 (Беларусь) 
+acestream://f3b89a793511325e737252d0111402f612237c94
 #EXTINF:-1,ТНВ-Планета 
-acestream://3b5deb615a4f4a1a47b674d156ead07f00511d31
+acestream://e4e6a9c108d7df61e66d57d7759ec5f1e02cd1bf
 #EXTINF:-1,ТНВ-Татарстан 
-acestream://9bef2aa17766a1e638161fbf057dcb6e91f053d4
+acestream://f62edb2a52a1450367c37f55145f8d7112349e91
 #EXTINF:-1,ТРК 555 
 acestream://9fa28e32a51ed68aee21bb64e6893891cec7aa84
 #EXTINF:-1,ТРК Заречный 
 acestream://b9c589d544f5afbc03d21882c2d1aced432cd8d6
 #EXTINF:-1,ТРК Киев 
-acestream://ec1597b974d43f32e11fb552f00dc3e46c29d8ea
+acestream://c2711e66e2606e70906fa5242cab8fa732487f8c
 #EXTINF:-1,ТРК Черновцы 
 acestream://aaf1db81bd5a2828d6efb972ae0d14fbe1e50f1e
 #EXTINF:-1,ТРО Союза 
-acestream://49fcfa795b51b2f9b8e851d2c8cc5226f2f06e7a
+acestream://7deb256947ddb7cb0b0c369b50890772cda81a23
 #EXTINF:-1,Тверской 
 acestream://1563b77c60292ff4459ef2b19bce0b62ee1b1407
 #EXTINF:-1,Твой Пушкинский 
@@ -2445,7 +2416,7 @@ acestream://cf8b452a5685b0e8daf04dd71da834ba21cc784b
 #EXTINF:-1,Телевсесвит 
 acestream://e9c39477ee7fea07804e788f14a2dc2d1c554762
 #EXTINF:-1,Тиса-1 
-acestream://6433abc5742fc22104f6ab2093a00bf3fac77f0b
+acestream://77d2305500312c2ecd8b4bf595e1598a2011dd7d
 #EXTINF:-1,Томское время 
 acestream://eced239f6ace59d777fe110ba6d069a162d461e5
 #EXTINF:-1,Третий Цифровой 
@@ -2455,7 +2426,7 @@ acestream://ef3ebfec5898db7269995943b6fa7e47b1502783
 #EXTINF:-1,Центральный канал 
 acestream://9d1dbd95a1ccf9a830f8e57ce7b1b82c99e65146
 #EXTINF:-1,ЧГТРК Грозный 
-acestream://8568ee9a0e156f8d1249e8be135ee2a19ae16eae
+acestream://3add98a0e89ae46ed70fff1f345cb73ea61f8df3
 #EXTINF:-1,Черновицкий Проминь HD 
 acestream://1b46de9b09da25f3bc988b37dd826f44ec06cf73
 #EXTINF:-1,Черноморская телекомпания 
@@ -2470,6 +2441,7 @@ acestream://8e13f18c5a2be0a4a746af74df8a62fdc7c2474e
 acestream://3d92ca134b1678ad60d025130f1eb8d97098b739
 #EXTINF:-1,Ямал Регион 
 acestream://e14e8cb1abebd300de4b40a8221def521b8c58fb
+
 
 
 
@@ -2514,41 +2486,42 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1,EWTN - Katholisches Fernsehen 
-acestream://c5fed092022d9bbeb93d41215a8e5141cc760a6f
+acestream://2efd42633e59fbdfdb6b1a335e7a812a57ea33f4
 #EXTINF:-1,EWTN UK and Ireland 
-acestream://8fec14aae01f82c6c0134973120c68b62f024575
+acestream://f73f1cb835aa580e81fbd3008c9770f61281ef52
 #EXTINF:-1,God TV UK 
-acestream://a84ccdb0da4dc6589c8128279364dab298121a46
+acestream://c0837f9dbee0a013bc9922ae1ff69911e5506861
 #EXTINF:-1,Islam Channel 
-acestream://6842fcde9e5bdea0ea42e8bfa66081717b63633b
+acestream://e64dab19e1da8f21f3058e81c9b53461800fef8f
 #EXTINF:-1,Olive TV 
-acestream://1b5efb432826ee0010eb3d6ae377650c82cb133b
+acestream://0e8609bf42adedf9968b8a13af0285a74572d06c
 #EXTINF:-1,Peace TV 
-acestream://b672883a9f1acbeacea9fc21902897712f7ef73b
+acestream://0c7ad6e9f01bbfe1781b485300fe49edf6390455
 #EXTINF:-1,Revelation TV 
-acestream://fa8f5ac87a7c4246445993d33f5c69ec21359302
+acestream://cf39c92821d3df0f9981afc2004774d2b22d80a9
 #EXTINF:-1,TBN Europe 
-acestream://08f433699e645a3832c445b3c531d6b90255994d
+acestream://3146e776fae687c8c77a326c50b7c2a02b997b31
 #EXTINF:-1,TelePace HD 
-acestream://34b93140f3813b600f5e25a3ab1f9423e6d7742d
+acestream://84dca9cc4d040c15e1f910bb2a36c0bdd3301494
 #EXTINF:-1,The Word Network 
-acestream://b665ae516fad4811d70f16e18330a3e44a49e04c
+acestream://0fbf5c859dd143fee4ca9431c1f5796529c95d0c
 #EXTINF:-1,Возрождение ТВ 
-acestream://1c1b83029565aeb322af262b23df896b33b5da33
+acestream://b6bfc267266ee3c7d1c8370b1ad9c8d9487db70f
 #EXTINF:-1,Глас 
 acestream://19156bccc18a70ad5a3587f0fbcfec4c101cbebd
 #EXTINF:-1,Надiя 
-acestream://1622e6f59401ba1e3c231547c9935303e6e2795d
+acestream://c3cb3de046766962b64cd6a795e7e5fef063a5ea
 #EXTINF:-1,Новый Христианский 
-acestream://d13ff911df89e9d46d601ecc775292270cff4f98
+acestream://01192aed39d77414648351e69340bd9b3d7ecf40
 #EXTINF:-1,Союз 
-acestream://14582c35eec300f0a580c630f686ca6858f8c531
+acestream://8c756c70515c4e5a6a0e1faa43d11cf342c272b4
 #EXTINF:-1,Спас ТВ 
-acestream://bbd9bedf4db55cca65e4d3c4f91d411671a8924c
+acestream://5f26e04db105aa24d4fca3a54c4fa2e368ea1498
 #EXTINF:-1,ТБН 
 acestream://8c345306db6ada90645b500eaf566e86881274ca
 #EXTINF:-1,Три Ангела 
-acestream://51ee9c9526919bcc20f87fef74bd2af460c1558c
+acestream://7ee7d14f9667659dcafe087012cc14a6262ad8bb
+
 
 
 
@@ -2740,29 +2713,29 @@ acestream://0f786a71770a9971a848ed2f6067c5a1b503bf7c
 #EXTINF:-1,Bein Sport La Liga HD 
 acestream://d47620552aae0b25189c023c95c46e7268050875
 #EXTINF:-1,CBC Sport HD 
-acestream://4dbc7b997f90f538a44f77218f9ccd754dca2d4f
+acestream://3fe911be91866380c358f8253bfce11caacfbb70
 #EXTINF:-1,Chelsea TV 
 acestream://2523b77a8d2fc0e55945dfb7d5e92fb9f1f5b1de
 #EXTINF:-1,Eurosport 1 
-acestream://bb51143cfbdf3c60f67225a9fd42e0ac52759a58
+acestream://10763667e52ac33466b51ec268a810453a6ed824
 #EXTINF:-1,Eurosport 1 Deutschland 
-acestream://15d04e2b342e13ad215c91256c71af5002840f50
+acestream://789b5e4ae340ff600f64920d3390b4629f18c956
 #EXTINF:-1,Eurosport 1 HD 
-acestream://2a4e28abadccc74c35f19e56cadc336e3474c9c9
+acestream://77ccf447ae04aeacff9f7b3353d025d159fbad64
 #EXTINF:-1,Eurosport 2 
 acestream://87e38985ce9f8a52c0d47d25ee2e28bf20ab7806
 #EXTINF:-1,Eurosport 2 HD 
-acestream://bf7f6a988dc2b30cdd5ffd01af132d18bf6a9fb6
+acestream://5027214530580f602c1d654816ea79c180355763
 #EXTINF:-1,Extreme Sports 
-acestream://baad69db952a36adb66fbdfb886b2d3d320c743b
+acestream://eff4d3fe330f4838aeb364644e0b796f070b8375
 #EXTINF:-1,Extreme Sports (резерв) 
 acestream://e659b7bac73ddacc081453539063025754e32258
 #EXTINF:-1,FightBox 
-acestream://57501bdf9922c81ddcb6dd6a2a6be2353a21e9c3
+acestream://c0f1076b2bf763b33fbd4a4737b84dd310293de0
 #EXTINF:-1,FightBox HD 
-acestream://a4303f9d77a9ef9d3b1c923f3c3e6dc7d7a9230c
+acestream://cc5eebce0fdf987de68f73b17ee9f823c39b6798
 #EXTINF:-1,Idman TV 
-acestream://8ba3b5fc6a775de6c8bbc8b9ca2caf0bf19718ac
+acestream://d7b2e7545a92575b27bfa8560b5fa4ffd943f0ba
 #EXTINF:-1,KazSport 
 acestream://adb64f3916e45c82b335f238488d2c3aab2ded8a
 #EXTINF:-1,Nautical Channеl HD 
@@ -2772,7 +2745,7 @@ acestream://c45a18b9b727dcbb4a26343de4037d1c97dcf234
 #EXTINF:-1,PAC-12 Network HD 
 acestream://f848feb500dafc6effa9ce8264876ff311bb1abf
 #EXTINF:-1,Polsat Sport Extra 
-acestream://9ace153abbcf5b18f95d23f174daa0f8114b475f
+acestream://31f3c06c1af717eba04a90817ca68936aa97d2ec
 #EXTINF:-1,Real Madrid TV 
 acestream://64c361fac675cd709ed08bf232d2d4481235a8b2
 #EXTINF:-1,Setanta Sports Eurasia HD 
@@ -2780,23 +2753,25 @@ acestream://6df4b9fa5c5a67816bed437433b82edbcc4fb8b3
 #EXTINF:-1,Sky Sport 2 HD 
 acestream://307d3a7fc7209d079062d6f92ff0e78c24554739
 #EXTINF:-1,Sky Sport News HD Deutschland 
-acestream://e7329079a0bf46446d05676b90951c512051c684
+acestream://948c20efaa8e2034d544125cf69c8a9f26f1e8e2
 #EXTINF:-1,Super Tennis HD 
-acestream://aac62737302bbf4b99f58e32ab9477c397e66b6c
+acestream://ccea3279e85cbc7e628522c4772f5ac2db6550cb
 #EXTINF:-1,TELESPORT 
 acestream://4aa2e994bdf57ed81add49cd0bfed3fb061a4e64
+#EXTINF:-1,TELESPORT 4 
+acestream://b6e59effc55461eaca32bfcb612966a97ba098f1
 #EXTINF:-1,TeleSport (Пхёнчхан 2018) HD 
 acestream://f87f7e791f11ed6217105bc4b81e2bd7eb7e9b9c
 #EXTINF:-1,Viasat Fotboll 
-acestream://ebabcd9a6ce372e0ca08ece43a9ccf48c72530f3
+acestream://c823178daa344722d025ff253f792559ab84ab04
 #EXTINF:-1,Viasat Golf 
 acestream://28924747862f3994c20ec41a2fa447184b360caa
 #EXTINF:-1,Viasat Sport 
-acestream://6ae9159d7fe6c28b75003156e05c5f91d4e347dc
+acestream://c88d7d5a8d86fc28718f007b73fc36697d7726eb
 #EXTINF:-1,Viasat Sport Baltic 
-acestream://4c4924b08e1e0ac2af129197ee1a6da2d10e2a95
+acestream://8326072468a776c2bc7b8aac92504e734eba00a4
 #EXTINF:-1,Viasat Sport HD 
-acestream://ee22d9b05f96120f63966f681759c69c686a0854
+acestream://c33f9581ab881ade3a8b5325c30b6ed47fa068b7
 #EXTINF:-1,WWE Network HD 
 acestream://cd29479ac4b8ee528a7f1082020ce9ee3a09fbe4
 #EXTINF:-1,XSport 
@@ -2804,53 +2779,53 @@ acestream://ca5a7ad9209b591b32f0fa408ed5b191bc04338c
 #EXTINF:-1,XSport HD 
 acestream://70d3374f81369d0f0adffbd8e8b2af9bbdbec0d6
 #EXTINF:-1,КХЛ HD 
-acestream://a48d753afd019a289ab5a0d5f8f3cb4d100186ef
+acestream://6d20c3b7b844ae2ab2f77c86f1953f8f0d361a85
 #EXTINF:-1,КХЛ ТВ 
 acestream://e69b9e29219759087724be7b1dec20c16d79b9ad
 #EXTINF:-1,Конный мир 
 acestream://ce52396f804d37d0619b45a5e11a17be631389e7
 #EXTINF:-1,Конный мир HD 
-acestream://50e17c32e5c20b259363bc1c5aa369f6eb2cffab
+acestream://41a0e2975f6d5c1ef51159858f4d2d446c47ae3d
 #EXTINF:-1,Матч ТВ 
-acestream://eda1193770754a81241c2e6174a32185d5ca835a
+acestream://a55faa383a4537acdd2ac397983c1c608fde1469
 #EXTINF:-1,Матч ТВ HD 
-acestream://d757154b3f3f65159ed1a1f6a47738fd8c979886
+acestream://decf0f99c5bfd14ac5acb8dd64dbf5a789d036e6
 #EXTINF:-1,Матч! Арена 
 acestream://ee6e92e3363909b4e8498d92e973bd793015a54f
 #EXTINF:-1,Матч! Арена HD 
-acestream://93440dba8cb83014734dc134970850fb352f3bb3
+acestream://2ebe775c43bd016eced94d09bbfbb34ab0cf6795
 #EXTINF:-1,Матч! Игра 
 acestream://b4b7713837b9f2413861d81968d1daffa147db1a
 #EXTINF:-1,Матч! Игра HD 
-acestream://d4af58d416a62a99fb960994db4a497a50923f46
+acestream://d818f3c08e3353700f03a509eb3b124fea4dad3a
 #EXTINF:-1,Матч! Наш Спорт 
-acestream://a2fb9757bf420ff95731f01c4e2b8f842352e754
+acestream://5ed64fa25e76771f383e6c2f6488a2832d72cb7d
 #EXTINF:-1,Матч! Планета 
-acestream://7d6dfeb7a5559a669add360171f24a9c33bc74b7
+acestream://c7c1d80987087334bba91120f4379e5a56ced8fd
 #EXTINF:-1,Матч! Футбол 1 
-acestream://06444eb3b1a74395258553f434e802bdcc9e863a
+acestream://1e0f01fd7fe783eecde553400c0d4142cdd4ddfe
 #EXTINF:-1,Матч! Футбол 1 HD 
-acestream://8827457e07f1c6c9965551c3c3128f9fc85f72df
+acestream://aa322f73dbfe0873249276862a67ba8db9047fae
 #EXTINF:-1,Матч! Футбол 1 HD Резерв 1 
-acestream://2de6446bae17a3c9a87a7b70ad4a56bcc2acd8f1
+acestream://d6724243eaae44753e464517f231f5fba98cd52c
 #EXTINF:-1,Матч! Футбол 1 HD Резерв 2 
 acestream://7b23628237d372cc8e16d11e6fe95243185c124e
 #EXTINF:-1,Матч! Футбол 1 HD Резерв 3 
-acestream://21edcb8828a3da837d2d62d3cc4757dedc9da996
+acestream://41044190a112f92bfdb35d4e5d4ceb347641432b
 #EXTINF:-1,Матч! Футбол 1 Резерв 1 
-acestream://ab792cbe4913cfc9af80639888ef3cd770ad7efe
+acestream://9f684cbc9c65d3d8014f8ce1e5a53f1949681f34
 #EXTINF:-1,Матч! Футбол 1 Резерв 2 
 acestream://282ee6d47fa8b5421e0728a24bc24dd3afee5797
 #EXTINF:-1,Матч! Футбол 1 Резерв 3 
-acestream://390534d42c83c268191ecf73476c09d94b4d4a99
+acestream://e97a4309e57d9f09c683fd0c7566b52604d00b5f
 #EXTINF:-1,Матч! Футбол 2 
-acestream://461bad01e0da0bdf007ac71cc54c8b453e3aa8a5
+acestream://5bb0e2c9d4f49b82510b16d667143a581c4e5016
 #EXTINF:-1,Матч! Футбол 2 HD 
-acestream://f4c2dcb3f1746d5e2f399239da08898f858ef522
+acestream://9f6bb37ae03e6005e1b6352e59fa00b7b9c75965
 #EXTINF:-1,Матч! Футбол 3 
-acestream://df4f278244cf9f570eab9dc6078aa78449dbe795
+acestream://fd1e6eb574c828512dfccd35e98f8f5e706aa1f8
 #EXTINF:-1,Матч! Футбол 3 HD 
-acestream://f1ab35241e90a3c084376d91c014d1bfa8dcfb59
+acestream://6dbabc037047f628cdae62e218aa47e81d81c13d
 #EXTINF:-1,Сетанта Спорт Евразия HD 
 acestream://c6b659abbbe165bb829766099bd4a8470db47aeb
 #EXTINF:-1,Сетанта Спорт+ Евразия HD 
@@ -2858,17 +2833,18 @@ acestream://4b831ca26e913137f39568ff8c92a5bb56e9ca8f
 #EXTINF:-1,Спорт 1 (Украина) 
 acestream://7da53fc52e3ea4efd0cc3a492f97a20f30b1d161
 #EXTINF:-1,Старт ТВ HD 
-acestream://f967ab83e883cbd35f17cceb71cc07f501834ee0
+acestream://b97b29f307db60a7dc5585225dca9c472108768f
 #EXTINF:-1,Футбол 
-acestream://f81fce5ec8b8ce30ea20aa5074d179c183edde4d
+acestream://d902eddb44c00ba304c4438665048216229baa6a
 #EXTINF:-1,Футбол 1 (Украина) 
-acestream://86a3de37e52fb58c21bf2d3d3a30402d0eba4ecd
+acestream://77b0ba6b5da053428bc2c1a66f102a1ed4f11abc
 #EXTINF:-1,Футбол 1 HD 
 acestream://739ff92cd35416ec588ce0927a8558513e833b80
 #EXTINF:-1,Футбол 2 (Украина) 
 acestream://3f74d219697e131ea1704910eece94d86508a908
 #EXTINF:-1,Футбол HD 
 acestream://90caf2650a244e4873eb806560809756789edabc
+
 
 
 
@@ -3003,6 +2979,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
+
 #EXTINF:-1,av01 
 acestream://ff147adf1e7fd7ac225ec7fb863d111d3be4f73c
 #EXTINF:-1,av03 
@@ -3010,27 +2987,21 @@ acestream://d52a86863abe9e7f7791fb7e33b9847fe134fb0c
 #EXTINF:-1,av05 
 acestream://fda8d8c69dafabc2705269a1622fbb08e69e7778
 #EXTINF:-1,av07 
-acestream://3a2f4c2fce6123f4ba7655594f3ae9a2d9b01d44
+acestream://eb2f1bd16d9b11ed35c3ef99bee57736ed8efb89
 #EXTINF:-1,av08 
 acestream://3cfe9b2efa61cb7e927bc2e81a91946379435432
 #EXTINF:-1,av10 
-acestream://01fcd6ad7105ceb1a3a6085497jc276f607617bf
-#EXTINF:-1,av11 
-acestream://01fcd6ad7105ceb1a3a60854974h276f607617bf
+acestream://7686d192b470efec80d82e9058fbf16add8cb843
 #EXTINF:-1,av12 
 acestream://b32d0c731081e0f6a36f4078851f3ad8cfdfefba
 #EXTINF:-1,av13 
 acestream://0edf47d20a684e362ec7b299f92389d6dd0b4292
 #EXTINF:-1,av15 
-acestream://99aab20645974860a106338288d1jf642fc64212
-#EXTINF:-1,av16 
-acestream://99aab20645974860a106f38288d1bf642fc64212
+acestream://1d9e63eb5a70e05f90e20d7bc7814f7ed85429d4
 #EXTINF:-1,av17 
 acestream://548d750b31e5fdcad4346b33e748ab3e9cd47394
 #EXTINF:-1,av19 
-acestream://bb8e9c9db64bc195d6ee1858fefff057k76932e1
-#EXTINF:-1,av20 
-acestream://bb8e9c9db64bc195d6ee1858fefjf057b76932e1
+acestream://69ea9203bde55beb51d33503b0f5d32804241fc4
 #EXTINF:-1,av21 
 acestream://580c18f302169373d04688395020669571d0fc33
 #EXTINF:-1,av23 
@@ -3042,13 +3013,50 @@ acestream://91407447a28e98a91c9118fcdfe4d777a1af8788
 #EXTINF:-1,av29 
 acestream://bc7ed8c4f42d48b886g0a30a9af6146d1fe0655b1
 #EXTINF:-1,av30 
-acestream://db594130c50ee4068f296cf45daa4e659677170d
+acestream://2a9b7b47981480efb45b2a67c98a5be507ea82fe
 #EXTINF:-1,av31 
-acestream://ff1953abf292ddf829a033b5ad0c9f10e575029e
+acestream://725250632b02697e4cd1fa70321b6e5216fc2773
 #EXTINF:-1,av32 
 acestream://0a60de6394287833df78873c86a3dfb3659e453b
 #EXTINF:-1,av34 
 acestream://558e085353fbfb75f7e9769b2a04c342a4a481db
+#EXTINF:-1,av07 
+acestream://95a52d8f15757f20489bea494c8a410eac6aa407
+#EXTINF:-1,av01 
+acestream://530d5240b5574b6e6b1cc99b30f5c34ae7567d8f
+#EXTINF:-1,av03 
+acestream://258aa9f6b806bc4f4bb39cb2513bb278e0016900
+#EXTINF:-1,av05 
+acestream://00c437c981ee89896f5efb2773c310b6cc79bf65
+#EXTINF:-1,av08 
+acestream://ff9d70eb51095658276ad46d1ee8bcdfdacbb087
+#EXTINF:-1,av10 
+acestream://d82dbb01a7c97fb0c82936eac7009272b1d6a303
+#EXTINF:-1,av13 
+acestream://ec7c470259ec9376bdffa55f8b9892c79bf5b695
+#EXTINF:-1,av15 
+acestream://ec24d81446c59282bf15d3aea134c79b7090e9ef
+#EXTINF:-1,av17 
+acestream://a79c88a04dd19030f2fbfd99e5b2c60e5d0d5eaa
+#EXTINF:-1,av19 
+acestream://f8f4cc64e3217efdd2f92ee79bc2734f0464c662
+#EXTINF:-1,av21 
+acestream://07fd3e15e76eb201194b9714a12c8435f8f66eb4
+#EXTINF:-1,av23 
+acestream://eadb4ec816897a2e8cd340b9cfeecc3ec00dfc68
+#EXTINF:-1,av25 
+acestream://e6c33d91057cbe389e1af804bfb5b7c43a5bbead
+#EXTINF:-1,av27 
+acestream://50d8fe1a605c006997d17f0c17d1bc15f5ff2a4c
+#EXTINF:-1,av29 
+acestream://f261c65246afa3e6e5fcb386ee8b72c8ab624126
+#EXTINF:-1,av30 
+acestream://7126357e34f309e14196d872778a37f9fd238704
+#EXTINF:-1,av31 
+acestream://76965002e7384a9bb5bc89c5c11910249648ecee
+
+
+
 
 
 
@@ -3231,153 +3239,149 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1,AMC 
-acestream://a2b64b2e9b4abcffe23e0bfda3418ee170e2d415
+acestream://a924595fdf7db9db772100105d02e4839f00bc29
 #EXTINF:-1,Amedia 1 
-acestream://d905e444a78f9d719667237a60d42fea14dbe1c2
+acestream://e74bc8a36c7682e3121b790e64ae44da51d25f41
 #EXTINF:-1,Amedia 2 
-acestream://3278911435bf699169561ef4e41fb098cf2639c2
+acestream://0c29a467d163ff520c7bbc4902349d9f54a13962
 #EXTINF:-1,Amedia Hit 
 acestream://6f47693e3c7bef3c0db036566ef31adca9759b0e
 #EXTINF:-1,Amedia Hit HD 
-acestream://c81f8ddd3cecaf4889301c11511757165c156b2c
+acestream://28ace622ea20b68bb7e8fb205112bc113342ac67
 #EXTINF:-1,Amedia Premium 
 acestream://3275ea11d736ecaaf75dd121225dc220c48a1626
 #EXTINF:-1,Amedia Premium HD 
-acestream://251faaadebda740166ecc20d1e3174cace728f94
+acestream://2afec39ccbc9a82740462b156c7fbbff225c14e3
 #EXTINF:-1,BEST Films HD 
 acestream://570109d107058337457d33fb501b3551ac1acb4a
-#EXTINF:-1,BOLT HD 
-acestream://cae0ec34c2208867caa437e69af5d45851fad42d
 #EXTINF:-1,Bollywood HD 
-acestream://b6983395e5d0b9c13b3d386bb5e13efb9ab9d155
+acestream://adf393521a6660e676b51a976daf1dceb3799cd0
 #EXTINF:-1,Cinema 
-acestream://dcedea1b2ad6adb53cb4b437251534cb792ebf3a
+acestream://18b478b3955ad3af959e8cd00a9e3a7707903dd0
 #EXTINF:-1,Enter Film 
-acestream://cfedc705ec68bef9d05520171b8834cc9d68392c
+acestream://8121ee1e08343c9e4f3c040678b1eccd16e6de58
 #EXTINF:-1,FILMUADRAMA 
-acestream://ec9d31f303e44c6e9c9f8a816503cd43d151c958
+acestream://99dddd7bfcd8dbdf949e52460a2e21bb5f74669f
 #EXTINF:-1,FilmBox Action 
-acestream://712c0593f1aeef82d4e34ca57c2af5cfde5699f9
+acestream://29deb2426dca30dab7cf0b7eb44b1c1b1fa936d7
 #EXTINF:-1,FilmBox Arthouse 
-acestream://5c47dc53e3509cde4d21af37eace77653458b967
+acestream://8e201b4e3c8bda245605c1ea60fa2cc9daef8e54
 #EXTINF:-1,FilmBox Arthouse Rus 
-acestream://139ad44ad55c7b172162dc6f8f20c1a76dcf1292
+acestream://5a36b23c52531133798e2b1a9315ff445fa381ec
 #EXTINF:-1,FilmBox Family 
-acestream://ea9875f4a661505d79093335adfaf97898cb116f
+acestream://5daaf641da218ca58cd41ec35412a2a012e37fef
 #EXTINF:-1,FilmUADrama HD 
 acestream://991502cece022a253dd5f0fe4bb13e0cedf1f1e2
-#EXTINF:-1,FilmZone+ HD (LT) 
-acestream://2d7ec69fa5c7ffd1afbc94871c9beb2c50c64ede
 #EXTINF:-1,Filmbox Premium Polska 
-acestream://a91e5b78960a3dd15378c86ab0bf3116d15f9074
+acestream://619541eddfe270619c35d242be6c166a8d30b262
 #EXTINF:-1,Fox 
-acestream://aea4f0d6cccbb2f687af9181b143c01884b2f31c
+acestream://d605461ce734712becf83ea540cd930c71048169
 #EXTINF:-1,Fox HD 
-acestream://3b03608f5455eb38ed9f19e08960f867723121c7
+acestream://4c3c1ffb68a69d2ace0fbee6e4e0b256f67ae2f0
 #EXTINF:-1,Fox Life 
-acestream://063dad2e81e5a7e8cda1c24034a2f5a2e3dd7f6c
+acestream://21a08bf73a5f1be934e35df1e1a681ece4b889f2
 #EXTINF:-1,Fox Life HD 
-acestream://c58a1aef92d24ad51842c9f42c1c21d9b5ab9cdd
+acestream://8a9d106e045087c51164b68172061e893c250a09
 #EXTINF:-1,KinoTV Polska 
-acestream://397c030af162d362b9529fa4d5f4b79d1df91fdc
+acestream://a7205e4b97df5fc9492a07f240087c762df31c33
 #EXTINF:-1,MGM HD 
-acestream://8a9fd75a0284f3a5897f0684dac0a2216e681d80
+acestream://35fbd2fb3fe5fb908aeb654f19f9393819524276
 #EXTINF:-1,MNOGO-TV (Fantasy) 
 acestream://b6f2277cb920b64ad12002562bb737933ab2c7b3
 #EXTINF:-1,MNOGO-TV (Мистический) 
 acestream://852083697cabb028fdb93ea372b37161b92c39b5
 #EXTINF:-1,Movies4Men 
-acestream://9a2e3942e2f4e76ed3bcbd105a86e41448844324
+acestream://cb628c2325dc9b4af2141d9455aa08a6c7b35da1
 #EXTINF:-1,Ovideo.Ru HD 
 acestream://6566640a13906b2a0e2f3ab450f16043d46f1ca4
 #EXTINF:-1,Paramount Channel 
 acestream://dff2222e44c23f154b760552fb2f251a4735971c
 #EXTINF:-1,Polsat Film 
-acestream://0f68a0a9a09b634b601af3dba233cb95d92d2f40
+acestream://82407f4780751d708a6075e6a5f603c284636eff
 #EXTINF:-1,SET 
-acestream://155e00ee320015915d1f75d18c341eb96064eafd
+acestream://f9344703382846159523cb60d97adf1d72d9992d
 #EXTINF:-1,SET HD 
-acestream://47239a2c1af6ae6fbde9a7307702cd675b4826d7
+acestream://c9c65cf1f9e15e21d21e8ee99f7c892baacd4501
 #EXTINF:-1,Sony Channel Turkey 
 acestream://5e0de95aabc91c56b03c7159d23765e9e110f624
 #EXTINF:-1,Sony Sci-Fi 
-acestream://244cbe483974a4023641a2fef86ce4c4b5f25b4b
+acestream://a1f33a4aa2b7b5315509e07e2af65ea3bf6546ad
 #EXTINF:-1,Sony Turbo 
-acestream://d90925b8dbb399ddeb54669874526a34b5d38e39
+acestream://ccb6b8bffca532bbee5786b2e55884d1366201e2
 #EXTINF:-1,Spike 
-acestream://8b40338539fa8fc711fc92ea090cc6bb88bacc4a
+acestream://c4fa121da23163736d537a3b66fd94161112ce4b
 #EXTINF:-1,Star Cinema HD (UA) 
 acestream://7d859d436d5978bfeb3d77f94adf3232a6c65fac
 #EXTINF:-1,Stopklatka TV 
-acestream://d1accc9a8927f385ac3cce5ab447d890b632f44b
+acestream://19c49de41f680dd76494f96efc99ca89d2469f19
 #EXTINF:-1,TV 1000 
 acestream://36f5eabbd57632940f3309dbdfd753629cdecb61
 #EXTINF:-1,TV 1000 Action East 
-acestream://55e9a0e3c05132e6c777345b4373045bb5f56851
+acestream://66a5e668f5539c4bf4a0bec0be2e03848d40ce24
 #EXTINF:-1,TV 1000 World Kino 
 acestream://d8075903d06ef1501ca03777794ad74b24833dd3
 #EXTINF:-1,TV 1000 Русское кино 
-acestream://661d169152551ddebc7bbdb7c0e67aba85f60c66
+acestream://9ea0c5911644241605b05c630ff898571197c51d
 #EXTINF:-1,TV XXI (TV21) 
-acestream://0bebaf27f5783608c4a83a691ba07338f1f39cd4
+acestream://178a0f621632bf7052385b8786be605e1234cd95
 #EXTINF:-1,TV1000 Comedy HD 
-acestream://302d9ee8752599bfcc015cb06218daf353d78aa3
+acestream://82e459d4f58594f0722ef86c987ac52f23f16b04
 #EXTINF:-1,TVP Seriale 
-acestream://2da17f95f8f24b8fad1b1e4a41aa16e3fee1a620
+acestream://e7123822986951a3f66392bcee17e34f085336a7
 #EXTINF:-1,ViP Megahit HD 
-acestream://fc1c5ccd384ed07e473f8415fa70ee4180aa35fe
+acestream://d14a62906104dbb9ec24fa49f7912e90c5034463
 #EXTINF:-1,ViP Premiere 
-acestream://38e250a2bedbdd6f2abb6b72f157db9159bf1c1c
+acestream://304f1e4caa548aef2f34af41ba6f0b018321be52
 #EXTINF:-1,Zee TV 
-acestream://5100113e920c90820fc85ed8818eebca9a1e68b8
+acestream://fb145b5eba44cd5e0ed54454a4b754c08d266c17
 #EXTINF:-1,Дом кино 
-acestream://1f5b5cf5710b45e41f5d7c72482167485cdee0b3
+acestream://5fbfad3947b7eceb44d471ee49a963550cca4e6b
 #EXTINF:-1,Дом кино Премиум HD 
-acestream://fc7084189649606d3a89a7d5e9950b743d193967
+acestream://fd0a56a56f58bff7d30ed6cad90557a1036389c5
 #EXTINF:-1,Еврокино 
-acestream://c199d88d1ba90b9481db3c74ef758d30a06e1be2
+acestream://04b9bc56e95aedcc5a6d1cc19cc3d2e6f661a2aa
 #EXTINF:-1,Иллюзион+ 
-acestream://2306315dbf357890631cffb2ce46ffd35281b744
+acestream://acc833789ee7b1f92724db6b0b9ce0327678aadc
 #EXTINF:-1,Индийское кино 
-acestream://80e3e0dd1a2fb71a1382952dab887ff54f045b06
+acestream://dfb344986356144f79c0e0f94dcac94118547a50
 #EXTINF:-1,Кино ТВ 
-acestream://72a71105b7e2ba48c8bed1ab4e7c91e9f0251de4
+acestream://08cfdf4b07a1b223c8b4b331aba6185a698f8c13
 #EXTINF:-1,Кино ТВ HD 
-acestream://5ac25edd702895df2d8ea1e4f85d4e7896be4c05
+acestream://2b3b982dc58188ea9712be26a2fe9568a6ed6993
 #EXTINF:-1,КиноПремиум HD 
-acestream://0b727be50695eb5ff599122ccba2d627322cdf6d
+acestream://3d039fa73e6bb4385c1014e0057a315a26ad381f
 #EXTINF:-1,Кинокомедия 
-acestream://1cfe531382f72dabc6fe092a3900f9ff0229fb17
+acestream://4b8d1a36295b7816a5a7c10f14d4f3cec395af6b
 #EXTINF:-1,Киноменю HD 
 acestream://2f9e369f350030b79ba84f585518e5fbb2c643ea
 #EXTINF:-1,Киномикс 
-acestream://01849ead083c06f6f19f5bda813217cf74c57114
+acestream://fa1f0f108ead9a719ae05f3f398b1aacec791df5
 #EXTINF:-1,Кинопоказ 
-acestream://7d5029216bad4397cafbc80ea72ffb54ad5bf60c
+acestream://3d676dfcab49eaf8c79899cc69493b5a3e7a33f4
 #EXTINF:-1,Кинопоказ 1 HD 
-acestream://bb0bcefd3746a76878228c353f9b9d091849f282
+acestream://9b64e27f9a8c6460e39207e7d9838336728493e4
 #EXTINF:-1,Кинопоказ 2 HD 
-acestream://fcfe21dc9e8dff687b2a98aafe3a1f8af277a18e
+acestream://12e924bfff700593f8b6550c28d9a1a98fff354f
 #EXTINF:-1,Кинопремьера HD 
-acestream://2c42f429ab8baee9dba4f33dace52e4dbc1cdb8f
+acestream://b8b2a1d7cd8ea60e5ebfe858a95f5365b09fcd94
 #EXTINF:-1,Киносвидание 
 acestream://7531a6c5daa5ff9e4f339a89ca769de62f471c28
 #EXTINF:-1,Киносемья 
 acestream://3d611adccc3b8988cf26c2bdde06d28705713baa
 #EXTINF:-1,Киносерия 
-acestream://e7d2f980e1d8b98531b036af4ad5fa123e702515
+acestream://4401f3905a47d03e9a433a94aa6e84d26b72850c
 #EXTINF:-1,Кинохит 
-acestream://01963cdf7d3758266d1e5858d870d6f5fd6afbf5
+acestream://ec77b7e1cf719bacb1f0fd8ea3a6688e9ef617ba
 #EXTINF:-1,Классика кино 
 acestream://f3106a220c0cf6577c172078e09fb23bd798d905
 #EXTINF:-1,Мир сериала 
 acestream://a97e37e1d68699c52985476154f33e8f207456bc
 #EXTINF:-1,Мужское кино 
-acestream://ed9a306849bdcba60201c50590c2d45393e0ddab
+acestream://38863489ba502ada7db4fbdfb8bc118ad700dce0
 #EXTINF:-1,Мужское кино HD ! 
 acestream://a800b912094b01fc9e594753189b5db664f0051d
 #EXTINF:-1,НСТ 
-acestream://9cfe05416fae61437c75f6dc276febef9a7e56d7
+acestream://d585fb9964285832e23122724e4aa966698508ef
 #EXTINF:-1,НТВ Право 
 acestream://8de9f79d7bcbb6266aba9144021e06bb0d8137d8
 #EXTINF:-1,НТВ Сериал 
@@ -3385,45 +3389,47 @@ acestream://0ceb25c972425e62d8c46c65f215ed9b9144f306
 #EXTINF:-1,НТВ Хит 
 acestream://5dd5787b37234628ec8a73767b900742f39964a9
 #EXTINF:-1,Наш Детектив 
-acestream://06e5c71c913159c513c40956810b08fe77b64819
+acestream://2faa2574cea744460b8290174e2ff0131cee638a
 #EXTINF:-1,Наш детектив HD 
-acestream://1d4a6b677c6b5473f932aa85235ed3540650acbe
+acestream://7078545930f5970857053c0fc7ff40b4518b575f
 #EXTINF:-1,Наш кинороман HD 
-acestream://3393c5cd8a1ddb2c5bcefae1d520faa12f34dc43
+acestream://3cc7b8451b683cf3f161e048387bfbe7ab6bab4d
 #EXTINF:-1,Наше Любимое HD 
-acestream://2c85a99d9f48ded75c80b1f084af8e72cf961c3b
+acestream://9614a2d656cf42f43384bfa186f423d1dde4b994
 #EXTINF:-1,Наше любимое кино 
-acestream://1de24111f71dbfc5a10db2c5db4452f99e2800b9
+acestream://fc3340d0a50d538a750b54eacc47e3304fbecb1b
 #EXTINF:-1,Наше новое кино 
-acestream://21181f452ca4acb673a1bf5f5899d4d1895924bc
+acestream://a304b76d3a8bc615da5f591fe8940a42f05a6a06
 #EXTINF:-1,Остросюжетное HD 
-acestream://c02d45c6dc46e85839b8c4b2c9f7978faca346a4
+acestream://55a7bdd680a88a0efc7dfb817c0944e962d63cf0
 #EXTINF:-1,Родное кино 
-acestream://cad01c8deaf660ad7d008c365043b88a777f9ba6
+acestream://c56a448019208c342942124b911b4a5cbbcd18d3
 #EXTINF:-1,Русский бестселлер 
-acestream://a786b7ca3e2b3b83f0433157e1d167bb63d5b454
+acestream://6142686cbf03d95c3f1a00a2c4bf22d5ab71df3e
 #EXTINF:-1,Русский детектив 
-acestream://7d6f6ff0d18ec979d885d929cb2657a6f4c10e88
+acestream://3639c63440d3c00300766edf5e7483a7d7e99894
 #EXTINF:-1,Русский иллюзион 
-acestream://669ed388648badc845fc9c3daeb1a06484f3f9d6
+acestream://b7a8ecabede9030572c8b7433da98aeb8b3a22a9
 #EXTINF:-1,Русский роман 
-acestream://d30d0f9c6f6931a65f753b8649060a738deb7efd
+acestream://d6b3a8b447016bda6ded72b0f8fd51d467ef2202
 #EXTINF:-1,Русский роман HD 
-acestream://b85cb19660376a45764264978900deb993a5d787
+acestream://005d48e9699e604bd57534fb627ee7996f85e7aa
+#EXTINF:-1,СТРАХ HD 
+acestream://3a94eca9288a8c455bf32d856e2dd30adf74aebc
 #EXTINF:-1,ТВ 3 
-acestream://0fe0dafe9776814ef1f24e5ad32b9d09e7254bc7
+acestream://2e988943d62a2980f449925f8c6c88d195820cbe
 #EXTINF:-1,ТВ 3 (+2) 
 acestream://b0a3463497ede85a1702a612c78441e37864bb68
 #EXTINF:-1,ТВ 3 (+3) 
-acestream://eb25024586d2a60a3424f6ef1b1ca0a7f51b5574
+acestream://3bc74aa560e676c502ad2a3087ff7b614a034d4f
 #EXTINF:-1,ТВ 3 HD 
 acestream://c961c52439322abeec0d9f2395b2f954f13f6e44
 #EXTINF:-1,Теленовелла 
 acestream://8a5303fe5b79451dd58ae1a77c9003a5ce79ab78
 #EXTINF:-1,Феникс+ Кино 
-acestream://a0eace9b48de7b50b9c6d119cbc5e30147d16d33
+acestream://1cbc756c86a3ad865a1b4c734e860d87d0a50594
 #EXTINF:-1,Хорошее кино 
-acestream://eecd97580d47a265542e76d1bfc0d118aae3c209
+acestream://911b0d192ab90190d722da9511aec723366a18da
 
 
 
@@ -3474,183 +3480,184 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 
+
 #EXTINF:0,24 ДОК 
-acestream://11fc9469a4dcbf8a38613b50da9fc295881a38df
+acestream://da9d1993717f7bdbdfa0f81af53c5421394daf0a
 #EXTINF:0,2x2 
-acestream://9cb6e787d8d5b828f262189ee3bc6d904fca3991
+acestream://5c52fb85362a29e94731d7abc65f10e4e63e26ec
 #EXTINF:0,5 канал 
-acestream://93b96d35a9650fab4126b43a38bf231c40d410d5
+acestream://b0012f311a270e61a8271f5a8088ce3fc29efb94
 #EXTINF:0,A1 
-acestream://53c02429ea9d359df06c867be7ceb6d6562183d4
+acestream://9e5bbc776010fc77dc8224ee91ffd5c291210b4b
 #EXTINF:0,A2 
-acestream://c4bd95efa80275d968a96b03b66eac1860b69a8e
+acestream://a557f7af8218df8c682efef9fb9113dc323f2ea1
 #EXTINF:0,Ani 
-acestream://fe2ad17b7327d3b57e35c13cc9a3979b081a4a66
+acestream://5d424da33ab6077b2e1512826f0f70018e2f7899
 #EXTINF:0,Animal Planet 
-acestream://d030986d9355889ae3da8bcfb7e3351478dae03c
+acestream://67539d82d449fa3a03ae9d3afa7d775cd87f263b
 #EXTINF:0,Da Vinci 
-acestream://5cba51082efd565df474adeb67bb4b9bb8a1ace9
+acestream://bcfbcf73e993c8b641247ea82dc10733e8472dd5
 #EXTINF:0,Discovery Channel 
-acestream://773d4caac27bcb11a5532e37dc369ed4bd7bb779
+acestream://946847c4393f22edf9149e17507a21da3764c056
 #EXTINF:0,Discovery Science 
-acestream://a1c64e6880a2238c560ae76920136a75073813d8
+acestream://e95b3db73973547d8693d312dab02630656f61f0
 #EXTINF:0,Eurosport 1 
-acestream://fad946cb25eb7fa4a46038987dce8e928e5f4b0a
+acestream://eb9368f2b3cbd883731dd1b297ed0221b2735974
 #EXTINF:0,Lifenews 
 acestream://61f790d0eae5d41ce065537af8239a138ffb80bd
 #EXTINF:0,National Geographic 
-acestream://cfcc5b58bc7bd13372d8989ff2920f36abe4d1ab
+acestream://53df3ff3fcfa1432e2c0826c545252662e86d128
 #EXTINF:0,Nickelodeon 
-acestream://84044c2220640372616055aa29b46d8ff52b5dd9
+acestream://651e24113c9c329ad1f12912debf3180ab5112aa
 #EXTINF:0,Paramount Comedy 
-acestream://dfd997c9e40124cb6d098d12994f345f6244d07a
+acestream://f853cab1145270fb86bf16d110e3ef0d802d45cd
 #EXTINF:0,Russia Today 
-acestream://35da2c3f059cfc1cd710190ca480d6a5026c29aa
+acestream://14acddba06a6e9e281341c383fef05db639ae67c
 #EXTINF:0,Russian Travel Guide 
-acestream://720f77df76084b2def3f7dc2b2b149683484342b
+acestream://47fbcb2ec9a27fa4fbfb29d8a074ec31b78afa0f
 #EXTINF:0,TiJi 
-acestream://02a0087aec91b55933eea6132d2dc886832f40c7
+acestream://3aa2720d6c5da64dbde752c64ba870fdff046fdc
 #EXTINF:0,TLC 
-acestream://948ffb0ecd83e684fcf5b63609c0890deff58840
+acestream://81d4da1c2786f9ec8709bfa9ea064ad8692e1859
 #EXTINF:0,Travel+Adventure 
-acestream://da41450f25ad1b420afd03151cab383dc66cd110
+acestream://98d4da380aeb5be29dc2225ec7a39c1d8834a6a4
 #EXTINF:0,TV XXI 
-acestream://95780294f413c46142ff895366c2625c67573887
+acestream://3e6d5265a023421fbe6ea644e93907c7bc8b08cb
 #EXTINF:0,TV1000 Русское кино 
-acestream://3d7f2c80f29e8725338492d2366c12be4607c523
+acestream://5c9a0c9d17495a95bbdbf45875ff27246fc86ebe
 #EXTINF:0,Viasat Explore 
-acestream://62ca6bb8a39801a88d07043e0315e2ee07d785bb
+acestream://b502a8e99deea8de17be672839f5fa48a97ec073
 #EXTINF:0,Авто Плюс 
-acestream://99c496786871ad65e06730949a684558fac98581
+acestream://3473c8ac91852f73fc067ab5370508f4ef43a1ac
 #EXTINF:0,Бобёр 
-acestream://4a55d322e466309856418af25e11a7370c1a147e
+acestream://14d2f456f2702c417c45e7e7996bef6bc9a52cca
 #EXTINF:0,Вопросы и ответы 
-acestream://3c06b6b66dea1622b2ac0e5c718751ddd0b05dbb
+acestream://fa01f721f9f322b5cff582f871bdeb4b47c0210a
 #EXTINF:0,Время 
-acestream://4eab771a3edc92d1828c6b51f9340654521917f6
+acestream://43fefba18b2e1d8fdf966404d32e922cf8275c5c
 #EXTINF:0,Детский мир 
-acestream://93c0f7969913d302a63e74594b7c239216ff5ff3
+acestream://bebbeecb4546313eee2d5125561504a72d08e77b
 #EXTINF:0,Дом кино 
-acestream://4eb4f71beb9980fa633e98e2bd0c3c00f8fbae33
+acestream://d0a62f7fcb982487eb694e36024b4024f9382726
 #EXTINF:0,Домашний 
-acestream://0da415db0667154f39cc85b3e79cb6b962d02aed
+acestream://eebda0fc93cefed745e211fc88ab3adef7f8352f
 #EXTINF:0,Драйв 
-acestream://58ecbffbf13aa92ccf4b8496c8147803e2c18c7a
+acestream://cb1acb181146f0dd55549edb04bf95e3dc14465a
 #EXTINF:0,Еврокино 
-acestream://3036f99b80e9499bf3054dea8cda4cf6b52b69df
+acestream://a17daac03c4ba202fe7d6c4ac0116cf2f54240ed
 #EXTINF:0,Живая планета 
-acestream://6be271020c46534eb238ace8f16ff528ab0265ac
+acestream://5059a737c4fa83a613eaaf1b119673fc3aaec8d3
 #EXTINF:0,Звезда 
-acestream://59c02a65e8a96d9475ebfe96263ed991e2ae24f1
+acestream://ce157aa646e26cbea3d53aa289fecc4d62f9f9b1
 #EXTINF:0,Иллюзион + 
-acestream://5b0021944070cab396f2ec7973d342b50bea1c97
+acestream://76a4eea3e262347c943f5c1de28fed176c05359d
 #EXTINF:0,История 
-acestream://2e6c296899d632e2d13b7d1034e5a568643a88e6
+acestream://ab731684f09904280dd8b8aa743720fd225aeb41
 #EXTINF:0,Калейдоскоп ТВ 
-acestream://6ebd10d520fbd46f33bedb0c54d54df5c804b388
+acestream://3859c6fb926c6f07dbad3cd3b368d74783fc8888
 #EXTINF:0,Канал Disney 
-acestream://04863cb9e72ba70c56f60c1b0a8a7cea1f302994
+acestream://cb3d5b80cbc5a28c51aa9b399c377f6c00b51d41
 #EXTINF:0,Кино ТВ 
-acestream://8a4852478afba417af1886bb5f5b4d6a4ae28889
+acestream://56c3d222368b35ad1b0771a106335fb674b024d0
 #EXTINF:0,Кинокомедия 
-acestream://3b41f0a138cae82224e0661aac3fee9dbb0027fd
+acestream://b6f0d8cb454c2f3cbbfa4b46bf9aed65c2a62a51
 #EXTINF:0,Киномикс 
-acestream://50683fb4daa94fa306c5a7a7fcf559d51fe24bb6
+acestream://72686c2f7fdd10ae183270dd32e4f4a0f8194ab1
 #EXTINF:0,Киносерия 
-acestream://227f526363ca29377a5d4dfb7badd436825825f0
+acestream://465a75178183090808d82b674781725f36577b3b
 #EXTINF:0,КХЛ 
-acestream://51240914f4b31d4472a48e4ece11c30fb25018cc
+acestream://547e38dcb566620a07d6559bd3f0b8418c17ea54
 #EXTINF:0,Матч ТВ 
-acestream://9361ed83ee82823de8ee19b9d0a5dae8bde8dedf
+acestream://dcbebea82ae83c7d110fc3c7ff792c90bee46a3d
 #EXTINF:0,Матч! Арена 
-acestream://11e8c8333f5b1c59ceced9555611767815e1e813
+acestream://5051be45be9861a3f15513e593a0196c779d5263
 #EXTINF:0,Матч! Боец 
-acestream://a5cd81007e21e6d683d3c0cae32928cc005410d4
+acestream://789c56ddad75b924c5ee470bcd2cba39b9df5b80
 #EXTINF:0,Матч! Игра 
-acestream://e0338a2cc76a900f6cccfeaa24f354ca602e8b6d
+acestream://6bb8d15f2c7da8cc0f2d6216f7a5f3f65c96b4cf
 #EXTINF:0,Матч! Наш Спорт 
-acestream://56982daa80437da31d66a3494852bc66df732092
+acestream://9788cca9b43576a3744a16b7f3799458db6dc57e
 #EXTINF:0,МАТЧ! Футбол 1 
-acestream://20e7ca3087b2af42197f6b0109dd8eef58e9a831
+acestream://82e0601ea693d554558937b746e6daeed4d1f5f0
 #EXTINF:0,МАТЧ! Футбол 2 
-acestream://773789544c86e2e81012cf834fb8952be0b2c645
+acestream://56351b8d634c6882667efc330344d494a7ec3b9d
 #EXTINF:0,МАТЧ! Футбол 3 
-acestream://f05710cbd7991feb04301e57d9cbeb53d72f33c0
+acestream://b4cd9237adb5f6aee80b089ce0cdbdef956ebbf3
 #EXTINF:0,Мир Сериала 
-acestream://4bf79e51120a1d4a64b8b9f1ead5b610d5d5ebed
+acestream://f939f9279fa280fd5038094e1a0d1427b0a32f24
 #EXTINF:0,Моя Планета 
-acestream://05fcf084c98670467c9dc93b38742a9957d14597
+acestream://8df6b72aac879f7e74f466ecf1fb6e570db06a74
 #EXTINF:0,Мужское Кино 
-acestream://8e5d3aa979bbb6f7745a3ffdca3e4560db5b6c66
+acestream://5f2b3fd27ed3bd24d7676554649beda304ccba98
 #EXTINF:0,МУЛЬТ 
-acestream://2c98a2a45f82e587ac77863f8724981305ebba2a
+acestream://d6b248f8019c58be288a8046f72c9c3d58cb6597
 #EXTINF:0,Наука 
-acestream://dd018064a9c312fd47239a12fee45ed48294296c
+acestream://da5920646f191cefef55033c2b67a53c8078245e
 #EXTINF:0,Наш футбол 
-acestream://2b26da3936015ebc9b54a74bc405c03640ba47ac
+acestream://6f48acd84311aeb36640535b8d3ff0fa9c63d5ff
 #EXTINF:0,Наше Новое Кино 
-acestream://1dd881a351ed12535f942e02a56d93a86f92388f
+acestream://3c234abbd5e11fc62228d6699270a9cceeac37d2
 #EXTINF:0,Ностальгия 
-acestream://876f7c4d995e35b0424dbff5a9ed4adfbf0ccf01
+acestream://83bf819fc293e3b3c36ffe4e7b4161577d837d32
 #EXTINF:0,НСТ 
-acestream://9d82e1a914b35617a2df95baf317265b0f528851
+acestream://161c71d6480ff6a750d1a3c505d7cd1f213091f6
 #EXTINF:0,НТВ 
-acestream://80b3fe35ce205e0f6a0dcfe6eb89c9aec762e8f3
+acestream://61598997a6e64ca1c7c69376e8d1c73abdfc9ad9
 #EXTINF:0,Охота и рыбалка 
-acestream://89d3b8d8232da1b71b52623cd06702b7a0aba51c
+acestream://fd685cbd0283c3c6b5a6abc62be2b0eaaba7573f
 #EXTINF:0,Парк развлечений 
-acestream://60c9682d131cfd70d40db52c638bcd3a2038894a
+acestream://3d4a76d7dbf11634f80de80bab3e0353aee9cc84
 #EXTINF:0,Первый 
-acestream://8cfa11286e7ba250fe4ad3a2e03ae01dbbe1e177
+acestream://85860b7fdcde0ca204bf7acaa5df8b4d6135542c
 #EXTINF:0,Планета HD 
-acestream://14b9a54b62c885f2c56a3b8d82505d338bee716c
+acestream://7103bc3f86c8bc370e07efc4cfc9ab7bc1f2ea17
 #EXTINF:0,Психология 21 
-acestream://8739c94885c18ac31e00ade50ab440a2b2133728
+acestream://1edfe00fdf8bc890442d4ab1396c623aa5c31d3c
 #EXTINF:0,Пятница 
-acestream://c899c5cd53839b12ab8109b53af9b20db12b26fe
+acestream://557f23661b1c4e6abafa70df6f18c69f6e3e02e0
 #EXTINF:0,РЕН ТВ 
-acestream://8368a3a85352d790cf5a701f0b29743566de168f
+acestream://718214b56e54bd7c451516625f358e61ca6f95aa
 #EXTINF:0,Ретро ТВ 
-acestream://62fe7e6b8ee23944405af14ed8b28a5fa979ffd9
+acestream://533f3d18ce9d2c6f4667cf456825a455f897a970
 #EXTINF:0,Родное кино 
-acestream://e6b920dff2ad1e71820745838ab6aac43d65e293
+acestream://1c45eeae0af5a26f358592f42eab3c7e46126fde
 #EXTINF:0,Россия 1 
-acestream://489b6f3955cf094d334c679328888c03ad86e3ca
+acestream://b86214454c11f18f5ea9cc21990c604170fdd6e9
 #EXTINF:0,Россия 24 
-acestream://c8d36d91f2e04da77ee45f3a1d0e73b70e75d7db
+acestream://050471f591a0e669ffe867c44a12457419f0dc80
 #EXTINF:0,РТВ - Любимое кино 
-acestream://936b8e15da6b78b86b091a8b82392c55d30988f1
+acestream://e5c78e2239e8cc7cd99f486cdab3847fd0f43852
 #EXTINF:0,Русский бестселлер 
-acestream://70fdd699736c13aaa5e2bb1f8805e4f927a99897
+acestream://b2c389db2bc3448573c144959487f426285fd6c8
 #EXTINF:0,Русский детектив 
-acestream://0dcb4157d6a0fe98aec4b175d8563450834bb831
+acestream://33730ae702723014eca59f304e8a802c264762e6
 #EXTINF:0,Русский Иллюзион 
-acestream://e5df91cf8d0546c31c5fda80701b423377b4a052
+acestream://e6af80b53c9ebc9ce4fa16b0230995bebf724b63
 #EXTINF:0,Русский роман 
-acestream://cc4698409a03598fbcdca3340cd1b30f436f6156
+acestream://fb0bdb0eb03798b18ae1aaa0306aa17f4c313328
 #EXTINF:0,Русский Экстрим 
-acestream://24ecc4e9115fa7a556c80431f52e52a80af95f73
+acestream://5f4cebf0849685fe04e6e4283f9ba97e1314a4f7
 #EXTINF:0,Санкт-Петербург 
-acestream://ca7cd69150bb034d597d25dccfa61bdc9960aaff
+acestream://7113dcbab3da61f62f3fdc48173d664f494e2e78
 #EXTINF:0,СТС 
-acestream://91d1ad63f74e3035d3c9ae764179cc1177b16ed9
+acestream://e355e83e00919a051593f17b5fd67944df004f55
 #EXTINF:0,СТС Love 
-acestream://3d6b9d2afbe39abcc349702235be8aad6dc91c31
+acestream://d1c02b6d45aadc53821e170f72ef45546c17ebb6
 #EXTINF:0,ТВ Центр 
-acestream://c95c21792646342dfa39dff8a4a7a3fb78c4638c
+acestream://651a9d90bd13b775b02298cc5e80b8d85a651e1a
 #EXTINF:0,ТВ3 
-acestream://7c2f1f7370c406c5f51c2776a285e69f39fedb7a
+acestream://f278e0aff78e81f254c2a07279f973dc9eb9e888
 #EXTINF:0,Техно 24 
-acestream://8c8078582f76509b791fbcd9c21f1439954567ba
+acestream://b68b2f294e0c0bbba82827c40854d673fcf854af
 #EXTINF:0,ТНТ 
-acestream://91579d0ad22a2982ba8a9de7bf24027c49fad166
+acestream://9356950a6e68c5d8c0c30d2af963381d948a1b39
 #EXTINF:0,ТНТ4 
-acestream://1c7575c2df7a9762a3d8cba2dea4fc44149e007f
+acestream://d859f6127269a88c1855966a7bf003b2e5dbb48e
 #EXTINF:0,Точка ТВ 
-acestream://421b19c16c87bf6cb04219511aa68893676c368e
+acestream://e4e5b3c1b9260c8f74f627f69be4c993c75b223a
 #EXTINF:0,Феникс+ Кино 
-acestream://10524d4f3b5af29eb22e738c8593ef1919c38cef
+acestream://a73f4d7424bf83033e309b8d37fd5623fa5a3c66
 #EXTINF:0,Че 
-acestream://501443103d8a9e91a69e14bf88c9ddcb82fd1e8e
+acestream://b9b76dab0a3310c12d3e34e450492564dde4aff0
 #EXTINF:0,Ю 
-acestream://6d58b16bd7a8facb2de0b1f2d060f3c77926679e
+acestream://7d96ffc05b2e39e212f16f60c04c6cca5082fff2
