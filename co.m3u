@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,26/02/18
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,27/02/18
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -126,7 +126,7 @@ http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://goo.gl/np3siv ,SKAI
 http://master.cystreams.com:25461/live/greek/qwerty/42.ts
 #EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI (Youtube)
-https://www.youtube.com/watch?v=mrzccVNJxgU
+https://www.youtube.com/watch?v=cjFes2lRagg
 #EXTINF:-1 tvg-id="Star.gr" tvg-logo=https://goo.gl/z2xi2U ,STAR
 http://master.cystreams.com:25461/live/greek/qwerty/40.ts
 #EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (USE GREECE VPN)
@@ -716,25 +716,24 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:1 tvg-logo=http://www.cyma.ca/images/usa5b15d.gif ,===USA===
 http://..........
 
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:DUAL
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,LANGUAGE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,Some Channels.
-http://.....
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-
-
-#EXTINF:-1,History 
-http://93.91.113.8:9999/play/a06z 
-#EXTINF:-1, JimJam 
-http://93.91.113.8:9999/play/a06n
-#EXTINF:-1, Nick Jr 
-http://93.91.113.8:9999/play/a06l 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" ,TLC 
+http://wowza2.mysoltv.com:1992/UK_ENG_tlc/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" ,INVESTIGATION DISCOVERY 
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_id/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430" ,DISCOVERY +1 
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_science/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" ,DISCOVERY TURBO 
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_turbo/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Discovery_Home_%26_Health_Asia.svg/1280px-Discovery_Home_%26_Health_Asia.svg.png" ,DISCOVERY HOME & HEALTH 
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_home/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043" ,BABY TV 
+http://wowza2.mysoltv.com:1992/UK_UK_Baby/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1180px-H2_TV_logo.svg.png" ,H2 
+http://wowza2.mysoltv.com:1992/UK_ENG_history2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/2000px-History_Logo_2008-2015.svg.png" ,HISTORY 
+http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/udcCfFP.png" ,FUEL TV 
+http://wowza2.mysoltv.com:1992/USA_FUEL_HD/index.m3u8
 
 
 
@@ -1165,8 +1164,104 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1117.m3u8$http-refferer
 
 #EXTINF:8 group-title=”USA2-PREMIUM”,
 
+#EXTINF:1 tvg-logo=http://www.cyma.ca/images/usa5b15d.gif ,===USA===
+http://..........
 
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,Wuffy Player.
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
 
+#EXTINF:-1,[US] Discovery Science HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1022.ts
+#EXTINF:-1,[US] Fox 4 Dallas News
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/17.ts
+#EXTINF:-1,[US] Fox 5 Atlanta News
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1015.ts
+#EXTINF:-1,[US] Fox 11 Los Angeles
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1019.ts
+#EXTINF:-1,[US] Bloomberg TV
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1813.ts
+#EXTINF:-1,[US] WAFF 48 News
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/929.ts
+#EXTINF:-1,[US] Fox 13 News Tampa Bay
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1017.ts
+#EXTINF:-1,[US] Fox 25 News Boston
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1024.ts
+#EXTINF:-1,[US] Fox 26 Houston
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1029.ts
+#EXTINF:-1,[US] Fox 32 Chicago News
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1013.ts
+#EXTINF:-1,[US] Beauty iQ
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1026.ts
+#EXTINF:-1,[US] abc news
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1114.ts
+#EXTINF:-1,[US] ABC SPORT NEWS
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1012.ts
+#EXTINF:-1,[US] NFL Now
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1291.ts
+#EXTINF:-1,[US] CBS NEWS
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1293.ts
+#EXTINF:-1,[US] HSN TV
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1292.ts
+#EXTINF:-1,[US] WGN Primary
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1018.ts
+#EXTINF:-1,[US] ND TV
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1113.ts
+#EXTINF:-1,[US] NBA TV
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1545.ts
+#EXTINF:-1,[US] ESPN
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1440.ts
+#EXTINF:-1,[US] FOX Sport 1 HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/348.ts
+#EXTINF:-1,[US] FOX Sport 2 HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/347.ts
+#EXTINF:-1,[US] AFN SPORTS 1
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1544.ts
+#EXTINF:-1,[US] AFN SPORTS 2
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1543.ts
+#EXTINF:-1,[US] NFL NETWORK
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1542.ts
+#EXTINF:-1,[US] NHL NETWORK
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1541.ts
+#EXTINF:-1,[US] WWE NETWORK
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1540.ts
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=
+http://........
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=
+http://........
+#EXTINF:-1 tvg-logo=http://flagsinternational.com/wp-content/uploads/2015/03/canada025-180x180.jpg ,=CANADA=
+http://........
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=
+http://........
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,=
+http://........
+#EXTINF:-1,[CA] TSN 1
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1034.ts
+#EXTINF:-1,[CA] TSN 2
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1033.ts
+#EXTINF:-1,[CA] TSN 3
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1032.ts
+#EXTINF:-1,[CA] TSN 4
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1037.ts
+#EXTINF:-1,[CA] TSN 5
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1038.ts
 
 
 
@@ -1326,29 +1421,24 @@ http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34b
 #EXTINF:1 tvg-logo=http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg ,===UK===
 http://..........
 
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,NOTE:DUAL
-http://.....
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,LANGUAGE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=https://goo.gl/eimzf3 ,Some Channels.
-http://.....
-#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
-http://.....
-
-#EXTINF:-1,History 
-http://93.91.113.8:9999/play/a06z 
-#EXTINF:-1, JimJam 
-http://93.91.113.8:9999/play/a06n
-#EXTINF:-1, Nick Jr 
-http://93.91.113.8:9999/play/a06l 
-
-#EXTINF:-1,BabyTV 
-http://wowza2.mysoltv.com:1992/UK_UK_Baby/index.m3u8
-#EXTINF:-1,Nat geo wild
-http://wowza2.mysoltv.com:1992/UK_ENG_nat_geo_wild_shsaa/index.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" ,TLC 
+http://wowza2.mysoltv.com:1992/UK_ENG_tlc/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" ,INVESTIGATION DISCOVERY 
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_id/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430" ,DISCOVERY +1 
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_science/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" ,DISCOVERY TURBO 
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_turbo/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Discovery_Home_%26_Health_Asia.svg/1280px-Discovery_Home_%26_Health_Asia.svg.png" ,DISCOVERY HOME & HEALTH 
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_home/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043" ,BABY TV 
+http://wowza2.mysoltv.com:1992/UK_UK_Baby/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1180px-H2_TV_logo.svg.png" ,H2 
+http://wowza2.mysoltv.com:1992/UK_ENG_history2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/2000px-History_Logo_2008-2015.svg.png" ,HISTORY 
+http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/udcCfFP.png" ,FUEL TV 
+http://wowza2.mysoltv.com:1992/USA_FUEL_HD/index.m3u8
 
 
 
@@ -1525,6 +1615,143 @@ https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten_3/Ten_3_800.m3u8
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten3_HD/Ten3_HD_800.m3u8
 #EXTINF:-1,Sony Ten Golf HD
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Ten_Golf_HD/Ten_Golf_HD_800.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:3 group-title=”UK4”, 
+
+#EXTINF:1 tvg-logo=http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg ,===UK===
+http://..........
+
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" ,ITV 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7589.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/channel_4_uk.png" ,CHANNEL 4 HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7591.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/channel_5_uk.png" ,CHANNEL 5 HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7590.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/91/Sky1_logo_2011.svg/revision/latest?cb=20110205171207" ,SKY ONE 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7583.m3u8
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/62/SkyLiving16.png/revision/latest/scale-to-width-down/300?cb=20160419205650" ,SKY LIVING 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7575.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/86/ITV2_logo_2015.png/revision/latest?cb=20150812102407" ,ITV 2 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7588.m3u8
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/dreamlogos/images/0/04/Itv_3.png/revision/latest?cb=20140108230235" ,ITV 3 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7587.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ITV4_logo_2013.svg/2000px-ITV4_logo_2013.svg.png" ,ITV 4 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7586.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/ITVBe_logo_2014-.svg/1280px-ITVBe_logo_2014-.svg.png" ,ITVBe 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7585.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5d/Sky_2_logo_2016.png/revision/latest?cb=20160626181053" ,SKY TWO 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7582.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Sky_Arts_logo.svg/1280px-Sky_Arts_logo.svg.png" ,SKY ARTS 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7580.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cf/Pick2013.png/revision/latest?cb=20131004183440" ,PICK 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7596.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/d/d3/Comedy_Central_Logo.png/revision/latest?cb=20140611081411" ,COMEDY CENTRAL 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7612.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_%28Canada%29.png" ,NAT GEO WILD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7602.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" ,NATIONAL GEOGRAPHIC 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7601.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/1280px-C%26I_logo.svg.png" ,CRIME + INVESTIGATION 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7611.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/Sky_Cinema_Premiere.png/revision/latest?cb=20160708223437" ,SKY CINEMA PREMIERE 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7571.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Sky_Cinema_Greats.png/revision/latest?cb=20160709104253" ,SKY CINEMA GREATS 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7576.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ed/Sky_Cinema_Disney_HD.png/revision/latest/scale-to-width-down/150?cb=20160708174446" ,SKY CINEMA DISNEY 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7574.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Sky_cinema_family_hd_2016.png" ,SKY CINEMA FAMILY 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7577.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/2b/Sky_de_cinema_action.png/revision/latest?cb=20170105095524" ,SKY CINEMA ACTION 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7581.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/grFgBdy.png" ,SKY CINEMA COMEDY 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7578.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sky-Movies-CrimeThriller.png/revision/latest?cb=20111118190758" ,SKY CINEMA THRILLER 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7556.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f4/Sky-Movies-Sci-Fi.png/revision/latest/scale-to-width-down/250?cb=20111118191753" ,SKY CINEMA SCI-FI & HORROR 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7570.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sky-Movies-DramaRomance.png/revision/latest?cb=20111118190215" ,SKY CINEMA DRAMA & ROMANCE 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7573.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kcj5M1Q.png" ,SKY CINEMA SELECT 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7569.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/7e2lv21502554825.png" ,SKY SPORTS PREMIER LEAGUE 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7560.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/7e2lv21502554825.png" ,SKY SPORTS PREMIER LEAGUE HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7559.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/mp44981502554837.png" ,SKY SPORTS MAIN EVENT HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7567.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/47d7os1502554865.png" ,SKY SPORTS CRICKET 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7566.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/47d7os1502554865.png" ,SKY SPORTS CRICKET HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7565.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ae6hgo1510074664.png" ,SKY SPORTS GOLF 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7562.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ae6hgo1510074664.png" ,SKY SPORTS GOLF HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7561.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/nj0lf61502555096.png" ,SKY SPORTS F1 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7558.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/kf0oba1502554875.png" ,SKY SPORTS ACTION 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7564.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/kf0oba1502554875.png" ,SKY SPORTS ACTION HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7563.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dQMc5EO.png" ,SKY SPORTS NEWS HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7568.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Sky_Sports_Mix_2017.svg/revision/latest/scale-to-width-down/300?cb=20170718104658" ,SKY SPORTS MIX 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7557.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Mutv.jpg/revision/latest?cb=20140909134056" ,MUTV 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7603.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/F2R303x.png" ,BT SPORT 1 HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7594.m3u8
+#EXTINF:-1 tvg-logo="http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%202%20HD%20(1).png" ,BT SPORT 2 HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7593.m3u8
+#EXTINF:-1 tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png" ,BT SPORT 3 HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7592.m3u8
+#EXTINF:-1 tvg-logo="http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%20ESPN%20HD%20(1).png" ,BT SPORT ESPN HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7595.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/900px-Disney_XD_-_2015.svg.png" ,DISNEY XD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7607.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Nick-Jr-old-logo.png/1280px-Nick-Jr-old-logo.png" ,NICK JR 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7599.m3u8
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/wxxyur1433780191.png" ,NICK JR Too 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7600.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" ,NICKTOONS 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7597.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/1200px-2015_Disney_Channel_logo.svg.png" ,DISNEY CHANNEL 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7606.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" ,DISNEY JUNIOR 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7605.m3u8
+
+
+
+
 
 
 
@@ -2333,11 +2560,104 @@ http://207.244.157.34:25461/live/psl/match/4136.ts|refferer=http://solidstreamz.
 
 
 
-#EXTINF:8 group-title=”UK3-PREMIUM-MXPlayer”,
+#EXTINF:8 group-title=”UK3-PREMIUM”,
 
+#EXTINF:1 tvg-logo=http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg ,===UK===
+http://..........
 
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
 
-
+#EXTINF:-1,[UK] Sky Sports main event
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/936.ts
+#EXTINF:-1,[UK] Sky Sports Cricket
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/937.ts
+#EXTINF:-1,[UK] Sky Sports Action
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/938.ts
+#EXTINF:-1,[UK] Sky Sports Golf
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/939.ts
+#EXTINF:-1,[UK] Sky Sports Premier league
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/979.ts
+#EXTINF:-1,[UK] Fox News
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/920.ts
+#EXTINF:-1,[UK] True Movies 2
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1511.ts
+#EXTINF:-1,[UK] ITV 1
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1503.ts
+#EXTINF:-1,[UK] ITV 2
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1501.ts
+#EXTINF:-1,[UK] ITV 3
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1500.ts
+#EXTINF:-1,[UK] ITV 4
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1519.ts
+#EXTINF:-1,[UK] True Movies 1 HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/928.ts
+#EXTINF:-1,[UK] Sky Movies Comedy
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/926.ts
+#EXTINF:-1,[UK] Sky Movies Select HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/925.ts
+#EXTINF:-1,[UK] Sky Movies Family HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/922.ts
+#EXTINF:-1,[UK] Sky Movies Action HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/919.ts
+#EXTINF:-1,[UK] Sky Movies Premiere HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/923.ts
+#EXTINF:-1,[UK] Boomerang
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/927.ts
+#EXTINF:-1,[UK] Sky Movies Horror HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/924.ts
+#EXTINF:-1,[UK] CBS Reality
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/934.ts
+#EXTINF:-1,[UK] Discovery History
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/932.ts
+#EXTINF:-1,[UK] Boxnation HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/933.ts
+#EXTINF:-1,[UK] FOOD NETWORK
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/935.ts
+#EXTINF:-1,[UK] Pop Max TV
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/930.ts
+#EXTINF:-1,[UK] NICK JUNIOR
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/931.ts
+#EXTINF:-1,[UK] CARTOON NETWORK
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/921.ts
+#EXTINF:-1,[UK] QVC
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1290.ts
+#EXTINF:-1,[UK] BBC 1
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1506.ts
+#EXTINF:-1,[UK] BBC 2
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1505.ts
+#EXTINF:-1,[UK] BBC 3
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1504.ts
+#EXTINF:-1,[UK] BBC 4
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1499.ts
+#EXTINF:-1,[UK] BT Sport ESPN
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1833.ts
+#EXTINF:-1,[UK] BT Sport 1 HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1498.ts
+#EXTINF:-1,[UK] BT Sport 2 HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1497.ts
+#EXTINF:-1,[UK] BT Sport 3 HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1496.ts
+#EXTINF:-1,[UK] BT Sport Extra 1
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1836.ts
+#EXTINF:-1,[UK] BT Sport Extra 3
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1835.ts
+#EXTINF:-1,[UK] BT Sport Extra 4
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1834.ts
 
 
 
@@ -3290,79 +3610,79 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,IT|RAI 1
+#EXTINF:-1,RAI 1
 http://p4.giffy.be:8080/live/test12345/test12345/31367.ts
-#EXTINF:-1,IT|RAI 2
+#EXTINF:-1,RAI 2
 http://p4.giffy.be:8080/live/test12345/test12345/31368.ts
-#EXTINF:-1,IT|RAI 3
+#EXTINF:-1,RAI 3
 http://p4.giffy.be:8080/live/test12345/test12345/31369.ts
-#EXTINF:-1,IT|RAI 4
+#EXTINF:-1,RAI 4
 http://p4.giffy.be:8080/live/test12345/test12345/31370.ts
-#EXTINF:-1,IT|RAI 5
+#EXTINF:-1,RAI 5
 http://p4.giffy.be:8080/live/test12345/test12345/31371.ts
-#EXTINF:-1,IT|RAI ACTION HD
+#EXTINF:-1,RAI ACTION HD
 http://p4.giffy.be:8080/live/test12345/test12345/31344.ts
-#EXTINF:-1,IT|RAI ACTOPM 24
+#EXTINF:-1,RAI ACTOPM 24
 http://p4.giffy.be:8080/live/test12345/test12345/31343.ts
-#EXTINF:-1,IT|RAI CALCIO 1
+#EXTINF:-1,RAI CALCIO 1
 http://p4.giffy.be:8080/live/test12345/test12345/31345.ts
-#EXTINF:-1,IT|RAI CALCIO 2
+#EXTINF:-1,RAI CALCIO 2
 http://p4.giffy.be:8080/live/test12345/test12345/31346.ts
-#EXTINF:-1,IT|RAI CALCIO 3
+#EXTINF:-1,RAI CALCIO 3
 http://p4.giffy.be:8080/live/test12345/test12345/31347.ts
-#EXTINF:-1,IT|RAI CALCIO 4
+#EXTINF:-1,RAI CALCIO 4
 http://p4.giffy.be:8080/live/test12345/test12345/31348.ts
-#EXTINF:-1,IT|RAI CALCIO 5
+#EXTINF:-1,RAI CALCIO 5
 http://p4.giffy.be:8080/live/test12345/test12345/31349.ts
-#EXTINF:-1,IT|RAI CALCIO 6
+#EXTINF:-1,RAI CALCIO 6
 http://p4.giffy.be:8080/live/test12345/test12345/31350.ts
-#EXTINF:-1,IT|RAI CARTOON NETWORK
+#EXTINF:-1,RAI CARTOON NETWORK
 http://p4.giffy.be:8080/live/test12345/test12345/31351.ts
-#EXTINF:-1,IT|RAI CINEMA 2 24
+#EXTINF:-1,RAI CINEMA 2 24
 http://p4.giffy.be:8080/live/test12345/test12345/31353.ts
-#EXTINF:-1,IT|RAI CINEMA 2 HD
+#EXTINF:-1,RAI CINEMA 2 HD
 http://p4.giffy.be:8080/live/test12345/test12345/31354.ts
-#EXTINF:-1,IT|RAI CINEMA 24
+#EXTINF:-1,RAI CINEMA 24
 http://p4.giffy.be:8080/live/test12345/test12345/31352.ts
-#EXTINF:-1,IT|RAI CINEMA HD
+#EXTINF:-1,RAI CINEMA HD
 http://p4.giffy.be:8080/live/test12345/test12345/31355.ts
-#EXTINF:-1,IT|RAI COMEDY
+#EXTINF:-1,RAI COMEDY
 http://p4.giffy.be:8080/live/test12345/test12345/31356.ts
-#EXTINF:-1,IT|RAI CRIME 24
+#EXTINF:-1,RAI CRIME 24
 http://p4.giffy.be:8080/live/test12345/test12345/31357.ts
-#EXTINF:-1,IT|RAI CRIME HD
+#EXTINF:-1,RAI CRIME HD
 http://p4.giffy.be:8080/live/test12345/test12345/31358.ts
-#EXTINF:-1,IT|RAI EMOTION
+#EXTINF:-1,RAI EMOTION
 http://p4.giffy.be:8080/live/test12345/test12345/31359.ts
-#EXTINF:-1,IT|RAI ENERGY 24
+#EXTINF:-1,RAI ENERGY 24
 http://p4.giffy.be:8080/live/test12345/test12345/31342.ts
-#EXTINF:-1,IT|RAI ENERGY HD
+#EXTINF:-1,RAI ENERGY HD
 http://p4.giffy.be:8080/live/test12345/test12345/31360.ts
-#EXTINF:-1,IT|RAI GULP
+#EXTINF:-1,RAI GULP
 http://p4.giffy.be:8080/live/test12345/test12345/31372.ts
-#EXTINF:-1,IT|RAI INVESTIGATION DISCOVERY
+#EXTINF:-1,RAI INVESTIGATION DISCOVERY
 http://p4.giffy.be:8080/live/test12345/test12345/31361.ts
-#EXTINF:-1,IT|RAI JOY
+#EXTINF:-1,RAI JOY
 http://p4.giffy.be:8080/live/test12345/test12345/31362.ts
-#EXTINF:-1,IT|RAI JOY 24
+#EXTINF:-1,RAI JOY 24
 http://p4.giffy.be:8080/live/test12345/test12345/31363.ts
-#EXTINF:-1,IT|RAI MOVIE
+#EXTINF:-1,RAI MOVIE
 http://p4.giffy.be:8080/live/test12345/test12345/31373.ts
-#EXTINF:-1,IT|RAI NEWS 24
+#EXTINF:-1,RAI NEWS 24
 http://p4.giffy.be:8080/live/test12345/test12345/31374.ts
-#EXTINF:-1,IT|RAI PREMIUM
+#EXTINF:-1,RAI PREMIUM
 http://p4.giffy.be:8080/live/test12345/test12345/31375.ts
-#EXTINF:-1,IT|RAI SCUOLA
+#EXTINF:-1,RAI SCUOLA
 http://p4.giffy.be:8080/live/test12345/test12345/31376.ts
-#EXTINF:-1,IT|RAI SPORT HD
+#EXTINF:-1,RAI SPORT HD
 http://p4.giffy.be:8080/live/test12345/test12345/31378.ts
-#EXTINF:-1,IT|RAI STORES
+#EXTINF:-1,RAI STORES
 http://p4.giffy.be:8080/live/test12345/test12345/31364.ts
-#EXTINF:-1,IT|RAI STORIES 24
+#EXTINF:-1,RAI STORIES 24
 http://p4.giffy.be:8080/live/test12345/test12345/31365.ts
-#EXTINF:-1,IT|RAI STUDIO UNIVERSAL
+#EXTINF:-1,RAI STUDIO UNIVERSAL
 http://p4.giffy.be:8080/live/test12345/test12345/31366.ts
-#EXTINF:-1,IT|RAI YOYO
+#EXTINF:-1,RAI YOYO
 http://p4.giffy.be:8080/live/test12345/test12345/31379.ts
 
 
@@ -3586,6 +3906,10 @@ http://.....
 
 #EXTINF:-1,NICKELODEON
 http://207.244.157.34:25461/live/gold/cold/826.ts|refferer=http://geostreamz.com/&user-agent=098
+#EXTINF:-1,NICKELODEON (2)
+http://207.244.157.34:25461/live/psl/match/826.ts|refferer=http://solidstreamz.com/&user-agent=ipl
+#EXTINF:-1,CARTOONITO
+http://207.244.157.34:25461/live/psl/match/4942.ts|refferer=http://solidstreamz.com/&user-agent=ipl
 
 
 
@@ -3612,17 +3936,12 @@ http://207.244.157.34:25461/live/gold/cold/826.ts|refferer=http://geostreamz.com
 
 
 
-
-#EXTINF:8 group-title=”Italy3-PREMIUM-MXPlayer”,
+#EXTINF:8 group-title=”Italy3-PREMIUM”,
 
 #EXTINF:1 tvg-logo=https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg ,==Italy==
 http://..........
 
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer.
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
 https://www.youtube.com/watch?v=t4RRga0RUr8
@@ -3639,12 +3958,38 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,NICKELODEON
-http://207.244.157.34:25461/live/psl/match/826.ts|refferer=http://solidstreamz.com/&user-agent=ipl
-#EXTINF:-1,CARTOONITO
-http://207.244.157.34:25461/live/psl/match/4942.ts|refferer=http://solidstreamz.com/&user-agent=ipl
-
-
+#EXTINF:-1,[IT] ALICE
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1482.ts
+#EXTINF:-1,[IT] HISTORY
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1483.ts
+#EXTINF:-1,[IT] DISCOVERY HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1486.ts
+#EXTINF:-1,[IT] NATGEO GEOGRAPHIC
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1488.ts
+#EXTINF:-1,[IT] DISCOVERY SCI HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1485.ts
+#EXTINF:-1,[IT] Boing
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1494.ts
+#EXTINF:-1,[IT] RAI GULP
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1490.ts
+#EXTINF:-1,[IT] RAI YOYO
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1489.ts
+#EXTINF:-1,[IT] CARTOONITO
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1492.ts
+#EXTINF:-1,[IT] DISNEY CHANNEL
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1491.ts
+#EXTINF:-1,[IT] CARTOON NETWORK
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1493.ts
+#EXTINF:-1,[IT] RAI SPORT
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1477.ts
+#EXTINF:-1,[IT] SKY SPORT 1 HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1480.ts
+#EXTINF:-1,[IT] SKY SPORT 2 HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1479.ts
+#EXTINF:-1,[IT] SKY SPORT 3 HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1478.ts
+#EXTINF:-1,[IT] PREMIUM SPORT NEWS
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1476.ts
 
 
 
@@ -3957,49 +4302,49 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,FR: 6TER HD
+#EXTINF:-1,6TER HD
 http://p4.giffy.be:8080/live/test12345/test12345/31762.ts
-#EXTINF:-1,FR: BEINSPORT 2HD
+#EXTINF:-1,BEINSPORT 2HD
 http://p4.giffy.be:8080/live/test12345/test12345/31766.ts
-#EXTINF:-1,FR: BEINSPORT 3HD
+#EXTINF:-1,BEINSPORT 3HD
 http://p4.giffy.be:8080/live/test12345/test12345/31765.ts
-#EXTINF:-1,FR: E! HD
+#EXTINF:-1,E! HD
 http://p4.giffy.be:8080/live/test12345/test12345/31754.ts
-#EXTINF:-1,FR: EURONEWS
+#EXTINF:-1,EURONEWS
 http://p4.giffy.be:8080/live/test12345/test12345/31753.ts
-#EXTINF:-1,FR: EUROSPORT 1
+#EXTINF:-1,EUROSPORT 1
 http://p4.giffy.be:8080/live/test12345/test12345/31764.ts
-#EXTINF:-1,FR: EUROSPORT 2
+#EXTINF:-1,EUROSPORT 2
 http://p4.giffy.be:8080/live/test12345/test12345/31763.ts
-#EXTINF:-1,FR: FRANCE 2
+#EXTINF:-1,FRANCE 2
 http://p4.giffy.be:8080/live/test12345/test12345/31772.ts
-#EXTINF:-1,FR: FRANCE 3
+#EXTINF:-1,FRANCE 3
 http://p4.giffy.be:8080/live/test12345/test12345/31771.ts
-#EXTINF:-1,FR: FRANCE 4
+#EXTINF:-1,FRANCE 4
 http://p4.giffy.be:8080/live/test12345/test12345/31770.ts
-#EXTINF:-1,FR: FRANCE 5
+#EXTINF:-1,FRANCE 5
 http://p4.giffy.be:8080/live/test12345/test12345/31769.ts
-#EXTINF:-1,FR: FRANCE O
+#EXTINF:-1,FRANCE O
 http://p4.giffy.be:8080/live/test12345/test12345/31768.ts
-#EXTINF:-1,FR: ITELE
+#EXTINF:-1,ITELE
 http://p4.giffy.be:8080/live/test12345/test12345/31752.ts
-#EXTINF:-1,FR: LCP HD
+#EXTINF:-1,LCP HD
 http://p4.giffy.be:8080/live/test12345/test12345/31751.ts
-#EXTINF:-1,FR: M6 MUSIC HITS
+#EXTINF:-1,M6 MUSIC HITS
 http://p4.giffy.be:8080/live/test12345/test12345/31759.ts
-#EXTINF:-1,FR: MTV Hits
+#EXTINF:-1,MTV Hits
 http://p4.giffy.be:8080/live/test12345/test12345/31760.ts
-#EXTINF:-1,FR: NRJ12
+#EXTINF:-1,NRJ12
 http://p4.giffy.be:8080/live/test12345/test12345/31761.ts
-#EXTINF:-1,FR: NT1
+#EXTINF:-1,NT1
 http://p4.giffy.be:8080/live/test12345/test12345/31756.ts
-#EXTINF:-1,FR: NUMERO 23 HD
+#EXTINF:-1,NUMERO 23 HD
 http://p4.giffy.be:8080/live/test12345/test12345/31758.ts
-#EXTINF:-1,FR: SYFY HD
+#EXTINF:-1,SYFY HD
 http://p4.giffy.be:8080/live/test12345/test12345/31757.ts
-#EXTINF:-1,FR: TF1 HD
+#EXTINF:-1,TF1 HD
 http://p4.giffy.be:8080/live/test12345/test12345/31773.ts
-#EXTINF:-1,FR: TMC
+#EXTINF:-1,TMC
 http://p4.giffy.be:8080/live/test12345/test12345/31755.ts
 
 
@@ -6205,8 +6550,114 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/211/inde
 
 #EXTINF:8 group-title=”Spain4”,
 
+#EXTINF:1 tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif ,==Spain==
+http://..........
 
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
 
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/3f/TVE2_bug.png/revision/latest?cb=20100228173645" ,LA 2 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7352.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/1200px-Movistar_Xtra.svg.png" ,MOVISTAR SERIES XTRA 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7373.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XdLigox.png" ,FOX HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7312.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/2000px-TNT_TV_logo.svg.png" ,TNT 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7335.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/d/d3/Comedy_Central_Logo.png/revision/latest?cb=20140611081411" ,COMEDY CENTRAL 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7370.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png" ,CALLE 13 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7381.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/AMC_logo_2013.png/250px-AMC_logo_2013.png" ,AMC 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7389.m3u8
+#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2017/05/syfy.jpg?w=1020&h=1077" ,SYFY 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7339.m3u8
+#EXTINF:-1 tvg-logo="http://www.atm-es.com/r03000340/images/public/sections/nstp.png" ,NON STOP PEOPLE 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7298.m3u8
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/61/MEstrenos.png/revision/latest?cb=20160707185129" ,MOVISTAR ESTRENOS 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7377.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/800px-Movistar_Xtra.svg.png" ,MOVISTAR XTRA 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7372.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/ee/MDCine.png/revision/latest?cb=20160707190104" ,MOVISTAR DCINE HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7304.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/2000px-Movistar_Cine_Espa%C3%B1ol.svg.png" ,MOVISTAR CINE ESPANOL 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7305.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cd/TCM_Latin_America.png/revision/latest?cb=20151209165240" ,TCM 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7338.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1280px-HWD_logo.svg.png" ,HOLLYWOOD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7355.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353" ,PARAMOUNT CHANNEL 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7344.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png" ,MOVISTAR FUTBOL 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7303.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254" ,MOVISTAR DEPORTES 1 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7378.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/63/MovistarDeportes2.png/revision/latest?cb=20160818140550" ,MOVISTAR DEPORTES 2 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7367.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/800px-Movistar_Moto_GP.svg.png" ,MOVISTAR MOTO GP 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7350.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" ,MOVISTAR GOLF 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7376.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/GOLTV_Two.png/200px-GOLTV_Two.png" ,GOL 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7310.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" ,BARCA TV 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7385.m3u8
+#EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/01/Eurosport1_monogram.jpg" ,EUROSPORT 1 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7360.m3u8
+#EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_2.jpg" ,EUROSPORT 2 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7359.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/unT3Jrz.png" ,TELEDEPORTE 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7296.m3u8
+#EXTINF:-1 tvg-logo="http://www.proyectopescares.com/wp-content/uploads/2015/02/Caza-y-Pesca-Logotipo.jpg" ,CAZA Y PESCA 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7371.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" ,TOROS TV HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2636.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" ,NATIONAL GEOGRAPHIC 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7299.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_%28Canada%29.png" ,NATGEO WILD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7300.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png" ,HISTORIA 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7356.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430" ,DISCOVERY 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7366.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Odisea.png/revision/latest?cb=20160430224323" ,ODISEA 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7375.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" ,A&E 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7390.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/1280px-C%26I_logo.svg.png" ,CRIMEN & INVESTIGATION 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7317.m3u8
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/r18zZHUG3-PrbUlEN1zoIkmvn3tYezub4PKNRLoDSxC5L_jfVINYEM8uRZj_UZJO1L1H1KiduDjs8jZXbsx_nrXj65ty2xKljhjIqdlqw8oYygIv9hGqth3-dPTG6ZUu2qnYbJh9Tp0" ,CANAL COCINA 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7319.m3u8
+#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/600x600-de-casa-01.png/ec984b84-f707-1998-c782-27134a165329?t=1487250373351" ,DECASA 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7379.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043" ,BABY TV 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7322.m3u8
+#EXTINF:-1 tvg-logo="https://genteytv.files.wordpress.com/2011/04/panda.jpg" ,CANAL PANDA 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7374.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png" ,NICKELODEON 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7512.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/900px-Disney_XD_-_2015.svg.png" ,DISNEY XD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7363.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/1200px-2015_Disney_Channel_logo.svg.png" ,DISNEY CHANNEL 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7365.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1200px-Boing.svg.png" ,BOING 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7383.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/TVEClan_logo.png" ,CLAN 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7318.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" ,MTV 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7349.m3u8
 
 
 
@@ -7562,6 +8013,232 @@ http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/941/inde
 
 
 
+
+
+
+
+#EXTINF:4 group-title=”Portugal6”,
+
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png ,==Portugal==
+http://..........
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zToRaEC.png" ,RTP 1 HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1636.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m5QBqXI.png" ,RTP 2 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1637.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m5QBqXI.png" ,RTP 2 HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/3038.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WalttQ0.png" ,SIC HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4049.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bCIkdfX.png" ,TVI 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1695.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AsyL00R.png" ,RTP 3 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1638.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WGBPfux.png" ,SPORT TV+ 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2101.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nykEzZt.png" ,SPORT TV+ HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4222.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" ,CM TV HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4223.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nWQpvxW" ,RTP MEMORIA 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1642.m3u8
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/qpsqps1436892971.png" ,24 KITCHEN HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1518.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wYskerA.png" ,CANAL Q 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1936.m3u8
+#EXTINF:-1 tvg-logo="http://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/logo/sporttv4k/v2/medium.jpg" ,SPORT TV 4K 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4209.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aGZgg2O.png" ,SPORT TV 1 HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4243.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Aaci9kO.png" ,SPORT TV 2 HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2714.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A3zgLVH.png" ,SPORT TV 3 HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2716.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LvsaWyr.png" ,SPORT TV 4 HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2718.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LvsaWyr.png" ,SPORT TV 4 FHD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/3034.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gJxbexV.png" ,SPORT TV 5 HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2721.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" ,BENFICA TV HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4242.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" ,SPORTING TV 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4179.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png" ,SPORTING TV HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1667.m3u8
+#EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/01/Eurosport1_monogram.jpg" ,EUROSPORT HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1575.m3u8
+#EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_2.jpg" ,EUROSPORT 2 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1576.m3u8
+#EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/02/monogram_eurosport_news.jpg" ,EUROSPORT NEWS 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1578.m3u8
+#EXTINF:-1 tvg-logo="http://www.ppm-intermedia.com/motorvision/logo.png" ,MOTORVISION TV 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1614.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" ,DISNEY JUNIOR 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1567.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-tMwl5FD7x8E/TeO_NY9w6mI/AAAAAAAAATg/anq2z80XqXc/s1600/Panda+Biggs+logo.png" ,PANDA BIGGS 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1536.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043" ,BABY TV 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2612.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CO31Je4.png" ,BABY FIRST 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1532.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png" ,JIMJAM 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1600.m3u8
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/1/13/TVC2_2012.png/revision/latest?cb=20140404133649" ,TVCINE 2 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4191.m3u8
+#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png/revision/latest?cb=20140404133337" ,TVCINE 3 HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4220.m3u8
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png/revision/latest?cb=20140404133134" ,TVCINE 4 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4189.m3u8
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/4/4f/TVS%C3%A9ries.png/revision/latest?cb=20140404133444" ,TVSERIES HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1701.m3u8
+#EXTINF:-1 tvg-logo="https://novidadestelecomunicacoesportugal.files.wordpress.com/2017/05/canal_hollywood_hd.png?w=1100" ,HOLLYWOOD HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1596.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVBv1pW.png" ,FOX MOVIES 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2086.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9l12Ztc.png" ,FOX MOVIES HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1588.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5WGIgRb.png" ,FOX 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2605.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XdLigox.png" ,FOX HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1586.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" ,AXN 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4181.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aDkAm6p.png" ,AXN HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4214.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yt6abi6.png" ,FOX LIFE 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4183.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ELBrf2B.png" ,FOX LIFE HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1587.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" ,FOX CRIME 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2084.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png" ,FOX CRIME HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1585.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" ,FOX COMEDY 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4182.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xemj0LD.png" ,FOX COMEDY HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1583.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" ,AXN WHITE 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4180.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/1200px-AXN_Black_logo_%282015%29.svg.png" ,AXN BLACK 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4162.m3u8
+#EXTINF:-1 tvg-logo="http://www.schau-hd.tv/attachments/58/2017_08_24_Syfy_HD.jpg" ,SYFY HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1671.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/AMC_logo_2013.png/250px-AMC_logo_2013.png" ,AMC 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4186.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/AMC_HD.png/revision/latest?cb=20110408022156" ,AMC HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1523.m3u8
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/9/90/MCM_TOP_2008.png/revision/latest?cb=20150313180515" ,MCM TOP 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1925.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3lNp0e.png" ,MCM POP 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1608.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BbypShX.png" ,C MUSIC 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1541.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" ,NATIONAL GEOGRAPHIC 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2092.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" ,NATIONAL GEOGRAPHIC WILD HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1619.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" ,A&E 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1520.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" ,E! ENTERTAINMENT 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4175.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zGAy6qU.png" ,E! ENTERTAINMENT HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1569.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Travel_Channel_logo.png" ,TRAVEL CHANNEL 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2599.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" ,FTV HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1592.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/2000px-Food_Network_Logo.svg.png" ,FOOD NETWORK 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1581.m3u8
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/600x315/46/08/ec/4608ec8613bc216f5ccc608ca7c7a0d5.jpg" ,BBC ENTERTAINMENT 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1534.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png" ,GLOBO PREMIUM 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4198.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png" ,GLOBO PREMIUM HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2208.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" ,TV RECORD HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2209.m3u8
+#EXTINF:-1 tvg-logo="http://www.designvand.com/Contents/Users/11/euronews.jpg" ,EURONEWS 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1574.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" ,RECORD NEWS 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7730.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tsNZEpc.png" ,TPA 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2637.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3SiROJO.png" ,TVEi 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2641.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KXZE1Qb.png" ,TOROS TV HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2636.m3u8
+#EXTINF:-1 tvg-logo="http://www.proyectopescares.com/wp-content/uploads/2015/02/Caza-y-Pesca-Logotipo.jpg" ,CACA & PESCA 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1720.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pIEZt5S.png" ,CACAVISION 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1543.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cQ4UFEO.png" ,FIGHT NETWORK HD 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2614.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png" ,M6 MUSIQUE 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4779.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HdrXSms.png" ,MCS LIFESTYLE 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1923.m3u8
+#EXTINF:-1 tvg-logo="http://www.sundancetvglobal.com/images/logo.png" ,SUNDANCE TV 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1905.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" ,BARCA TV 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7385.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Mutv.jpg/revision/latest?cb=20140909134056" ,MUTV 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7603.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png" ,NBA 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2620.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/sPkVZHu.png" ,KOMBAT SPORT 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4782.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/1280px-C%26I_logo.svg.png" ,CRIME & INVESTIGATION 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4174.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7rIKeuh" ,RTP AFRICA 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2629.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png" ,RTP MADEIRA 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1641.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png" ,RTP ACORES 
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1639.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:4 group-title=”Portugal1-Loop_one”,
 
 #EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png ,==Portugal==
@@ -7590,199 +8267,199 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-#EXTINF:-1,PT | 24 Kitchen HD
+#EXTINF:-1,24 Kitchen HD
 http://p4.giffy.be:8080/live/test12345/test12345/36476.ts
-#EXTINF:-1,PT | A Bola TV
+#EXTINF:-1,A Bola TV
 http://p4.giffy.be:8080/live/test12345/test12345/36475.ts
-#EXTINF:-1,PT | BBC Entertainment
+#EXTINF:-1,BBC Entertainment
 http://p4.giffy.be:8080/live/test12345/test12345/36474.ts
-#EXTINF:-1,PT | BBC World News
+#EXTINF:-1,BBC World News
 http://p4.giffy.be:8080/live/test12345/test12345/36473.ts
-#EXTINF:-1,PT | Biggs
+#EXTINF:-1,Biggs
 http://p4.giffy.be:8080/live/test12345/test12345/36472.ts
-#EXTINF:-1,PT | Bloomberg
+#EXTINF:-1,Bloomberg
 http://p4.giffy.be:8080/live/test12345/test12345/36471.ts
-#EXTINF:-1,PT | BTV 1
+#EXTINF:-1,BTV 1
 http://p4.giffy.be:8080/live/test12345/test12345/36470.ts
-#EXTINF:-1,PT | BTV 1 HD
+#EXTINF:-1,BTV 1 HD
 http://p4.giffy.be:8080/live/test12345/test12345/36469.ts
-#EXTINF:-1,PT | CaĿa e Pesca
+#EXTINF:-1,CaĿa e Pesca
 http://p4.giffy.be:8080/live/test12345/test12345/36462.ts
-#EXTINF:-1,PT | Canal de Teste
+#EXTINF:-1,Canal de Teste
 http://p4.giffy.be:8080/live/test12345/test12345/36468.ts
-#EXTINF:-1,PT | Canal NOS
+#EXTINF:-1,Canal NOS
 http://p4.giffy.be:8080/live/test12345/test12345/36467.ts
-#EXTINF:-1,PT | Canal Panda
+#EXTINF:-1,Canal Panda
 http://p4.giffy.be:8080/live/test12345/test12345/36466.ts
-#EXTINF:-1,PT | Canal Q
+#EXTINF:-1,Canal Q
 http://p4.giffy.be:8080/live/test12345/test12345/36465.ts
-#EXTINF:-1,PT | CanĿªo Nova
+#EXTINF:-1,CanĿªo Nova
 http://p4.giffy.be:8080/live/test12345/test12345/36464.ts
-#EXTINF:-1,PT | Cartoon Network
+#EXTINF:-1,Cartoon Network
 http://p4.giffy.be:8080/live/test12345/test12345/36463.ts
-#EXTINF:-1,PT | CBS Reality
+#EXTINF:-1,CBS Reality
 http://p4.giffy.be:8080/live/test12345/test12345/36461.ts
-#EXTINF:-1,PT | CMTV
+#EXTINF:-1,CMTV
 http://p4.giffy.be:8080/live/test12345/test12345/36460.ts
-#EXTINF:-1,PT | CNBC
+#EXTINF:-1,CNBC
 http://p4.giffy.be:8080/live/test12345/test12345/36459.ts
-#EXTINF:-1,PT | CNN
+#EXTINF:-1,CNN
 http://p4.giffy.be:8080/live/test12345/test12345/36458.ts
-#EXTINF:-1,PT | Deutsche Welle
+#EXTINF:-1,Deutsche Welle
 http://p4.giffy.be:8080/live/test12345/test12345/36457.ts
-#EXTINF:-1,PT | Discovery Channel
+#EXTINF:-1,Discovery Channel
 http://p4.giffy.be:8080/live/test12345/test12345/36456.ts
-#EXTINF:-1,PT | Discovery HD Showcase
+#EXTINF:-1,Discovery HD Showcase
 http://p4.giffy.be:8080/live/test12345/test12345/36455.ts
-#EXTINF:-1,PT | Disney Junior
+#EXTINF:-1,Disney Junior
 http://p4.giffy.be:8080/live/test12345/test12345/36454.ts
-#EXTINF:-1,PT | DSMCC - IPPV
+#EXTINF:-1,DSMCC - IPPV
 http://p4.giffy.be:8080/live/test12345/test12345/36453.ts
-#EXTINF:-1,PT | DSMCC - RADIOS
+#EXTINF:-1,DSMCC - RADIOS
 http://p4.giffy.be:8080/live/test12345/test12345/36452.ts
-#EXTINF:-1,PT | E! Entertainment
+#EXTINF:-1,E! Entertainment
 http://p4.giffy.be:8080/live/test12345/test12345/36451.ts
-#EXTINF:-1,PT | Euronews
+#EXTINF:-1,Euronews
 http://p4.giffy.be:8080/live/test12345/test12345/36450.ts
-#EXTINF:-1,PT | Eurosport 1 HD
+#EXTINF:-1,Eurosport 1 HD
 http://p4.giffy.be:8080/live/test12345/test12345/36449.ts
-#EXTINF:-1,PT | Eurosport 2
+#EXTINF:-1,Eurosport 2
 http://p4.giffy.be:8080/live/test12345/test12345/36448.ts
-#EXTINF:-1,PT | FOX Comedy
+#EXTINF:-1,FOX Comedy
 http://p4.giffy.be:8080/live/test12345/test12345/36447.ts
-#EXTINF:-1,PT | FOX Crime HD
+#EXTINF:-1,FOX Crime HD
 http://p4.giffy.be:8080/live/test12345/test12345/36446.ts
-#EXTINF:-1,PT | FOX HD
+#EXTINF:-1,FOX HD
 http://p4.giffy.be:8080/live/test12345/test12345/36445.ts
-#EXTINF:-1,PT | FOX Life HD
+#EXTINF:-1,FOX Life HD
 http://p4.giffy.be:8080/live/test12345/test12345/36444.ts
-#EXTINF:-1,PT | FOX Movies
+#EXTINF:-1,FOX Movies
 http://p4.giffy.be:8080/live/test12345/test12345/36443.ts
-#EXTINF:-1,PT | France 24 (I)
+#EXTINF:-1,France 24 (I)
 http://p4.giffy.be:8080/live/test12345/test12345/36442.ts
-#EXTINF:-1,PT | FTV
+#EXTINF:-1,FTV
 http://p4.giffy.be:8080/live/test12345/test12345/36441.ts
-#EXTINF:-1,PT | Fuel TV
+#EXTINF:-1,Fuel TV
 http://p4.giffy.be:8080/live/test12345/test12345/36440.ts
-#EXTINF:-1,PT | Globo
+#EXTINF:-1,Globo
 http://p4.giffy.be:8080/live/test12345/test12345/36439.ts
-#EXTINF:-1,PT | Globo Premium
+#EXTINF:-1,Globo Premium
 http://p4.giffy.be:8080/live/test12345/test12345/36438.ts
-#EXTINF:-1,PT | Histðria
+#EXTINF:-1,Histðria
 http://p4.giffy.be:8080/live/test12345/test12345/36437.ts
-#EXTINF:-1,PT | Hollywood
+#EXTINF:-1,Hollywood
 http://p4.giffy.be:8080/live/test12345/test12345/36436.ts
-#EXTINF:-1,PT | Hot
+#EXTINF:-1,Hot
 http://p4.giffy.be:8080/live/test12345/test12345/36435.ts
-#EXTINF:-1,PT | MCM Pop
+#EXTINF:-1,MCM Pop
 http://p4.giffy.be:8080/live/test12345/test12345/36434.ts
-#EXTINF:-1,PT | MCS Extreme
+#EXTINF:-1,MCS Extreme
 http://p4.giffy.be:8080/live/test12345/test12345/36433.ts
-#EXTINF:-1,PT | Mezzo
+#EXTINF:-1,Mezzo
 http://p4.giffy.be:8080/live/test12345/test12345/36432.ts
-#EXTINF:-1,PT | motorsport.tv
+#EXTINF:-1,motorsport.tv
 http://p4.giffy.be:8080/live/test12345/test12345/36431.ts
-#EXTINF:-1,PT | Motorvision
+#EXTINF:-1,Motorvision
 http://p4.giffy.be:8080/live/test12345/test12345/36430.ts
-#EXTINF:-1,PT | MTV Portugal
+#EXTINF:-1,MTV Portugal
 http://p4.giffy.be:8080/live/test12345/test12345/36429.ts
-#EXTINF:-1,PT | Nat Geo Wild
+#EXTINF:-1,Nat Geo Wild
 http://p4.giffy.be:8080/live/test12345/test12345/36428.ts
-#EXTINF:-1,PT | National Geographic HD
+#EXTINF:-1,National Geographic HD
 http://p4.giffy.be:8080/live/test12345/test12345/36427.ts
-#EXTINF:-1,PT | Nick Jr.
+#EXTINF:-1,Nick Jr.
 http://p4.giffy.be:8080/live/test12345/test12345/36426.ts
-#EXTINF:-1,PT | Nickelodeon
+#EXTINF:-1,Nickelodeon
 http://p4.giffy.be:8080/live/test12345/test12345/36425.ts
-#EXTINF:-1,PT | Odisseia
+#EXTINF:-1,Odisseia
 http://p4.giffy.be:8080/live/test12345/test12345/36424.ts
-#EXTINF:-1,PT | PFC
+#EXTINF:-1,PFC
 http://p4.giffy.be:8080/live/test12345/test12345/36423.ts
-#EXTINF:-1,PT | Playboy TV
+#EXTINF:-1,Playboy TV
 http://p4.giffy.be:8080/live/test12345/test12345/36422.ts
-#EXTINF:-1,PT | Porto Canal
+#EXTINF:-1,Porto Canal
 http://p4.giffy.be:8080/live/test12345/test12345/36421.ts
-#EXTINF:-1,PT | RTP .frica
+#EXTINF:-1,RTP .frica
 http://p4.giffy.be:8080/live/test12345/test12345/36420.ts
-#EXTINF:-1,PT | RTP 1
+#EXTINF:-1,RTP 1
 http://p4.giffy.be:8080/live/test12345/test12345/36419.ts
-#EXTINF:-1,PT | RTP 2
+#EXTINF:-1,RTP 2
 http://p4.giffy.be:8080/live/test12345/test12345/36418.ts
-#EXTINF:-1,PT | RTP 3
+#EXTINF:-1,RTP 3
 http://p4.giffy.be:8080/live/test12345/test12345/36417.ts
-#EXTINF:-1,PT | RTP AĿores
+#EXTINF:-1,RTP AĿores
 http://p4.giffy.be:8080/live/test12345/test12345/36416.ts
-#EXTINF:-1,PT | RTP Madeira
+#EXTINF:-1,RTP Madeira
 http://p4.giffy.be:8080/live/test12345/test12345/36415.ts
-#EXTINF:-1,PT | RTP Memðria
+#EXTINF:-1,RTP Memðria
 http://p4.giffy.be:8080/live/test12345/test12345/36414.ts
-#EXTINF:-1,PT | SIC
+#EXTINF:-1,SIC
 http://p4.giffy.be:8080/live/test12345/test12345/36413.ts
-#EXTINF:-1,PT | SIC Caras
+#EXTINF:-1,SIC Caras
 http://p4.giffy.be:8080/live/test12345/test12345/36412.ts
-#EXTINF:-1,PT | SIC Mulher
+#EXTINF:-1,SIC Mulher
 http://p4.giffy.be:8080/live/test12345/test12345/36411.ts
-#EXTINF:-1,PT | SIC NotŦcias
+#EXTINF:-1,SIC NotŦcias
 http://p4.giffy.be:8080/live/test12345/test12345/36410.ts
-#EXTINF:-1,PT | SIC Radical
+#EXTINF:-1,SIC Radical
 http://p4.giffy.be:8080/live/test12345/test12345/36409.ts
-#EXTINF:-1,PT | Sky News
+#EXTINF:-1,Sky News
 http://p4.giffy.be:8080/live/test12345/test12345/36408.ts
-#EXTINF:-1,PT | SPORT TV
+#EXTINF:-1,SPORT TV
 http://p4.giffy.be:8080/live/test12345/test12345/36407.ts
-#EXTINF:-1,PT | Sport TV 1 HD
+#EXTINF:-1,Sport TV 1 HD
 http://p4.giffy.be:8080/live/test12345/test12345/36406.ts
-#EXTINF:-1,PT | Sport TV 2 HD
+#EXTINF:-1,Sport TV 2 HD
 http://p4.giffy.be:8080/live/test12345/test12345/36405.ts
-#EXTINF:-1,PT | Sport TV 3 HD
+#EXTINF:-1,Sport TV 3 HD
 http://p4.giffy.be:8080/live/test12345/test12345/36404.ts
-#EXTINF:-1,PT | Sport TV 4
+#EXTINF:-1,Sport TV 4
 http://p4.giffy.be:8080/live/test12345/test12345/36403.ts
-#EXTINF:-1,PT | Sport TV 5
+#EXTINF:-1,Sport TV 5
 http://p4.giffy.be:8080/live/test12345/test12345/36402.ts
-#EXTINF:-1,PT | Sporting TV
+#EXTINF:-1,Sporting TV
 http://p4.giffy.be:8080/live/test12345/test12345/36401.ts
-#EXTINF:-1,PT | Syfy
+#EXTINF:-1,Syfy
 http://p4.giffy.be:8080/live/test12345/test12345/36400.ts
-#EXTINF:-1,PT | TLC
+#EXTINF:-1,TLC
 http://p4.giffy.be:8080/live/test12345/test12345/36399.ts
-#EXTINF:-1,PT | Toros TV
+#EXTINF:-1,Toros TV
 http://p4.giffy.be:8080/live/test12345/test12345/36398.ts
-#EXTINF:-1,PT | Trace Urban
+#EXTINF:-1,Trace Urban
 http://p4.giffy.be:8080/live/test12345/test12345/36397.ts
-#EXTINF:-1,PT | Travel Channel HD
+#EXTINF:-1,Travel Channel HD
 http://p4.giffy.be:8080/live/test12345/test12345/36396.ts
-#EXTINF:-1,PT | TV Galicia
+#EXTINF:-1,TV Galicia
 http://p4.giffy.be:8080/live/test12345/test12345/36395.ts
-#EXTINF:-1,PT | TV Record
+#EXTINF:-1,TV Record
 http://p4.giffy.be:8080/live/test12345/test12345/36394.ts
-#EXTINF:-1,PT | TV5 Monde
+#EXTINF:-1,TV5 Monde
 http://p4.giffy.be:8080/live/test12345/test12345/36393.ts
-#EXTINF:-1,PT | TVCine 1 HD
+#EXTINF:-1,TVCine 1 HD
 http://p4.giffy.be:8080/live/test12345/test12345/36392.ts
-#EXTINF:-1,PT | TVCine 2 HD
+#EXTINF:-1,TVCine 2 HD
 http://p4.giffy.be:8080/live/test12345/test12345/36391.ts
-#EXTINF:-1,PT | TVCine 3 HD
+#EXTINF:-1,TVCine 3 HD
 http://p4.giffy.be:8080/live/test12345/test12345/36390.ts
-#EXTINF:-1,PT | TVCine 4 HD
+#EXTINF:-1,TVCine 4 HD
 http://p4.giffy.be:8080/live/test12345/test12345/36389.ts
-#EXTINF:-1,PT | TVE 24h
+#EXTINF:-1,TVE 24h
 http://p4.giffy.be:8080/live/test12345/test12345/36388.ts
-#EXTINF:-1,PT | TVE Internacional
+#EXTINF:-1,TVE Internacional
 http://p4.giffy.be:8080/live/test12345/test12345/36387.ts
-#EXTINF:-1,PT | TVI
+#EXTINF:-1,TVI
 http://p4.giffy.be:8080/live/test12345/test12345/36386.ts
-#EXTINF:-1,PT | TVI 24
+#EXTINF:-1,TVI 24
 http://p4.giffy.be:8080/live/test12345/test12345/36385.ts
-#EXTINF:-1,PT | TVI Reality
+#EXTINF:-1,TVI Reality
 http://p4.giffy.be:8080/live/test12345/test12345/36384.ts
-#EXTINF:-1,PT | TVSØries HD
+#EXTINF:-1,TVSØries HD
 http://p4.giffy.be:8080/live/test12345/test12345/36383.ts
-#EXTINF:-1,PT | Venus
+#EXTINF:-1,Venus
 http://p4.giffy.be:8080/live/test12345/test12345/36382.ts
-#EXTINF:-1,PT | VH1
+#EXTINF:-1,VH1
 http://p4.giffy.be:8080/live/test12345/test12345/36381.ts
-#EXTINF:-1,PT | VH1 Classic
+#EXTINF:-1,VH1 Classic
 http://p4.giffy.be:8080/live/test12345/test12345/36380.ts
 
 
@@ -10003,85 +10680,6 @@ http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
 
 
 #EXTINF:9 group-title=”India2”,
-
-#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png ,==India==
-http://.........
-
-
-#EXTINF:-1,Aljazeera
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226109/03.m3u8
-#EXTINF:-1,and tv
-http://125.17.129.4/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226048/01.m3u8
-#EXTINF:-1,arijan
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226115/03.m3u8
-#EXTINF:-1,B4U
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226118/03.m3u8
-#EXTINF:-1,Big Magic airtel
-http://125.17.129.4/PLTV/88888888/224/3221225745/01.m3u8
-#EXTINF:-1,Discovery Turbo Airtel
-http://125.17.129.4/PLTV/88888888/224/3221225782/02.m3u8
-#EXTINF:-1,Gemini Comedy
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226123/03.m3u8
-#EXTINF:-1,Gulistan news
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226117/03.m3u8
-#EXTINF:-1,IBC24
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226102/03.m3u8
-#EXTINF:-1,Janam TV
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226111/03.m3u8
-#EXTINF:-1,Jaya MAX
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226101/03.m3u8
-#EXTINF:-1,KTV
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226121/03.m3u8
-#EXTINF:-1,MN ONE
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226114/03.m3u8
-#EXTINF:0,NDTV
-http://125.17.129.5/wh7f454c46tw3287927377_1035278329/PLTV/88888888/224/3221225777/04.m3u8
-#EXTINF:-1,News Live
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226108/03.m3u8
-#EXTINF:-1,Polimer
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226103/03.m3u8
-#EXTINF:-1,Pitaara
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226122/03.m3u8
-#EXTINF:-1,Prag News
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226110/03.m3u8
-#EXTINF:-1,rang
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226106/03.m3u8
-#EXTINF:0,Sony Max HD
-http://125.17.129.5/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/01.m3u8
-#EXTINF:-1,sony
-http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225803/01.m3u8
-#EXTINF:-1,Sony Mix
-http://125.17.129.4/PLTV/88888888/224/3221225816/01.m3u8
-#EXTINF:-1,Sony Max
-http://125.17.129.4/PLTV/88888888/224/3221225811/02.m3u8
-#EXTINF:-1,Sony max 2
-http://125.17.129.4/PLTV/88888888/224/3221225812/01.m3u8
-#EXTINF:-1,sony sab
-http://125.17.129.4/wh7f454c46tw4126563470_482408950/PLTV/88888888/224/3221225825/01.m3u8
-#EXTINF:-1,Sony Sab Airtel
-http://125.17.129.4/PLTV/88888888/224/3221225825/01.m3u8
-#EXTINF:-1,sony six hd
-http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225827/01.m3u8
-#EXTINF:-1,TV9
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226113/03.m3u8
-#EXTINF:-1,V News
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226112/03.m3u8
-#EXTINF:-1,Zee Cinema Airtel
-http://125.17.129.4/PLTV/88888888/224/3221225935/02.m3u8
-#EXTINF:-1,zee tv
-http://125.17.129.4/wh7f454c46tw3372980723_1650188555/PLTV/88888888/224/3221225878/01.m3u8
-#EXTINF:-1,Zee Tv Airtel
-http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225942/03.m3u8
-#EXTINF:-1,Zee Tv Low Airtel
-http://125.17.129.4/PLTV/88888888/224/3221225878/02.m3u8
-#EXTINF:-1,Zee tv hd
-http://125.17.129.4/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225942/02.m3u8
-#EXTINF:-1,ZEETV hd
-http://125.17.129.4/PLTV/88888888/224/3221225878/01.m3u8
-#EXTINF:-1,Zee
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226107/03.m3u8
-#EXTINF:-1,Zee
-http://125.17.129.4/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226116/03.m3u8
 
 
 
