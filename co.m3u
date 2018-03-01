@@ -8802,6 +8802,12 @@ http://..........
 http://89.173.212.31:9981/stream/channelid/194551332
 #EXTINF:-1,Ceskoslovensko HD 
 http://65.254.55.10:4000/live/196/196.m3u8 
+#EXTINF:-1,CT 1 
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,CT 1
+http://74.81.71.186:4000/live/176/176.m3u8
+#EXTINF:-1,CT 2
+http://74.81.71.186:4000/live/78/78.m3u8
 #EXTINF:-1,DISCOVERY
 http://74.81.71.186:4000/live/138/138.m3u8
 #EXTINF:-1,DokuCZ 
@@ -8840,8 +8846,14 @@ http://http-stream.joj.sk/joj/jojplus/index-hq.m3u8
 http://nn.geo.joj.sk/hls/family-360.m3u8
 #EXTINF:-1,JOJ FAMILY (540p)
 http://nn2.joj.sk/hls/family-540.m3u8
+#EXTINF:-1,MARKIZA
+http://74.81.71.186:4000/live/36/36.m3u8
+#EXTINF:-1,NOVA
+http://74.81.71.186:4000/live/60/60.m3u8
 #EXTINF:-1,NOVA Action
 http://174.36.163.12:4000/live/304/304.m3u8
+#EXTINF:-1,Ocko Gold 
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
 #EXTINF:-1,Prima Max
 http://74.208.44.158:5000/live/518/518.m3u8
 #EXTINF:-1,RebeL
