@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,02/03/18
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,02/03/18 FIX
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -4418,6 +4418,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
+
 #EXTINF:-1 tvg-ID="" tvg-name="FR:6TER" tvg-logo="http://static.intefree.net/img/tv/chaines/fr/6ter.jpg" ,6TER
 http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/1678.ts|Free-IPTV/1.0.0 LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="FR:C8" tvg-logo="https://pbs.twimg.com/profile_images/847017866583031808/NQZz2qfJ_400x400.jpg" ,C8
@@ -4605,9 +4606,8 @@ http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_
 #EXTINF:-1 tvg-ID="" tvg-name="FR:EUROSPORT 2" tvg-logo="http://www.livetv21.net/wp-content/uploads/2016/05/Eurosport-2-FR-live-stream.png" ,EUROSPORT 2
 http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/838.ts|Free-IPTV/1.0.0 LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="Boing.fr" tvg-name="FR:BOING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Boing_France.png" ,BOING
-http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/839.ts|Free-IPTV/1.0.0 LibVLC/3.0.0-git
+http://srvt.topiptv.org:80/live/New_acc_......ccccc.xxxx__...x...xcccxxx...cccc_xxx..._XXX@....@.....@..@....XX@@__.xxxx..@@@.._.Free-IPTV-com/dorD9a9MtM/839.ts|user-agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git
  
-
 
 
 
