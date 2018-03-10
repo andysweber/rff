@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,08/03/18
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,10/03/18
 http://.....
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
@@ -126,7 +126,7 @@ http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://goo.gl/np3siv ,SKAI
 http://master.cystreams.com:25461/live/greek/qwerty/42.ts
 #EXTINF:-1 tvg-logo=https://goo.gl/np3siv ,SKAI (Youtube)
-https://www.youtube.com/watch?v=CEtqWHrW5PQ
+https://www.youtube.com/watch?v=4wakuszIpKc
 #EXTINF:-1 tvg-id="Star.gr" tvg-logo=https://goo.gl/z2xi2U ,STAR
 http://master.cystreams.com:25461/live/greek/qwerty/40.ts
 #EXTINF:-1 tvg-name="Alpha" tvg-logo=http://www.freeetv.com/images/tv8/alpha.jpg ,ALPHA (USE GREECE VPN)
@@ -4929,7 +4929,144 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-
+#EXTINF:-1,(DE) ANIXE HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14657.ts
+#EXTINF:-1,(DE) ARD HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14658.ts
+#EXTINF:-1,(DE) Arte
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14659.ts
+#EXTINF:-1,(DE) Cartoon Network
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14654.ts
+#EXTINF:-1,(DE) DELUXE MUSIC HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14660.ts
+#EXTINF:-1,(DE) Disney Channel
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14661.ts
+#EXTINF:-1,(DE) Disney Jr
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14655.ts
+#EXTINF:-1,(DE) DMAX
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14691.ts
+#EXTINF:-1,(DE) EuroSport HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14662.ts
+#EXTINF:-1,(DE) FOX HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14663.ts
+#EXTINF:-1,(DE) Kabel 1
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14664.ts
+#EXTINF:-1,(DE) Kika
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14665.ts
+#EXTINF:-1,(DE) N-TV
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14666.ts
+#EXTINF:-1,(DE) N24 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14667.ts
+#EXTINF:-1,(DE) Nat Geo Wild
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14668.ts
+#EXTINF:-1,(DE) National Geographic
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14669.ts
+#EXTINF:-1,(DE) Ndr HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14670.ts
+#EXTINF:-1,(DE) Nickelodeon
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14656.ts
+#EXTINF:-1,(DE) ORF 2
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14671.ts
+#EXTINF:-1,(DE) ORF Eins
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14672.ts
+#EXTINF:-1,(DE) Phoenix
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14673.ts
+#EXTINF:-1,(DE) Pro 7
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14675.ts
+#EXTINF:-1,(DE) PRO7 MAXX
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14674.ts
+#EXTINF:-1,(DE) RTL I
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14676.ts
+#EXTINF:-1,(DE) RTL II
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14677.ts
+#EXTINF:-1,(DE) RTL living
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14678.ts
+#EXTINF:-1,(DE) RTL Nitro
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14679.ts
+#EXTINF:-1,(DE) Sat 1
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14680.ts
+#EXTINF:-1,(DE) Servus TV HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14681.ts
+#EXTINF:-1,(DE) Sky 13 Street HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14682.ts
+#EXTINF:-1,(DE) Sky Action HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14683.ts
+#EXTINF:-1,(DE) Sky Atlantic
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14684.ts
+#EXTINF:-1,(DE) Sky BundesLiga 1 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14685.ts
+#EXTINF:-1,(DE) Sky Cinema HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14686.ts
+#EXTINF:-1,(DE) Sky Cinema Hits
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14695.ts
+#EXTINF:-1,(DE) Sky Cinema Plus 1 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14687.ts
+#EXTINF:-1,(DE) Sky Cinema Plus 24
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14688.ts
+#EXTINF:-1,(DE) Sky Comedy
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14689.ts
+#EXTINF:-1,(DE) Sky Discovery Channel HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14690.ts
+#EXTINF:-1,(DE) Sky Emotion
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14692.ts
+#EXTINF:-1,(DE) Sky Fox
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14693.ts
+#EXTINF:-1,(DE) Sky History Channel
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14694.ts
+#EXTINF:-1,(DE) Sky Krimi
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14696.ts
+#EXTINF:-1,(DE) Sky NatGeo Wild HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14697.ts
+#EXTINF:-1,(DE) Sky select 1 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14698.ts
+#EXTINF:-1,(DE) Sky select 2 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14699.ts
+#EXTINF:-1,(DE) Sky select 3 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14700.ts
+#EXTINF:-1,(DE) Sky select 4 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14701.ts
+#EXTINF:-1,(DE) Sky select 5 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14702.ts
+#EXTINF:-1,(DE) Sky Select 6 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14703.ts
+#EXTINF:-1,(DE) Sky Select 7 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14704.ts
+#EXTINF:-1,(DE) Sky Select 8 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14705.ts
+#EXTINF:-1,(DE) Sky Select 9 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14706.ts
+#EXTINF:-1,(DE) Sky Sport 1 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14707.ts
+#EXTINF:-1,(DE) Sky Sport 1 US HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14708.ts
+#EXTINF:-1,(DE) Sky Sport 2 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14709.ts
+#EXTINF:-1,(DE) Sky TNT Film HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14710.ts
+#EXTINF:-1,(DE) Sky TNT Serie HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14711.ts
+#EXTINF:-1,(DE) Spiegel Geschichte HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14712.ts
+#EXTINF:-1,(DE) Sport DigiTal HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14713.ts
+#EXTINF:-1,(DE) SRF1
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14714.ts
+#EXTINF:-1,(DE) SRF2
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14715.ts
+#EXTINF:-1,(DE) Super RTL
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14716.ts
+#EXTINF:-1,(DE) SYFY
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14717.ts
+#EXTINF:-1,(DE) VOX
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14718.ts
+#EXTINF:-1,(DE) Wdr HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14719.ts
+#EXTINF:-1,(DE) ZDF
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14720.ts
+#EXTINF:-1,(DE) ZDF INFO
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14722.ts
+#EXTINF:-1,(DE) ZDF NEO
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14721.ts
 
 
 
@@ -7387,6 +7524,564 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 
+#EXTINF:-1,RTP 1
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/71.ts
+#EXTINF:-1,RTP 1 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2438.ts
+#EXTINF:-1,RTP 2
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/72.ts
+#EXTINF:-1,RTP 2 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/3323.ts
+#EXTINF:-1,SIC
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1856.ts
+#EXTINF:-1,SIC HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2439.ts
+#EXTINF:-1,TVI
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/75.ts
+#EXTINF:-1,TVI HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2440.ts
+#EXTINF:-1,RTP MEMORIA
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/80.ts
+#EXTINF:-1,RTP INTERNACIONAL
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1332.ts
+#EXTINF:-1,RTP MADEIRA
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/81.ts
+#EXTINF:-1,RTP ACORES
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/85.ts
+#EXTINF:-1,RTP Africa
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/82.ts
+#EXTINF:-1,SIC CARAS
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/978.ts
+#EXTINF:-1,SIC CARAS HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/10591.ts
+#EXTINF:-1,SIC Radical
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/84.ts
+#EXTINF:-1,SIC RADICAL HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/6633.ts
+#EXTINF:-1,SIC MULHER
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/87.ts
+#EXTINF:-1,SIC MULHER HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/7740.ts
+#EXTINF:-1,TVI REALITY
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/86.ts
+#EXTINF:-1,TVI REALITY CAMARAS
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2822.ts
+#EXTINF:-1,TVI FICCAO
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/88.ts
+#EXTINF:-1,CANAL Q
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1252.ts
+#EXTINF:-1,Localvisao HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2823.ts
+#EXTINF:-1,RTV
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/10429.ts
+#EXTINF:-1,TV GLOBO Portugal
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/433.ts
+#EXTINF:-1,TV GLOBO PREMIUM
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/970.ts
+#EXTINF:-1,Tv Record
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/79.ts
+#EXTINF:-1,Tv Record HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/13264.ts
+#EXTINF:-1,SBT Brasil
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1786.ts
+#EXTINF:-1,TV Brasil
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9181.ts
+#EXTINF:-1,TCV
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/412.ts
+#EXTINF:-1,TPA INTERNACIONAL
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/6603.ts
+#EXTINF:-1,laSexta
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/408.ts
+#EXTINF:-1,Galicia
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/407.ts
+#EXTINF:-1,Cubavision
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9176.ts
+#EXTINF:-1,Zee TV
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4153.ts
+#EXTINF:-1,SONY SETMAX
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4152.ts
+#EXTINF:-1,►►►Noticias◄◄◄
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4934.ts
+#EXTINF:-1,CM TV
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/132.ts
+#EXTINF:-1,CMTV HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2444.ts
+#EXTINF:-1,SIC NOTICIAS
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/77.ts
+#EXTINF:-1,SIC NOTICIAS HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/10722.ts
+#EXTINF:-1,RTP 3
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/73.ts
+#EXTINF:-1,Tvi 24
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/78.ts
+#EXTINF:-1,SPORT.TV+
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4148.ts
+#EXTINF:-1,SPORT.TV+ HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5770.ts
+#EXTINF:-1,TV PARLAMENTO
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1207.ts
+#EXTINF:-1,A BOLA
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1002.ts
+#EXTINF:-1,RECORD NEWS
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/420.ts
+#EXTINF:-1,ALJAZEERA
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1790.ts
+#EXTINF:-1,Euronews
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/435.ts
+#EXTINF:-1,France 24
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/868.ts
+#EXTINF:-1,CNN
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/867.ts
+#EXTINF:-1,Sky News
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9180.ts
+#EXTINF:-1,Bloomberg
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1093.ts
+#EXTINF:-1,Fox News
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9179.ts
+#EXTINF:-1,Russia Today
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9177.ts
+#EXTINF:-1,Deutsche Welle
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4688.ts
+#EXTINF:-1,►►►Desporto◄◄◄
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4935.ts
+#EXTINF:-1,SPORT.TV1
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1896.ts
+#EXTINF:-1,SPORT.TV 1 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/143.ts
+#EXTINF:-1,SPORT.TV 1 FULLHD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/101.ts
+#EXTINF:-1,SPORT.TV2
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/103.ts
+#EXTINF:-1,SPORT.TV 2 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5386.ts
+#EXTINF:-1,SPORT.TV 2 FULLHD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/415.ts
+#EXTINF:-1,SPORT.TV3
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/104.ts
+#EXTINF:-1,SPORT.TV 3 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5387.ts
+#EXTINF:-1,SPORT.TV 3 FULLHD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/974.ts
+#EXTINF:-1,SPORT.TV4
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/106.ts
+#EXTINF:-1,Sport.TV4 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5388.ts
+#EXTINF:-1,Sport.TV 4 FULLHD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/107.ts
+#EXTINF:-1,SPORT.TV5
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/418.ts
+#EXTINF:-1,Sport.TV5 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5389.ts
+#EXTINF:-1,Sport.TV5 FULLHD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/108.ts
+#EXTINF:-1,SPORT.TV 4K UHD (BETA)
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/12288.ts
+#EXTINF:-1,Benfica TV 1
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/113.ts
+#EXTINF:-1,Benfica TV 1 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2241.ts
+#EXTINF:-1,Benfica TV 1 FULLHD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/112.ts
+#EXTINF:-1,PFC
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/980.ts
+#EXTINF:-1,FIGHT CHANNEL HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1876.ts
+#EXTINF:-1,KOMBAT SPORTS
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4932.ts
+#EXTINF:-1,NBA
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2825.ts
+#EXTINF:-1,NBA HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/10428.ts
+#EXTINF:-1,NFL NOW
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4930.ts
+#EXTINF:-1,Toros TV
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/432.ts
+#EXTINF:-1,Toros TV HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/7742.ts
+#EXTINF:-1,OUTDOOR HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2824.ts
+#EXTINF:-1,MCS EXTREME
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2442.ts
+#EXTINF:-1,FUEL TV
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/986.ts
+#EXTINF:-1,FUEL TV HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9442.ts
+#EXTINF:-1,EUROSPORT 1
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/139.ts
+#EXTINF:-1,EUROSPORT 1 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/135.ts
+#EXTINF:-1,EUROSPORT 2
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/136.ts
+#EXTINF:-1,MOTORVISION
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/984.ts
+#EXTINF:-1,MOTORVISION HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/10848.ts
+#EXTINF:-1,Motorsport.tv
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/116.ts
+#EXTINF:-1,CACAVISION
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/995.ts
+#EXTINF:-1,Caza y Pesca
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/641.ts
+#EXTINF:-1,SPORTING TV
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/109.ts
+#EXTINF:-1,SPORTING TV HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2298.ts
+#EXTINF:-1,Porto Canal
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/83.ts
+#EXTINF:-1,Porto Canal HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9443.ts
+#EXTINF:-1,REAL MADRID TV
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5395.ts
+#EXTINF:-1,BARCA TV
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/110.ts
+#EXTINF:-1,MUTV
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4158.ts
+#EXTINF:-1,►►►Filmes & Series◄◄◄
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4936.ts
+#EXTINF:-1,TVCINE 1
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/89.ts
+#EXTINF:-1,TVCINE 1 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1256.ts
+#EXTINF:-1,TVCINE 2
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/90.ts
+#EXTINF:-1,TVCINE 2 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1255.ts
+#EXTINF:-1,TVCINE 3
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/91.ts
+#EXTINF:-1,TVCINE 3 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1254.ts
+#EXTINF:-1,TVCINE 4
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/92.ts
+#EXTINF:-1,TVCINE 4 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1253.ts
+#EXTINF:-1,TVCINE SERIES
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1096.ts
+#EXTINF:-1,TVSERIES HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1257.ts
+#EXTINF:-1,SYFY
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/93.ts
+#EXTINF:-1,SyFy HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4684.ts
+#EXTINF:-1,AMC
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/131.ts
+#EXTINF:-1,AMC HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4157.ts
+#EXTINF:-1,Cinemundo
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/96.ts
+#EXTINF:-1,Hollywood
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/95.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/94.ts
+#EXTINF:-1,FOX
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/10430.ts
+#EXTINF:-1,FOX HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/98.ts
+#EXTINF:-1,FOX MOVIES
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/97.ts
+#EXTINF:-1,FOX MOVIES HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5394.ts
+#EXTINF:-1,FOX COMEDY
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/988.ts
+#EXTINF:-1,FOX Comedy HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5771.ts
+#EXTINF:-1,FOX CRIME
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2828.ts
+#EXTINF:-1,FOX CRIME HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/99.ts
+#EXTINF:-1,Fox Life
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/10856.ts
+#EXTINF:-1,Fox Life HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/430.ts
+#EXTINF:-1,AXN
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4685.ts
+#EXTINF:-1,AXN HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/999.ts
+#EXTINF:-1,AXN WHITE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2827.ts
+#EXTINF:-1,Axn White HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/429.ts
+#EXTINF:-1,AXN BLACK
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2826.ts
+#EXTINF:-1,AXN BLACK HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/100.ts
+#EXTINF:-1,SUNDANCE HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5393.ts
+#EXTINF:-1,Zee Cinema
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9182.ts
+#EXTINF:-1,BBC Entertainment
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/416.ts
+#EXTINF:-1,►►►Animacao◄◄◄
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4937.ts
+#EXTINF:-1,SIC K
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/121.ts
+#EXTINF:-1,SIC K HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/6630.ts
+#EXTINF:-1,BABY TV
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/117.ts
+#EXTINF:-1,JIM JAM
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/125.ts
+#EXTINF:-1,Baby First
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4682.ts
+#EXTINF:-1,PANDA BIGGS
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/123.ts
+#EXTINF:-1,Canal Panda
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/120.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/990.ts
+#EXTINF:-1,Disney Junior
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/119.ts
+#EXTINF:-1,Nickelodeon
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/122.ts
+#EXTINF:-1,Nick Jr.
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/13267.ts
+#EXTINF:-1,CARTOON NETWORK
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/994.ts
+#EXTINF:-1,►►►Docu. & entret◄◄◄
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4938.ts
+#EXTINF:-1,TLC
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/971.ts
+#EXTINF:-1,E! ENTERTAINMENT
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/989.ts
+#EXTINF:-1,CBS REALITY
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/992.ts
+#EXTINF:-1,A&E
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1001.ts
+#EXTINF:-1,CANAL 180 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14363.ts
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/129.ts
+#EXTINF:-1,FINE LIVING HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5392.ts
+#EXTINF:-1,LUXE TV HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4154.ts
+#EXTINF:-1,Canal de Historia
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/138.ts
+#EXTINF:-1,Odisseia
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/127.ts
+#EXTINF:-1,Discovery Channel
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/128.ts
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/134.ts
+#EXTINF:-1,CRIME INVESTIGATION
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5385.ts
+#EXTINF:-1,NAT GEO WILD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/982.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9444.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14364.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/981.ts
+#EXTINF:-1,DOG TV HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4155.ts
+#EXTINF:-1,24 KITCHEN
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/12850.ts
+#EXTINF:-1,24 KITCHEN HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1003.ts
+#EXTINF:-1,Food Network
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/130.ts
+#EXTINF:-1,Food Network HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/12849.ts
+#EXTINF:-1,My Cuisine
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2443.ts
+#EXTINF:-1,Fashion
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/436.ts
+#EXTINF:-1,Angelus TV
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14357.ts
+#EXTINF:-1,Kuriakos TV HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14358.ts
+#EXTINF:-1,FATIMA TV (WEB.CAM)
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9974.ts
+#EXTINF:-1,TV CANCAO NOVA
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/419.ts
+#EXTINF:-1,►►►Music◄◄◄
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4939.ts
+#EXTINF:-1,ClubbingTV
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/13368.ts
+#EXTINF:-1,Trace TV
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1304.ts
+#EXTINF:-1,TRACE URBAN HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/7743.ts
+#EXTINF:-1,MCM TOP
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5773.ts
+#EXTINF:-1,MCM POP
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1305.ts
+#EXTINF:-1,iCONCERTS HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4687.ts
+#EXTINF:-1,C MUSIC
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2830.ts
+#EXTINF:-1,BRAVA
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14365.ts
+#EXTINF:-1,MEZZO
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2832.ts
+#EXTINF:-1,Mtv Portugal
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/124.ts
+#EXTINF:-1,Mtv Live
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/10597.ts
+#EXTINF:-1,MTV MUSIC
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1095.ts
+#EXTINF:-1,MTV Rocks
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1094.ts
+#EXTINF:-1,MTV dance
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/156.ts
+#EXTINF:-1,VH1
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/403.ts
+#EXTINF:-1,VH1 Classic
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/3322.ts
+#EXTINF:-1,AFRO MUSIC
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1000.ts
+#EXTINF:-1,ONE 1 HD
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/157.ts
+#EXTINF:-1,►►► LowBitrate (Net lentas) ◄◄◄
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4940.ts
+#EXTINF:-1,RTP 1 LOW BITRATE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2237.ts
+#EXTINF:-1,RTP 2 LOW BITRATE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2236.ts
+#EXTINF:-1,SIC LOW BITRATE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2235.ts
+#EXTINF:-1,TVI LOW BITRATE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2228.ts
+#EXTINF:-1,CMTV LOW
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14378.ts
+#EXTINF:-1,RTP 3 LOW BITRATE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14382.ts
+#EXTINF:-1,TVI 24 LOW BITRATE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14384.ts
+#EXTINF:-1,TVI Reality LOW
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14372.ts
+#EXTINF:-1,SportTV 1 LOW BITRATE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2234.ts
+#EXTINF:-1,SportTV 2 LOW BITRATE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2233.ts
+#EXTINF:-1,SportTV 3 LOW BITRATE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/6624.ts
+#EXTINF:-1,SportTV 4 LOW BITRATE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/6625.ts
+#EXTINF:-1,SportTV 5 LOW BITRATE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/6626.ts
+#EXTINF:-1,BTV 1 LOW BITRATE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2239.ts
+#EXTINF:-1,Porto Canal LOW BITRATE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14381.ts
+#EXTINF:-1,Sporting TV LOW BITRATE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14383.ts
+#EXTINF:-1,TVCine 1 LOW BITRATE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2232.ts
+#EXTINF:-1,TVCine 2 LOW BITRATE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2231.ts
+#EXTINF:-1,TVCine 3 LOW BITRATE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2230.ts
+#EXTINF:-1,TVCine 4 LOW BITRATE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2229.ts
+#EXTINF:-1,TVSeries LOW
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14371.ts
+#EXTINF:-1,AMC LOW BITRATE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14385.ts
+#EXTINF:-1,AXN Black LOW
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14373.ts
+#EXTINF:-1,AXN LOW
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14374.ts
+#EXTINF:-1,AXN White LOW
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14375.ts
+#EXTINF:-1,Fox Comedy LOW
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14379.ts
+#EXTINF:-1,FOX LOW BITRATE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14380.ts
+#EXTINF:-1,►►► RÁDIO ◄◄◄
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2711.ts
+#EXTINF:-1,105 CASCAIS
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2727.ts
+#EXTINF:-1,94 FM
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8321.ts
+#EXTINF:-1,ANTENA MINHO
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8303.ts
+#EXTINF:-1,Amalia
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8312.ts
+#EXTINF:-1,CANAL FM
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2726.ts
+#EXTINF:-1,CIDADE FM
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2714.ts
+#EXTINF:-1,DOURO NACIONAL
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8307.ts
+#EXTINF:-1,HIPER FM
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2713.ts
+#EXTINF:-1,MARGINAL
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8301.ts
+#EXTINF:-1,NOVA ERA
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2737.ts
+#EXTINF:-1,OXIGENIO
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8305.ts
+#EXTINF:-1,Orbital
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2723.ts
+#EXTINF:-1,POPULAR FM
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8306.ts
+#EXTINF:-1,RADAR
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8313.ts
+#EXTINF:-1,RADIO COMERCIAL
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9189.ts
+#EXTINF:-1,RADIO PORTUGAL SW
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2715.ts
+#EXTINF:-1,RADIO RENASCENCA
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9193.ts
+#EXTINF:-1,RADIO SATURNO
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8302.ts
+#EXTINF:-1,RADIO SIM
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8310.ts
+#EXTINF:-1,RADIO REGIONAL
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/12539.ts
+#EXTINF:-1,RADIO 100 DANCE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/12533.ts
+#EXTINF:-1,GOLO FM
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/12538.ts
+#EXTINF:-1,RADIO 100 LOVE SONGS
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/12534.ts
+#EXTINF:-1,RADIO 100 OLDIES
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/12535.ts
+#EXTINF:-1,RÁDIO 100 PORTUGUESA
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/12537.ts
+#EXTINF:-1,RADIO 100 ROCK
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/12536.ts
+#EXTINF:-1,REGAEE RADIO 808
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8309.ts
+#EXTINF:-1,RFM
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9192.ts
+#EXTINF:-1,RFM 80
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9191.ts
+#EXTINF:-1,RFM CLUBBING
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9190.ts
+#EXTINF:-1,RLCB DANCE
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8316.ts
+#EXTINF:-1,RUC
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8308.ts
+#EXTINF:-1,Radio Amalia
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2736.ts
+#EXTINF:-1,Radio Elvas
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2734.ts
+#EXTINF:-1,Radio Mega Hits
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2732.ts
+#EXTINF:-1,Radio Oxygienio
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2731.ts
+#EXTINF:-1,Radio SBSR
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8318.ts
+#EXTINF:-1,RÁDIO CANÇÃO NOVA
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2720.ts
+#EXTINF:-1,SUPER FM
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8320.ts
+#EXTINF:-1,TOP 80
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8314.ts
+#EXTINF:-1,TORRES NOVAS FM
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8311.ts
+#EXTINF:-1,TOTAL FM
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8315.ts
+#EXTINF:-1,TROPICAL FM
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8317.ts
+#EXTINF:-1,TSF
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9194.ts
+#EXTINF:-1,ULTRA FM
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8304.ts
+#EXTINF:-1,Viva 80
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2719.ts
 
 
 
@@ -12638,9 +13333,236 @@ http://1.primatv.club:1000/live/Meintv2018/6ktnvkm2018/1293.ts|user-agent=VLC/3.
 
 
 #EXTINF:9 group-title=”United.Arab.Emirates4_PREMIUM-MXPlayer”,
+#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png ,==U.A.E==
+http://..........
 
+#EXTINF:-1  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
+http://.....
 
-
+#EXTINF:-1,FIFA World Cup 2018
+http://janiptv.com:8888/live/q2to4g36/2p72688v/144.ts
+#EXTINF:-1,Al Salam
+http://janiptv.com:8888/live/q2to4g36/2p72688v/87.ts
+#EXTINF:-1,bait la7em
+http://janiptv.com:8888/live/q2to4g36/2p72688v/89.ts
+#EXTINF:-1,Falcon Eye
+http://janiptv.com:8888/live/q2to4g36/2p72688v/86.ts
+#EXTINF:-1,Alfajertv HD1
+http://janiptv.com:8888/live/q2to4g36/2p72688v/75.ts
+#EXTINF:-1,Alfajertv HD2
+http://janiptv.com:8888/live/q2to4g36/2p72688v/73.ts
+#EXTINF:-1,AlfajertvHD3
+http://janiptv.com:8888/live/q2to4g36/2p72688v/76.ts
+#EXTINF:-1,Ajyal
+http://janiptv.com:8888/live/q2to4g36/2p72688v/63.ts
+#EXTINF:-1,===BeIN Sports FULLHD===
+http://janiptv.com:8888/live/q2to4g36/2p72688v/2.ts
+#EXTINF:-1,BEIN 1 FULLHD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/3.ts
+#EXTINF:-1,BEIN 2 FULLHD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/4.ts
+#EXTINF:-1,BEIN 3 FULLHD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/5.ts
+#EXTINF:-1,BEIN 4 FULLHD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/6.ts
+#EXTINF:-1,BEIN 5 FULLHD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/7.ts
+#EXTINF:-1,BEIN 6 FULLHD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/8.ts
+#EXTINF:-1,BEIN 7 FULLHD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/9.ts
+#EXTINF:-1,BEIN 8 FULLHD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/10.ts
+#EXTINF:-1,========BeIN Sports HD1=========
+http://janiptv.com:8888/live/q2to4g36/2p72688v/99.ts
+#EXTINF:-1,BEIN 1HD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/95.ts
+#EXTINF:-1,BEIN 2HD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/96.ts
+#EXTINF:-1,BEIN 3HD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/97.ts
+#EXTINF:-1,BEIN 4HD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/98.ts
+#EXTINF:-1,===BeIN Sports SD===
+http://janiptv.com:8888/live/q2to4g36/2p72688v/11.ts
+#EXTINF:-1,BEIN 1SD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/12.ts
+#EXTINF:-1,BEIN 2SD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/13.ts
+#EXTINF:-1,BEIN 3SD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/14.ts
+#EXTINF:-1,BEIN 4SD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/15.ts
+#EXTINF:-1,BEIN 5SD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/16.ts
+#EXTINF:-1,BEIN 6SD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/17.ts
+#EXTINF:-1,BEIN 7SD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/18.ts
+#EXTINF:-1,BEIN 8SD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/19.ts
+#EXTINF:-1,===BeIN MOVES===
+http://janiptv.com:8888/live/q2to4g36/2p72688v/20.ts
+#EXTINF:-1,BEIN MOVES1
+http://janiptv.com:8888/live/q2to4g36/2p72688v/21.ts
+#EXTINF:-1,BEIN MOVES2
+http://janiptv.com:8888/live/q2to4g36/2p72688v/22.ts
+#EXTINF:-1,BEIN MOVES3
+http://janiptv.com:8888/live/q2to4g36/2p72688v/23.ts
+#EXTINF:-1,BEIN MOVES4
+http://janiptv.com:8888/live/q2to4g36/2p72688v/100.ts
+#EXTINF:-1,BEIN SERIES 1HD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/90.ts
+#EXTINF:-1,BEIN Drama
+http://janiptv.com:8888/live/q2to4g36/2p72688v/91.ts
+#EXTINF:-1,Star-Movies
+http://janiptv.com:8888/live/q2to4g36/2p72688v/104.ts
+#EXTINF:-1,FOX-Movies
+http://janiptv.com:8888/live/q2to4g36/2p72688v/101.ts
+#EXTINF:-1,FOX-Family-Movies
+http://janiptv.com:8888/live/q2to4g36/2p72688v/103.ts
+#EXTINF:-1,FOX-ACTION-Movies
+http://janiptv.com:8888/live/q2to4g36/2p72688v/102.ts
+#EXTINF:-1,===OSN===
+http://janiptv.com:8888/live/q2to4g36/2p72688v/34.ts
+#EXTINF:-1,Movies_Family
+http://janiptv.com:8888/live/q2to4g36/2p72688v/112.ts
+#EXTINF:-1,Movies_Comedy
+http://janiptv.com:8888/live/q2to4g36/2p72688v/111.ts
+#EXTINF:-1,Movies_Action
+http://janiptv.com:8888/live/q2to4g36/2p72688v/116.ts
+#EXTINF:-1,MoviesKids
+http://janiptv.com:8888/live/q2to4g36/2p72688v/110.ts
+#EXTINF:-1,MoviesHD2
+http://janiptv.com:8888/live/q2to4g36/2p72688v/117.ts
+#EXTINF:-1,MoviesFirst2
+http://janiptv.com:8888/live/q2to4g36/2p72688v/114.ts
+#EXTINF:-1,Movies-Festival
+http://janiptv.com:8888/live/q2to4g36/2p72688v/113.ts
+#EXTINF:-1,Movies
+http://janiptv.com:8888/live/q2to4g36/2p72688v/118.ts
+#EXTINF:-1,OSn WWE
+http://janiptv.com:8888/live/q2to4g36/2p72688v/138.ts
+#EXTINF:-1,OSN MoviesDrama
+http://janiptv.com:8888/live/q2to4g36/2p72688v/133.ts
+#EXTINF:-1,OSN BoxOffice1
+http://janiptv.com:8888/live/q2to4g36/2p72688v/135.ts
+#EXTINF:-1,OSN BoxOffice2
+http://janiptv.com:8888/live/q2to4g36/2p72688v/136.ts
+#EXTINF:-1,OSN BoxOffice3
+http://janiptv.com:8888/live/q2to4g36/2p72688v/137.ts
+#EXTINF:-1,OSN Yahala Cinema
+http://janiptv.com:8888/live/q2to4g36/2p72688v/134.ts
+#EXTINF:-1,Musalsalat
+http://janiptv.com:8888/live/q2to4g36/2p72688v/105.ts
+#EXTINF:-1,Cinema1
+http://janiptv.com:8888/live/q2to4g36/2p72688v/109.ts
+#EXTINF:-1,Cinema2
+http://janiptv.com:8888/live/q2to4g36/2p72688v/108.ts
+#EXTINF:-1,ART-Cinema
+http://janiptv.com:8888/live/q2to4g36/2p72688v/106.ts
+#EXTINF:-1,ART-Aflam1
+http://janiptv.com:8888/live/q2to4g36/2p72688v/107.ts
+#EXTINF:-1,===MBC===
+http://janiptv.com:8888/live/q2to4g36/2p72688v/24.ts
+#EXTINF:-1,MBC 1
+http://janiptv.com:8888/live/q2to4g36/2p72688v/25.ts
+#EXTINF:-1,MBC 2
+http://janiptv.com:8888/live/q2to4g36/2p72688v/26.ts
+#EXTINF:-1,MBC 3
+http://janiptv.com:8888/live/q2to4g36/2p72688v/27.ts
+#EXTINF:-1,MBC 4
+http://janiptv.com:8888/live/q2to4g36/2p72688v/28.ts
+#EXTINF:-1,MBC DRAMA
+http://janiptv.com:8888/live/q2to4g36/2p72688v/29.ts
+#EXTINF:-1,MBC Drama Plus
+http://janiptv.com:8888/live/q2to4g36/2p72688v/32.ts
+#EXTINF:-1,MBC ACTION
+http://janiptv.com:8888/live/q2to4g36/2p72688v/30.ts
+#EXTINF:-1,MBC MAX*
+http://janiptv.com:8888/live/q2to4g36/2p72688v/149.ts
+#EXTINF:-1,MBC MAX
+http://janiptv.com:8888/live/q2to4g36/2p72688v/31.ts
+#EXTINF:-1,MBC Variety
+http://janiptv.com:8888/live/q2to4g36/2p72688v/33.ts
+#EXTINF:-1,===ROTANA===
+http://janiptv.com:8888/live/q2to4g36/2p72688v/132.ts
+#EXTINF:-1,Rotana-Drama
+http://janiptv.com:8888/live/q2to4g36/2p72688v/130.ts
+#EXTINF:-1,Rotana-Classic
+http://janiptv.com:8888/live/q2to4g36/2p72688v/131.ts
+#EXTINF:-1,Rotana-Cinema
+http://janiptv.com:8888/live/q2to4g36/2p72688v/128.ts
+#EXTINF:-1,Rotana-Aflam
+http://janiptv.com:8888/live/q2to4g36/2p72688v/129.ts
+#EXTINF:-1,===NEWS===
+http://janiptv.com:8888/live/q2to4g36/2p72688v/47.ts
+#EXTINF:-1,Aljazeera
+http://janiptv.com:8888/live/q2to4g36/2p72688v/48.ts
+#EXTINF:-1,Alarabiya
+http://janiptv.com:8888/live/q2to4g36/2p72688v/49.ts
+#EXTINF:-1,Alhadath
+http://janiptv.com:8888/live/q2to4g36/2p72688v/50.ts
+#EXTINF:-1,BBC
+http://janiptv.com:8888/live/q2to4g36/2p72688v/54.ts
+#EXTINF:-1,Deutsche Welle AR
+http://janiptv.com:8888/live/q2to4g36/2p72688v/53.ts
+#EXTINF:-1,France 24ar
+http://janiptv.com:8888/live/q2to4g36/2p72688v/52.ts
+#EXTINF:-1,RT ARABIC
+http://janiptv.com:8888/live/q2to4g36/2p72688v/55.ts
+#EXTINF:-1,Sky News AR
+http://janiptv.com:8888/live/q2to4g36/2p72688v/51.ts
+#EXTINF:-1,===KIDS===
+http://janiptv.com:8888/live/q2to4g36/2p72688v/56.ts
+#EXTINF:-1,Ajyal baby
+http://janiptv.com:8888/live/q2to4g36/2p72688v/61.ts
+#EXTINF:-1,Talking Tom and Friends
+http://janiptv.com:8888/live/q2to4g36/2p72688v/60.ts
+#EXTINF:-1,Talking Tom Shorts
+http://janiptv.com:8888/live/q2to4g36/2p72688v/59.ts
+#EXTINF:-1,Toyor Aljanah
+http://janiptv.com:8888/live/q2to4g36/2p72688v/58.ts
+#EXTINF:-1,Toyor Baby
+http://janiptv.com:8888/live/q2to4g36/2p72688v/57.ts
+#EXTINF:-1,===DOCUMENTARY===
+http://janiptv.com:8888/live/q2to4g36/2p72688v/127.ts
+#EXTINF:-1,National-Geographic
+http://janiptv.com:8888/live/q2to4g36/2p72688v/142.ts
+#EXTINF:-1,Al Jazeera Documentary
+http://janiptv.com:8888/live/q2to4g36/2p72688v/67.ts
+#EXTINF:-1,Nat-GeoHD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/122.ts
+#EXTINF:-1,Nat-Geo-Wild
+http://janiptv.com:8888/live/q2to4g36/2p72688v/120.ts
+#EXTINF:-1,Nat-Geo-People
+http://janiptv.com:8888/live/q2to4g36/2p72688v/121.ts
+#EXTINF:-1,DiscoveryHD
+http://janiptv.com:8888/live/q2to4g36/2p72688v/124.ts
+#EXTINF:-1,Discovery-Science
+http://janiptv.com:8888/live/q2to4g36/2p72688v/125.ts
+#EXTINF:-1,Animal-Planet
+http://janiptv.com:8888/live/q2to4g36/2p72688v/123.ts
+#EXTINF:-1,===MORE===
+http://janiptv.com:8888/live/q2to4g36/2p72688v/62.ts
+#EXTINF:-1,Quraan TV
+http://janiptv.com:8888/live/q2to4g36/2p72688v/66.ts
+#EXTINF:-1,CBC
+http://janiptv.com:8888/live/q2to4g36/2p72688v/65.ts
 
 
 
@@ -13791,7 +14713,446 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1  tvg-logo=https://assets.winsornewton.com/imagefiles/listing/2757.jpg ,
 http://.....
 
-
+#EXTINF:-1,O-la-la
+http://62.76.18.82:81/udp/239.195.5.33:1234
+#EXTINF:-1,Ночной Клуб
+http://62.76.18.82:81/udp/239.195.4.109:1234
+#EXTINF:-1,7тв
+http://62.76.18.82:81/udp/239.195.5.35:1234
+#EXTINF:-1,Матч тв
+http://62.76.18.82:81/udp/239.195.1.3:1234
+#EXTINF:-1,Рен тв
+http://62.76.18.82:81/udp/239.195.1.11:1234
+#EXTINF:-1,ТВ3
+http://62.76.18.82:81/udp/239.195.1.15:1234
+#EXTINF:-1,Патнмца
+http://62.76.18.82:81/udp/239.195.1.16:1234
+#EXTINF:-1,НТВ
+http://62.76.18.82:81/udp/239.195.1.104:1234
+#EXTINF:-1,тнт4
+http://62.76.18.82:81/udp/239.195.1.33:1234
+#EXTINF:-1,пиктв
+http://62.76.18.82:81/udp/239.195.5.12:1234
+#EXTINF:-1,musicbox ru
+http://62.76.18.82:81/udp/239.195.5.27:1234
+#EXTINF:-1,окрытый мир
+http://62.76.18.82:81/udp/239.195.5.32:1234
+#EXTINF:-1,мой дом
+http://62.76.18.82:81/udp/239.195.5.34:1234
+#EXTINF:-1,Домашний
+http://62.76.18.82:81/udp/239.195.0.4:1234
+#EXTINF:-1,Пятый канал
+http://62.76.18.82:81/udp/239.195.0.1:1234
+#EXTINF:-1,Че
+http://62.76.18.82:81/udp/239.195.0.5:1234
+#EXTINF:-1,Ю ТВ
+http://62.76.18.82:81/udp/239.195.0.6:1234
+#EXTINF:-1,НТВ
+http://62.76.18.82:81/udp/239.195.0.7:1234
+#EXTINF:-1,Первый канал
+http://62.76.18.82:81/udp/239.195.0.8:1234
+#EXTINF:-1,Рен ТВ
+http://62.76.18.82:81/udp/239.195.0.9:1234
+#EXTINF:-1,Россия 1
+http://62.76.18.82:81/udp/239.195.0.10:1234
+#EXTINF:-1,Матч!
+http://62.76.18.82:81/udp/239.195.0.11:1234
+#EXTINF:-1,Россия К
+http://62.76.18.82:81/udp/239.195.0.12:1234
+#EXTINF:-1,CTC
+http://62.76.18.82:81/udp/239.195.0.13:1234
+#EXTINF:-1,ТВ3
+http://62.76.18.82:81/udp/239.195.0.14:1234
+#EXTINF:-1,ТВ Центр
+http://62.76.18.82:81/udp/239.195.0.15:1234
+#EXTINF:-1,2x2
+http://62.76.18.82:81/udp/239.195.0.16:1234
+#EXTINF:-1,ТНТ
+http://62.76.18.82:81/udp/239.195.0.17:1234
+#EXTINF:-1,Карусель
+http://62.76.18.82:81/udp/239.195.0.31:1234
+#EXTINF:-1,ОТР
+http://62.76.18.82:81/udp/239.195.0.40:1234
+#EXTINF:-1,Disney Channel
+http://62.76.18.82:81/udp/239.195.0.44:1234
+#EXTINF:-1,Пятница
+http://62.76.18.82:81/udp/239.195.0.103:1234
+#EXTINF:-1,Россия К
+http://62.76.18.82:81/udp/239.195.0.212:1234
+#EXTINF:-1,Авто Плюс
+http://62.76.18.82:81/udp/239.195.1.17:1234
+#EXTINF:-1,Звезда
+http://62.76.18.82:81/udp/239.195.1.20:1234
+#EXTINF:-1,Кухня ТВ
+http://62.76.18.82:81/udp/239.195.1.26:1234
+#EXTINF:-1,Россия 24
+http://62.76.18.82:81/udp/239.195.1.29:1234
+#EXTINF:-1,Союз
+http://62.76.18.82:81/udp/239.195.1.30:1234
+#EXTINF:-1,Шансон ТВ
+http://62.76.18.82:81/udp/239.195.1.34:1234
+#EXTINF:-1,ТВ
+http://62.76.18.82:81/udp/239.195.0.21:1234
+#EXTINF:-1,Мир
+http://62.76.18.82:81/udp/239.195.1.37:1234
+#EXTINF:-1,Россия 24
+http://62.76.18.82:81/udp/239.195.1.129:1234
+#EXTINF:-1,Мир 24
+http://62.76.18.82:81/udp/239.195.1.167:1234
+#EXTINF:-1,Инфоканал
+http://62.76.18.82:81/udp/239.195.1.205:1234
+#EXTINF:-1,Europa Plus TV
+http://62.76.18.82:81/udp/239.195.2.20:1234
+#EXTINF:-1,RU TV
+http://62.76.18.82:81/udp/239.195.2.34:1234
+#EXTINF:-1,Ля Минор
+http://62.76.18.82:81/udp/239.195.2.35:1234
+#EXTINF:-1,Боец
+http://62.76.18.82:81/udp/239.195.2.51:1234
+#EXTINF:-1,ТНТ4
+http://62.76.18.82:81/udp/239.195.2.76:1234
+#EXTINF:-1,365 дней
+http://62.76.18.82:81/udp/239.195.2.78:1234
+#EXTINF:-1,Муз ТВ
+http://62.76.18.82:81/udp/239.195.2.83:1234
+#EXTINF:-1,Матч! Наш Спорт
+http://62.76.18.82:81/udp/239.195.3.16:1234
+#EXTINF:-1,CTC Love
+http://62.76.18.82:81/udp/239.195.3.22:1234
+#EXTINF:-1,LifeNews
+http://62.76.18.82:81/udp/239.195.3.27:1234
+#EXTINF:-1,8 Канал
+http://62.76.18.82:81/udp/239.195.3.28:1234
+#EXTINF:-1,Беларусь 24
+http://62.76.18.82:81/udp/239.195.3.29:1234
+#EXTINF:-1,Точка ТВ
+http://62.76.18.82:81/udp/239.195.3.31:1234
+#EXTINF:-1,Подмосковье
+http://62.76.18.82:81/udp/239.195.3.32:1234
+#EXTINF:-1,Ставропольское региональное ТВ
+http://62.76.18.82:81/udp/239.195.3.33:1234
+#EXTINF:-1,Luxury World
+http://62.76.18.82:81/udp/239.195.3.35:1234
+#EXTINF:-1,TVM
+http://62.76.18.82:81/udp/239.195.3.34:1234
+#EXTINF:-1,Интер +
+http://62.76.18.82:81/udp/239.195.3.36:1234
+#EXTINF:-1,TVXXI
+http://62.76.18.82:81/udp/239.195.3.37:1234
+#EXTINF:-1,Мир Сериала
+http://62.76.18.82:81/udp/239.195.3.38:1234
+#EXTINF:-1,Много ТВ
+http://62.76.18.82:81/udp/239.195.3.39:1234
+#EXTINF:-1,Дом Кино
+http://62.76.18.82:81/udp/239.195.3.41:1234
+#EXTINF:-1,Время
+http://62.76.18.82:81/udp/239.195.3.42:1234
+#EXTINF:-1,ТелеКафе
+http://62.76.18.82:81/udp/239.195.3.43:1234
+#EXTINF:-1,Музыка первого
+http://62.76.18.82:81/udp/239.195.3.44:1234
+#EXTINF:-1,Детский мир
+http://62.76.18.82:81/udp/239.195.3.46:1234
+#EXTINF:-1,Первый канал
+http://62.76.18.82:81/udp/239.195.3.201:1234
+#EXTINF:-1,Encoded Video
+http://62.76.18.82:81/udp/239.195.3.202:1234
+#EXTINF:-1,Россия 1
+http://62.76.18.82:81/udp/239.195.3.211:1234
+#EXTINF:-1,Россия К
+http://62.76.18.82:81/udp/239.195.3.212:1234
+#EXTINF:-1,IQ HD
+http://62.76.18.82:81/udp/239.195.4.50:1234
+#EXTINF:-1,Мир HD
+http://62.76.18.82:81/udp/239.195.4.49:1234
+#EXTINF:-1,Иллюзион +
+http://62.76.18.82:81/udp/239.195.4.52:1234
+#EXTINF:-1,RTG HD
+http://62.76.18.82:81/udp/239.195.4.51:1234
+#EXTINF:-1,Еврокино
+http://62.76.18.82:81/udp/239.195.4.53:1234
+#EXTINF:-1,Кинопоказ
+http://62.76.18.82:81/udp/239.195.4.54:1234
+#EXTINF:-1,Кино ТВ
+http://62.76.18.82:81/udp/239.195.4.56:1234
+#EXTINF:-1,Кино Плюс
+http://62.76.18.82:81/udp/239.195.4.55:1234
+#EXTINF:-1,Русский Иллюзион
+http://62.76.18.82:81/udp/239.195.4.57:1234
+#EXTINF:-1,НСТ
+http://62.76.18.82:81/udp/239.195.4.58:1234
+#EXTINF:-1,Zee TV
+http://62.76.18.82:81/udp/239.195.4.59:1234
+#EXTINF:-1,Русский Роман
+http://62.76.18.82:81/udp/239.195.4.60:1234
+#EXTINF:-1,Русский Бестселлер
+http://62.76.18.82:81/udp/239.195.4.61:1234
+#EXTINF:-1,Русский Детектив
+http://62.76.18.82:81/udp/239.195.4.62:1234
+#EXTINF:-1,Детский
+http://62.76.18.82:81/udp/239.195.4.63:1234
+#EXTINF:-1,Мульт
+http://62.76.18.82:81/udp/239.195.4.64:1234
+#EXTINF:-1,RUSONG TV
+http://62.76.18.82:81/udp/239.195.4.66:1234
+#EXTINF:-1,Рыжий ТВ
+http://62.76.18.82:81/udp/239.195.4.65:1234
+#EXTINF:-1,Bridge TV
+http://62.76.18.82:81/udp/239.195.4.67:1234
+#EXTINF:-1,Dange TV
+http://62.76.18.82:81/udp/239.195.4.68:1234
+#EXTINF:-1,TOPSONG TV
+http://62.76.18.82:81/udp/239.195.4.69:1234
+#EXTINF:-1,Футбол
+http://62.76.18.82:81/udp/239.195.4.74:1234
+#EXTINF:-1,Бокс ТВ
+http://62.76.18.82:81/udp/239.195.4.73:1234
+#EXTINF:-1,Русский Экстрим
+http://62.76.18.82:81/udp/239.195.4.76:1234
+#EXTINF:-1,Авто 24
+http://62.76.18.82:81/udp/239.195.4.77:1234
+#EXTINF:-1,Драйв
+http://62.76.18.82:81/udp/239.195.4.78:1234
+#EXTINF:-1,Охота и рыбалка
+http://62.76.18.82:81/udp/239.195.4.79:1234
+#EXTINF:-1,Здоровое ТВ
+http://62.76.18.82:81/udp/239.195.4.80:1234
+#EXTINF:-1,Тонус ТВ
+http://62.76.18.82:81/udp/239.195.4.81:1234
+#EXTINF:-1,Телепутешествия
+http://62.76.18.82:81/udp/239.195.4.82:1234
+#EXTINF:-1,Моя Планета
+http://62.76.18.82:81/udp/239.195.4.83:1234
+#EXTINF:-1,RTG TV
+http://62.76.18.82:81/udp/239.195.4.84:1234
+#EXTINF:-1,Zoo TV
+http://62.76.18.82:81/udp/239.195.4.85:1234
+#EXTINF:-1,ZooПарк
+http://62.76.18.82:81/udp/239.195.4.86:1234
+#EXTINF:-1,Домашние животные
+http://62.76.18.82:81/udp/239.195.4.87:1234
+#EXTINF:-1,Наука 2.0
+http://62.76.18.82:81/udp/239.195.4.88:1234
+#EXTINF:-1,Техно 24
+http://62.76.18.82:81/udp/239.195.4.89:1234
+#EXTINF:-1,Нано ТВ
+http://62.76.18.82:81/udp/239.195.4.90:1234
+#EXTINF:-1,История
+http://62.76.18.82:81/udp/239.195.4.91:1234
+#EXTINF:-1,24 Doc
+http://62.76.18.82:81/udp/239.195.4.92:1234
+#EXTINF:-1,Ретро
+http://62.76.18.82:81/udp/239.195.4.93:1234
+#EXTINF:-1,Психология 21
+http://62.76.18.82:81/udp/239.195.4.94:1234
+#EXTINF:-1,Вопросы и Ответы
+http://62.76.18.82:81/udp/239.195.4.95:1234
+#EXTINF:-1,Усадьба ТВ
+http://62.76.18.82:81/udp/239.195.4.96:1234
+#EXTINF:-1,Сарафан
+http://62.76.18.82:81/udp/239.195.4.97:1234
+#EXTINF:-1,Страна
+http://62.76.18.82:81/udp/239.195.4.98:1234
+#EXTINF:-1,Мама
+http://62.76.18.82:81/udp/239.195.4.99:1234
+#EXTINF:-1,Парк развлечений
+http://62.76.18.82:81/udp/239.195.4.100:1234
+#EXTINF:-1,Живая планета
+http://62.76.18.82:81/udp/239.195.4.101:1234
+#EXTINF:-1,Бокс ТВ
+http://62.76.18.82:81/udp/239.195.4.175:1234
+#EXTINF:-1,Оружие
+http://62.76.18.82:81/udp/239.195.5.2:1234
+#EXTINF:-1,Кто есть кто
+http://62.76.18.82:81/udp/239.195.5.4:1234
+#EXTINF:-1,Ностальгия
+http://62.76.18.82:81/udp/239.195.5.5:1234
+#EXTINF:-1,Индия ТВ
+http://62.76.18.82:81/udp/239.195.5.7:1234
+#EXTINF:-1,Комедия ТВ
+http://62.76.18.82:81/udp/239.195.5.8:1234
+#EXTINF:-1,Мужское кино
+http://62.76.18.82:81/udp/239.195.5.9:1234
+#EXTINF:-1,Наше Кино
+http://62.76.18.82:81/udp/239.195.5.10:1234
+#EXTINF:-1,Кинохит
+http://62.76.18.82:81/udp/239.195.5.11:1234
+#EXTINF:-1,Теледом HD
+http://62.76.18.82:81/udp/239.195.5.13:1234
+#EXTINF:-1,Дом Кино Премиум HD
+http://62.76.18.82:81/udp/239.195.5.14:1234
+#EXTINF:-1,Ani
+http://62.76.18.82:81/udp/239.195.5.15:1234
+#EXTINF:-1,СТРК HD
+http://62.76.18.82:81/udp/239.195.5.17:1234
+#EXTINF:-1,WBC HD
+http://62.76.18.82:81/udp/239.195.5.20:1234
+#EXTINF:-1,1HD
+http://62.76.18.82:81/udp/239.195.5.21:1234
+#EXTINF:-1,RT Doc HD
+http://62.76.18.82:81/udp/239.195.5.22:1234
+#EXTINF:-1,360° Подмосковье HD
+http://62.76.18.82:81/udp/239.195.5.23:1234
+#EXTINF:-1,СТРК HD
+http://62.76.18.82:81/udp/239.195.5.24:1234
+#EXTINF:-1,HD Спорт
+http://62.76.18.82:81/udp/239.195.5.25:1234
+#EXTINF:-1,Наш Спорт
+http://62.76.18.82:81/udp/239.195.5.26:1234
+#EXTINF:-1,Наше ТВ
+http://62.76.18.82:81/udp/239.195.5.29:1234
+#EXTINF:-1,Мультимания
+http://62.76.18.82:81/udp/239.195.5.30:1234
+#EXTINF:-1,Крик ТВ
+http://62.76.18.82:81/udp/239.195.5.31:1234
+#EXTINF:-1,ТНТ4
+http://62.76.18.82:81/udp/239.195.5.37:1234
+#EXTINF:-1,HTB
+http://62.76.18.82:81/udp/239.195.5.38:1234
+#EXTINF:-1,Камера HD
+http://62.76.18.82:81/udp/239.195.5.101:1234
+#EXTINF:-1,Камера HD
+http://62.76.18.82:81/udp/239.195.5.102:1234
+#EXTINF:-1,Камера HD
+http://62.76.18.82:81/udp/239.195.5.104:1234
+#EXTINF:-1,Камера HD
+http://62.76.18.82:81/udp/239.195.5.103:1234
+#EXTINF:-1,Камера HD
+http://62.76.18.82:81/udp/239.195.5.105:1234
+#EXTINF:-1,Камера HD
+http://62.76.18.82:81/udp/239.195.5.106:1234
+#EXTINF:-1,Камера HD
+http://62.76.18.82:81/udp/239.195.5.107:1234
+#EXTINF:-1,Камера HD
+http://62.76.18.82:81/udp/239.195.5.108:1234
+#EXTINF:-1,Камера HD
+http://62.76.18.82:81/udp/239.195.5.109:1234
+#EXTINF:-1,Камера HD
+http://62.76.18.82:81/udp/239.195.5.110:1234
+#EXTINF:-1,Камера HD
+http://62.76.18.82:81/udp/239.195.5.111:1234
+#EXTINF:-1,Камера HD
+http://62.76.18.82:81/udp/239.195.5.113:1234
+#EXTINF:-1,Камера HD
+http://62.76.18.82:81/udp/239.195.5.121:1234
+#EXTINF:-1,Камера HD
+http://62.76.18.82:81/udp/239.195.5.122:1234
+#EXTINF:-1,Камера HD
+http://62.76.18.82:81/udp/239.195.5.123:1234
+#EXTINF:-1,Камера HD
+http://62.76.18.82:81/udp/239.195.5.130:1234
+#EXTINF:-1,Камера HD
+http://62.76.18.82:81/udp/239.195.5.131:1234
+#EXTINF:-1,Камера HD
+http://62.76.18.82:81/udp/239.195.5.133:1234
+#EXTINF:-1,Камера HD
+http://62.76.18.82:81/udp/239.195.5.132:1234
+#EXTINF:-1,Камера HD
+http://62.76.18.82:81/udp/239.195.5.134:1234
+#EXTINF:-1,Камера HD
+http://62.76.18.82:81/udp/239.195.5.135:1234
+#EXTINF:-1,26 регион HD
+http://62.76.18.82:81/udp/239.195.5.233:1234
+#EXTINF:-1,Первый Канал HD
+http://62.76.18.82:81/udp/239.195.6.2:1234
+#EXTINF:-1,Россия HD
+http://62.76.18.82:81/udp/239.195.6.4:1234
+#EXTINF:-1,Премьера
+http://62.76.18.82:81/udp/239.195.6.11:1234
+#EXTINF:-1,Новое Кино
+http://62.76.18.82:81/udp/239.195.6.12:1234
+#EXTINF:-1,Киноклуб
+http://62.76.18.82:81/udp/239.195.6.13:1234
+#EXTINF:-1,HD Kino
+http://62.76.18.82:81/udp/239.195.6.14:1234
+#EXTINF:-1,HD Kino 2
+http://62.76.18.82:81/udp/239.195.6.15:1234
+#EXTINF:-1,Наш футбол HD
+http://62.76.18.82:81/udp/239.195.6.21:1234
+#EXTINF:-1,NEWS ONE
+http://62.76.18.82:81/udp/239.195.6.151:1234
+#EXTINF:-1,A-One UA
+http://62.76.18.82:81/udp/239.195.6.165:1234
+#EXTINF:-1,RTI
+http://62.76.18.82:81/udp/239.195.6.169:1234
+#EXTINF:-1,RU MUSIC
+http://62.76.18.82:81/udp/239.195.6.170:1234
+#EXTINF:-1,Рыжий
+http://62.76.18.82:81/udp/239.195.6.231:1234
+#EXTINF:-1,MTV Rocks
+http://62.76.18.82:81/udp/239.195.6.233:1234
+#EXTINF:-1,VH1
+http://62.76.18.82:81/udp/239.195.6.234:1234
+#EXTINF:-1,Еда
+http://62.76.18.82:81/udp/239.195.6.235:1234
+#EXTINF:-1,Москва 24
+http://62.76.18.82:81/udp/239.195.6.236:1234
+#EXTINF:-1,ТВ2ТВ
+http://62.76.18.82:81/udp/239.195.6.237:1234
+#EXTINF:-1,Санкт-Петербург
+http://62.76.18.82:81/udp/239.195.6.238:1234
+#EXTINF:-1,Комедия ТВ
+http://62.76.18.82:81/udp/239.195.6.241:1234
+#EXTINF:-1,ЛДПР ТВ
+http://62.76.18.82:81/udp/239.195.6.244:1234
+#EXTINF:-1,Вместе РФ
+http://62.76.18.82:81/udp/239.195.6.246:1234
+#EXTINF:-1,Красная линия ТВ
+http://62.76.18.82:81/udp/239.195.6.245:1234
+#EXTINF:-1,Калейдоскоп ТВ
+http://62.76.18.82:81/udp/239.195.6.247:1234
+#EXTINF:-1,5 канал
+http://62.76.18.82:81/udp/239.195.6.248:1234
+#EXTINF:-1,Рабинович ТВ
+http://62.76.18.82:81/udp/239.195.6.249:1234
+#EXTINF:-1,МАТЧ
+http://62.76.18.82:81/udp/239.195.1.103:1234
+#EXTINF:-1,ПЯТЫЙ
+http://62.76.18.82:81/udp/239.195.1.105:1234
+#EXTINF:-1,РЕН ТВ
+http://62.76.18.82:81/udp/239.195.1.111:1234
+#EXTINF:-1,13 СТС
+http://62.76.18.82:81/udp/239.195.1.113:1234
+#EXTINF:-1,ДОМАШНИЙ
+http://62.76.18.82:81/udp/239.195.1.114:1234
+#EXTINF:-1,ТВ 3
+http://62.76.18.82:81/udp/239.195.1.115:1234
+#EXTINF:-1,ЗВЕЗДА
+http://62.76.18.82:81/udp/239.195.1.117:1234
+#EXTINF:-1,ТНТ
+http://62.76.18.82:81/udp/239.195.1.119:1234
+#EXTINF:-1,МУЗ
+http://62.76.18.82:81/udp/239.195.1.120:1234
+#EXTINF:-1,01 ПЕРВЫЙ КАНАЛ
+http://62.76.18.82:81/udp/239.195.1.101:1234
+#EXTINF:-1,02 РОССИЯ-1
+http://62.76.18.82:81/udp/239.195.1.102:1234
+#EXTINF:-1,06 РОССИЯ-К
+http://62.76.18.82:81/udp/239.195.1.106:1234
+#EXTINF:-1,Россия 24
+http://62.76.18.82:81/udp/239.195.1.107:1234
+#EXTINF:-1,08 КАРУСЕЛЬ
+http://62.76.18.82:81/udp/239.195.1.108:1234
+#EXTINF:-1,ОТР
+http://62.76.18.82:81/udp/239.195.1.109:1234
+#EXTINF:-1,10 ТВ Центр
+http://62.76.18.82:81/udp/239.195.1.110:1234
+#EXTINF:-1,спас
+http://62.76.18.82:81/udp/239.195.1.112:1234
+#EXTINF:-1,Пятница
+http://62.76.18.82:81/udp/239.195.1.116:1234
+#EXTINF:-1,18 МИР
+http://62.76.18.82:81/udp/239.195.1.118:1234
+#EXTINF:-1,Радио
+http://62.76.18.82:81/udp/239.195.1.122:1234
+#EXTINF:-1,Радио
+http://62.76.18.82:81/udp/239.195.1.121:1234
+#EXTINF:-1,Радио России
+http://62.76.18.82:81/udp/239.195.1.123:1234
+#EXTINF:-1,IZ RU
+http://62.76.18.82:81/udp/239.195.5.49:1234
+#EXTINF:-1,Супер
+http://62.76.18.82:81/udp/239.195.3.66:1234
 
 
 
