@@ -2,15 +2,15 @@
 
 #EXTINF:1 group-title="e-Doctor",
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,TUTORIAL VIDEO
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,OFFICIAL e-Doctor
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,XXX LIVE LIST
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,XXX LIVE LIST
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Powered by e-Doctor
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,Powered by e-Doctor
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,http://edoctorcy.xyz
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,http://edoctorcy.xyz
 https://www.youtube.com/watch?v=t4RRga0RUr8
 
 
@@ -18,9 +18,9 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 
 #EXTINF:1 group-title="e-Doctor",
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Updated
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,Updated
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,06/03/18
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,19/03/18
 https://www.youtube.com/watch?v=t4RRga0RUr8
 
 
@@ -44,26 +44,15 @@ http://37.9.0.201:8811
 http://37.9.0.201:8888	
 #EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" , Visit-X Tv 720P
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8?MWINFO		
-#EXTINF:-1,BRAZZERS TV Europe 
-http://91.203.208.65:3371/udp/239.195.2.4:1234 
+
 #EXTINF:-1,BRAZZERS TV Europe 
 http://37.192.213.121:81/udp/239.1.6.40:1234 
-#EXTINF:-1,BRAZZERS TV Europe 
-http://79.133.111.103:34040/udp/239.191.254.170:15285
-#EXTINF:-1,Brazzers TV Europe 
-http://93.91.113.8:9999/play/a07s
 #EXTINF:-1,РУССКАЯ НОЧЬ (RUSSIAN NIGHT)  
-http://91.203.208.65:3371/udp/239.195.2.3:1234 
-#EXTINF:-1,РУССКАЯ НОЧЬ (RUSSIAN NIGHT)
-http://79.133.111.103:34040/udp/239.191.254.13:15285
-#EXTINF:-1,РУССКАЯ НОЧЬ (RUSSIAN NIGHT)  
-http://93.91.113.8:9999/play/a07r 
+
 #EXTINF:-1,PLAYBOY TV 
 http://91.203.208.65:3371/udp/239.195.2.5:1234 
-#EXTINF:-1,PLAYBOY TV 
-http://93.91.113.8:9999/play/a07t 
-#EXTINF:-1,Frenchlover
-http://79.133.111.103:34040/udp/239.191.254.251:15285
+
+
 
 
 
@@ -78,95 +67,6 @@ http://79.133.111.103:34040/udp/239.191.254.251:15285
 
 
 #EXTINF:1 group-title="LIVE TV2-Testing",
-
-#EXTINF:-1,Dorcel HD
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/DorcHD/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Dorcel XXX HD
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/DorcXXXHD/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Erox HD
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/EroxHD/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Ero XXX HD
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/EroXXXHD/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Hustler HD
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/HustHD/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Penthouse 1 HD
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/Pent1HD/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Penthouse 2 HD
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/Pent2HD/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Redlight HD
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/RedLHD/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,SuperOne HD
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/Sup1HD/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Brazzers TV Europe
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/Brazz/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Cento X Cento TV
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/CxC/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Dorcel
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/Do/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,DUSK
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/DUSK/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Exotica Plus
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/ExoPlus/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Evil Angel TV
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/EvAn/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Frenchlover TV
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/FL/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,HOT
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/HOT/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Hustler TV
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/HustTV/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Passione TV
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/PassTV/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Passion XXX
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/PassXXX/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Penthouse 1 SD
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/Pent1SD/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Pinko TV
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/PinkO/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Pink Erotic 1
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/PEro1/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Pink Erotic 2
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/PEro2/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Pink Erotic 3
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/PEro3/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Pink Erotic 4
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/PEro4/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Pink Erotic 5
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/PEro5/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Pink Erotic 6
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/PEro6/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Pink Erotic 7
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/PEro7/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Pink Erotic 8
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/PEro8/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Private TV
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/Priv/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Reality Kings
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/RK/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,SCT
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/SCT/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Sexto Senso TV
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/S6S/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Sextreme
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/SexTr/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Sexy Hot
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/SexyHot/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,SuperOne
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/SO/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,Venus
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/Ven/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,X1
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/X1/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,X2
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/X2/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,X Bizarre
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/XBi/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,X Bunga Bunga
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/XBu/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-#EXTINF:-1,X Desire
-http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:100000/XDe/token=KTO_6ygET_CKAHuPOBATb-TOT_nugAP/index.m3u8
-
-
 
 
 
@@ -189,39 +89,37 @@ http://163.172.13.250:33333/http://VK.COM/XXX_Playlist/udp/300.300.300.300:10000
 
 #EXTINF:1 group-title="P2P TV1",
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,NOTE
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,ACESTREAM NEEDED.
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,ACESTREAM NEEDED.
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Choose Acestream
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,Choose Acestream
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,as player if
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,as player if
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,not open
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,not open
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,automatically
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,automatically
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,
 https://www.youtube.com/watch?v=t4RRga0RUr8		
 
 #EXTINF:-1,Babestation 
-acestream://ff0d726301f32b899385ad095b57dd7557648fc2
-#EXTINF:-1,Barely Legal TV 
-acestream://6a2b5933d082456f60b2d92e56b2172bb5b40ce5
+acestream://b2cd4c5216c34226cbcf0db62508060dfe9ce8f9
 #EXTINF:-1,Blue Hustler 
 acestream://e4949b89b35852e2e1a14c7502835e615b0fa023
 #EXTINF:-1,Brazzers TV 
 acestream://9c78e14a182bfc314704102fb9927ad95c6a8da4
 #EXTINF:-1,Brazzers TV Europe 
-acestream://e1b5e540fdefeba40fe1b84d833ed099a823602e
+acestream://b954db640120eebdc61febe83efcd9647eea86e4
 #EXTINF:-1,CentoXCento TV 
 acestream://41f2d8a7762937e3463345ca30e19d213908b32a
 #EXTINF:-1,Dusk TV 
 acestream://477bda69eb8674ab6b64482857bd78b38eeec2ee
 #EXTINF:-1,EROX (HD) 
-acestream://91200028aa338e9733de208940e7b460abbc6979
+acestream://fc4b892f45958a8bbc4722bfdf6ef0f0da0c6e16
 #EXTINF:-1,EvilAngel 
 acestream://67d880c1f5db774fc82193fbc0cc2a01e97b6390
 #EXTINF:-1,FAP TV 2 
@@ -261,21 +159,19 @@ acestream://e682081316d06c2ed0094cee3a96d59c4be8f33c
 #EXTINF:-1,FAP TV Trans 
 acestream://db46640ff373f9bd4ab81fce8ef797a187ec3b96
 #EXTINF:-1,FAP TV UHD 4K 
-acestream://650c858b80d4f717399207a69b44fce8cfac3838
+acestream://bd0a64000ccdbf5a3f5d780e6edcd01e8ff328fa
 #EXTINF:-1,French Lovеr TV 
-acestream://8fc4c43a90ff535539d9dbdb8fba52bb191b3eef
+acestream://282844f81f2cc90db6fedf7ba3d81a01b0ff8ca6
 #EXTINF:-1,Hustler HD 
-acestream://d81fa41d24a1cfabcfa5135ae36c2434bef6569b
+acestream://b1975609c579c18146feee708908361cd12c6ec1
 #EXTINF:-1,Jasmin TV 
 acestream://114e10f9fad02cb5409d7c6861925416c07f21a4
 #EXTINF:-1,Livechannel 
-acestream://d22c11951d7e929d0dd690f53bb990aa5d9aa45f
-#EXTINF:-1,NUART.TV HD 
-acestream://90871e72ce4c9cc5c4a4edbda1ad39fff2ac6e76
+acestream://c18410ce33b2a32b7db8c12d34a1fff8928ade43
 #EXTINF:-1,Nuart TV 
-acestream://fd404f5c999691dbbbb95b1e8bd95e2732cce333
+acestream://4170520ac292cf10da844f14f9a3bab57260ca3d
 #EXTINF:-1,O-la-la 
-acestream://b5e0694c6e49c7d33c634f83d5720261728de258
+acestream://8d9050a41b9f6a1023c7cb355157aaa06e89ec5d
 #EXTINF:-1,PassionXXX 
 acestream://6beb3dc1be82c3d16ca9c99bdeb385e61ccf2b5a
 #EXTINF:-1,Phoenix Marie TV 
@@ -285,23 +181,21 @@ acestream://704fdeaf6f89284fe1433b8e8f15ed2f91a67544
 #EXTINF:-1,Playboy TV 
 acestream://36bd3cae18891ded1e34aa1ca6a356cf75833251
 #EXTINF:-1,Private HD 
-acestream://6ba7598508e49afa695b9b39790e2de22527cf62
+acestream://141aaac2bada62b92c6294b94b8d750ee1effcd3
 #EXTINF:-1,Redlight HD 
-acestream://873cf292da5c6d75c9b48829aacccb0f8e13c03f
+acestream://108259ac353c77b18a0eb06a169c1b2634ed910a
 #EXTINF:-1,SCT 
 acestream://33349d5e7e14324e41e3cc2b6c85a069ed1d3906
 #EXTINF:-1,Satisfaction HD 
-acestream://60b1dca3ac1d9ea2e29179596c685f8465073562
+acestream://8334ee5588e39a566c5dd8a2ffffc5296aec8c73
 #EXTINF:-1,Sextosenso 
-acestream://ece00811fd760bc1421fccdf4d16c4b9764a977b
+acestream://d2fda87664d511bd03fe992f53ee167f0eb5afcb
 #EXTINF:-1,Visit-X HD 
 acestream://9066a6ad322f9679391edf654bb61b67afb3338c
-#EXTINF:-1,Vivid TV Europe 
-acestream://024a20d47aa7093ce399d9c47f82b4432e6578eb
 #EXTINF:-1,XXL 
-acestream://8f37566dbfefd36e0f2ffd3f50b9d2eb5bcd1322
+acestream://d831cbfc85c7d5ca3c2738dd831281764b95c85a
 #EXTINF:-1,Ночной клуб 
-acestream://dbeafdd504a0c24423c67d80b50ce6b6ed2709f6
+acestream://c8dca2c78f836386f0136dd71e42f21364d4579d
 #EXTINF:-1,Русская ночь 
 acestream://e841cd24c45500cc9bb328157edb04d37ca444cf
 #EXTINF:-1,Эгоист ТВ 
@@ -346,29 +240,30 @@ acestream://f899e72ac4453c4c2473d0c2fcd4b124a719b276
 
 
 
+
 #EXTINF:1 group-title="P2P TV2",
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,NOTE
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,ACESTREAM NEEDED.
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,ACESTREAM NEEDED.
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Choose Acestream
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,Choose Acestream
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,as player if
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,as player if
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,not open
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,not open
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,automatically
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,automatically
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,
+#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,
 https://www.youtube.com/watch?v=t4RRga0RUr8
 
-#EXTINF:-1 tvg-name="Нюарт_Tv" tvg-logo="Нюарт Tv.png",Нюарт Tv 
-acestream://8ed663beab3c1d90ec2eddcc9579d4952db4a66b
-#EXTINF:-1 tvg-name="Русская_Ночь" tvg-logo="Русская Ночь.png",Русская Ночь 
-acestream://7d89bfc38e717e3347ec2e6123447d62c6d29f8e
+#EXTINF:-1,Brazzers TV 
+acestream://e98b9cac77c201f677dc05cf916093956321060b
+#EXTINF:-1,Playboy TV 
+acestream://2a2ecfa17d0f86ebe0b7a97f4c2e4c1e3bf9c87f
 
 
 
