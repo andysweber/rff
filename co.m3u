@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
 https://www.youtube.com/watch?v=t4RRga0RUr8
 
-#EXTINF:1 group-title=”UPDATED DATE”,
+#EXTINF:1 group-title="UPDATED DATE",
 
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 http://.....
@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 
 
 
-#EXTINF:1 group-title=”Cyprus”,
+#EXTINF:1 group-title="Cyprus",
 
 #EXTINF:1 tvg-logo="http://www.parikiaki.com/wp-content/uploads/Cyprus1.png" ,===Cyprus===
 http://..........
@@ -90,7 +90,7 @@ http://master.cystreams.com:25461/live/epistrofi/epistrofi123/44.ts
 
 
 
-#EXTINF:2 group-title=”Greece”,
+#EXTINF:2 group-title="Greece",
 
 #EXTINF:1 tvg-logo="http://cdn.e-radio.gr/logos/gr/big/manaellada.png" ,==GREECE==
 http://..........
@@ -248,7 +248,7 @@ http://wpso.com:1936/hls/wzra.m3u8
 
 
 
-#EXTINF:8 group-title=”Greece_Premium”,
+#EXTINF:8 group-title="Greece_Premium",
 
 
 
@@ -283,7 +283,7 @@ http://wpso.com:1936/hls/wzra.m3u8
 
 
 
-#EXTINF:8 group-title=”Greece2_Premium”,
+#EXTINF:8 group-title="Greece2_Premium",
 
 
 
@@ -318,7 +318,7 @@ http://wpso.com:1936/hls/wzra.m3u8
 
 
 
-#EXTINF:3 group-title=”USA/Canada-WebTV”, 
+#EXTINF:3 group-title="USA/Canada-WebTV", 
 
 #EXTINF:1 tvg-logo="http://www.cyma.ca/images/usa5b15d.gif" ,===USA===
 http://..........
@@ -705,7 +705,7 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
 
 
-#EXTINF:3 group-title=”USA2”, 
+#EXTINF:3 group-title="USA2", 
 
 #EXTINF:1 tvg-logo="http://www.cyma.ca/images/usa5b15d.gif" ,===USA===
 http://..........
@@ -751,7 +751,7 @@ http://wowza2.mysoltv.com:1992/USA_FUEL_HD/index.m3u8
 
 
 
-#EXTINF:8 group-title=”USA1-LOOP_ONE”,
+#EXTINF:8 group-title="USA1-LOOP_ONE",
 
 
 
@@ -789,7 +789,7 @@ http://wowza2.mysoltv.com:1992/USA_FUEL_HD/index.m3u8
 
 
 
-#EXTINF:8 group-title=”USA1-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title="USA1-PREMIUM-Wuffy_Player",
 
 #EXTINF:1 tvg-logo="http://www.cyma.ca/images/usa5b15d.gif" ,===USA===
 http://..........
@@ -1156,7 +1156,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1117.m3u8$http-refferer
 
 
 
-#EXTINF:8 group-title=”USA2-PREMIUM”,
+#EXTINF:8 group-title="USA2-PREMIUM",
 
 
 
@@ -1178,7 +1178,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1117.m3u8$http-refferer
 
 
 
-#EXTINF:3 group-title=”UK-WEBTV”, 
+#EXTINF:3 group-title="UK-WEBTV", 
 
 #EXTINF:1 tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
 http://..........
@@ -1312,7 +1312,7 @@ http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34b
 
 
 
-#EXTINF:3 group-title=”UK2”, 
+#EXTINF:3 group-title="UK2", 
 
 #EXTINF:1 tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
 http://..........
@@ -1349,7 +1349,7 @@ http://wowza2.mysoltv.com:1992/USA_FUEL_HD/index.m3u8
 
 
 
-#EXTINF:3 group-title=”UK3”, 
+#EXTINF:3 group-title="UK3", 
 
 #EXTINF:1 tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
 http://..........
@@ -1527,7 +1527,7 @@ http://180.183.99.222:8000/play/a02z
 
 
 
-#EXTINF:3 group-title=”UK4”, 
+#EXTINF:3 group-title="UK4", 
 
 
 
@@ -1548,7 +1548,7 @@ http://180.183.99.222:8000/play/a02z
 
 
 
-#EXTINF:3 group-title=”UK1-LOOP_ONE”, 
+#EXTINF:3 group-title="UK1-LOOP_ONE", 
 
 #EXTINF:1 tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
 http://..........
@@ -1592,7 +1592,7 @@ http://.....
 
 
 
-#EXTINF:8 group-title=”UK1-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title="UK1-PREMIUM-Wuffy_Player",
 
 #EXTINF:1 tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
 http://..........
@@ -1936,7 +1936,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1126.m3u8$http-refferer
 
 
 
-#EXTINF:8 group-title=”UK2-PREMIUM-MXPlayer”,
+#EXTINF:8 group-title="UK2-PREMIUM-MXPlayer",
 
 #EXTINF:1 tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
 http://..........
@@ -2480,7 +2480,7 @@ http://185.102.219.210:2200/NLES/mtv-uk/index.m3u8?token=3b54b22ed54f461aa94ad2e
 
 
 
-#EXTINF:8 group-title=”UK3-PREMIUM”,
+#EXTINF:8 group-title="UK3-PREMIUM",
 
 
 
@@ -2490,17 +2490,7 @@ http://185.102.219.210:2200/NLES/mtv-uk/index.m3u8?token=3b54b22ed54f461aa94ad2e
 
 
 
-#EXTINF:8 group-title=”UK4-PREMIUM”,
-
-
-
-
-
-
-
-
-
-
+#EXTINF:8 group-title="UK4-PREMIUM",
 
 
 
@@ -2519,7 +2509,17 @@ http://185.102.219.210:2200/NLES/mtv-uk/index.m3u8?token=3b54b22ed54f461aa94ad2e
 
 
 
-#EXTINF:4 group-title=”Romania-WebTV”,
+
+
+
+
+
+
+
+
+
+
+#EXTINF:4 group-title="Romania-WebTV",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_the_United_Principalities_of_Romania_%281862_-_1866%29.svg/250px-Flag_of_the_United_Principalities_of_Romania_%281862_-_1866%29.svg.png" ,=ROMANIA=
 http://..........
@@ -2667,7 +2667,7 @@ http://82.79.217.207:8235/digi_film_hd-
 
 
 
-#EXTINF:4 group-title=”Romania2”,
+#EXTINF:4 group-title="Romania2",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_the_United_Principalities_of_Romania_%281862_-_1866%29.svg/250px-Flag_of_the_United_Principalities_of_Romania_%281862_-_1866%29.svg.png" ,=ROMANIA=
 http://..........
@@ -2705,7 +2705,7 @@ http://..........
 
 
 
-#EXTINF:4 group-title=”Romania3”,
+#EXTINF:4 group-title="Romania3",
 
 
 
@@ -2724,7 +2724,7 @@ http://..........
 
 
 
-#EXTINF:4 group-title=”Bulgaria-WebTV”,
+#EXTINF:4 group-title="Bulgaria-WebTV",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/255px-Flag_of_Bulgaria.svg.png" ,==Bulgaria==
 http://..........
@@ -2904,7 +2904,7 @@ http://185.134.228.141:8891
 
 
 
-#EXTINF:4 group-title=”Bulgaria2”,
+#EXTINF:4 group-title="Bulgaria2",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/255px-Flag_of_Bulgaria.svg.png" ,==Bulgaria==
 http://..........
@@ -2963,7 +2963,7 @@ http://93.123.65.3:9262/262
 
 
 
-#EXTINF:4 group-title=”Bulgaria3”,
+#EXTINF:4 group-title="Bulgaria3",
 
 
 
@@ -2989,7 +2989,7 @@ http://93.123.65.3:9262/262
 
 
 
-#EXTINF:5 group-title=”Italy-WebTV”,
+#EXTINF:5 group-title="Italy-WebTV",
 
 #EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg" ,==Italy==
 http://..........
@@ -3138,7 +3138,7 @@ http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
 
 
 
-#EXTINF:8 group-title=”Italy2”,
+#EXTINF:8 group-title="Italy2",
 
 #EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg" ,==Italy==
 http://..........
@@ -3189,7 +3189,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/963/inde
 
 
 
-#EXTINF:8 group-title=”Italy-LOOP_ONE”,
+#EXTINF:8 group-title="Italy-LOOP_ONE",
 
 #EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg" ,==Italy==
 http://..........
@@ -3243,7 +3243,7 @@ http://.....
 
 
 
-#EXTINF:8 group-title=”Italy1-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title="Italy1-PREMIUM-Wuffy_Player",
 
 #EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg" ,==Italy==
 http://..........
@@ -3419,7 +3419,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/811.m3u8$http-refferer=
 
 
 
-#EXTINF:8 group-title=”Italy2-PREMIUM-MXPlayer”,
+#EXTINF:8 group-title="Italy2-PREMIUM-MXPlayer",
 
 #EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg" ,==Italy==
 http://..........
@@ -3474,7 +3474,7 @@ http://207.244.157.34:25461/live/gold/cold/826.ts|refferer=http://geostreamz.com
 
 
 
-#EXTINF:8 group-title=”Italy3-PREMIUM”,
+#EXTINF:8 group-title="Italy3-PREMIUM",
 
 #EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg" ,==Italy==
 http://..........
@@ -3818,7 +3818,7 @@ http://212.224.72.196:2200/EX/cartoonnetwork-it/index.m3u8?token=3b54b22ed54f461
 
 
 
-#EXTINF:6 group-title=”France-Belgium-WebTV”,
+#EXTINF:6 group-title="France-Belgium-WebTV",
 
 #EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg" ,==France==
 http://..........
@@ -3951,7 +3951,7 @@ http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
 
 
 
-#EXTINF:6 group-title=”France2”,
+#EXTINF:6 group-title="France2",
 
 #EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg" ,==France==
 http://..........
@@ -4077,7 +4077,7 @@ http://144.217.74.122:8080/TSN2HD/mpegts
 
 
 
-#EXTINF:6 group-title=”France1-LOOP_ONE”,
+#EXTINF:6 group-title="France1-LOOP_ONE",
 
 #EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg" ,==France==
 http://..........
@@ -4133,7 +4133,7 @@ http://.....
 
 
 
-#EXTINF:8 group-title=”France1-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title="France1-PREMIUM-Wuffy_Player",
 
 #EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg" ,==France==
 http://..........
@@ -4452,7 +4452,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/523.m3u8$http-refferer=
 
 
 
-#EXTINF:8 group-title=”France2-PREMIUM-MXPlayer”,
+#EXTINF:8 group-title="France2-PREMIUM-MXPlayer",
 
 #EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg" ,==France==
 http://..........
@@ -4566,7 +4566,7 @@ http://207.244.157.34:25461/live/gold/cold/4939.ts|refferer=http://solidstreamz.
 
 
 
-#EXTINF:8 group-title=”France3-PREMIUM_MXplayer”,
+#EXTINF:8 group-title="France3-PREMIUM_MXplayer",
 
 
 
@@ -4587,7 +4587,7 @@ http://207.244.157.34:25461/live/gold/cold/4939.ts|refferer=http://solidstreamz.
 
 
 
-#EXTINF:8 group-title=”France4-PREMIUM_MXplayer”,
+#EXTINF:8 group-title="France4-PREMIUM_MXplayer",
 
 #EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg" ,==France==
 http://..........
@@ -4797,7 +4797,7 @@ http://1.primatv.club:1000/live/Fu2ltvi2218/A20ip18full/1414.ts|user-agent=VLC/3
 
 
 
-#EXTINF:7 group-title=”Germany-WebTV”,
+#EXTINF:7 group-title="Germany-WebTV",
 
 
 #EXTINF:1 tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif" ,==Germany==
@@ -4997,7 +4997,7 @@ http://live.vidoo.de/live/weltderwunder/f1tv.m3u8
 
 
 
-#EXTINF:8 group-title=”Germany2”,
+#EXTINF:8 group-title="Germany2",
 
 
 
@@ -5010,20 +5010,7 @@ http://live.vidoo.de/live/weltderwunder/f1tv.m3u8
 
 
 
-#EXTINF:8 group-title=”Germany3”,
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:8 group-title="Germany3",
 
 
 
@@ -5039,7 +5026,20 @@ http://live.vidoo.de/live/weltderwunder/f1tv.m3u8
 
 
 
-#EXTINF:8 group-title=”Germany1-LOOP_ONE”,
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:8 group-title="Germany1-LOOP_ONE",
 #EXTINF:1 tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif" ,==Germany==
 http://..........
 
@@ -5081,7 +5081,7 @@ http://.....
 
 
 
-#EXTINF:8 group-title=”Germany1-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title="Germany1-PREMIUM-Wuffy_Player",
 
 #EXTINF:1 tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif" ,==Germany==
 http://..........
@@ -5226,7 +5226,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 
 
 
-#EXTINF:8 group-title=”Germany2-PREMIUM-MXPlayer”,
+#EXTINF:8 group-title="Germany2-PREMIUM-MXPlayer",
 
 #EXTINF:1 tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif" ,==Germany==
 http://..........
@@ -5277,7 +5277,7 @@ http://207.244.157.34:25461/live/gold/cold/4946.ts|refferer=http://solidstreamz.
 
 
 
-#EXTINF:8 group-title=”Germany3-PREMIUM-MXPlayer”,
+#EXTINF:8 group-title="Germany3-PREMIUM-MXPlayer",
 
 #EXTINF:1 tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif" ,==Germany==
 http://..........
@@ -5549,7 +5549,7 @@ http://185.102.219.210:2200/NLH/Nickelodeon_NL-nl/index.m3u8?token=3b54b22ed54f4
 
 
 
-#EXTINF:8 group-title=”Spain-WebTV,
+#EXTINF:8 group-title="Spain-WebTV,
 
 #EXTINF:1 tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif" ,==Spain==
 http://..........
@@ -5864,7 +5864,7 @@ http://media3.crtvg.es/live/_definst_/infantilCires/playlist.m3u8
 
 
 
-#EXTINF:8 group-title=”Spain2”,
+#EXTINF:8 group-title="Spain2",
 
 #EXTINF:1 tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif" ,==Spain==
 http://..........
@@ -5913,7 +5913,7 @@ http://aztecalive-lh.akamaihd.net:80/i/0kus659k5_1@501884/index_1_av-p.m3u8
 
 
 
-#EXTINF:8 group-title=”Spain3”,
+#EXTINF:8 group-title="Spain3",
 
 #EXTINF:1 tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif" ,==Spain==
 http://..........
@@ -6006,7 +6006,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/211/inde
 
 
 
-#EXTINF:8 group-title=”Spain4”,
+#EXTINF:8 group-title="Spain4",
 
 
 
@@ -6026,7 +6026,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/211/inde
 
 
 
-#EXTINF:8 group-title=”Spain-LOOP_ONE”,
+#EXTINF:8 group-title="Spain-LOOP_ONE",
 
 
 
@@ -6048,7 +6048,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/211/inde
 
 
 
-#EXTINF:8 group-title=”Spain1-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title="Spain1-PREMIUM-Wuffy_Player",
 
 #EXTINF:1 tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif" ,==Spain==
 http://..........
@@ -6255,7 +6255,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/633.m3u8$http-refferer=
 
 
 
-#EXTINF:8 group-title=”Spain2-PREMIUM-MXPlayer”,
+#EXTINF:8 group-title="Spain2-PREMIUM-MXPlayer",
 
 #EXTINF:1 tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif" ,==Spain==
 http://..........
@@ -6337,7 +6337,7 @@ http://207.244.157.34:25461/live/gold/cold/4960.ts|refferer=http://solidstreamz.
 
 
 
-#EXTINF:8 group-title=”Spain3-PREMIUM-MXPlayer”,
+#EXTINF:8 group-title="Spain3-PREMIUM-MXPlayer",
 
 
 
@@ -6358,7 +6358,7 @@ http://207.244.157.34:25461/live/gold/cold/4960.ts|refferer=http://solidstreamz.
 
 
 
-#EXTINF:8 group-title=”Brazil-WEBTV”,
+#EXTINF:8 group-title="Brazil-WEBTV",
 
 #EXTINF:1 tvg-logo="http://www.brazil.org.za/brazil-images/brazil-flag.png" ,==Brazil==
 http://..........
@@ -6479,7 +6479,7 @@ http://cdnapi.kaltura.com/p/0/sp/0/playManifest/entryId/1_lld8saie/format/appleh
 
 
 
-#EXTINF:8 group-title=”Argentina-WebTV”,
+#EXTINF:8 group-title="Argentina-WebTV",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/180px-Flag_of_Argentina.svg.png" ,=Argentina=
 http://..........
@@ -6575,7 +6575,7 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 
 
-#EXTINF:8 group-title=”Mexico-WEBTV”,
+#EXTINF:8 group-title="Mexico-WEBTV",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Mexico_%28reverse%29.png/220px-Flag_of_Mexico_%28reverse%29.png" ,==MEXICO==
 http://..........
@@ -6674,7 +6674,7 @@ http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w152129917
 
 
 
-#EXTINF:8 group-title=”Latino-WebTV”,
+#EXTINF:8 group-title="Latino-WebTV",
 
 #EXTINF:1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/f6/50/e5/f650e55febc39dbb589c078a9fad77ee.jpg" ,==Latino==
 http://..........
@@ -6888,7 +6888,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8?time=1472170398067
 
 
 
-#EXTINF:8 group-title=”Latino2”,
+#EXTINF:8 group-title="Latino2",
 
 
 
@@ -6908,7 +6908,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8?time=1472170398067
 
 
 
-#EXTINF:4 group-title=”Portugal-WebTV”,
+#EXTINF:4 group-title="Portugal-WebTV",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png" ,==Portugal==
 http://..........
@@ -6994,7 +6994,7 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u
 
 
 
-#EXTINF:4 group-title=”Portugal2-Wuffy_Player”,
+#EXTINF:4 group-title="Portugal2-Wuffy_Player",
 
 
 
@@ -7011,7 +7011,7 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u
 
 
 
-#EXTINF:4 group-title=”Portugal2”,
+#EXTINF:4 group-title="Portugal2",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png" ,==Portugal==
 http://..........
@@ -7144,7 +7144,7 @@ http://asdp.ddns.net:8000/live/adriano/adriano/480.m3u8
 
 
 
-#EXTINF:4 group-title=”Portugal3”,
+#EXTINF:4 group-title="Portugal3",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png" ,==Portugal==
 http://..........
@@ -7218,7 +7218,7 @@ http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/941/inde
 
 
 
-#EXTINF:4 group-title=”Portugal4”,
+#EXTINF:4 group-title="Portugal4",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png" ,==Portugal==
 http://..........
@@ -7381,7 +7381,7 @@ http://185.205.108.58:9000/play/a00w/index.m3u8
 
 
 
-#EXTINF:4 group-title=”Portugal1-Loop_one”,
+#EXTINF:4 group-title="Portugal1-Loop_one",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png" ,==Portugal==
 http://..........
@@ -7426,7 +7426,7 @@ http://.....
 
 
 
-#EXTINF:8 group-title=”Portugal1-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title="Portugal1-PREMIUM-Wuffy_Player",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png" ,==Portugal==
 http://..........
@@ -7637,7 +7637,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/961.m3u8$http-refferer=
 
 
 
-#EXTINF:8 group-title=”Portugal2-PREMIUM-MXPlayer”,
+#EXTINF:8 group-title="Portugal2-PREMIUM-MXPlayer",
 
 
 
@@ -7658,7 +7658,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/961.m3u8$http-refferer=
 
 
 
-#EXTINF:8 group-title=”Portugal3-PREMIUM-MXPlayer”,
+#EXTINF:8 group-title="Portugal3-PREMIUM-MXPlayer",
 
 
 
@@ -7687,22 +7687,22 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/961.m3u8$http-refferer=
 
 
 
-#EXTINF:8 group-title=”Poland-WebTV”,
+#EXTINF:8 group-title="Poland-WebTV",
 
 #EXTINF:1 tvg-logo="http://www.worldatlas.com/webimage/flags/countrys/zzzflags/pllarge.gif" ,==Poland==
 http://..........
 
 #EXTINF:-1 ,1-HD 4K
 http://rtmp.one.by:1400
-#EXTINF:-1 tvg-id=”Dla Ciebie TV” tvg-logo=”http://www.dlaciebie.tv/assets/wysiwig/images/logo/logo_telewizji_dlaCiebietv_kolor.png” ,Dla Ciebie TV
+#EXTINF:-1 tvg-id="Dla Ciebie TV" tvg-logo="http://www.dlaciebie.tv/assets/wysiwig/images/logo/logo_telewizji_dlaCiebietv_kolor.png" ,Dla Ciebie TV
 rtmp://wowza.artcom.pl/tv/DlaCiebieTv800.stream
-#EXTINF:-1 tvg-logo=”Eska_Party.png” ,Eska Party TV HD
+#EXTINF:-1 tvg-logo="Eska_Party.png" ,Eska Party TV HD
 rtmp://stream.cdn.smcloud.net/eska_party-t/eska_party_720p
 #EXTINF:-1,ESKA ROCK
 http://stream.smcdn.pl/eska_rock-t/eska_rock_720p/chunklist_w1090256482.m3u8
 #EXTINF:-1,ESKA BEST MUSIC
 https://stream.smcdn.pl/best-t/best_720p/chunklist_w1247424899.m3u8
-#EXTINF:-1 tvg-id=”Hope Poland” tvg-logo=”Hope.png” ,Hope Channel Polska HD
+#EXTINF:-1 tvg-id="Hope Poland" tvg-logo="Hope.png" ,Hope Channel Polska HD
 http://rtmp.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
 #EXTINF:-1,NRJ Hits TV
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w475134729.m3u8
@@ -7720,7 +7720,7 @@ mmsh://mediatv2.topix.it/24RockOne66
 http://starstv.live.e55-po.insyscd.net/starstvhd.smil/playlist.m3u8
 #EXTINF:0,TVP 1
 http://63.237.48.23/ios/TVP/TVP.m3u8
-#EXTINF:-1 tvg-id=”Polonia 1″ tvg-logo=”http://dwiptv.cba.pl/ico/Polonia_1_1.png” ,TVP Polonia
+#EXTINF:-1 tvg-id="Polonia 1″ tvg-logo="http://dwiptv.cba.pl/ico/Polonia_1_1.png" ,TVP Polonia
 http://193.32.36.27:8005
 #EXTINF:-1,TVP Katowice
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
@@ -7734,21 +7734,21 @@ http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal1
 http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal2
 #EXTINF:0, TV Asta
 http://xeon.asta-net.pl/trans.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-id=”Torun TV” tvg-logo=”https://www.tvk.torun.pl/upload/adv/51_tvtorun.jpg” ,TV Torun HD
+#EXTINF:-1 tvg-id="Torun TV" tvg-logo="https://www.tvk.torun.pl/upload/adv/51_tvtorun.jpg" ,TV Torun HD
 http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
 #EXTINF:-1,TV KUJAWY
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1 tvg-id=”” tvg-logo=”http://dwiptv.cba.pl/ico/Twoja_TV_1.png” ,Twoja TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://dwiptv.cba.pl/ico/Twoja_TV_1.png" ,Twoja TV HD
 http://94.246.169.19/ttv_hls/live_720p/index.m3u8
 #EXTINF:-1,STELLA
 rtmp://live-tvk.tvkstella.pl/flvplayback/StellaLive
 #EXTINF:-1,Virgin Radio TV
 rtmp://fms.105.net:1935/live/virgin1
-#EXTINF:-1 tvg-id=”TV Trwam”  tvg-logo=”TV_Trwam.png” ,TV Trwam
+#EXTINF:-1 tvg-id="TV Trwam"  tvg-logo="TV_Trwam.png" ,TV Trwam
 http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8
 #EXTINF:-1,WAWA TV
 http://stream.smcdn.pl/wawa-t/wawa_720p/chunklist_w628339386.m3u8
-#EXTINF:-1 tvg-id=”WP1″ tvg-logo=”WP_TV.png” ,WP TV
+#EXTINF:-1 tvg-id="WP1″ tvg-logo="WP_TV.png" ,WP TV
 https://av-cdn-2.wpimg.pl/tv24/ngrp:wp1/chunklist_.m3u8
 #EXTINF:-1,VOX TV
 http://stream.smcdn.pl/vox2-p/stream1/chunklist_w1654686264.m3u8
@@ -7788,7 +7788,7 @@ http://stream.smcdn.pl/vox2-p/stream1/chunklist_w1654686264.m3u8
 
 
 
-#EXTINF:8 group-title=”Poland2”,
+#EXTINF:8 group-title="Poland2",
 
 
 
@@ -7800,7 +7800,7 @@ http://stream.smcdn.pl/vox2-p/stream1/chunklist_w1654686264.m3u8
 
 
 
-#EXTINF:9 group-title=”Georgia-WebTV”,
+#EXTINF:9 group-title="Georgia-WebTV",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/255px-Flag_of_Georgia.svg.png" ,==Georgia==
 http://..........
@@ -7901,7 +7901,7 @@ http://188.93.94.141/silk_sport4/index.m3u8
 
 
 
-#EXTINF:8 group-title=”Albania-WebTV”,
+#EXTINF:8 group-title="Albania-WebTV",
 
 #EXTINF:1 tvg-logo="http://www.worldatlas.com/webimage/flags/countrys/zzzflags/allarge.gif" ,==Albania==
 http://..........
@@ -7949,7 +7949,7 @@ mms://62.162.58.55/TVKanal21
 
 
 
-#EXTINF:8 group-title=”Albania2”,
+#EXTINF:8 group-title="Albania2",
 
 
 
@@ -7966,7 +7966,7 @@ mms://62.162.58.55/TVKanal21
 
 
 
-#EXTINF:8 group-title=”Albania-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title="Albania-PREMIUM-Wuffy_Player",
 
 #EXTINF:1 tvg-logo="http://www.worldatlas.com/webimage/flags/countrys/zzzflags/allarge.gif" ,==Albania==
 http://..........
@@ -8204,7 +8204,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/568.m3u8$http-refferer=
 
 
 
-#EXTINF:9 group-title=”Hungary-WebTV”,
+#EXTINF:9 group-title="Hungary-WebTV",
 
 #EXTINF:1 tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/hungary-flag.gif" ,==Hungary==
 http://..........
@@ -8308,7 +8308,7 @@ http://37.220.128.130:9100/32
 
 
 
-#EXTINF:9 group-title=”Netherlands-WebTV”,
+#EXTINF:9 group-title="Netherlands-WebTV",
 
 #EXTINF:1 tvg-logo="http://www.flags.net/images/largeflags/NETH0001.GIF" ,Netherlands
 http://..........
@@ -8368,7 +8368,7 @@ http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 
 
 
-#EXTINF:9 group-title=”Netherlands-PREMIUM-Wuffy_Player”,
+#EXTINF:9 group-title="Netherlands-PREMIUM-Wuffy_Player",
 
 #EXTINF:1 tvg-logo="http://www.flags.net/images/largeflags/NETH0001.GIF" ,Netherlands
 http://..........
@@ -8512,7 +8512,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/746.m3u8$http-refferer=
 
 
 
-#EXTINF:10 group-title=”Czechoslovakia-WebTV”,
+#EXTINF:10 group-title="Czechoslovakia-WebTV",
 
 #EXTINF:1 tvg-logo="http://www.worldatlas.com/webimage/flags/flags_database/Flag_of_Slovakia.png" ,==Slovakia==
 http://..........
@@ -8627,7 +8627,7 @@ http://http-stream.joj.sk/joj/wau/index-hq.m3u8
 
 
 
-#EXTINF:9 group-title=”ISRAEL”,
+#EXTINF:9 group-title="ISRAEL",
 
 #EXTINF:1 tvg-logo="http://www.clker.com/cliparts/O/A/W/X/3/S/israel-flag-hi.png" ,==Israel==
 http://..........
@@ -8680,7 +8680,7 @@ http://146.185.61.140:1935/live/myStream/playlist.m3u8
 
 
 
-#EXTINF:9 group-title=”China-WebTV”,
+#EXTINF:9 group-title="China-WebTV",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/255px-Flag_of_the_People%27s_Republic_of_China.svg.png" ,==China==
 http://..........
@@ -8737,7 +8737,7 @@ http://eshare.live.otvcloud.com/otv/nyz/live/channel90/700.m3u8
 
 
 
-#EXTINF:9 group-title=”China2”,
+#EXTINF:9 group-title="China2",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/255px-Flag_of_the_People%27s_Republic_of_China.svg.png" ,==China==
 http://..........
@@ -8966,7 +8966,7 @@ http://tglsuriah-i.akamaihd.net/hls/live/566540/ctv/02.m3u8
 
 
 
-#EXTINF:9 group-title=”Bangladesh-MXPlayer”,
+#EXTINF:9 group-title="Bangladesh-MXPlayer",
 
 
 
@@ -8989,7 +8989,7 @@ http://tglsuriah-i.akamaihd.net/hls/live/566540/ctv/02.m3u8
 
 
 
-#EXTINF:9 group-title=”Bangladesh2-MXPlayer”,
+#EXTINF:9 group-title="Bangladesh2-MXPlayer",
 
 
 
@@ -9007,7 +9007,7 @@ http://tglsuriah-i.akamaihd.net/hls/live/566540/ctv/02.m3u8
 
 
 
-#EXTINF:9 group-title=”India-WebTV”,
+#EXTINF:9 group-title="India-WebTV",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png" ,==India==
 http://..........
@@ -9295,7 +9295,7 @@ http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
 
 
 
-#EXTINF:9 group-title=”India2”,
+#EXTINF:9 group-title="India2",
 
 
 
@@ -9313,7 +9313,7 @@ http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
 
 
 
-#EXTINF:9 group-title=”India2”,
+#EXTINF:9 group-title="India2",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png" ,==India==
 http://.........
@@ -9370,7 +9370,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/Stream(03)/index.m3u8
 
 
 
-#EXTINF:9 group-title=”India1-premium-MXPLAYER”,
+#EXTINF:9 group-title="India1-premium-MXPLAYER",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png" ,==India==
 http://..........
@@ -9629,7 +9629,7 @@ http://207.244.157.34:25461/live/gold/cold/5906.ts|refferer=http://solidstreamz.
 
 
 
-#EXTINF:9 group-title=”India2-premium-MXPlayer”,
+#EXTINF:9 group-title="India2-premium-MXPlayer",
 
 
 
@@ -9642,7 +9642,7 @@ http://207.244.157.34:25461/live/gold/cold/5906.ts|refferer=http://solidstreamz.
 
 
 
-#EXTINF:9 group-title=”United.Arab.Emirates-WebTV”,
+#EXTINF:9 group-title="United.Arab.Emirates-WebTV",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png" ,==U.A.E==
 http://..........
@@ -9710,7 +9710,7 @@ http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m
 
 
 
-#EXTINF:9 group-title=”United.Arab.Emirates2-Wuffy_Player”,
+#EXTINF:9 group-title="United.Arab.Emirates2-Wuffy_Player",
 
 
 
@@ -9739,7 +9739,7 @@ http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m
 
 
 
-#EXTINF:9 group-title=”United.Arab.Emirates2”,
+#EXTINF:9 group-title="United.Arab.Emirates2",
 
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png" ,==U.A.E==
@@ -9803,7 +9803,7 @@ http://5.196.90.62:8080/MBC_Drama_HD/index.m3u8
 
 
 
-#EXTINF:9 group-title=”United.Arab.Emirates-LOOP_ONE”,
+#EXTINF:9 group-title="United.Arab.Emirates-LOOP_ONE",
 
 
 
@@ -9824,7 +9824,7 @@ http://5.196.90.62:8080/MBC_Drama_HD/index.m3u8
 
 
 
-#EXTINF:9 group-title=”United.Arab.Emirates1_PREMIUM”,
+#EXTINF:9 group-title="United.Arab.Emirates1_PREMIUM",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png" ,==U.A.E==
 http://..........
@@ -10449,7 +10449,7 @@ http://www.elahmad.com/tv/m3u8/bahraintv.m3u8?id=bahrain_tv
 
 
 
-#EXTINF:9 group-title=”United.Arab.Emirates2_PREMIUM-MXPlayer”,
+#EXTINF:9 group-title="United.Arab.Emirates2_PREMIUM-MXPlayer",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png" ,==U.A.E==
 http://..........
@@ -12287,7 +12287,7 @@ http://212.224.72.199:2200/TR1/dubairacing3-ar/index.m3u8?token=3b54b22ed54f461a
 
 
 
-#EXTINF:9 group-title=”United.Arab.Emirates3_PREMIUM-MXPlayer”,
+#EXTINF:9 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png" ,==U.A.E==
 http://..........
@@ -12600,7 +12600,7 @@ http://1.primatv.club:1000/live/Fu2ltvi2218/A20ip18full/1293.ts|user-agent=VLC/3
 
 
 
-#EXTINF:9 group-title=”United.Arab.Emirates4_PREMIUM”,
+#EXTINF:9 group-title="United.Arab.Emirates4_PREMIUM",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png" ,==U.A.E==
 http://..........
@@ -12958,7 +12958,7 @@ http://janiptv.com:8888/live/73j5677s/wl8xu556/377.ts
 
 
 
-#EXTINF:10 group-title=”SERBIA”,
+#EXTINF:10 group-title="SERBIA",
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/State_Flag_of_Serbia_%281882-1918%29.svg/200px-State_Flag_of_Serbia_%281882-1918%29.svg.png" ,=Serbia=
 http://..........
 
@@ -12993,7 +12993,7 @@ http://66.70.129.43:8080/Arena4-SRB/index.m3u8
 
 
 
-#EXTINF:9 group-title=”Vietnam”,
+#EXTINF:9 group-title="Vietnam",
 
 #EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/212lVbgHenL._SL500_AC_SS350_.jpg" ,=Vietnam=
 http://..........
@@ -13064,7 +13064,7 @@ http://113.161.4.48:8080/phuyen/tv.m3u8
 
 
 
-#EXTINF:11 group-title=”Russian1-WebTV”,
+#EXTINF:11 group-title="Russian1-WebTV",
 
 #EXTINF:1 tvg-logo="http://www.ultimateflags.com/images/P/buy_russia_flag-01-01.gif" ,==Russia==
 http://..........
@@ -13278,7 +13278,7 @@ http://195.158.29.129/live1_360/live.stream_360p.m3u8
 
 
 
-#EXTINF:11 group-title=”Russian2”,
+#EXTINF:11 group-title="Russian2",
 
 #EXTINF:1 tvg-logo="http://www.ultimateflags.com/images/P/buy_russia_flag-01-01.gif" ,==Russia==
 http://..........
@@ -13323,7 +13323,7 @@ http://188.134.21.64:81/udp/235.10.10.5:1234
 
 
 
-#EXTINF:11 group-title=”Russian3”,
+#EXTINF:11 group-title="Russian3",
 
 #EXTINF:1 tvg-logo="http://www.ultimateflags.com/images/P/buy_russia_flag-01-01.gif" ,==Russia==
 http://..........
@@ -13588,7 +13588,7 @@ http://91.149.172.100:80/channel?id=126&u=demo&p=demo
 
 
 
-#EXTINF:11 group-title=”Russian4”,
+#EXTINF:11 group-title="Russian4",
 
 
 
@@ -13640,7 +13640,7 @@ http://91.149.172.100:80/channel?id=126&u=demo&p=demo
 
 
 
-#EXTINF:11 group-title=”Russian5”,
+#EXTINF:11 group-title="Russian5",
 
 #EXTINF:1 tvg-logo="http://www.ultimateflags.com/images/P/buy_russia_flag-01-01.gif" ,==Russia==
 http://..........
@@ -13800,7 +13800,7 @@ http://195.49.206.243:8000/udp/239.255.1.71:1234
 
 
 
-#EXTINF:11 group-title=”Russian6”,
+#EXTINF:11 group-title="Russian6",
 
 #EXTINF:1 tvg-logo="http://www.ultimateflags.com/images/P/buy_russia_flag-01-01.gif" ,==Russia==
 http://..........
@@ -14287,7 +14287,7 @@ http://62.76.18.82:81/udp/239.195.3.66:1234
 
 
 
-#EXTINF:11 group-title=”Russian7”,
+#EXTINF:11 group-title="Russian7",
 
 #EXTINF:1 tvg-logo="http://www.ultimateflags.com/images/P/buy_russia_flag-01-01.gif" ,==Russia==
 http://..........
@@ -14318,7 +14318,7 @@ http://..........
 
 
 
-#EXTINF:10 group-title=”Turkey-WebTV”,
+#EXTINF:10 group-title="Turkey-WebTV",
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/255px-Flag_of_Turkey.svg.png" ,==Turkey==
 http://..........
@@ -14444,7 +14444,7 @@ http://stream.sportstv.com.tr/sportstv/SportsTV3/BratuMarian.m3u8
 
 
 
-#EXTINF:8 group-title=”Turkey-PREMIUM-Wuffy_Player”,
+#EXTINF:8 group-title="Turkey-PREMIUM-Wuffy_Player",
 
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/255px-Flag_of_Turkey.svg.png" ,==Turkey==
