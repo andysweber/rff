@@ -1,32 +1,32 @@
 #EXTM3U url-tvg="http://epg.in.ua/epg/tvprogram_ua_ru.gz ,http://sgcpm.com/epg/devilcosta.gz"
 
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
+#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
 https://www.youtube.com/watch?v=t4RRga0RUr8
 
 #EXTINF:1 group-title="UPDATED DATE",
 
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,UPDATED
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 http://.....
 
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,19/03/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,19/03/18
 http://.....
 
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,OFFICIAL e-Doctor
+#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,OFFICIAL e-Doctor
 https://www.youtube.com/watch?v=t4RRga0RUr8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,IPTV LIST
+#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,IPTV LIST
 https://www.youtube.com/watch?v=t4RRga0RUr8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,Powered by e-Doctor
+#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,Powered by e-Doctor
 https://www.youtube.com/watch?v=t4RRga0RUr8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,http://edoctorcy.xyz
+#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,http://edoctorcy.xyz
 https://www.youtube.com/watch?v=t4RRga0RUr8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,Download Official
+#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,Download Official
 https://www.youtube.com/watch?v=t4RRga0RUr8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,app from Website.
+#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,app from Website.
 https://www.youtube.com/watch?v=t4RRga0RUr8
 
 
