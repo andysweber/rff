@@ -1,6 +1,6 @@
 #EXTM3U  url-tvg="http://epg.in.ua/epg/tvprogram_ua_ru.gz"
 
-#EXTINF:1 group-title=”e-Doctor”,
+#EXTINF:1 group-title="e-Doctor",
  
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 
 
 
-#EXTINF:1 group-title=”UPDATED”,
+#EXTINF:1 group-title="UPDATED",
 
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,Updated 
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 
 
-#EXTINF:1 group-title=”Romania/Sopcast”, 
+#EXTINF:1 group-title="Romania/Sopcast", 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
 http://.....
@@ -255,7 +255,7 @@ sop://broker.sopcast.com:3912/148252
 
 
 
-#EXTINF:1 group-title=”Bulgaria/Acestream”, 
+#EXTINF:1 group-title="Bulgaria/Acestream", 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -304,7 +304,7 @@ acestream://fe58bfb229c131c1e19b11d42b8c2fccb5aed080
 
 
 
-#EXTINF:1 group-title=”KIDS-1 (Russian-English)/Acestream”, 
+#EXTINF:1 group-title="KIDS-1 (Russian-English)/Acestream", 
 
 
 
@@ -322,7 +322,7 @@ acestream://fe58bfb229c131c1e19b11d42b8c2fccb5aed080
 
 
 
-#EXTINF:1 group-title=”KIDS-2 (Russian-English)/Acestream”, 
+#EXTINF:1 group-title="KIDS-2 (Russian-English)/Acestream", 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -474,7 +474,7 @@ acestream://4eafdb615a3fd6060f797388ef04b942dfc5c717
 
 
 
-#EXTINF:1 group-title=”MENS (Russian-English)/Acestream”, 
+#EXTINF:1 group-title="MENS (Russian-English)/Acestream", 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -576,7 +576,7 @@ acestream://7ddf311316cbe13eed199bfb60d76263a4a563bd
 
 
 
-#EXTINF:1 group-title=”MUSIC-1 (Russian-English)/Acestream”, 
+#EXTINF:1 group-title="MUSIC-1 (Russian-English)/Acestream", 
 
 
 
@@ -594,7 +594,7 @@ acestream://7ddf311316cbe13eed199bfb60d76263a4a563bd
 
 
 
-#EXTINF:1 group-title=”MUSIC-2 (Russian-English)/Acestream”, 
+#EXTINF:1 group-title="MUSIC-2 (Russian-English)/Acestream", 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -942,7 +942,7 @@ acestream://c6d7ecbbdaf8da839054ade8854663059105f0fc
 
 
 
-#EXTINF:1 group-title=”NEWS-1 (Russian-English)/Acestream”, 
+#EXTINF:1 group-title="NEWS-1 (Russian-English)/Acestream", 
 
 
 
@@ -973,7 +973,7 @@ acestream://c6d7ecbbdaf8da839054ade8854663059105f0fc
 
 
 
-#EXTINF:1 group-title=”NEWS-2 (Russian-English)/Acestream”, 
+#EXTINF:1 group-title="NEWS-2 (Russian-English)/Acestream", 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -1153,7 +1153,7 @@ acestream://edc98f5df167de7aa236b7083a218193114938fb
 
 
 
-#EXTINF:1 group-title=”GENERIC (Russian-English)/Acestream”, 
+#EXTINF:1 group-title="GENERIC (Russian-English)/Acestream", 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -1446,7 +1446,7 @@ acestream://fa2fc688b1c6a5a07ac698186ea3c934e7de9697
 
 
 
-#EXTINF:1 group-title=”DOCUMENTARY-1 (Russian-English)/Acestream”, 
+#EXTINF:1 group-title="DOCUMENTARY-1 (Russian-English)/Acestream", 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -1517,7 +1517,7 @@ acestream://e73c851d2c986049b324d6b5c3c6c9da64ad4b65
 
 
 
-#EXTINF:1 group-title=”DOCUMENTARY-2 (Russian-English)/Acestream”, 
+#EXTINF:1 group-title="DOCUMENTARY-2 (Russian-English)/Acestream", 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -1773,7 +1773,7 @@ acestream://020d18bdeb2480ff9cb0066ff6f3f12d6def1186
 
 
 
-#EXTINF:1 group-title=”ENTERTAINMENT-1 (Russian-English)/Acestream”, 
+#EXTINF:1 group-title="ENTERTAINMENT-1 (Russian-English)/Acestream", 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -1825,7 +1825,7 @@ acestream://b06eec4d1b8bb18a3cf7401036b1ff58c08bfbc4
 
 
 
-#EXTINF:1 group-title=”ENTERTAINMENT-2 (Russian-English)/Acestream”, 
+#EXTINF:1 group-title="ENTERTAINMENT-2 (Russian-English)/Acestream", 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -2160,7 +2160,7 @@ acestream://93edd28e2bd2e8a1d6e63c6bf62cb18a70e24d86
 
 
 
-#EXTINF:1 group-title=”REGIONAL-1 (Russian-English)/Acestream”, 
+#EXTINF:1 group-title="REGIONAL-1 (Russian-English)/Acestream", 
 
 
 
@@ -2176,7 +2176,7 @@ acestream://93edd28e2bd2e8a1d6e63c6bf62cb18a70e24d86
 
 
 
-#EXTINF:1 group-title=”REGIONAL-2 (Russian-English)/Acestream”, 
+#EXTINF:1 group-title="REGIONAL-2 (Russian-English)/Acestream", 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -2600,7 +2600,7 @@ acestream://e14e8cb1abebd300de4b40a8221def521b8c58fb
 
 
 
-#EXTINF:1 group-title=”RELIGIOUS (Russian-English)/Acestream”, 
+#EXTINF:1 group-title="RELIGIOUS (Russian-English)/Acestream", 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -2703,7 +2703,7 @@ acestream://1a4c410f459cc6a208a19a0b9689ad20cc115ad9
 
 
 
-#EXTINF:1 group-title=”SPORTS-1 (Russian-English)/Acestream”, 
+#EXTINF:1 group-title="SPORTS-1 (Russian-English)/Acestream", 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -2763,7 +2763,7 @@ acestream://5c40bb4a163fe01ad299ca564047af35b3f4f280
 
 
 
-#EXTINF:1 group-title=”SPORTS-2 (Russian-English)/Acestream”, 
+#EXTINF:1 group-title="SPORTS-2 (Russian-English)/Acestream", 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -2955,7 +2955,7 @@ acestream://764d37b4b2b2393cddb505a281559e60ba2ffbc9
 
 
 
-#EXTINF:1 group-title=”SPORTS-3 (Russian-English)/Acestream”, 
+#EXTINF:1 group-title="SPORTS-3 (Russian-English)/Acestream", 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -3040,7 +3040,7 @@ acestream://bddfb1eaf75dd874be0d752ab5798b5322692e55
 
 
 
-#EXTINF:1 group-title=”SPORTS-ARENAVISION (Russian-English)/Acestream”, 
+#EXTINF:1 group-title="SPORTS-ARENAVISION (Russian-English)/Acestream", 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -3193,7 +3193,7 @@ acestream://99b738bf5b50d5facf26bcfdc5ffaa86b986cc1f
 
 
 
-#EXTINF:1 group-title=”FILMS-1 (Russian-English)/Acestream”, 
+#EXTINF:1 group-title="FILMS-1 (Russian-English)/Acestream", 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -3260,7 +3260,7 @@ acestream://da116afe3adb4831f53e87d118b1f8c650b719d8
 
 
 
-#EXTINF:1 group-title=”FILMS-2 (Russian-English)/Acestream”, 
+#EXTINF:1 group-title="FILMS-2 (Russian-English)/Acestream", 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
@@ -3513,7 +3513,7 @@ acestream://238ac302eb743013aa419c2debbcadcc6784fb81
 
 
 
-#EXTINF:1 group-title=”Russian/Acestream”, 
+#EXTINF:1 group-title="Russian/Acestream", 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
