@@ -1,27 +1,28 @@
 #EXTM3U 
 
-#EXTINF:1 group-title="e-Doctor",
 
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
+
+#EXTINF:-1 group-title="Update Date" tvg-logo="https://goo.gl/eimzf3" ,Updated
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,OFFICIAL e-Doctor
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,XXX LIVE LIST
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,Powered by e-Doctor
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,http://edoctorcy.xyz
+#EXTINF:-1 group-title="Update Date" tvg-logo="https://goo.gl/eimzf3" ,19/03/18
 https://www.youtube.com/watch?v=t4RRga0RUr8
 
 
-
-
-#EXTINF:1 group-title="e-Doctor",
-
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,Updated
+#EXTINF:-1 group-title="e-Doctor" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,19/03/18
+#EXTINF:-1 group-title="e-Doctor" tvg-logo="https://goo.gl/eimzf3" ,OFFICIAL e-Doctor
 https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="e-Doctor" tvg-logo="https://goo.gl/eimzf3" ,XXX LIVE LIST
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="e-Doctor" tvg-logo="https://goo.gl/eimzf3" ,Powered by e-Doctor
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="e-Doctor" tvg-logo="https://goo.gl/eimzf3" ,http://edoctorcy.xyz
+https://www.youtube.com/watch?v=t4RRga0RUr8
+
+
+
+
+
 
 
 
@@ -30,26 +31,26 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 		
 #EXTINF:1 group-title="LIVE TV",
 
-#EXTINF:-1,Jasmin
+#EXTINF:-1 group-title="LIVE TV",Jasmin
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream 
-#EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png", Miami TV
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="http://puu.sh/nvrR5/1bb233b647.png", Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1,Dusk 
+#EXTINF:-1 group-title="LIVE TV",Dusk 
 http://37.9.0.201:8890 
-#EXTINF:-1,XXX 
+#EXTINF:-1 group-title="LIVE TV",XXX 
 http://37.9.0.201:8889 
-#EXTINF:-1,Cento X Cento 
+#EXTINF:-1 group-title="LIVE TV",Cento X Cento 
 http://37.9.0.201:8811 
-#EXTINF:-1,Passion XXX 
+#EXTINF:-1 group-title="LIVE TV",Passion XXX 
 http://37.9.0.201:8888	
-#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" , Visit-X Tv 720P
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" , Visit-X Tv 720P
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8?MWINFO		
 
-#EXTINF:-1,BRAZZERS TV Europe 
+#EXTINF:-1 group-title="LIVE TV",BRAZZERS TV Europe 
 http://37.192.213.121:81/udp/239.1.6.40:1234 
-#EXTINF:-1,РУССКАЯ НОЧЬ (RUSSIAN NIGHT)  
+#EXTINF:-1 group-title="LIVE TV",РУССКАЯ НОЧЬ (RUSSIAN NIGHT)  
 
-#EXTINF:-1,PLAYBOY TV 
+#EXTINF:-1 group-title="LIVE TV",PLAYBOY TV 
 http://91.203.208.65:3371/udp/239.195.2.5:1234 
 
 
@@ -89,116 +90,116 @@ http://91.203.208.65:3371/udp/239.195.2.5:1234
 
 #EXTINF:1 group-title="P2P TV1",
 
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
+#EXTINF:-1 group-title="P2P TV1" tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,ACESTREAM NEEDED.
+#EXTINF:-1 group-title="P2P TV1" tvg-logo="https://goo.gl/eimzf3" ,ACESTREAM NEEDED.
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,Choose Acestream
+#EXTINF:-1 group-title="P2P TV1" tvg-logo="https://goo.gl/eimzf3" ,Choose Acestream
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,as player if
+#EXTINF:-1 group-title="P2P TV1" tvg-logo="https://goo.gl/eimzf3" ,as player if
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,not open
+#EXTINF:-1 group-title="P2P TV1" tvg-logo="https://goo.gl/eimzf3" ,not open
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,automatically
+#EXTINF:-1 group-title="P2P TV1" tvg-logo="https://goo.gl/eimzf3" ,automatically
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,
+#EXTINF:-1 group-title="P2P TV1" tvg-logo="https://goo.gl/eimzf3" ,
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,
+#EXTINF:-1 group-title="P2P TV1" tvg-logo="https://goo.gl/eimzf3" ,
 https://www.youtube.com/watch?v=t4RRga0RUr8		
 
-#EXTINF:-1,Babestation 
+#EXTINF:-1 group-title="P2P TV1",Babestation 
 acestream://b2cd4c5216c34226cbcf0db62508060dfe9ce8f9
-#EXTINF:-1,Blue Hustler 
+#EXTINF:-1 group-title="P2P TV1",Blue Hustler 
 acestream://e4949b89b35852e2e1a14c7502835e615b0fa023
-#EXTINF:-1,Brazzers TV 
+#EXTINF:-1 group-title="P2P TV1",Brazzers TV 
 acestream://9c78e14a182bfc314704102fb9927ad95c6a8da4
-#EXTINF:-1,Brazzers TV Europe 
+#EXTINF:-1 group-title="P2P TV1",Brazzers TV Europe 
 acestream://b954db640120eebdc61febe83efcd9647eea86e4
-#EXTINF:-1,CentoXCento TV 
+#EXTINF:-1 group-title="P2P TV1",CentoXCento TV 
 acestream://41f2d8a7762937e3463345ca30e19d213908b32a
-#EXTINF:-1,Dusk TV 
+#EXTINF:-1 group-title="P2P TV1",Dusk TV 
 acestream://477bda69eb8674ab6b64482857bd78b38eeec2ee
-#EXTINF:-1,EROX (HD) 
+#EXTINF:-1 group-title="P2P TV1",EROX (HD) 
 acestream://fc4b892f45958a8bbc4722bfdf6ef0f0da0c6e16
-#EXTINF:-1,EvilAngel 
+#EXTINF:-1 group-title="P2P TV1",EvilAngel 
 acestream://67d880c1f5db774fc82193fbc0cc2a01e97b6390
-#EXTINF:-1,FAP TV 2 
+#EXTINF:-1 group-title="P2P TV1",FAP TV 2 
 acestream://8d126af76c1ee4e6e2d07722cad662ea099ad8cd
-#EXTINF:-1,FAP TV 2 HD 
+#EXTINF:-1 group-title="P2P TV1",FAP TV 2 HD 
 acestream://07be043068bd6f9f8fcd029508da8b34de7879bf
-#EXTINF:-1,FAP TV 3 
+#EXTINF:-1 group-title="P2P TV1",FAP TV 3 
 acestream://efcfd34936f45acf507ffbd4bb4b19fbfcdbe255
-#EXTINF:-1,FAP TV 4 
+#EXTINF:-1 group-title="P2P TV1",FAP TV 4 
 acestream://d4db1e885831c9d4da5a34a58ca40b05b0d46f8b
-#EXTINF:-1,FAP TV Amateur 
+#EXTINF:-1 group-title="P2P TV1",FAP TV Amateur 
 acestream://73b3e7a334606340943a2b9f70a96cceefd82905
-#EXTINF:-1,FAP TV Anal 
+#EXTINF:-1 group-title="P2P TV1",FAP TV Anal 
 acestream://81e4bf612b018207571947303f459f19bfa04c66
-#EXTINF:-1,FAP TV BBW 
+#EXTINF:-1 group-title="P2P TV1",FAP TV BBW 
 acestream://e7d60c7dd2370684d1cfe59993bb1439f51786ad
-#EXTINF:-1,FAP TV Compilation 
+#EXTINF:-1 group-title="P2P TV1",FAP TV Compilation 
 acestream://aa8d7d336b4386ee2b91baf237e2f7b7850a71bc
-#EXTINF:-1,FAP TV Gay 
+#EXTINF:-1 group-title="P2P TV1",FAP TV Gay 
 acestream://75d7b134ab331975d8f5cc8302324cac1a92e964
-#EXTINF:-1,FAP TV Legal Porno 
+#EXTINF:-1 group-title="P2P TV1",FAP TV Legal Porno 
 acestream://8fc634aafb5d0697286a2a7cd28ddb2484757058
-#EXTINF:-1,FAP TV Lesbian 
+#EXTINF:-1 group-title="P2P TV1",FAP TV Lesbian 
 acestream://8a63cde402fc7adb45f9faa49b748021d067709f
-#EXTINF:-1,FAP TV Older 
+#EXTINF:-1 group-title="P2P TV1",FAP TV Older 
 acestream://e1cb394585f951555f5719740f4bac04ef1f222e
-#EXTINF:-1,FAP TV Parody 
+#EXTINF:-1 group-title="P2P TV1",FAP TV Parody 
 acestream://78b779edc6521936c7af5a7d3e485a1ecc12dee5
-#EXTINF:-1,FAP TV Pissing 
+#EXTINF:-1 group-title="P2P TV1",FAP TV Pissing 
 acestream://83be0360c1c355e32dbd20de633baabe6ee7d984
-#EXTINF:-1,FAP TV Shemale 
+#EXTINF:-1 group-title="P2P TV1",FAP TV Shemale 
 acestream://98486b7cb8ba1101da7f489056bb030e312a5811
-#EXTINF:-1,FAP TV Teaching 
+#EXTINF:-1 group-title="P2P TV1",FAP TV Teaching 
 acestream://9549c51c71f316ba6019c7631ac0173d4ef19401
-#EXTINF:-1,FAP TV Teens 
+#EXTINF:-1 group-title="P2P TV1",FAP TV Teens 
 acestream://e682081316d06c2ed0094cee3a96d59c4be8f33c
-#EXTINF:-1,FAP TV Trans 
+#EXTINF:-1 group-title="P2P TV1",FAP TV Trans 
 acestream://db46640ff373f9bd4ab81fce8ef797a187ec3b96
-#EXTINF:-1,FAP TV UHD 4K 
+#EXTINF:-1 group-title="P2P TV1",FAP TV UHD 4K 
 acestream://bd0a64000ccdbf5a3f5d780e6edcd01e8ff328fa
-#EXTINF:-1,French Lovеr TV 
+#EXTINF:-1 group-title="P2P TV1",French Lovеr TV 
 acestream://282844f81f2cc90db6fedf7ba3d81a01b0ff8ca6
-#EXTINF:-1,Hustler HD 
+#EXTINF:-1 group-title="P2P TV1",Hustler HD 
 acestream://b1975609c579c18146feee708908361cd12c6ec1
-#EXTINF:-1,Jasmin TV 
+#EXTINF:-1 group-title="P2P TV1",Jasmin TV 
 acestream://114e10f9fad02cb5409d7c6861925416c07f21a4
-#EXTINF:-1,Livechannel 
+#EXTINF:-1 group-title="P2P TV1",Livechannel 
 acestream://c18410ce33b2a32b7db8c12d34a1fff8928ade43
-#EXTINF:-1,Nuart TV 
+#EXTINF:-1 group-title="P2P TV1",Nuart TV 
 acestream://4170520ac292cf10da844f14f9a3bab57260ca3d
-#EXTINF:-1,O-la-la 
+#EXTINF:-1 group-title="P2P TV1",O-la-la 
 acestream://8d9050a41b9f6a1023c7cb355157aaa06e89ec5d
-#EXTINF:-1,PassionXXX 
+#EXTINF:-1 group-title="P2P TV1",PassionXXX 
 acestream://6beb3dc1be82c3d16ca9c99bdeb385e61ccf2b5a
-#EXTINF:-1,Phoenix Marie TV 
+#EXTINF:-1 group-title="P2P TV1",Phoenix Marie TV 
 acestream://7c7300cbe2f6363277e216cd5bf70234beb99ec7
-#EXTINF:-1,Pink O TV 
+#EXTINF:-1 group-title="P2P TV1",Pink O TV 
 acestream://704fdeaf6f89284fe1433b8e8f15ed2f91a67544
-#EXTINF:-1,Playboy TV 
+#EXTINF:-1 group-title="P2P TV1",Playboy TV 
 acestream://36bd3cae18891ded1e34aa1ca6a356cf75833251
-#EXTINF:-1,Private HD 
+#EXTINF:-1 group-title="P2P TV1",Private HD 
 acestream://141aaac2bada62b92c6294b94b8d750ee1effcd3
-#EXTINF:-1,Redlight HD 
+#EXTINF:-1 group-title="P2P TV1",Redlight HD 
 acestream://108259ac353c77b18a0eb06a169c1b2634ed910a
-#EXTINF:-1,SCT 
+#EXTINF:-1 group-title="P2P TV1",SCT 
 acestream://33349d5e7e14324e41e3cc2b6c85a069ed1d3906
-#EXTINF:-1,Satisfaction HD 
+#EXTINF:-1 group-title="P2P TV1",Satisfaction HD 
 acestream://8334ee5588e39a566c5dd8a2ffffc5296aec8c73
-#EXTINF:-1,Sextosenso 
+#EXTINF:-1 group-title="P2P TV1",Sextosenso 
 acestream://d2fda87664d511bd03fe992f53ee167f0eb5afcb
-#EXTINF:-1,Visit-X HD 
+#EXTINF:-1 group-title="P2P TV1",Visit-X HD 
 acestream://9066a6ad322f9679391edf654bb61b67afb3338c
-#EXTINF:-1,XXL 
+#EXTINF:-1 group-title="P2P TV1",XXL 
 acestream://d831cbfc85c7d5ca3c2738dd831281764b95c85a
-#EXTINF:-1,Ночной клуб 
+#EXTINF:-1 group-title="P2P TV1",Ночной клуб 
 acestream://c8dca2c78f836386f0136dd71e42f21364d4579d
-#EXTINF:-1,Русская ночь 
+#EXTINF:-1 group-title="P2P TV1",Русская ночь 
 acestream://e841cd24c45500cc9bb328157edb04d37ca444cf
-#EXTINF:-1,Эгоист ТВ 
+#EXTINF:-1 group-title="P2P TV1",Эгоист ТВ 
 acestream://f899e72ac4453c4c2473d0c2fcd4b124a719b276
 
 
@@ -243,34 +244,25 @@ acestream://f899e72ac4453c4c2473d0c2fcd4b124a719b276
 
 #EXTINF:1 group-title="P2P TV2",
 
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,NOTE
+
+#EXTINF:-1 group-title="P2P TV2" tvg-logo="https://goo.gl/eimzf3" ,NOTE
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,ACESTREAM NEEDED.
+#EXTINF:-1 group-title="P2P TV2" tvg-logo="https://goo.gl/eimzf3" ,ACESTREAM NEEDED.
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,Choose Acestream
+#EXTINF:-1 group-title="P2P TV2" tvg-logo="https://goo.gl/eimzf3" ,Choose Acestream
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,as player if
+#EXTINF:-1 group-title="P2P TV2" tvg-logo="https://goo.gl/eimzf3" ,as player if
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,not open
+#EXTINF:-1 group-title="P2P TV2" tvg-logo="https://goo.gl/eimzf3" ,not open
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,automatically
+#EXTINF:-1 group-title="P2P TV2" tvg-logo="https://goo.gl/eimzf3" ,automatically
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,
+#EXTINF:-1 group-title="P2P TV2" tvg-logo="https://goo.gl/eimzf3" ,
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo="https://goo.gl/eimzf3" ,
+#EXTINF:-1 group-title="P2P TV2" tvg-logo="https://goo.gl/eimzf3" ,
 https://www.youtube.com/watch?v=t4RRga0RUr8
 
-#EXTINF:-1,Brazzers TV 
+#EXTINF:-1 group-title="P2P TV2",Brazzers TV 
 acestream://e98b9cac77c201f677dc05cf916093956321060b
-#EXTINF:-1,Playboy TV 
+#EXTINF:-1 group-title="P2P TV2",Playboy TV 
 acestream://2a2ecfa17d0f86ebe0b7a97f4c2e4c1e3bf9c87f
-
-
-
-
-
-
-
-
-
-
