@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 http://.....
 
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,28/03/18 !
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,28/03/18
 http://.....
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -1370,13 +1370,13 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 group-title="UK3"tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
 http://.....
 
-#EXTINF:-1 group-title="UK3" tvg-name="BBC1 HD" tvg-logo="" ,BBC1 HD - BBC1 HD
+#EXTINF:-1 group-title="UK3" tvg-name="BBC1 HD" tvg-logo="" ,BBC1 HD 
 http://62.210.93.115:80/live?channelId=1&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BBC1"  tvg-logo="" ,BBC One - BBC One
+#EXTINF:-1 group-title="UK3" tvg-id="BBC1"  tvg-logo="" ,BBC One  BBC One
 http://62.210.99.158:80/live?channelId=2&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz"  tvg-logo="" ,BBC2 HD - BBC2 HD
+#EXTINF:-1 group-title="UK3" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz"  tvg-logo="" ,BBC2 HD 
 http://62.210.93.115:80/live?channelId=3&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-logo="" ,BBC TWO - BBC TWO
+#EXTINF:-1 group-title="UK3"  ,BBC TWO 
 http://62.210.93.115:80/live?channelId=4&uid=249&deviceMac=00:1A:79:3C:C6:C4
 #EXTINF:-1 group-title="UK3" tvg-id="ITV Central" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV HD" tvg-logo="" ,ITV HD - ITV HD
 http://62.210.93.115:80/live?channelId=5&uid=249&deviceMac=00:1A:79:3C:C6:C4
