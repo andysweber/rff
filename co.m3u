@@ -1674,49 +1674,49 @@ http://62.210.214.28:80/live?channelId=151&uid=249&deviceMac=00:1A:79:3C:C6:C4
 http://62.210.214.28:80/live?channelId=152&uid=249&deviceMac=00:1A:79:3C:C6:C4
 #EXTINF:-1 group-title="UK3" tvg-id="BT Sport X6" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 6" ,BT Sport Extra 6 - BT Sport Extra 6
 http://62.210.214.28:80/live?channelId=153&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="eir Sport 1" tvg-link="" tvg-name="eir Sport 1" ,eir Sport 1 - eir Sport 1
+#EXTINF:-1 group-title="UK3" tvg-id="eir Sport 1" tvg-name="eir Sport 1" ,eir Sport 1 - eir Sport 1
 http://62.210.214.28:80/live?channelId=154&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="eir Sport 2" tvg-link="" tvg-name="eir Sport 2" ,eir Sport 2 - eir Sport 2
+#EXTINF:-1 group-title="UK3" tvg-id="eir Sport 2" tvg-name="eir Sport 2" ,eir Sport 2 - eir Sport 2
 http://62.210.214.28:80/live?channelId=155&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Eurosport 1" tvg-link="" tvg-name="Eurosport 1" ,Eurosport 1 - Eurosport 1
+#EXTINF:-1 group-title="UK3" tvg-id="Eurosport 1" tvg-name="Eurosport 1" ,Eurosport 1 - Eurosport 1
 http://62.210.214.28:80/live?channelId=156&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Eurosport 2" tvg-link="" tvg-name="Eurosport 2" ,Eurosport 2 - Eurosport 2
+#EXTINF:-1 group-title="UK3" tvg-id="Eurosport 2" tvg-name="Eurosport 2" ,Eurosport 2 - Eurosport 2
 http://62.210.214.28:80/live?channelId=157&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="FreeSports" tvg-link="" tvg-name="FreeSports" ,FreeSports - FreeSports
+#EXTINF:-1 group-title="UK3" tvg-id="FreeSports" tvg-name="FreeSports" ,FreeSports - FreeSports
 http://62.210.214.28:80/live?channelId=158&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="FrontRunner" tvg-link="" tvg-name="FrontRunner" ,FrontRunner - FrontRunner
+#EXTINF:-1 group-title="UK3" tvg-id="FrontRunner" tvg-name="FrontRunner" ,FrontRunner - FrontRunner
 http://62.210.214.28:80/live?channelId=159&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="MUTV" tvg-link="" tvg-name="MUTV" ,MUTV - MUTV
+#EXTINF:-1 group-title="UK3" tvg-id="MUTV" tvg-name="MUTV" ,MUTV - MUTV
 http://62.210.214.28:80/live?channelId=162&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="LFC tv" tvg-link="" tvg-name="LFC tv" ,LFC tv - LFC tv
+#EXTINF:-1 group-title="UK3" tvg-id="LFC tv" tvg-name="LFC tv" ,LFC tv - LFC tv
 http://62.210.214.28:80/live?channelId=163&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Chelsea Tv" tvg-link="" tvg-name="Chelsea Tv" ,Chelsea Tv - Chelsea Tv
+#EXTINF:-1 group-title="UK3" tvg-id="Chelsea Tv" tvg-name="Chelsea Tv" ,Chelsea Tv - Chelsea Tv
 http://62.210.214.28:80/live?channelId=164&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="MOTOGP LIVE 1" tvg-link="" tvg-name="MOTOGP LIVE 1" ,MOTOGP LIVE 1 - MOTOGP LIVE 1
+#EXTINF:-1 group-title="UK3" tvg-id="MOTOGP LIVE 1" tvg-name="MOTOGP LIVE 1" ,MOTOGP LIVE 1 - MOTOGP LIVE 1
 http://62.210.214.28:80/live?channelId=165&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="MOTOGP LIVE 2" tvg-link="" tvg-name="MOTOGP LIVE 2" ,MOTOGP LIVE 2 - MOTOGP LIVE 2
+#EXTINF:-1 group-title="UK3" tvg-id="MOTOGP LIVE 2" tvg-name="MOTOGP LIVE 2" ,MOTOGP LIVE 2 - MOTOGP LIVE 2
 http://62.210.214.28:80/live?channelId=166&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="MOTOGP LIVE 3" tvg-link="" tvg-name="MOTOGP LIVE 3" ,MOTOGP LIVE 3 - MOTOGP LIVE 3
+#EXTINF:-1 group-title="UK3" tvg-id="MOTOGP LIVE 3" tvg-name="MOTOGP LIVE 3" ,MOTOGP LIVE 3 - MOTOGP LIVE 3
 http://62.210.214.28:80/live?channelId=167&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Motorsport TV" tvg-link="" tvg-name="Motorsport TV" ,Motorsport TV - Motorsport TV
+#EXTINF:-1 group-title="UK3" tvg-id="Motorsport TV" tvg-name="Motorsport TV" ,Motorsport TV - Motorsport TV
 http://62.210.214.28:80/live?channelId=168&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Premier Sports" tvg-link="" tvg-name="Premier Sports" ,Premier Sports - Premier Sports
+#EXTINF:-1 group-title="UK3" tvg-id="Premier Sports" tvg-name="Premier Sports" ,Premier Sports - Premier Sports
 http://62.210.214.28:80/live?channelId=169&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Premier Sports HD" tvg-link="" tvg-name="Premier Sports HD" ,Premier Sports HD - Premier Sports HD
+#EXTINF:-1 group-title="UK3" tvg-id="Premier Sports HD" tvg-name="Premier Sports HD" ,Premier Sports HD - Premier Sports HD
 http://62.210.214.28:80/live?channelId=170&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Racing UK" tvg-link="" tvg-name="Racing UK" ,Racing UK - Racing UK
+#EXTINF:-1 group-title="UK3" tvg-id="Racing UK" tvg-name="Racing UK" ,Racing UK - Racing UK
 http://62.210.214.28:80/live?channelId=171&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Racing UK HD" tvg-link="" tvg-name="Racing UK HD" ,Racing UK HD - Racing UK HD
+#EXTINF:-1 group-title="UK3" tvg-id="Racing UK HD" tvg-name="Racing UK HD" ,Racing UK HD - Racing UK HD
 http://62.210.214.28:80/live?channelId=172&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="At The Races" tvg-link="" tvg-name="At The Races" ,At The Races - At The Races
+#EXTINF:-1 group-title="UK3" tvg-id="At The Races" tvg-name="At The Races" ,At The Races - At The Races
 http://62.210.214.28:80/live?channelId=173&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BoxNation" tvg-link="" tvg-name="BoxNation" ,BoxNation - BoxNation
+#EXTINF:-1 group-title="UK3" tvg-id="BoxNation" tvg-name="BoxNation" ,BoxNation - BoxNation
 http://62.210.214.28:80/live?channelId=174&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BBC NEWS" tvg-link="" tvg-name="BBC NEWS" ,BBC NEWS - BBC NEWS
+#EXTINF:-1 group-title="UK3" tvg-id="BBC NEWS" tvg-name="BBC NEWS" ,BBC NEWS - BBC NEWS
 http://163.172.15.141:9732/live?channelId=257&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="CNN NEWS" tvg-link="" tvg-name="CNN NEWS" ,CNN NEWS - CNN NEWS
+#EXTINF:-1 group-title="UK3" tvg-id="CNN NEWS" tvg-name="CNN NEWS" ,CNN NEWS - CNN NEWS
 http://163.172.15.141:9732/live?channelId=258&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="SKY NEWS" tvg-link="" tvg-name="SKY NEWS" ,SKY NEWS - SKY NEWS
+#EXTINF:-1 group-title="UK3" tvg-id="SKY NEWS" tvg-name="SKY NEWS" ,SKY NEWS - SKY NEWS
 http://163.172.15.141:9732/live?channelId=259&uid=249&deviceMac=00:1A:79:3C:C6:C4
 
 
