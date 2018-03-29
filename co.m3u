@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 http://.....
 
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,28/03/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,28/03/18 !
 http://.....
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -1378,11 +1378,11 @@ http://62.210.99.158:80/live?channelId=2&uid=249&deviceMac=00:1A:79:3C:C6:C4
 http://62.210.93.115:80/live?channelId=3&uid=249&deviceMac=00:1A:79:3C:C6:C4
 #EXTINF:-1 group-title="UK3"  ,BBC TWO 
 http://62.210.93.115:80/live?channelId=4&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="ITV Central" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV HD" tvg-logo="" ,ITV HD - ITV HD
+#EXTINF:-1 group-title="UK3" tvg-id="ITV Central" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV HD" ,ITV HD - ITV HD
 http://62.210.93.115:80/live?channelId=5&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="ITV Central" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV" tvg-logo="" ,ITV - ITV
+#EXTINF:-1 group-title="UK3" ,ITV - ITV
 http://62.210.93.115:80/live?channelId=6&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="ITV Central +1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV plus1" tvg-logo="" ,ITV plus1 - ITV plus1
+#EXTINF:-1 group-title="UK3"  tvg-logo="" ,ITV plus1 - ITV plus1
 http://62.210.93.115:80/live?channelId=7&uid=249&deviceMac=00:1A:79:3C:C6:C4
 #EXTINF:-1 group-title="UK3" tvg-id="Channel 4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 4 HD" tvg-logo="" ,Channel 4 HD - Channel 4 HD
 http://62.210.93.115:80/live?channelId=8&uid=249&deviceMac=00:1A:79:3C:C6:C4
