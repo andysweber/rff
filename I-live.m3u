@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="Update Date" tvg-logo="https://goo.gl/eimzf3" ,Updated
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Update Date" tvg-logo="https://goo.gl/eimzf3" ,26/03/18
+#EXTINF:-1 group-title="Update Date" tvg-logo="https://goo.gl/eimzf3" ,30/03/18
 https://www.youtube.com/watch?v=t4RRga0RUr8
 
 
@@ -35,14 +35,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream 
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="http://puu.sh/nvrR5/1bb233b647.png", Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 group-title="LIVE TV",Dusk 
-http://37.9.0.201:8890 
-#EXTINF:-1 group-title="LIVE TV",XXX 
-http://37.9.0.201:8889 
-#EXTINF:-1 group-title="LIVE TV",Cento X Cento 
-http://37.9.0.201:8811 
-#EXTINF:-1 group-title="LIVE TV",Passion XXX 
-http://37.9.0.201:8888	
+
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" , Visit-X Tv 720P
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8?MWINFO		
 #EXTINF:-1 group-title="LIVE TV",BRAZZERS TV Europe 
@@ -51,7 +44,8 @@ http://37.192.213.121:81/udp/239.1.6.40:1234
 
 #EXTINF:-1 group-title="LIVE TV",PLAYBOY TV 
 
-
+#EXTINF:-1 group-title="LIVE TV",+18 EROX
+http://185.10.211.10:3000/jgj/UaUgEZ/689
 
 
 
@@ -126,13 +120,13 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 https://www.youtube.com/watch?v=t4RRga0RUr8		
 
 #EXTINF:-1 group-title="P2P TV1",Babestation 
-acestream://b2cd4c5216c34226cbcf0db62508060dfe9ce8f9
+acestream://9e6cc00c9d808d62a70e5c420b2232e139785c80
 #EXTINF:-1 group-title="P2P TV1",Blue Hustler 
 acestream://e4949b89b35852e2e1a14c7502835e615b0fa023
 #EXTINF:-1 group-title="P2P TV1",Brazzers TV 
 acestream://9c78e14a182bfc314704102fb9927ad95c6a8da4
 #EXTINF:-1 group-title="P2P TV1",Brazzers TV Europe 
-acestream://b954db640120eebdc61febe83efcd9647eea86e4
+acestream://7ffe964c1d36198b8e2a2dfa0e4b3e93dcb7813a
 #EXTINF:-1 group-title="P2P TV1",CentoXCento TV 
 acestream://41f2d8a7762937e3463345ca30e19d213908b32a
 #EXTINF:-1 group-title="P2P TV1",Dusk TV 
@@ -178,19 +172,19 @@ acestream://e682081316d06c2ed0094cee3a96d59c4be8f33c
 #EXTINF:-1 group-title="P2P TV1",FAP TV Trans 
 acestream://db46640ff373f9bd4ab81fce8ef797a187ec3b96
 #EXTINF:-1 group-title="P2P TV1",FAP TV UHD 4K 
-acestream://bd0a64000ccdbf5a3f5d780e6edcd01e8ff328fa
+acestream://2a67f91772cd500df4801cb90e910cfd785be075
 #EXTINF:-1 group-title="P2P TV1",French Lovеr TV 
 acestream://282844f81f2cc90db6fedf7ba3d81a01b0ff8ca6
 #EXTINF:-1 group-title="P2P TV1",Hustler HD 
-acestream://b1975609c579c18146feee708908361cd12c6ec1
+acestream://5e11405f0dc3c9cf042ffaf5969bab03fe7b309b
 #EXTINF:-1 group-title="P2P TV1",Jasmin TV 
 acestream://114e10f9fad02cb5409d7c6861925416c07f21a4
 #EXTINF:-1 group-title="P2P TV1",Livechannel 
-acestream://c18410ce33b2a32b7db8c12d34a1fff8928ade43
+acestream://e701d261a12f55a91df6cfba0dd64ade5ae1b09e
 #EXTINF:-1 group-title="P2P TV1",Nuart TV 
-acestream://4170520ac292cf10da844f14f9a3bab57260ca3d
+acestream://d0c850d932ba4f65b6ca3aeac3533b5862733b9d
 #EXTINF:-1 group-title="P2P TV1",O-la-la 
-acestream://8d9050a41b9f6a1023c7cb355157aaa06e89ec5d
+acestream://12b8f69338fc737f1989c6f79acee4a201db4ee7
 #EXTINF:-1 group-title="P2P TV1",PassionXXX 
 acestream://6beb3dc1be82c3d16ca9c99bdeb385e61ccf2b5a
 #EXTINF:-1 group-title="P2P TV1",Phoenix Marie TV 
@@ -202,23 +196,24 @@ acestream://36bd3cae18891ded1e34aa1ca6a356cf75833251
 #EXTINF:-1 group-title="P2P TV1",Private HD 
 acestream://141aaac2bada62b92c6294b94b8d750ee1effcd3
 #EXTINF:-1 group-title="P2P TV1",Redlight HD 
-acestream://108259ac353c77b18a0eb06a169c1b2634ed910a
+acestream://5945b56bcb041ab4cfc9830a9be24f9ed2d3c6f6
 #EXTINF:-1 group-title="P2P TV1",SCT 
 acestream://33349d5e7e14324e41e3cc2b6c85a069ed1d3906
 #EXTINF:-1 group-title="P2P TV1",Satisfaction HD 
-acestream://8334ee5588e39a566c5dd8a2ffffc5296aec8c73
+acestream://05077d94dc969d1f76e6ee70358b84061a3fce36
 #EXTINF:-1 group-title="P2P TV1",Sextosenso 
-acestream://d2fda87664d511bd03fe992f53ee167f0eb5afcb
+acestream://4c740d8064a555f76060134a0e014384347a5605
 #EXTINF:-1 group-title="P2P TV1",Visit-X HD 
 acestream://9066a6ad322f9679391edf654bb61b67afb3338c
 #EXTINF:-1 group-title="P2P TV1",XXL 
 acestream://d831cbfc85c7d5ca3c2738dd831281764b95c85a
 #EXTINF:-1 group-title="P2P TV1",Ночной клуб 
-acestream://c8dca2c78f836386f0136dd71e42f21364d4579d
+acestream://b5d472e72086f3632c09177974829896af429e70
 #EXTINF:-1 group-title="P2P TV1",Русская ночь 
 acestream://e841cd24c45500cc9bb328157edb04d37ca444cf
 #EXTINF:-1 group-title="P2P TV1",Эгоист ТВ 
 acestream://f899e72ac4453c4c2473d0c2fcd4b124a719b276
+
 
 
 
