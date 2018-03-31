@@ -47,6 +47,10 @@ http://37.192.213.121:81/udp/239.1.6.40:1234
 #EXTINF:-1 group-title="LIVE TV",+18 EROX
 http://185.10.211.10:3000/jgj/UaUgEZ/689
 
+#EXTINF:-1 group-title="LIVE TV",Venus
+http://187.162.61.1:8010/play/a03z
+#EXTINF:-1 group-title="LIVE TV",Playboy
+http://187.162.61.1:8010/play/a03y
 
 
 
