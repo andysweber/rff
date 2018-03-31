@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 http://.....
 
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,30/03/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,31/03/18
 http://.....
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -128,9 +128,11 @@ http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/np3siv" ,SKAI
 http://master.cystreams.com:25461/live/greek/qwerty/42.ts
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/np3siv" ,SKAI (Youtube)
-https://www.youtube.com/watch?v=qHEpZ6AqhCA
+https://www.youtube.com/watch?v=cdDDaRPIBfk
 #EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
 http://master.cystreams.com:25461/live/greek/qwerty/40.ts
+#EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR HD
+http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="Alpha" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg" ,ALPHA (USE GREECE VPN)
 http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/kkjOp4" ,ZOUGLA
@@ -250,6 +252,107 @@ http://wpso.com:1936/hls/wzra.m3u8
 
 #EXTINF:8 group-title="Greece_Premium",
 
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/manaellada.png" ,==GREECE==
+http://..........
+
+http://..........
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE:ENABLE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,MXPlayer LOOP_ONE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Greece_Premium"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Greece_Premium"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Greece_Premium"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Greece_Premium"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Greece_Premium"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Greece_Premium"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Greece_Premium"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
+http://.....
+
+#EXTINF:-1 group-title="Greece_Premium" ,RIK 1
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/44.ts
+#EXTINF:-1 group-title="Greece_Premium" ,RIK 2
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/45.ts
+#EXTINF:-1 group-title="Greece_Premium" ,SIGMACY
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/46.ts
+#EXTINF:-1 group-title="Greece_Premium" ,ANT1 CY
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/47.ts
+#EXTINF:-1 group-title="Greece_Premium" ,MEGACY
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/48.ts
+#EXTINF:-1 group-title="Greece_Premium" ,ALPHACY
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/49.ts
+#EXTINF:-1 group-title="Greece_Premium" ,CAPITALCY
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/50.ts
+#EXTINF:-1 group-title="Greece_Premium" ,PLUS TV CY
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/52.ts
+#EXTINF:-1 group-title="Greece_Premium" ,EXTRA CY
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/51.ts
+#EXTINF:-1 group-title="Greece_Premium" ,MAD HITS
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/39.ts
+#EXTINF:-1 group-title="Greece_Premium" ,FOX Life
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/6.ts
+#EXTINF:-1 group-title="Greece_Premium" ,FOX
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/5.ts
+#EXTINF:-1 group-title="Greece_Premium" ,TLC
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/22.ts
+#EXTINF:-1 group-title="Greece_Premium" ,E ENTERTAINMENT
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/36.ts
+#EXTINF:-1 group-title="Greece_Premium" ,DISNEY JUNIOR
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/27.ts
+#EXTINF:-1 group-title="Greece_Premium" ,DISNEY CHANNEL
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/37.ts
+#EXTINF:-1 group-title="Greece_Premium" ,DISNEY XD
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/38.ts
+#EXTINF:-1 group-title="Greece_Premium" ,NIKEL
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/15.ts
+#EXTINF:-1 group-title="Greece_Premium" ,Cosmote Sporthighlights
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/32.ts
+#EXTINF:-1 group-title="Greece_Premium" ,Cosmote Sport 1
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/9.ts
+#EXTINF:-1 group-title="Greece_Premium" ,Cosmote Sport 2
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/10.ts
+#EXTINF:-1 group-title="Greece_Premium" ,Cosmote Sport 3
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/11.ts
+#EXTINF:-1 group-title="Greece_Premium" ,Cosmote Sport 4
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/12.ts
+#EXTINF:-1 group-title="Greece_Premium" ,Cosmote Sport 5
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/13.ts
+#EXTINF:-1 group-title="Greece_Premium" ,Cosmote Sport 6
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/14.ts
+#EXTINF:-1 group-title="Greece_Premium" ,Cosmote Sport 7
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/34.ts
+#EXTINF:-1 group-title="Greece_Premium" ,Cosmote Sport 8
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/35.ts
+#EXTINF:-1 group-title="Greece_Premium" ,ANIMAL PLANET
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/23.ts
+#EXTINF:-1 group-title="Greece_Premium" ,DISCOVERY CHANNEL
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/8.ts
+#EXTINF:-1 group-title="Greece_Premium" ,DISCOVERY SCIENCE
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/53.ts
+#EXTINF:-1 group-title="Greece_Premium" ,DISCOVERY ID
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/54.ts
+#EXTINF:-1 group-title="Greece_Premium" ,DISCOVERY SHOWCASE HD
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/26.ts
+#EXTINF:-1 group-title="Greece_Premium" ,NAT GEOGRAPHIC
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/20.ts
+#EXTINF:-1 group-title="Greece_Premium" ,NATIONAL GEOGRAPHIC HD
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/7.ts
+#EXTINF:-1 group-title="Greece_Premium" ,NAT GEO WILD
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/3.ts
+#EXTINF:-1 group-title="Greece_Premium" ,MOTORVISION HD
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/4.ts
+#EXTINF:-1 group-title="Greece_Premium" ,HISTORY HD
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/1.ts
+#EXTINF:-1 group-title="Greece_Premium" ,Viasat History
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/17.ts
+#EXTINF:-1 group-title="Greece_Premium" ,IDX
+http://178.noips.org:57575/live/eANJoYH1p9/Fzs6QBDSuX/2.ts
 
 
 
@@ -1735,7 +1838,7 @@ http://163.172.15.141:9732/live?channelId=259&uid=249&deviceMac=00:1A:79:3C:C6:C
 
 #EXTINF:3 group-title="UK4", 
 
-#EXTINF:1 group-title="UK3" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
+#EXTINF:1 group-title="UK4" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
 http://..........
 #EXTINF:-1 group-title="UK4" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE:
 https://www.youtube.com/watch?v=t4RRga0RUr8
@@ -1773,6 +1876,24 @@ http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
 #EXTINF:-1 group-title="UK4" ,BT Sport Extra
 http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
 
+#EXTINF:-1 group-title="UK4",beINSports HD 1
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11938.ts
+#EXTINF:-1 group-title="UK4",beINSports HD 2
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11939.ts
+#EXTINF:-1 group-title="UK4",beINSports HD 3
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11940.ts
+#EXTINF:-1 group-title="UK4",beINSports HD 4
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11941.ts
+#EXTINF:-1 group-title="UK4",Viasat Sport HD se
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12059.ts
+#EXTINF:-1 group-title="UK4",SK 1
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12035.ts
+#EXTINF:-1 group-title="UK4",Sky SPORT 1
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12648.ts
+#EXTINF:-1 group-title="UK4",SPORT KLUB 2 (HR)
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12036.ts
+#EXTINF:-1 group-title="UK4",SPORT KLUB 3 (HR)
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12037.ts
 
 
 
@@ -1789,32 +1910,48 @@ http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
 
 
 
-#EXTINF:3 group-title="UK1-LOOP_ONE", 
 
-#EXTINF:1 group-title="UK1-LOOP_ONE" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
+#EXTINF:3 group-title="UK5", 
+
+#EXTINF:1 group-title="UK5" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
 http://..........
-#EXTINF:-1 group-title="UK1-LOOP_ONE" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE:ENABLE
+#EXTINF:-1 group-title="UK5" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE:
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK1-LOOP_ONE" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,MXPlayer LOOP_ONE
+#EXTINF:-1 group-title="UK5"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK1-LOOP_ONE" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,or it may stop
+#EXTINF:-1 group-title="UK5"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK1-LOOP_ONE" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,every few seconds.
+#EXTINF:-1 group-title="UK5" tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK1-LOOP_ONE" tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
+#EXTINF:-1 group-title="UK5"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK1-LOOP_ONE" tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
+#EXTINF:-1 group-title="UK5"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK1-LOOP_ONE" tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
+#EXTINF:-1 group-title="UK5"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK1-LOOP_ONE" tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK1-LOOP_ONE" tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK1-LOOP_ONE" tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK1-LOOP_ONE" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
+#EXTINF:-1 group-title="UK5"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
 http://.....
+
+#EXTINF:-1 group-title="UK5",Disc. History+1
+http://5.101.141.2:8000/play/DiscoveryHistoryplus1
+#EXTINF:-1 group-title="UK5",ID
+http://5.101.141.2:8000/play/InvestigationDiscovery
+#EXTINF:-1 group-title="UK5",Discovery Shed
+http://5.101.141.2:8000/play/Discoveryshed
+#EXTINF:-1 group-title="UK5",TLC+1
+http://5.101.141.2:8000/play/TLCplus1
+#EXTINF:-1 group-title="UK5",ID+1
+http://5.101.141.2:8000/play/InvestigationDiscoveryplus1
+#EXTINF:-1 group-title="UK5",HomeHealth+1
+http://5.101.141.2:8000/play/Homeandhealthplus1
+#EXTINF:-1 group-title="UK5",DMAX+1
+http://5.101.141.2:8000/play/Dmaxplus1
+#EXTINF:-1 group-title="UK5",Animal Plnt+1
+http://5.101.141.2:8000/play/Animal-Planetplus1
+#EXTINF:-1 group-title="UK5",+1
+http://5.101.141.2:8000/play/DiscoveryScienceplus1
+
+
 
 
 
@@ -2758,11 +2895,11 @@ http://wow01.105.net:1935/live/rmc1/livestream.m3u8
 http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
 #EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://channelpear.co/images/media/3673.gif",Radio Virgin TV
 http://wow01.105.net:1935/live/virgin1/livestream.m3u8
-#EXTINF:-1 group-title="Italy-WebTV",Rai 1 HD (italy VPN)
+#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://bit.ly/IMG_RAI1",Rai 1 HD (italy VPN)
 http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/master.m3u8 
 #EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://bit.ly/IMG_RAI1" ,RAI 1 
 http://95.107.132.106/out/u/517_1.m3u8
-#EXTINF:-1 group-title="Italy-WebTV",Rai 2 (italy VPN)
+#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://bit.ly/2kXK6sh",Rai 2 (italy VPN)
 http://b2everyrai-lh.akamaihd.net/i/rai2_1@66477/master.m3u8 
 #EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://bit.ly/2kXK6sh" ,RAI 2 
 http://95.107.132.104/out/u/63_1.m3u8
@@ -2913,42 +3050,6 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/963/inde
 
 
 
-
-
-
-
-
-
-
-
-
-#EXTINF:8 group-title="Italy-LOOP_ONE",
-
-#EXTINF:-1 group-title="Italy-LOOP_ONE" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg" ,==Italy==
-http://..........
-
-#EXTINF:-1 group-title="Italy-LOOP_ONE"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE:ENABLE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Italy-LOOP_ONE"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,MXPlayer LOOP_ONE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Italy-LOOP_ONE"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,or it may stop
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Italy-LOOP_ONE"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,every few seconds.
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Italy-LOOP_ONE"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Italy-LOOP_ONE"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Italy-LOOP_ONE"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Italy-LOOP_ONE"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Italy-LOOP_ONE"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Italy-LOOP_ONE"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Italy-LOOP_ONE"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
-http://.....
 
 
 
@@ -4389,39 +4490,6 @@ http://live.vidoo.de/live/weltderwunder/f1tv.m3u8
 
 
 
-#EXTINF:8 group-title="Germany1-LOOP_ONE",
-
-#EXTINF:-1 group-title="Germany1-LOOP_ONE" tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif" ,==Germany==
-http://..........
-
-#EXTINF:-1 group-title="Germany1-LOOP_ONE"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE:ENABLE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany1-LOOP_ONE"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,MXPlayer LOOP_ONE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany1-LOOP_ONE"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,or it may stop
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany1-LOOP_ONE"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,every few seconds.
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany1-LOOP_ONE"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany1-LOOP_ONE"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany1-LOOP_ONE"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany1-LOOP_ONE"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany1-LOOP_ONE"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany1-LOOP_ONE"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany1-LOOP_ONE"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
-http://.....
-
-
-
-
-
-
 
 
 
@@ -5055,8 +5123,228 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/211/inde
 
 #EXTINF:8 group-title="Spain3",
 
+#EXTINF:-1 group-title="Spain3" tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif" ,==Spain==
+http://..........
 
+#EXTINF:-1 group-title="Spain3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Spain3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Spain3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Spain3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Spain3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Spain3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Spain3"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
+http://.....
 
+#EXTINF:-1 group-title="Spain3",370 TNT
+http://187.162.61.1:8010/play/a05n
+#EXTINF:-1 group-title="Spain3",145 Congreso
+http://187.162.61.1:8010/play/a07x
+#EXTINF:-1 group-title="Spain3",430 Fox Premium Movies
+http://187.162.61.1:8010/play/a03x
+#EXTINF:-1 group-title="Spain3",304 Canal 22
+http://187.162.61.1:8010/play/a08t
+#EXTINF:-1 group-title="Spain3",156 EXATV
+http://187.162.61.1:8010/play/a07r
+#EXTINF:-1 group-title="Spain3",320 H2
+http://187.162.61.1:8010/play/a08i
+#EXTINF:-1 group-title="Spain3",374 Cinemax
+http://187.162.61.1:8010/play/a03u
+#EXTINF:-1 group-title="Spain3",204 52MX
+http://187.162.61.1:8010/play/a07z
+#EXTINF:-1 group-title="Spain3",292 Discovery Kids
+http://187.162.61.1:8010/play/a05j
+#EXTINF:-1 group-title="Spain3",114 Una Voz
+http://187.162.61.1:8010/play/a01d
+#EXTINF:-1 group-title="Spain3",426 Fox Premium Series
+http://187.162.61.1:8010/play/a08o
+#EXTINF:-1 group-title="Spain3",312 Natgeo
+http://187.162.61.1:8010/play/a04q
+#EXTINF:-1 group-title="Spain3",332 Fox Sports 2
+http://187.162.61.1:8010/play/a03q
+#EXTINF:-1 group-title="Spain3",206 Universal Channel
+http://187.162.61.1:8010/play/a02j
+#EXTINF:-1 group-title="Spain3",286 Nick
+http://187.162.61.1:8010/play/a05i
+#EXTINF:-1 group-title="Spain3",342 ESPN 2
+http://187.162.61.1:8010/play/a03s
+#EXTINF:-1 group-title="Spain3",274 HTV
+http://187.162.61.1:8010/play/a01j
+#EXTINF:-1 group-title="Spain3",272 ExaTV
+http://187.162.61.1:8010/play/a05g
+#EXTINF:-1 group-title="Spain3",154 NU Music
+http://187.162.61.1:8010/play/a06y
+#EXTINF:-1 group-title="Spain3",422 Max Prime Oeste
+http://187.162.61.1:8010/play/a03w
+#EXTINF:-1 group-title="Spain3",434 Fox Premium Action
+http://187.162.61.1:8010/play/a08p
+#EXTINF:-1 group-title="Spain3",262 MTV Hits
+http://187.162.61.1:8010/play/a08g
+#EXTINF:-1 group-title="Spain3",224 FX
+http://187.162.61.1:8010/play/a03n
+#EXTINF:-1 group-title="Spain3",214 TNT Series
+http://187.162.61.1:8010/play/a070
+#EXTINF:-1 group-title="Spain3",260 MTV
+http://187.162.61.1:8010/play/a05f
+#EXTINF:-1 group-title="Spain3",338 ESPN 1
+http://187.162.61.1:8010/play/a03r
+#EXTINF:-1 group-title="Spain3",350 CNN EspaÃ±ol
+http://187.162.61.1:8010/play/a081
+#EXTINF:-1 group-title="Spain3",270 Vh1
+http://187.162.61.1:8010/play/a088
+#EXTINF:-1 group-title="Spain3",414 HBO Plus
+http://187.162.61.1:8010/play/a07n
+#EXTINF:-1 group-title="Spain3",406 HBO2
+http://187.162.61.1:8010/play/a04v
+#EXTINF:-1 group-title="Spain3",358 TVC
+http://187.162.61.1:8010/play/a08v
+#EXTINF:-1 group-title="Spain3",252 Comedy Central
+http://187.162.61.1:8010/play/a087
+#EXTINF:-1 group-title="Spain3",378 Cinecanal
+http://187.162.61.1:8010/play/a04r
+#EXTINF:-1 group-title="Spain3",354 El Financiero Blomberg
+http://187.162.61.1:8010/play/a08u
+#EXTINF:-1 group-title="Spain3",268 Video Rola
+http://187.162.61.1:8010/play/a08s
+#EXTINF:-1 group-title="Spain3",336 Claro Sports
+http://187.162.61.1:8010/play/a080
+#EXTINF:-1 group-title="Spain3",208 Sony
+http://187.162.61.1:8010/play/a05e
+#EXTINF:-1 group-title="Spain3",402 HBO
+http://187.162.61.1:8010/play/a02u
+#EXTINF:-1 group-title="Spain3",410 HBO Family
+http://187.162.61.1:8010/play/a04w
+#EXTINF:-1 group-title="Spain3",153 52MX
+http://187.162.61.1:8010/play/a06x
+#EXTINF:-1 group-title="Spain3",446 Fox Premium Cinema
+http://187.162.61.1:8010/play/a08q
+#EXTINF:-1 group-title="Spain3",202 FOX
+http://187.162.61.1:8010/play/a03l
+#EXTINF:-1 group-title="Spain3",111 Once
+http://187.162.61.1:8010/play/a02i
+#EXTINF:-1 group-title="Spain3",216 A tres
+http://187.162.61.1:8010/play/a08r
+#EXTINF:-1 group-title="Spain3",316 Animal Planet
+http://187.162.61.1:8010/play/a05l
+#EXTINF:-1 group-title="Spain3",296 BabyTV
+http://187.162.61.1:8010/play/a089
+#EXTINF:-1 group-title="Spain3",264 NU Music-E2
+http://187.162.61.1:8010/play/a073
+#EXTINF:-1 group-title="Spain3",236 Discovery H&H
+http://187.162.61.1:8010/play/a02n
+#EXTINF:-1 group-title="Spain3",288 Nick Jr
+http://187.162.61.1:8010/play/a04o
+#EXTINF:-1 group-title="Spain3",232 i-sat
+http://187.162.61.1:8010/play/a08e
+#EXTINF:-1 group-title="Spain3",234 ID
+http://187.162.61.1:8010/play/a04j
+#EXTINF:-1 group-title="Spain3",248 E!
+http://187.162.61.1:8010/play/a02p
+#EXTINF:-1 group-title="Spain3",162 Cine Latino
+http://187.162.61.1:8010/play/a03k
+#EXTINF:-1 group-title="Spain3",344 ESPN 3
+http://187.162.61.1:8010/play/a08k
+#EXTINF:-1 group-title="Spain3",334 Fox Sports 3
+http://187.162.61.1:8010/play/a08j
+#EXTINF:-1 group-title="Spain3",438 Fox Premium Family
+http://187.162.61.1:8010/play/a083
+#EXTINF:-1 group-title="Spain3",306 Ingenio TV
+http://187.162.61.1:8010/play/a08h
+#EXTINF:-1 group-title="Spain3",230 A & E
+http://187.162.61.1:8010/play/a02m
+#EXTINF:-1 group-title="Spain3",103 Imagen
+http://187.162.61.1:8010/play/a06w
+#EXTINF:-1 group-title="Spain3",250 TBS
+http://187.162.61.1:8010/play/a08f
+#EXTINF:-1 group-title="Spain3",226 Space
+http://187.162.61.1:8010/play/a04i
+#EXTINF:-1 group-title="Spain3",242 Lifetime
+http://187.162.61.1:8010/play/a04k
+#EXTINF:-1 group-title="Spain3",222 AXN
+http://187.162.61.1:8010/play/a03m
+#EXTINF:-1 group-title="Spain3",160 Multipremier
+http://187.162.61.1:8010/play/a08c
+#EXTINF:-1 group-title="Spain3",372 Multicinema
+http://187.162.61.1:8010/play/a08m
+#EXTINF:-1 group-title="Spain3",210 Warner
+http://187.162.61.1:8010/play/a08d
+#EXTINF:-1 group-title="Spain3",280 Once NiÃ±os
+http://187.162.61.1:8010/play/a01k
+#EXTINF:-1 group-title="Spain3",158 Multicanal
+http://187.162.61.1:8010/play/a08b
+#EXTINF:-1 group-title="Spain3",360 Canal Judicial
+http://187.162.61.1:8010/play/a01o
+#EXTINF:-1 group-title="Spain3",352 CNN Internacional
+http://187.162.61.1:8010/play/a086
+#EXTINF:-1 group-title="Spain3",450 Fox Premium Classics
+http://187.162.61.1:8010/play/a084
+#EXTINF:-1 group-title="Spain3",105 Canal Cinco
+http://187.162.61.1:8010/play/a07u
+#EXTINF:-1 group-title="Spain3",376 Multipremier 2
+http://187.162.61.1:8010/play/a08n
+#EXTINF:-1 group-title="Spain3",102 Canal las Estrellas
+http://187.162.61.1:8010/play/a07s
+#EXTINF:-1 group-title="Spain3",283 Disney Jr.
+http://187.162.61.1:8010/play/a02q
+#EXTINF:-1 group-title="Spain3",218 Antena 3
+http://187.162.61.1:8010/play/a02k
+#EXTINF:-1 group-title="Spain3",294 Natgeo Kids
+http://187.162.61.1:8010/play/a075
+#EXTINF:-1 group-title="Spain3",388 Paramount
+http://187.162.61.1:8010/play/a04u
+#EXTINF:-1 group-title="Spain3",152 52MX
+http://187.162.61.1:8010/play/a07y
+#EXTINF:-1 group-title="Spain3",298 Boomerang
+http://187.162.61.1:8010/play/a02s
+#EXTINF:-1 group-title="Spain3",228 SyFy
+http://187.162.61.1:8010/play/a082
+#EXTINF:-1 group-title="Spain3",205 52MX
+http://187.162.61.1:8010/play/a07q
+#EXTINF:-1 group-title="Spain3",382 Cinelatino
+http://187.162.61.1:8010/play/a03v
+#EXTINF:-1 group-title="Spain3",122 Canal 22
+http://187.162.61.1:8010/play/a07w
+#EXTINF:-1 group-title="Spain3",330 Fox Sports 1
+http://187.162.61.1:8010/play/a03p
+#EXTINF:-1 group-title="Spain3",314 Natgeo Wild
+http://187.162.61.1:8010/play/a02t
+#EXTINF:-1 group-title="Spain3",120 UNAM
+http://187.162.61.1:8010/play/a01e
+#EXTINF:-1 group-title="Spain3",322 Arts
+http://187.162.61.1:8010/play/a01l
+#EXTINF:-1 group-title="Spain3",101 Azteca Trece
+http://187.162.61.1:8010/play/a07t
+#EXTINF:-1 group-title="Spain3",246 HolaTV
+http://187.162.61.1:8010/play/a072
+#EXTINF:-1 group-title="Spain3",386 Studio Universal
+http://187.162.61.1:8010/play/a08a
+#EXTINF:-1 group-title="Spain3",244 Foxlife
+http://187.162.61.1:8010/play/a03o
+#EXTINF:-1 group-title="Spain3",107 Azteca 7
+http://187.162.61.1:8010/play/a07v
+#EXTINF:-1 group-title="Spain3",282 Disney
+http://187.162.61.1:8010/play/a05h
+#EXTINF:-1 group-title="Spain3",318 History Channel
+http://187.162.61.1:8010/play/a05m
+#EXTINF:-1 group-title="Spain3",384 Film Zone
+http://187.162.61.1:8010/play/a04s
+#EXTINF:-1 group-title="Spain3",240 TLC
+http://187.162.61.1:8010/play/a02o
+#EXTINF:-1 group-title="Spain3",284 Disney XD
+http://187.162.61.1:8010/play/a04n
+#EXTINF:-1 group-title="Spain3",490 Sextream
+http://187.162.61.1:8010/play/a040
+#EXTINF:-1 group-title="Spain3",356 Milenio
+http://187.162.61.1:8010/play/a08l
+#EXTINF:-1 group-title="Spain3",290 Cartoon Network
+http://187.162.61.1:8010/play/a02r
+#EXTINF:-1 group-title="Spain3",308 Discovery Channel
+http://187.162.61.1:8010/play/a05k
 
 
 
@@ -5998,7 +6286,14 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 http://www.iptvsaga.com/play/tv3/0021.m3u8
 #EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://cdn.iol.pt/img/logostvi/preto/tvi24.png" ,TVI24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u
-
+#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://vertelevisor.com/imagenes/Sport-TV1-HD.png",SPORT TV1
+http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
+#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://vertelevisor.com/imagenes/Sport-TV2-HD.png",SPORT TV2
+http://185.80.220.79:15214/streamM/xZxIbGC9NR.stream/playlist.m3u8
+#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://vertelevisor.com/imagenes/Sport-TV3-HD.png",SPORT TV 2
+http://185.80.220.79:15214/streamM/0qZjb9kndn.stream/playlist.m3u8
+#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="https://seeklogo.com/images/S/sporttv-logo-0A1362A00E-seeklogo.com.gif",SPORT TV
+http://185.80.220.79:15214/streamM/nnXWDzhPK1.stream/playlist.m3u8
 
 
 
@@ -10231,259 +10526,343 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Al Salam
-http://janiptv.com:8888/live/jd736675/j5k5s888/87.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/87.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",bait la7em
-http://janiptv.com:8888/live/jd736675/j5k5s888/89.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/89.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Ajyal
-http://janiptv.com:8888/live/jd736675/j5k5s888/63.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/63.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Makan
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/144.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",ZDF
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/817.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Das Erste
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/816.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Mediaset-extra
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/822.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",TRT SPOR
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/819.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",RTP 1
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/820.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===Alfajer TV===
-http://janiptv.com:8888/live/jd736675/j5k5s888/735.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/735.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Alfajertv HD1
-http://janiptv.com:8888/live/jd736675/j5k5s888/75.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/75.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Alfajertv HD2
-http://janiptv.com:8888/live/jd736675/j5k5s888/73.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/73.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",AlfajertvHD4
-http://janiptv.com:8888/live/jd736675/j5k5s888/733.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/733.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",AlfajertvHD3
-http://janiptv.com:8888/live/jd736675/j5k5s888/76.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/76.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",AlfajertvHD5
-http://janiptv.com:8888/live/jd736675/j5k5s888/734.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/734.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===BeIN Sports FULLHD===
-http://janiptv.com:8888/live/jd736675/j5k5s888/2.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/2.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 1 FULLHD
-http://janiptv.com:8888/live/jd736675/j5k5s888/3.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/3.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 2 FULLHD
-http://janiptv.com:8888/live/jd736675/j5k5s888/4.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/4.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 3 FULLHD
-http://janiptv.com:8888/live/jd736675/j5k5s888/5.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/5.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 4 FULLHD
-http://janiptv.com:8888/live/jd736675/j5k5s888/6.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/6.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 5 FULLHD
-http://janiptv.com:8888/live/jd736675/j5k5s888/7.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/7.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 6 FULLHD
-http://janiptv.com:8888/live/jd736675/j5k5s888/8.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/8.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 7 FULLHD
-http://janiptv.com:8888/live/jd736675/j5k5s888/9.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/9.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 8 FULLHD
-http://janiptv.com:8888/live/jd736675/j5k5s888/10.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/10.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===BeIN SPORTS HD1===
-http://janiptv.com:8888/live/jd736675/j5k5s888/769.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/769.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BeIN SPORTS 1FHD(H265)
-http://janiptv.com:8888/live/jd736675/j5k5s888/770.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/770.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BeIN SPORTS 2FHD(H265)
-http://janiptv.com:8888/live/jd736675/j5k5s888/771.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/771.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BeIN SPORTS 3FHD(H265)
-http://janiptv.com:8888/live/jd736675/j5k5s888/772.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/772.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BeIN SPORTS 4FHD(H265)
-http://janiptv.com:8888/live/jd736675/j5k5s888/773.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/773.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BeIN SPORTS 5FHD(H265)
-http://janiptv.com:8888/live/jd736675/j5k5s888/774.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/774.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BeIN SPORTS 6FHD(H265)
-http://janiptv.com:8888/live/jd736675/j5k5s888/775.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/775.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",========BeIN Sports HD2=========
-http://janiptv.com:8888/live/jd736675/j5k5s888/99.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/99.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 1HD
-http://janiptv.com:8888/live/jd736675/j5k5s888/95.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/95.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 2HD
-http://janiptv.com:8888/live/jd736675/j5k5s888/96.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/96.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 3HD
-http://janiptv.com:8888/live/jd736675/j5k5s888/97.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/97.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 4HD
-http://janiptv.com:8888/live/jd736675/j5k5s888/98.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/98.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 5HD
-http://janiptv.com:8888/live/jd736675/j5k5s888/368.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/368.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 6HD
-http://janiptv.com:8888/live/jd736675/j5k5s888/369.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/369.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 7HD
-http://janiptv.com:8888/live/jd736675/j5k5s888/370.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/370.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 8HD
-http://janiptv.com:8888/live/jd736675/j5k5s888/371.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/371.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 9HD
-http://janiptv.com:8888/live/jd736675/j5k5s888/372.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/372.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 10HD
-http://janiptv.com:8888/live/jd736675/j5k5s888/373.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/373.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===BeIN Sports SD===
-http://janiptv.com:8888/live/jd736675/j5k5s888/11.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/11.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 1SD
-http://janiptv.com:8888/live/jd736675/j5k5s888/12.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/12.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 2SD
-http://janiptv.com:8888/live/jd736675/j5k5s888/13.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/13.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 3SD
-http://janiptv.com:8888/live/jd736675/j5k5s888/14.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/14.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 4SD
-http://janiptv.com:8888/live/jd736675/j5k5s888/15.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/15.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 5SD
-http://janiptv.com:8888/live/jd736675/j5k5s888/16.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/16.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 6SD
-http://janiptv.com:8888/live/jd736675/j5k5s888/17.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/17.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 7SD
-http://janiptv.com:8888/live/jd736675/j5k5s888/18.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/18.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 8SD
-http://janiptv.com:8888/live/jd736675/j5k5s888/19.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/19.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===BeIN MOVES===
-http://janiptv.com:8888/live/jd736675/j5k5s888/20.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/20.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN DRAMA HD
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/797.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN MOVES1
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/791.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN MOVES2
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/792.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN MOVES3
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/793.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN MOVES4
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/794.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN SERIES 1HD
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/795.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===OSN===
-http://janiptv.com:8888/live/jd736675/j5k5s888/34.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/34.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",OSN-YaHala-Cinema
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/798.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Osn-Series-First
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/799.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",OSN-MoviesHD
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/804.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",OSN-Movies-Family
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/806.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",OSN-Movies-Comedy
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/807.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",OSN-Movies-Action
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/805.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",OSN-Cinema2
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/809.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",OSN-Cinema1
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/808.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",OSN-ALYawm
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/810.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",ART-Aflam
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/811.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Animal-Planet
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/813.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",FOX-Movies
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/802.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",FOX-Family-Movies
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/803.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",National-Geographic-AbuDhabi
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/812.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===MBC===
-http://janiptv.com:8888/live/jd736675/j5k5s888/24.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/24.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC 1
-http://janiptv.com:8888/live/jd736675/j5k5s888/25.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/25.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC 2
-http://janiptv.com:8888/live/jd736675/j5k5s888/26.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/26.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC 3
-http://janiptv.com:8888/live/jd736675/j5k5s888/27.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/27.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC 4
-http://janiptv.com:8888/live/jd736675/j5k5s888/28.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/28.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC DRAMA
-http://janiptv.com:8888/live/jd736675/j5k5s888/29.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC Drama Plus
-http://janiptv.com:8888/live/jd736675/j5k5s888/32.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/29.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC ACTION
-http://janiptv.com:8888/live/jd736675/j5k5s888/30.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/30.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC MAX
-http://janiptv.com:8888/live/jd736675/j5k5s888/31.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/31.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC Variety
-http://janiptv.com:8888/live/jd736675/j5k5s888/33.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/33.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===ROTANA===
-http://janiptv.com:8888/live/jd736675/j5k5s888/132.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/132.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Rotana-Drama
-http://janiptv.com:8888/live/jd736675/j5k5s888/130.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/130.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Rotana-Classic
-http://janiptv.com:8888/live/jd736675/j5k5s888/131.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/131.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Rotana-Cinema
-http://janiptv.com:8888/live/jd736675/j5k5s888/128.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/128.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Rotana-Aflam
-http://janiptv.com:8888/live/jd736675/j5k5s888/129.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/129.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===NEWS===
-http://janiptv.com:8888/live/jd736675/j5k5s888/47.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/47.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Aljazeera
-http://janiptv.com:8888/live/jd736675/j5k5s888/48.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/48.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Alarabiya
-http://janiptv.com:8888/live/jd736675/j5k5s888/49.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/49.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Alhadath
-http://janiptv.com:8888/live/jd736675/j5k5s888/50.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/50.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BBC
-http://janiptv.com:8888/live/jd736675/j5k5s888/54.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/54.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Deutsche Welle AR
-http://janiptv.com:8888/live/jd736675/j5k5s888/53.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/53.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",France 24ar
-http://janiptv.com:8888/live/jd736675/j5k5s888/52.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/52.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",RT ARABIC
-http://janiptv.com:8888/live/jd736675/j5k5s888/55.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/55.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Sky News AR
-http://janiptv.com:8888/live/jd736675/j5k5s888/51.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/51.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===KIDS===
-http://janiptv.com:8888/live/jd736675/j5k5s888/56.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/56.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Ajyal baby
-http://janiptv.com:8888/live/jd736675/j5k5s888/61.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/61.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",‪Atfal Wa Mwaheb‬‏
-http://janiptv.com:8888/live/jd736675/j5k5s888/392.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/392.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Talking Tom and Friends
-http://janiptv.com:8888/live/jd736675/j5k5s888/60.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/60.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Talking Tom Shorts
-http://janiptv.com:8888/live/jd736675/j5k5s888/59.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/59.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Toyor Aljanah
-http://janiptv.com:8888/live/jd736675/j5k5s888/58.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/58.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MAJED+
-http://janiptv.com:8888/live/jd736675/j5k5s888/389.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/389.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Toyor Baby
-http://janiptv.com:8888/live/jd736675/j5k5s888/57.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/57.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===DOCUMENTARY===
-http://janiptv.com:8888/live/jd736675/j5k5s888/127.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/127.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Al Jazeera Documentary
-http://janiptv.com:8888/live/jd736675/j5k5s888/67.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===Tunisia===
-http://janiptv.com:8888/live/jd736675/j5k5s888/393.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",ZITONA
-http://janiptv.com:8888/live/jd736675/j5k5s888/397.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Tunsia1
-http://janiptv.com:8888/live/jd736675/j5k5s888/394.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Tounesna
-http://janiptv.com:8888/live/jd736675/j5k5s888/404.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Nessma
-http://janiptv.com:8888/live/jd736675/j5k5s888/395.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",M Tunisia
-http://janiptv.com:8888/live/jd736675/j5k5s888/403.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Janoubia
-http://janiptv.com:8888/live/jd736675/j5k5s888/402.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Hannibal
-http://janiptv.com:8888/live/jd736675/j5k5s888/401.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Attessia
-http://janiptv.com:8888/live/jd736675/j5k5s888/405.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/67.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===MOROOCO===
-http://janiptv.com:8888/live/jd736675/j5k5s888/406.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/406.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",2M Maroc
-http://janiptv.com:8888/live/jd736675/j5k5s888/409.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/409.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Tamazight
-http://janiptv.com:8888/live/jd736675/j5k5s888/414.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/414.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Medi1tv
-http://janiptv.com:8888/live/jd736675/j5k5s888/415.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/415.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Assadissa
-http://janiptv.com:8888/live/jd736675/j5k5s888/413.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/413.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Arriadia
-http://janiptv.com:8888/live/jd736675/j5k5s888/410.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/410.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Arrabiaa
-http://janiptv.com:8888/live/jd736675/j5k5s888/411.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/411.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Al_aoula_inter/
-http://janiptv.com:8888/live/jd736675/j5k5s888/408.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/408.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Almaghribya
-http://janiptv.com:8888/live/jd736675/j5k5s888/412.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/412.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===Algeria===
-http://janiptv.com:8888/live/jd736675/j5k5s888/416.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Tv-Coran
-http://janiptv.com:8888/live/jd736675/j5k5s888/418.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/416.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Tamazight/
-http://janiptv.com:8888/live/jd736675/j5k5s888/417.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/417.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Samira_tv
-http://janiptv.com:8888/live/jd736675/j5k5s888/420.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/420.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Ennahar_algerie
-http://janiptv.com:8888/live/jd736675/j5k5s888/425.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/425.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",El_Djazairia
-http://janiptv.com:8888/live/jd736675/j5k5s888/424.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/424.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",EchoroukTV
-http://janiptv.com:8888/live/jd736675/j5k5s888/421.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/421.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",EchoroukNews
-http://janiptv.com:8888/live/jd736675/j5k5s888/422.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",EchoroukBenna
-http://janiptv.com:8888/live/jd736675/j5k5s888/423.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/422.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Algerie 1
-http://janiptv.com:8888/live/jd736675/j5k5s888/419.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/419.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===MORE===
-http://janiptv.com:8888/live/jd736675/j5k5s888/62.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/62.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Quraan TV
-http://janiptv.com:8888/live/jd736675/j5k5s888/66.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/66.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Sama TV
-http://janiptv.com:8888/live/jd736675/j5k5s888/376.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/376.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",CBC
-http://janiptv.com:8888/live/jd736675/j5k5s888/65.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/65.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Wanasah
-http://janiptv.com:8888/live/jd736675/j5k5s888/388.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/388.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Sama Dubai
-http://janiptv.com:8888/live/jd736675/j5k5s888/382.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/382.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Roya
-http://janiptv.com:8888/live/jd736675/j5k5s888/385.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/385.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Raya
-http://janiptv.com:8888/live/jd736675/j5k5s888/386.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/386.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",OTV
-http://janiptv.com:8888/live/jd736675/j5k5s888/380.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/380.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MaanHD
-http://janiptv.com:8888/live/jd736675/j5k5s888/387.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/387.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",LBC
-http://janiptv.com:8888/live/jd736675/j5k5s888/378.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/378.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",LBC 2
-http://janiptv.com:8888/live/jd736675/j5k5s888/379.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/379.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",LDC
-http://janiptv.com:8888/live/jd736675/j5k5s888/390.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/390.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Dubai One
-http://janiptv.com:8888/live/jd736675/j5k5s888/391.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/391.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",CBC DRAMA
-http://janiptv.com:8888/live/jd736675/j5k5s888/384.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/384.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Arabica TV
-http://janiptv.com:8888/live/jd736675/j5k5s888/381.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/381.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Abudhabi Drama
-http://janiptv.com:8888/live/jd736675/j5k5s888/383.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/383.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Syria Drama
-http://janiptv.com:8888/live/jd736675/j5k5s888/377.ts
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/377.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===Kurdistan TV===
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/764.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Zarok-tv
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/758.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Waar-tv
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/745.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Vin-tv
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/749.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Super-tv
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/763.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Sterk-tv
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/748.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",StarWorld
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/800.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Star-Movies
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/801.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Speda-tv
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/746.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Rudaw
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/741.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Ronahi-tv
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/739.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Rojava-tv
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/753.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Rengin-tv
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/761.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Qamislo-tv
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/757.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Newmax-tv-comedy
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/755.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Newmax-tv-box-office
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/754.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Newmax-tv
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/756.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Nalia-tv
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/742.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Minbij-tv
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/759.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Med-muzik-tv
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/760.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Kurdsat-tv
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/740.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Kurdmax-tv
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/743.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Kurdmax-show-tv
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/747.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Kurdistan24-tv
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/744.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Korek-tv
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/751.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Kanal4
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/750.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Ezidxan-tv
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/762.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Al-yaum-tv
+http://janiptv.com:8888/live/gn8yj7gj/4as349jm/752.ts
 
 
 
