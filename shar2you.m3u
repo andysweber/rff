@@ -311,11 +311,11 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 #EXTINF:-1 group-title="KIDS-1 (Russian-English)/Acestream" tvg-logo="https://goo.gl/eimzf3" ,ACESTREAM NEEDED.
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
-#EXTINF:-1,Cartoon network 
+#EXTINF:-1 group-title="KIDS-1 (Russian-English)/Acestream",Cartoon network 
 acestream://c37b5c6625f7cd01976300ee000a5279e96afae6
-#EXTINF:-1,KIDS HD 
+#EXTINF:-1 group-title="KIDS-1 (Russian-English)/Acestream",KIDS HD 
 acestream://9c0d51967ec4ac831c72f947ae75a4fef56f38a1
-#EXTINF:-1,Канал Disney 
+#EXTINF:-1 group-title="KIDS-1 (Russian-English)/Acestream",Канал Disney 
 acestream://fc61ebd287c68dd88bb0acb8327d91817ccfb1de
 
 
