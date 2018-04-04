@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 http://.....
 
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,02/04/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,04/04/18
 http://.....
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -57,8 +57,6 @@ http://..........
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" epg-id="Sigma" tvg-logo="https://goo.gl/ccdFP9" ,SIGMA
 http://81.21.47.74/hls/live.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" epg-id="Sigma" tvg-logo="https://goo.gl/ccdFP9" ,SIGMA
-http://master.cystreams.com:25461/live/greek/qwerty/12.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/tvg/logos/219.png" ,Capital
 http://master.cystreams.com:25461/live/greek/qwerty/14.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA
@@ -68,11 +66,11 @@ http://master.cystreams.com:25461/live/greek/qwerty/119.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/tvmallcyprusmtntv-jpg-ByVTOq9ql.jpg" ,TV Mall
 http://master.cystreams.com:25461/live/tvmall/tvmall/539.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://i.imgur.com/w9Je47D.png",CYSPORTS
-http://hls.istoikona.net:1935/CYSPORTS/CYSPORTS/playlist.m3u8
+http://cdnstream.istoikona.net:8081/cysports/cysports/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://alfasports.tv/wp-content/uploads/2017/07/19650478_10213391687526137_730682022_o.png",ALFA SPORT.TV
 http://l9.cloudskep.com/alsports/al24/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://static.wixstatic.com/media/e9f47d_88cb6146a20047d8aacd872fefdb9519~mv2.png",7 SPORTS TV
-http://hls.istoikona.net:1935/7sports/7sports/playlist.m3u8
+http://cdnstream.istoikona.net:8081/7sports/7sports/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.radioepistrofi.com/templates/olympus/images/logo.jpg" ,RADIO EPISTROFI - TopFM99.9
 http://master.cystreams.com:25461/live/epistrofi/epistrofi123/44.ts
 
@@ -281,9 +279,44 @@ http://wpso.com:1936/hls/wzra.m3u8
 
 
 
-#EXTINF:8 group-title="Greece2_Premium",
+#EXTINF:8 group-title="Greece_Premium",
 
-
+#EXTINF:-1 group-title="Greece_Premium",ALPHA 
+http://78.128.63.6:8009/play/a00i/index.m3u8 
+#EXTINF:-1 group-title="Greece_Premium",ERT2 
+http://78.128.63.6:8009/play/a005/index.m3u8 
+#EXTINF:-1 group-title="Greece_Premium",Vouli 
+http://78.128.63.6:8009/play/a007/index.m3u8 
+#EXTINF:-1 group-title="Greece_Premium",Kosmos 
+http://78.128.63.6:8009/play/a004/index.m3u8 
+#EXTINF:-1 group-title="Greece_Premium",ERT3 
+http://78.128.63.6:8009/play/a00a/index.m3u8 
+#EXTINF:-1 group-title="Greece_Premium",ERT HD 
+http://78.128.63.6:8009/play/a00b/index.m3u8 
+#EXTINF:-1 group-title="Greece_Premium",SKAI 
+http://78.128.63.6:8009/play/a00f/index.m3u8 
+#EXTINF:-1 group-title="Greece_Premium",M.tv 
+http://78.128.63.6:8009/play/a00d/index.m3u8 
+#EXTINF:-1 group-title="Greece_Premium",ART 
+http://78.128.63.6:8009/play/a00k/index.m3u8 
+#EXTINF:-1 group-title="Greece_Premium",Proto 
+http://78.128.63.6:8009/play/a003/index.m3u8 
+#EXTINF:-1 group-title="Greece_Premium",Voice Of Greece 
+http://78.128.63.6:8009/play/a009/index.m3u8 
+#EXTINF:-1 group-title="Greece_Premium",MEGA 
+http://78.128.63.6:8009/play/a00e/index.m3u8 
+#EXTINF:-1 group-title="Greece_Premium",Trito 
+http://78.128.63.6:8009/play/a006/index.m3u8 
+#EXTINF:-1 group-title="Greece_Premium",epsilontv 
+http://78.128.63.6:8009/play/a00l/index.m3u8 
+#EXTINF:-1 group-title="Greece_Premium",Era Sport 
+http://78.128.63.6:8009/play/a008/index.m3u8 
+#EXTINF:-1 group-title="Greece_Premium",ERT1 
+http://78.128.63.6:8009/play/a002/index.m3u8 
+#EXTINF:-1 group-title="Greece_Premium",STAR 
+http://78.128.63.6:8009/play/a00g/index.m3u8 
+#EXTINF:-1 group-title="Greece_Premium",ANT1 
+http://78.128.63.6:8009/play/a00j/index.m3u8
 
 
 
@@ -2175,7 +2208,109 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1126.m3u8$http-refferer
 
 #EXTINF:8 group-title="UK2-PREMIUM-MXPlayer",
 
+#EXTINF:-1 group-title="UK2-PREMIUM"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE: USE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="UK2-PREMIUM" tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="UK2-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="UK2-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="UK2-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="UK2-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="UK2-PREMIUM" tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="UK2-PREMIUM" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
+http://.....
 
+#EXTINF:-1 group-title="UK2-PREMIUM",Sky_Thriller
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2201.ts
+#EXTINF:-1 group-title="UK2-PREMIUM",ITV_2_HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2181.ts
+#EXTINF:-1 group-title="UK2-PREMIUM",ITV_1_HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2180.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", Syfy_UK
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2194.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", Sky.Movies.Sci-Fi.&.Horror
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2208.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", Sky.Movies.Family.UK
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2207.ts
+#EXTINF:-1 group-title="UK2-PREMIUM",Sky.Movies.Action.&.Adventure
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2206.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", Film4_UK
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2195.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", TRUE MOVIES
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2222.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", SKY2
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2220.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", SKY1
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2219.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", Sky Movies Select HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2205.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", Sky Atlantic
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2209.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", Sky 3D
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2210.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", RTE NEWS
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2189.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", RTE 2
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2188.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", RTE 1
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2187.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", Peace TV
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2211.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", NatGeo Wild HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2218.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", NAT GEO HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2217.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", MTA2
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2214.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", MTA1
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2213.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", MORE4
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2199.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", ITV 4
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2183.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", ITV 3
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2182.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", HISTORY
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2196.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", E4
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2186.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", DAVE HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2216.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", Dave
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2193.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", Comedy Central
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2198.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", channel 4
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2185.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", CBS Reality
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2191.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", CBS Action
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2190.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", Cartoon Network
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2197.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", BBC Three
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2178.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", BBC Four
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2179.ts
+#EXTINF:-1 group-title="UK2-PREMIUM", Baby tv
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2192.ts
+#EXTINF:-1 group-title="UK2-PREMIUM",UK Sky Movies Showcase
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2203.ts
+#EXTINF:-1 group-title="UK2-PREMIUM",UK Sky Movies Comedy
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2204.ts
+#EXTINF:-1 group-title="UK2-PREMIUM",UK Sky Action Movies
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2202.ts
+#EXTINF:-1 group-title="UK2-PREMIUM",UK Disney Junior
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2224.ts
+#EXTINF:-1 group-title="UK2-PREMIUM",UK Disney Channel
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2223.ts
+#EXTINF:-1 group-title="UK2-PREMIUM",Sky News
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/2177.ts
 
 
 
@@ -2911,6 +3046,233 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/963/inde
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:8 group-title="Italy3",
+
+#EXTINF:-1 group-title="Italy3" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg" ,==Italy==
+http://..........
+
+#EXTINF:-1 group-title="Italy3"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE:
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Italy3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Italy3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Italy3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Italy3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Italy3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Italy3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Italy3"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
+http://.....
+
+
+#EXTINF:-1 group-title="Italy3",Rai_1 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1947.ts
+#EXTINF:-1 group-title="Italy3",Rai2_HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1948.ts
+#EXTINF:-1 group-title="Italy3",Rai_3_HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1949.ts
+#EXTINF:-1 group-title="Italy3",Rai4_HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1950.ts
+#EXTINF:-1 group-title="Italy3",Rai 5
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1951.ts
+#EXTINF:-1 group-title="Italy3",Rai Yoyo
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1954.ts
+#EXTINF:-1 group-title="Italy3",RaiI_Scuola_HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1952.ts
+#EXTINF:-1 group-title="Italy3",Rai_premium
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1956.ts
+#EXTINF:-1 group-title="Italy3",RAI_movie
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1955.ts
+#EXTINF:-1 group-title="Italy3",RAI_GULP
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1953.ts
+#EXTINF:-1 group-title="Italy3",Italia1_HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1957.ts
+#EXTINF:-1 group-title="Italy3",CANAL5
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1960.ts
+#EXTINF:-1 group-title="Italy3",Rete.4
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1959.ts
+#EXTINF:-1 group-title="Italy3",Sky Cinema Cult HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1701.ts
+#EXTINF:-1 group-title="Italy3",Sky Cinema  24 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1700.ts
+#EXTINF:-1 group-title="Italy3",Sky Cinema  1 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1699.ts
+#EXTINF:-1 group-title="Italy3",Sky Cinema Passion
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/663.ts
+#EXTINF:-1 group-title="Italy3",Sky Cinema Max
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/664.ts
+#EXTINF:-1 group-title="Italy3",Sky Cinema Hits
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/665.ts
+#EXTINF:-1 group-title="Italy3",Sky Cinema Family
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/666.ts
+#EXTINF:-1 group-title="Italy3",Sky Cinema Comedy
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/667.ts
+#EXTINF:-1 group-title="Italy3",Sky Cinema Classics
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/668.ts
+#EXTINF:-1 group-title="Italy3",Sky Cinema 1
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/662.ts
+#EXTINF:-1 group-title="Italy3",Sky Uno HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1025.ts
+#EXTINF:-1 group-title="Italy3",Sky Atlantic HD*
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1191.ts
+#EXTINF:-1 group-title="Italy3",SKY FOX SPORT HD IT
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1033.ts
+#EXTINF:-1 group-title="Italy3",SKY Sport  MotoGP HD*
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1034.ts
+#EXTINF:-1 group-title="Italy3",Sky TG 24
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/651.ts
+#EXTINF:-1 group-title="Italy3",TV 8
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/650.ts
+#EXTINF:-1 group-title="Italy3",Paramount Channel
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/669.ts
+#EXTINF:-1 group-title="Italy3",National Geographic
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/644.ts
+#EXTINF:-1 group-title="Italy3",Nat Geo Wild
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/646.ts
+#EXTINF:-1 group-title="Italy3",Nat Geo Poeple
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/645.ts
+#EXTINF:-1 group-title="Italy3",Fox Life
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/637.ts
+#EXTINF:-1 group-title="Italy3",Fox Crime
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/638.ts
+#EXTINF:-1 group-title="Italy3",Dmax
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/649.ts
+#EXTINF:-1 group-title="Italy3",Disney XD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/642.ts
+#EXTINF:-1 group-title="Italy3",Disney Channel
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/641.ts
+#EXTINF:-1 group-title="Italy3",Cielo
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/640.ts
+#EXTINF:-1 group-title="Italy3",Cartoonito
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/643.ts
+#EXTINF:-1 group-title="Italy3",Alice
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/639.ts
+#EXTINF:-1 group-title="Italy3",Inter Channel
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/683.ts
+#EXTINF:-1 group-title="Italy3",Juventus Channel
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/684.ts
+#EXTINF:-1 group-title="Italy3",Eurosport 1
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/681.ts
+#EXTINF:-1 group-title="Italy3",Eurosport 2
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/682.ts
+#EXTINF:-1 group-title="Italy3",Sky Sport 24
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/679.ts
+#EXTINF:-1 group-title="Italy3",Sportitalia
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/685.ts
+#EXTINF:-1 group-title="Italy3",Sky Supercalcio HD*
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1038.ts
+#EXTINF:-1 group-title="Italy3",Sky Supertennis
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/680.ts
+#EXTINF:-1 group-title="Italy3",SKY SPORT F1 HD*
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1037.ts
+#EXTINF:-1 group-title="Italy3",Sky Sport F1 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1024.ts
+#EXTINF:-1 group-title="Italy3",Sky Sport 1 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1035.ts
+#EXTINF:-1 group-title="Italy3",Sky Sport 2 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1036.ts
+#EXTINF:-1 group-title="Italy3",Sky Sport 3 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1023.ts
+#EXTINF:-1 group-title="Italy3",Sky Calcio 1 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1017.ts
+#EXTINF:-1 group-title="Italy3",Sky Calcio 2
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1018.ts
+#EXTINF:-1 group-title="Italy3",Sky Calcio.3
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1019.ts
+#EXTINF:-1 group-title="Italy3",Sky Calcio.4
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1020.ts
+#EXTINF:-1 group-title="Italy3",Sky Calcio.5
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1021.ts
+#EXTINF:-1 group-title="Italy3",Sky Calcio.6
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1022.ts
+#EXTINF:-1 group-title="Italy3",PRIMAFILA 1
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/670.ts
+#EXTINF:-1 group-title="Italy3",PRIMAFILA 2
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/671.ts
+#EXTINF:-1 group-title="Italy3",PRIMAFILA 3
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/672.ts
+#EXTINF:-1 group-title="Italy3",PRIMAFILA 4
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/673.ts
+#EXTINF:-1 group-title="Italy3",PRIMAFILA 5
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/674.ts
+#EXTINF:-1 group-title="Italy3",PRIMAFILA 6
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/675.ts
+#EXTINF:-1 group-title="Italy3",PRIMAFILA 7
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/676.ts
+#EXTINF:-1 group-title="Italy3",PRIMAFILA 8
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/677.ts
+#EXTINF:-1 group-title="Italy3",PRIMAFILA 9
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/678.ts
+#EXTINF:-1 group-title="Italy3",IT_PRIMAFILA_10_HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1026.ts
+#EXTINF:-1 group-title="Italy3",IT_PRIMAFILA_11_HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1027.ts
+#EXTINF:-1 group-title="Italy3",Sky Primafila 12 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1028.ts
+#EXTINF:-1 group-title="Italy3",Sky Primafila 13 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1029.ts
+#EXTINF:-1 group-title="Italy3",Sky Primafila 14 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1030.ts
+#EXTINF:-1 group-title="Italy3",Sky Primafila 15 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1031.ts
+#EXTINF:-1 group-title="Italy3",Sky Primafila 16 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1032.ts
+#EXTINF:-1 group-title="Italy3",Premium Action
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/661.ts
+#EXTINF:-1 group-title="Italy3",Premium Cinema
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/655.ts
+#EXTINF:-1 group-title="Italy3",Premium Cinema 2
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/656.ts
+#EXTINF:-1 group-title="Italy3",Premium Comedy
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/654.ts
+#EXTINF:-1 group-title="Italy3",Premium Crime
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/653.ts
+#EXTINF:-1 group-title="Italy3",Premium Emotion
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/658.ts
+#EXTINF:-1 group-title="Italy3",Premium Energy
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/657.ts
+#EXTINF:-1 group-title="Italy3",Premium Joi
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/652.ts
+#EXTINF:-1 group-title="Italy3",Premium Studio Universal
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/659.ts
+#EXTINF:-1 group-title="Italy3",Premium Sport
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/687.ts
+#EXTINF:-1 group-title="Italy3",Premium Sport 2
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/688.ts
+#EXTINF:-1 group-title="Italy3",Premium Sport 2 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1016.ts
+#EXTINF:-1 group-title="Italy3",Premium Calcio 1 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1010.ts
+#EXTINF:-1 group-title="Italy3",Premium Calcio 2 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1011.ts
+#EXTINF:-1 group-title="Italy3",Premium Calcio 3 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1012.ts
+#EXTINF:-1 group-title="Italy3",Premium Calcio 4 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1013.ts
+#EXTINF:-1 group-title="Italy3",Premium Calcio 5 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1014.ts
+#EXTINF:-1 group-title="Italy3",Premium Calcio 6 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1015.ts
 
 
 
@@ -3875,165 +4237,166 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
+http://...
 
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="BOING" ,BOING
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1409.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1409.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="TF1"  ,TF1
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1428.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1428.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="FRANCE 2"  ,FRANCE 2
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1430.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1430.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="FRANCE 3"  ,FRANCE 3
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1431.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1431.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="FRANCE 4"  ,FRANCE 4
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1432.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1432.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="FRANCE 5"  ,FRANCE 5
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1433.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1433.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="FRANCE O"  ,FRANCE O
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1434.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1434.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="M6"  ,M6
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1429.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1429.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="ACTION"  ,ACTION
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1453.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1453.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="CANAL"  ,CANAL
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1435.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1435.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="CANAL CINEMA"  ,CANAL CINEMA
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1436.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1436.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="CANAL FAMILY"  ,CANAL FAMILY
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1438.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1438.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="CANAL DECALE"  ,CANAL DECALE
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1437.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1437.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="CANAL SERIES"  ,CANAL SERIES
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1439.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1439.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="CINE PREMIER"  ,CINE PREMIER
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1440.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1440.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="CINE POLAR"  ,CINE POLAR
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1446.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1446.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="CINE FX"  ,CINE FX
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1447.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1447.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="CINE FRISSON"  ,CINE FRISSON
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1441.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1441.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="CINE FAMIZ"  ,CINE FAMIZ
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1445.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1445.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="CINE EMOTION"  ,CINE EMOTION
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1442.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1442.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="CINE CLUB"  ,CINE CLUB
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1444.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1444.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="CINE CLASSIC"  ,CINE CLASSIC
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1443.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1443.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="OCS MAX"  ,OCS MAX
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1451.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1451.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="OCS GEANT"  ,OCS GEANT
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1449.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1449.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="OCS CITY"  ,OCS CITY
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1450.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1450.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="OCS CHOC"  ,OCS CHOC
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1448.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1448.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="COMEDIE"  ,COMEDIE
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1452.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1452.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="CANAL PLAY 1"  ,CANAL PLAY 1
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1390.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1390.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="CANAL PLAY 2"  ,CANAL PLAY 2
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1391.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1391.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="CANAL PLAY 3"  ,CANAL PLAY 3
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1392.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1392.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="CANAL PLAY 4"  ,CANAL PLAY 4
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1393.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1393.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="CANAL PLAY 5"  ,CANAL PLAY 5
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1394.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1394.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="ALACARTE 1"  ,ALACARTE 1
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1395.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1395.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="ALACARTE 2"  ,ALACARTE 2
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1396.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1396.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="ALACARTE 3"  ,ALACARTE 3
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1397.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1397.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="ALACARTE 4"  ,ALACARTE 4
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1398.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1398.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="ALACARTE 5"  ,ALACARTE 5
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1399.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1399.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="ANIMAUX"  ,ANIMAUX
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1424.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1424.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="DISCOVRY-SCI"  ,DISCOVRY-SCI
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1423.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1423.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="DISCOVRY"  ,DISCOVRY
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1422.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1422.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="USHUAIA TV"  ,USHUAIA TV
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1425.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1425.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="SEASON"  ,SEASON
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1427.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1427.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="NATIONAL-GEO"  ,NATIONAL-GEO
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1420.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1420.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="NAT-GEO-WILD"  ,NAT-GEO-WILD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1421.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1421.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="CHASSE PECHE"  ,CHASSE PECHE
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1426.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1426.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="France 24"  ,France 24
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1329.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1329.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="Euronews"  ,Euronews
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1330.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1330.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="LCI"  ,LCI
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1401.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1401.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="ITELE"  ,ITELE
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1400.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1400.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="SFR Sport 1HD Fr"  ,SFR Sport 1HD Fr
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1464.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1464.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="SFR Sport 2HD Fr"  ,SFR Sport 2HD Fr
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1465.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1465.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="SFR Sport 3HD Fr"  ,SFR Sport 3HD Fr
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1466.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1466.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="CANAL SPORT"  ,CANAL SPORT
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1417.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1417.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="INFOSPORT"  ,INFOSPORT
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1419.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1419.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="FOOT 24"  ,FOOT 24
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1418.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1418.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="PIWI"  ,PIWI
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1402.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1402.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="CARTON NET"  ,CARTON NET
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1405.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1405.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="BOOMERANG"  ,BOOMERANG
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1404.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1404.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="TIJI"  ,TIJI
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1403.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1403.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="GULLI"  ,GULLI
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1406.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1406.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="TELETOON"  ,TELETOON
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1410.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1410.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="CANAL J"  ,CANAL J
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1408.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1408.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="NICKELODEON JUNIOR"  ,NICKELODEON JUNIOR
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1412.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1412.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="NICKELODEON"  ,NICKELODEON
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1411.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1411.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="MANGAS"  ,MANGAS
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1407.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1407.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="DISNEY XD"  ,DISNEY XD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1416.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1416.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="DISNEY JUNIOR"  ,DISNEY JUNIOR
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1413.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1413.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="DISNEY CINEMA"  ,DISNEY CINEMA
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1415.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1415.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="DISNEY CHANNEL"  ,DISNEY CHANNEL
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1414.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1414.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="BeINSPORTS 1HD Fr",BeINSPORTS 1HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1454.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1454.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="BeINSPORTS 2HD Fr",BeINSPORTS 2HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1455.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1455.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="BeINSPORTS 3HD Fr",BeINSPORTS 3HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1456.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1456.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="BeINMAX 04HD Fr",BeINMAX 04HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1457.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1457.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="BeINMAX 05HD Fr",BeINMAX 05HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1458.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1458.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="BeINMAX 06HD Fr",BeINMAX 06HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1459.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1459.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="BeINMAX 07HD Fr",BeINMAX 07HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1460.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1460.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="BeINMAX 08HD Fr",BeINMAX 08HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1461.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1461.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="BeINMAX 09HD Fr",BeINMAX 09HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1462.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1462.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="BeINMAX 10HD Fr",BeINMAX 10HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1463.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1463.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 
 
@@ -4308,6 +4671,78 @@ http://live.vidoo.de/live/weltderwunder/f1tv.m3u8
 
 #EXTINF:8 group-title="Germany2",
 
+#EXTINF:-1 group-title="Germany2",ZDF HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1943.ts
+#EXTINF:-1 group-title="Germany2",VOX HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1944.ts
+#EXTINF:-1 group-title="Germany2",TNT FILM
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1922.ts
+#EXTINF:-1 group-title="Germany2",SKY-CINEMA 24 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1928.ts
+#EXTINF:-1 group-title="Germany2",SKY SPORTS 2
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1917.ts
+#EXTINF:-1 group-title="Germany2",SKY SPORTS 1
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1918.ts
+#EXTINF:-1 group-title="Germany2",SKY SPORT 2 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1919.ts
+#EXTINF:-1 group-title="Germany2",BUNDESLIGA 1
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1969.ts
+#EXTINF:-1 group-title="Germany2",BUNDESLIGA 2
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1970.ts
+#EXTINF:-1 group-title="Germany2",SKY SELECT 1 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1931.ts
+#EXTINF:-1 group-title="Germany2",SKY SELECT 2 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1930.ts
+#EXTINF:-1 group-title="Germany2",SKY SELECT 3 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1929.ts
+#EXTINF:-1 group-title="Germany2",SKY SELECT4
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1964.ts
+#EXTINF:-1 group-title="Germany2",SKY SELECT5
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1965.ts
+#EXTINF:-1 group-title="Germany2",SKY SELECT6
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1966.ts
+#EXTINF:-1 group-title="Germany2",SKY SELECT7
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1967.ts
+#EXTINF:-1 group-title="Germany2",SKY SELECT8
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1968.ts
+#EXTINF:-1 group-title="Germany2",SKY CINEMA ACTION HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1932.ts
+#EXTINF:-1 group-title="Germany2",SKY CINEMA 1 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1933.ts
+#EXTINF:-1 group-title="Germany2",SKY ATLANTIC HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1934.ts
+#EXTINF:-1 group-title="Germany2",SKY 1 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1936.ts
+#EXTINF:-1 group-title="Germany2",SAT 1 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1945.ts
+#EXTINF:-1 group-title="Germany2",RTL HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1946.ts
+#EXTINF:-1 group-title="Germany2",RTL 2 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1923.ts
+#EXTINF:-1 group-title="Germany2",PRO 7 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1937.ts
+#EXTINF:-1 group-title="Germany2",N 24
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1924.ts
+#EXTINF:-1 group-title="Germany2",KABEL 1 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1925.ts
+#EXTINF:-1 group-title="Germany2",HISTORY HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1938.ts
+#EXTINF:-1 group-title="Germany2",FOX HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1939.ts
+#EXTINF:-1 group-title="Germany2",EURO SPORTS 1
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1920.ts
+#EXTINF:-1 group-title="Germany2",Disney-CineMagic
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1940.ts
+#EXTINF:-1 group-title="Germany2",DISCOVER HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1941.ts
+#EXTINF:-1 group-title="Germany2",D MAX
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1921.ts
+#EXTINF:-1 group-title="Germany2",AXN HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1926.ts
+#EXTINF:-1 group-title="Germany2",ART 1 HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1942.ts
+#EXTINF:-1 group-title="Germany2",13 STREET HD
+http://bekiptv.ddns.net:8000/live/Star7arabe/star7arab/1927.ts
 
 
 
@@ -4980,229 +5415,6 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/211/inde
 
 
 #EXTINF:8 group-title="Spain3",
-
-#EXTINF:-1 group-title="Spain3" tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif" ,==Spain==
-http://..........
-
-#EXTINF:-1 group-title="Spain3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Spain3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Spain3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Spain3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Spain3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Spain3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Spain3"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
-http://.....
-
-#EXTINF:-1 group-title="Spain3",370 TNT
-http://187.162.61.1:8010/play/a05n
-#EXTINF:-1 group-title="Spain3",145 Congreso
-http://187.162.61.1:8010/play/a07x
-#EXTINF:-1 group-title="Spain3",430 Fox Premium Movies
-http://187.162.61.1:8010/play/a03x
-#EXTINF:-1 group-title="Spain3",304 Canal 22
-http://187.162.61.1:8010/play/a08t
-#EXTINF:-1 group-title="Spain3",156 EXATV
-http://187.162.61.1:8010/play/a07r
-#EXTINF:-1 group-title="Spain3",320 H2
-http://187.162.61.1:8010/play/a08i
-#EXTINF:-1 group-title="Spain3",374 Cinemax
-http://187.162.61.1:8010/play/a03u
-#EXTINF:-1 group-title="Spain3",204 52MX
-http://187.162.61.1:8010/play/a07z
-#EXTINF:-1 group-title="Spain3",292 Discovery Kids
-http://187.162.61.1:8010/play/a05j
-#EXTINF:-1 group-title="Spain3",114 Una Voz
-http://187.162.61.1:8010/play/a01d
-#EXTINF:-1 group-title="Spain3",426 Fox Premium Series
-http://187.162.61.1:8010/play/a08o
-#EXTINF:-1 group-title="Spain3",312 Natgeo
-http://187.162.61.1:8010/play/a04q
-#EXTINF:-1 group-title="Spain3",332 Fox Sports 2
-http://187.162.61.1:8010/play/a03q
-#EXTINF:-1 group-title="Spain3",206 Universal Channel
-http://187.162.61.1:8010/play/a02j
-#EXTINF:-1 group-title="Spain3",286 Nick
-http://187.162.61.1:8010/play/a05i
-#EXTINF:-1 group-title="Spain3",342 ESPN 2
-http://187.162.61.1:8010/play/a03s
-#EXTINF:-1 group-title="Spain3",274 HTV
-http://187.162.61.1:8010/play/a01j
-#EXTINF:-1 group-title="Spain3",272 ExaTV
-http://187.162.61.1:8010/play/a05g
-#EXTINF:-1 group-title="Spain3",154 NU Music
-http://187.162.61.1:8010/play/a06y
-#EXTINF:-1 group-title="Spain3",422 Max Prime Oeste
-http://187.162.61.1:8010/play/a03w
-#EXTINF:-1 group-title="Spain3",434 Fox Premium Action
-http://187.162.61.1:8010/play/a08p
-#EXTINF:-1 group-title="Spain3",262 MTV Hits
-http://187.162.61.1:8010/play/a08g
-#EXTINF:-1 group-title="Spain3",224 FX
-http://187.162.61.1:8010/play/a03n
-#EXTINF:-1 group-title="Spain3",214 TNT Series
-http://187.162.61.1:8010/play/a070
-#EXTINF:-1 group-title="Spain3",260 MTV
-http://187.162.61.1:8010/play/a05f
-#EXTINF:-1 group-title="Spain3",338 ESPN 1
-http://187.162.61.1:8010/play/a03r
-#EXTINF:-1 group-title="Spain3",350 CNN EspaÃ±ol
-http://187.162.61.1:8010/play/a081
-#EXTINF:-1 group-title="Spain3",270 Vh1
-http://187.162.61.1:8010/play/a088
-#EXTINF:-1 group-title="Spain3",414 HBO Plus
-http://187.162.61.1:8010/play/a07n
-#EXTINF:-1 group-title="Spain3",406 HBO2
-http://187.162.61.1:8010/play/a04v
-#EXTINF:-1 group-title="Spain3",358 TVC
-http://187.162.61.1:8010/play/a08v
-#EXTINF:-1 group-title="Spain3",252 Comedy Central
-http://187.162.61.1:8010/play/a087
-#EXTINF:-1 group-title="Spain3",378 Cinecanal
-http://187.162.61.1:8010/play/a04r
-#EXTINF:-1 group-title="Spain3",354 El Financiero Blomberg
-http://187.162.61.1:8010/play/a08u
-#EXTINF:-1 group-title="Spain3",268 Video Rola
-http://187.162.61.1:8010/play/a08s
-#EXTINF:-1 group-title="Spain3",336 Claro Sports
-http://187.162.61.1:8010/play/a080
-#EXTINF:-1 group-title="Spain3",208 Sony
-http://187.162.61.1:8010/play/a05e
-#EXTINF:-1 group-title="Spain3",402 HBO
-http://187.162.61.1:8010/play/a02u
-#EXTINF:-1 group-title="Spain3",410 HBO Family
-http://187.162.61.1:8010/play/a04w
-#EXTINF:-1 group-title="Spain3",153 52MX
-http://187.162.61.1:8010/play/a06x
-#EXTINF:-1 group-title="Spain3",446 Fox Premium Cinema
-http://187.162.61.1:8010/play/a08q
-#EXTINF:-1 group-title="Spain3",202 FOX
-http://187.162.61.1:8010/play/a03l
-#EXTINF:-1 group-title="Spain3",111 Once
-http://187.162.61.1:8010/play/a02i
-#EXTINF:-1 group-title="Spain3",216 A tres
-http://187.162.61.1:8010/play/a08r
-#EXTINF:-1 group-title="Spain3",316 Animal Planet
-http://187.162.61.1:8010/play/a05l
-#EXTINF:-1 group-title="Spain3",296 BabyTV
-http://187.162.61.1:8010/play/a089
-#EXTINF:-1 group-title="Spain3",264 NU Music-E2
-http://187.162.61.1:8010/play/a073
-#EXTINF:-1 group-title="Spain3",236 Discovery H&H
-http://187.162.61.1:8010/play/a02n
-#EXTINF:-1 group-title="Spain3",288 Nick Jr
-http://187.162.61.1:8010/play/a04o
-#EXTINF:-1 group-title="Spain3",232 i-sat
-http://187.162.61.1:8010/play/a08e
-#EXTINF:-1 group-title="Spain3",234 ID
-http://187.162.61.1:8010/play/a04j
-#EXTINF:-1 group-title="Spain3",248 E!
-http://187.162.61.1:8010/play/a02p
-#EXTINF:-1 group-title="Spain3",162 Cine Latino
-http://187.162.61.1:8010/play/a03k
-#EXTINF:-1 group-title="Spain3",344 ESPN 3
-http://187.162.61.1:8010/play/a08k
-#EXTINF:-1 group-title="Spain3",334 Fox Sports 3
-http://187.162.61.1:8010/play/a08j
-#EXTINF:-1 group-title="Spain3",438 Fox Premium Family
-http://187.162.61.1:8010/play/a083
-#EXTINF:-1 group-title="Spain3",306 Ingenio TV
-http://187.162.61.1:8010/play/a08h
-#EXTINF:-1 group-title="Spain3",230 A & E
-http://187.162.61.1:8010/play/a02m
-#EXTINF:-1 group-title="Spain3",103 Imagen
-http://187.162.61.1:8010/play/a06w
-#EXTINF:-1 group-title="Spain3",250 TBS
-http://187.162.61.1:8010/play/a08f
-#EXTINF:-1 group-title="Spain3",226 Space
-http://187.162.61.1:8010/play/a04i
-#EXTINF:-1 group-title="Spain3",242 Lifetime
-http://187.162.61.1:8010/play/a04k
-#EXTINF:-1 group-title="Spain3",222 AXN
-http://187.162.61.1:8010/play/a03m
-#EXTINF:-1 group-title="Spain3",160 Multipremier
-http://187.162.61.1:8010/play/a08c
-#EXTINF:-1 group-title="Spain3",372 Multicinema
-http://187.162.61.1:8010/play/a08m
-#EXTINF:-1 group-title="Spain3",210 Warner
-http://187.162.61.1:8010/play/a08d
-#EXTINF:-1 group-title="Spain3",280 Once NiÃ±os
-http://187.162.61.1:8010/play/a01k
-#EXTINF:-1 group-title="Spain3",158 Multicanal
-http://187.162.61.1:8010/play/a08b
-#EXTINF:-1 group-title="Spain3",360 Canal Judicial
-http://187.162.61.1:8010/play/a01o
-#EXTINF:-1 group-title="Spain3",352 CNN Internacional
-http://187.162.61.1:8010/play/a086
-#EXTINF:-1 group-title="Spain3",450 Fox Premium Classics
-http://187.162.61.1:8010/play/a084
-#EXTINF:-1 group-title="Spain3",105 Canal Cinco
-http://187.162.61.1:8010/play/a07u
-#EXTINF:-1 group-title="Spain3",376 Multipremier 2
-http://187.162.61.1:8010/play/a08n
-#EXTINF:-1 group-title="Spain3",102 Canal las Estrellas
-http://187.162.61.1:8010/play/a07s
-#EXTINF:-1 group-title="Spain3",283 Disney Jr.
-http://187.162.61.1:8010/play/a02q
-#EXTINF:-1 group-title="Spain3",218 Antena 3
-http://187.162.61.1:8010/play/a02k
-#EXTINF:-1 group-title="Spain3",294 Natgeo Kids
-http://187.162.61.1:8010/play/a075
-#EXTINF:-1 group-title="Spain3",388 Paramount
-http://187.162.61.1:8010/play/a04u
-#EXTINF:-1 group-title="Spain3",152 52MX
-http://187.162.61.1:8010/play/a07y
-#EXTINF:-1 group-title="Spain3",298 Boomerang
-http://187.162.61.1:8010/play/a02s
-#EXTINF:-1 group-title="Spain3",228 SyFy
-http://187.162.61.1:8010/play/a082
-#EXTINF:-1 group-title="Spain3",205 52MX
-http://187.162.61.1:8010/play/a07q
-#EXTINF:-1 group-title="Spain3",382 Cinelatino
-http://187.162.61.1:8010/play/a03v
-#EXTINF:-1 group-title="Spain3",122 Canal 22
-http://187.162.61.1:8010/play/a07w
-#EXTINF:-1 group-title="Spain3",330 Fox Sports 1
-http://187.162.61.1:8010/play/a03p
-#EXTINF:-1 group-title="Spain3",314 Natgeo Wild
-http://187.162.61.1:8010/play/a02t
-#EXTINF:-1 group-title="Spain3",120 UNAM
-http://187.162.61.1:8010/play/a01e
-#EXTINF:-1 group-title="Spain3",322 Arts
-http://187.162.61.1:8010/play/a01l
-#EXTINF:-1 group-title="Spain3",101 Azteca Trece
-http://187.162.61.1:8010/play/a07t
-#EXTINF:-1 group-title="Spain3",246 HolaTV
-http://187.162.61.1:8010/play/a072
-#EXTINF:-1 group-title="Spain3",386 Studio Universal
-http://187.162.61.1:8010/play/a08a
-#EXTINF:-1 group-title="Spain3",244 Foxlife
-http://187.162.61.1:8010/play/a03o
-#EXTINF:-1 group-title="Spain3",107 Azteca 7
-http://187.162.61.1:8010/play/a07v
-#EXTINF:-1 group-title="Spain3",282 Disney
-http://187.162.61.1:8010/play/a05h
-#EXTINF:-1 group-title="Spain3",318 History Channel
-http://187.162.61.1:8010/play/a05m
-#EXTINF:-1 group-title="Spain3",384 Film Zone
-http://187.162.61.1:8010/play/a04s
-#EXTINF:-1 group-title="Spain3",240 TLC
-http://187.162.61.1:8010/play/a02o
-#EXTINF:-1 group-title="Spain3",284 Disney XD
-http://187.162.61.1:8010/play/a04n
-#EXTINF:-1 group-title="Spain3",490 Sextream
-http://187.162.61.1:8010/play/a040
-#EXTINF:-1 group-title="Spain3",356 Milenio
-http://187.162.61.1:8010/play/a08l
-#EXTINF:-1 group-title="Spain3",290 Cartoon Network
-http://187.162.61.1:8010/play/a02r
-#EXTINF:-1 group-title="Spain3",308 Discovery Channel
-http://187.162.61.1:8010/play/a05k
 
 
 
@@ -6445,563 +6657,563 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 http://.....
 
 #EXTINF:-1 group-title="Portugal1-Loop_one",RTP 1
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/71.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/71.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RTP 1 HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2438.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2438.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RTP 2
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/72.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/72.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RTP 2 HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/3323.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/3323.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SIC
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1856.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1856.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SIC HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2439.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2439.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVI
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/75.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/75.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVI HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2440.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2440.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RTP MEMORIA
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/80.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/80.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RTP INTERNACIONAL
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1332.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1332.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RTP MADEIRA
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/81.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/81.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RTP ACORES
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/85.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/85.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RTP Africa
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/82.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/82.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SIC CARAS
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/978.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/978.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SIC CARAS HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/10591.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/10591.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SIC Radical
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/84.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/84.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SIC RADICAL HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/6633.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/6633.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SIC MULHER
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/87.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/87.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SIC MULHER HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/7740.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/7740.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVI REALITY
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/86.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/86.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVI REALITY CAMARAS
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2822.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2822.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVI FICCAO
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/88.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/88.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",CANAL Q
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1252.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1252.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Localvisao HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2823.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2823.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RTV
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/10429.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/10429.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TV GLOBO Portugal
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/433.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/433.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TV GLOBO PREMIUM
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/970.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/970.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Tv Record
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/79.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/79.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Tv Record HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/13264.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/13264.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SBT Brasil
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1786.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1786.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TV Brasil
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9181.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/9181.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TCV
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/412.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/412.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TPA INTERNACIONAL
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/6603.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/6603.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",laSexta
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/408.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/408.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Galicia
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/407.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/407.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Cubavision
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9176.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/9176.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Zee TV
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4153.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4153.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SONY SETMAX
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4152.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4152.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",►►►Noticias◄◄◄
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4934.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4934.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",CM TV
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/132.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/132.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",CMTV HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2444.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2444.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SIC NOTICIAS
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/77.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/77.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SIC NOTICIAS HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/10722.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/10722.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RTP 3
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/73.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/73.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Tvi 24
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/78.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/78.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SPORT.TV+
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4148.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4148.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SPORT.TV+ HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5770.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/5770.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TV PARLAMENTO
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1207.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1207.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",A BOLA
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1002.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1002.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RECORD NEWS
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/420.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/420.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",ALJAZEERA
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1790.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1790.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Euronews
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/435.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/435.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",France 24
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/868.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/868.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",CNN
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/867.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/867.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Sky News
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9180.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/9180.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Bloomberg
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1093.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1093.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Fox News
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9179.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/9179.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Russia Today
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9177.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/9177.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Deutsche Welle
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4688.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4688.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",►►►Desporto◄◄◄
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4935.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4935.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SPORT.TV1
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1896.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1896.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SPORT.TV 1 HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/143.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/143.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SPORT.TV 1 FULLHD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/101.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/101.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SPORT.TV2
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/103.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/103.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SPORT.TV 2 HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5386.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/5386.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SPORT.TV 2 FULLHD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/415.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/415.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SPORT.TV3
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/104.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/104.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SPORT.TV 3 HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5387.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/5387.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SPORT.TV 3 FULLHD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/974.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/974.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SPORT.TV4
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/106.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/106.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Sport.TV4 HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5388.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/5388.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Sport.TV 4 FULLHD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/107.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/107.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SPORT.TV5
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/418.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/418.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Sport.TV5 HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5389.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/5389.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Sport.TV5 FULLHD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/108.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/108.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SPORT.TV 4K UHD (BETA)
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/12288.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/12288.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Benfica TV 1
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/113.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/113.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Benfica TV 1 HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2241.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2241.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Benfica TV 1 FULLHD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/112.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/112.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",PFC
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/980.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/980.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",FIGHT CHANNEL HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1876.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1876.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",KOMBAT SPORTS
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4932.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4932.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",NBA
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2825.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2825.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",NBA HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/10428.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/10428.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",NFL NOW
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4930.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4930.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Toros TV
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/432.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/432.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Toros TV HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/7742.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/7742.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",OUTDOOR HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2824.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2824.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",MCS EXTREME
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2442.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2442.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",FUEL TV
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/986.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/986.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",FUEL TV HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9442.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/9442.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",EUROSPORT 1
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/139.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/139.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",EUROSPORT 1 HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/135.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/135.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",EUROSPORT 2
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/136.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/136.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",MOTORVISION
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/984.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/984.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",MOTORVISION HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/10848.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/10848.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Motorsport.tv
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/116.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/116.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",CACAVISION
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/995.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/995.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Caza y Pesca
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/641.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/641.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SPORTING TV
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/109.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/109.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SPORTING TV HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2298.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2298.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Porto Canal
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/83.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/83.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Porto Canal HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9443.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/9443.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",REAL MADRID TV
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5395.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/5395.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",BARCA TV
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/110.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/110.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",MUTV
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4158.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4158.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",►►►Filmes & Series◄◄◄
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4936.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4936.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVCINE 1
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/89.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/89.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVCINE 1 HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1256.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1256.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVCINE 2
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/90.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/90.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVCINE 2 HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1255.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1255.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVCINE 3
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/91.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/91.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVCINE 3 HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1254.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1254.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVCINE 4
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/92.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/92.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVCINE 4 HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1253.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1253.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVCINE SERIES
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1096.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1096.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVSERIES HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1257.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1257.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SYFY
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/93.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/93.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SyFy HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4684.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4684.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",AMC
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/131.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/131.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",AMC HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4157.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4157.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Cinemundo
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/96.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/96.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Hollywood
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/95.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/95.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",HOLLYWOOD HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/94.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/94.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",FOX
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/10430.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/10430.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",FOX HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/98.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/98.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",FOX MOVIES
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/97.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/97.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",FOX MOVIES HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5394.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/5394.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",FOX COMEDY
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/988.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/988.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",FOX Comedy HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5771.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/5771.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",FOX CRIME
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2828.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2828.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",FOX CRIME HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/99.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/99.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Fox Life
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/10856.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/10856.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Fox Life HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/430.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/430.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",AXN
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4685.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4685.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",AXN HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/999.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/999.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",AXN WHITE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2827.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2827.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Axn White HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/429.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/429.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",AXN BLACK
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2826.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2826.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",AXN BLACK HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/100.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/100.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SUNDANCE HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5393.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/5393.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Zee Cinema
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9182.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/9182.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",BBC Entertainment
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/416.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/416.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",►►►Animacao◄◄◄
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4937.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4937.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SIC K
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/121.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/121.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SIC K HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/6630.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/6630.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",BABY TV
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/117.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/117.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",JIM JAM
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/125.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/125.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Baby First
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4682.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4682.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",PANDA BIGGS
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/123.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/123.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Canal Panda
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/120.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/120.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",DISNEY CHANNEL
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/990.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/990.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Disney Junior
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/119.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/119.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Nickelodeon
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/122.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/122.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Nick Jr.
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/13267.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/13267.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",CARTOON NETWORK
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/994.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/994.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",►►►Docu. & entret◄◄◄
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4938.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4938.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TLC
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/971.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/971.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",E! ENTERTAINMENT
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/989.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/989.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",CBS REALITY
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/992.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/992.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",A&E
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1001.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1001.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",CANAL 180 HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14363.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/14363.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TRAVEL CHANNEL HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/129.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/129.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",FINE LIVING HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5392.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/5392.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",LUXE TV HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4154.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4154.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Canal de Historia
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/138.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/138.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Odisseia
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/127.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/127.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Discovery Channel
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/128.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/128.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",DISCOVERY SHOWCASE HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/134.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/134.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",CRIME INVESTIGATION
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5385.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/5385.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",NAT GEO WILD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/982.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/982.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",NAT GEO WILD HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9444.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/9444.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",NATIONAL GEOGRAPHIC
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14364.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/14364.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",NATIONAL GEOGRAPHIC HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/981.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/981.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",DOG TV HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4155.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4155.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",24 KITCHEN
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/12850.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/12850.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",24 KITCHEN HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1003.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1003.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Food Network
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/130.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/130.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Food Network HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/12849.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/12849.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",My Cuisine
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2443.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2443.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Fashion
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/436.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/436.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Angelus TV
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14357.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/14357.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Kuriakos TV HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14358.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/14358.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",FATIMA TV (WEB.CAM)
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9974.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/9974.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TV CANCAO NOVA
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/419.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/419.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",►►►Music◄◄◄
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4939.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4939.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",ClubbingTV
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/13368.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/13368.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Trace TV
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1304.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1304.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TRACE URBAN HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/7743.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/7743.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",MCM TOP
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/5773.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/5773.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",MCM POP
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1305.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1305.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",iCONCERTS HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4687.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4687.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",C MUSIC
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2830.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2830.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",BRAVA
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14365.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/14365.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",MEZZO
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2832.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2832.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Mtv Portugal
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/124.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/124.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Mtv Live
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/10597.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/10597.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",MTV MUSIC
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1095.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1095.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",MTV Rocks
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1094.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1094.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",MTV dance
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/156.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/156.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",VH1
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/403.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/403.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",VH1 Classic
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/3322.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/3322.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",AFRO MUSIC
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/1000.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1000.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",ONE 1 HD
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/157.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/157.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",►►► LowBitrate (Net lentas) ◄◄◄
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/4940.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4940.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RTP 1 LOW BITRATE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2237.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2237.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RTP 2 LOW BITRATE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2236.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2236.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SIC LOW BITRATE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2235.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2235.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVI LOW BITRATE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2228.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2228.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",CMTV LOW
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14378.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/14378.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RTP 3 LOW BITRATE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14382.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/14382.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVI 24 LOW BITRATE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14384.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/14384.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVI Reality LOW
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14372.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/14372.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SportTV 1 LOW BITRATE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2234.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2234.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SportTV 2 LOW BITRATE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2233.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2233.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SportTV 3 LOW BITRATE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/6624.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/6624.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SportTV 4 LOW BITRATE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/6625.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/6625.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SportTV 5 LOW BITRATE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/6626.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/6626.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",BTV 1 LOW BITRATE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2239.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2239.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Porto Canal LOW BITRATE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14381.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/14381.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Sporting TV LOW BITRATE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14383.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/14383.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVCine 1 LOW BITRATE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2232.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2232.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVCine 2 LOW BITRATE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2231.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2231.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVCine 3 LOW BITRATE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2230.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2230.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVCine 4 LOW BITRATE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2229.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2229.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TVSeries LOW
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14371.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/14371.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",AMC LOW BITRATE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14385.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/14385.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",AXN Black LOW
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14373.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/14373.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",AXN LOW
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14374.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/14374.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",AXN White LOW
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14375.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/14375.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Fox Comedy LOW
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14379.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/14379.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",FOX LOW BITRATE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/14380.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/14380.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",►►► RÁDIO ◄◄◄
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2711.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2711.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",105 CASCAIS
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2727.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2727.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",94 FM
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8321.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/8321.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",ANTENA MINHO
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8303.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/8303.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Amalia
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8312.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/8312.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",CANAL FM
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2726.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2726.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",CIDADE FM
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2714.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2714.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",DOURO NACIONAL
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8307.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/8307.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",HIPER FM
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2713.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2713.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",MARGINAL
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8301.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/8301.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",NOVA ERA
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2737.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2737.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",OXIGENIO
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8305.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/8305.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Orbital
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2723.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2723.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",POPULAR FM
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8306.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/8306.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RADAR
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8313.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/8313.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RADIO COMERCIAL
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9189.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/9189.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RADIO PORTUGAL SW
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2715.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2715.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RADIO RENASCENCA
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9193.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/9193.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RADIO SATURNO
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8302.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/8302.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RADIO SIM
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8310.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/8310.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RADIO REGIONAL
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/12539.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/12539.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RADIO 100 DANCE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/12533.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/12533.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",GOLO FM
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/12538.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/12538.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RADIO 100 LOVE SONGS
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/12534.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/12534.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RADIO 100 OLDIES
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/12535.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/12535.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RÁDIO 100 PORTUGUESA
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/12537.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/12537.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RADIO 100 ROCK
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/12536.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/12536.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",REGAEE RADIO 808
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8309.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/8309.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RFM
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9192.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/9192.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RFM 80
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9191.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/9191.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RFM CLUBBING
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9190.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/9190.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RLCB DANCE
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8316.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/8316.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RUC
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8308.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/8308.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Radio Amalia
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2736.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2736.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Radio Elvas
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2734.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2734.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Radio Mega Hits
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2732.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2732.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Radio Oxygienio
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2731.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2731.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Radio SBSR
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8318.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/8318.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",RÁDIO CANÇÃO NOVA
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2720.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2720.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",SUPER FM
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8320.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/8320.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TOP 80
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8314.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/8314.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TORRES NOVAS FM
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8311.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/8311.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TOTAL FM
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8315.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/8315.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TROPICAL FM
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8317.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/8317.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",TSF
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/9194.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/9194.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",ULTRA FM
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/8304.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/8304.ts
 #EXTINF:-1 group-title="Portugal1-Loop_one",Viva 80
-http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2719.ts
+http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/2719.ts
 
 
 
@@ -10077,259 +10289,259 @@ http://.....
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======BEIN SPORTS=======
 http://......
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeINSPORTS News" ,BeINSPORTS News
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1496.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1496.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeINSPORTS Global" ,BeINSPORTS Global
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1495.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1495.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeINSPORTS 1HD" ,BeINSPORTS 1HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1494.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1494.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeINSPORTS 2HD" ,BeINSPORTS 2HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1493.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1493.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeINSPORTS 3HD" ,BeINSPORTS 3HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1492.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1492.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeINSPORTS 4HD" ,BeINSPORTS 4HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1491.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1491.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeINSPORTS 5HD" ,BeINSPORTS 5HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1490.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1490.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeINSPORTS 6HD" ,BeINSPORTS 6HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1489.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1489.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeINSPORTS 7HD" ,BeINSPORTS 7HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1488.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1488.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeINSPORTS 8HD" ,BeINSPORTS 8HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1487.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1487.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeINSPORTS 9HD" ,BeINSPORTS 9HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1486.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1486.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeINSPORTS 10HD" ,BeINSPORTS 10HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1485.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1485.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeINSPORTS 11HD" ,BeINSPORTS 11HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1484.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1484.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="beINSPORTS 12HD" ,beINSPORTS 12HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1483.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1483.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======BEIN Movies=======
 http://......
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeIN Movies 1HD" ,BeIN Movies 1HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1473.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1473.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeIN Movies 2HD" ,BeIN Movies 2HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1474.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1474.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeIN Movies 3HD" ,BeIN Movies 3HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1475.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1475.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeIN Movies 4HD" ,BeIN Movies 4HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1476.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1476.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeIN Discovery HD" ,BeIN Discovery HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1478.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1478.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeIN GROUMMET" ,BeIN GROUMMET
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1477.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1477.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeIN Jeem_HD" ,BeIN Jeem_HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1482.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1482.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeIN Baraim_HD" ,BeIN Baraim_HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1480.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1480.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeIN Fatafeat" ,BeIN Fatafeat
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1479.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1479.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BeIN JUNIOR" ,BeIN JUNIOR
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1481.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1481.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======AD Sports=======
 http://......
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="AD Sports 1HD" ,AD Sports 1HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1467.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1467.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="AD Sports 2HD" ,AD Sports 2HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1468.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1468.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="AD Sports 3HD" ,AD Sports 3HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1469.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1469.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="AD Sports 4HD" ,AD Sports 4HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1470.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1470.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="AD Sports 5HD" ,AD Sports 5HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1471.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1471.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="AD Sports 6HD" ,AD Sports 6HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1472.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1472.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======Maroc=======
 http://......
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Al-Aoula-Inter" ,Al-Aoula-Inter
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1382.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1382.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="2M-Monde" ,2M-Monde
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1383.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1383.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Medi-1-TV" ,Medi-1-TV
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1381.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1381.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Al-Maghribia" ,Al-Maghribia
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1384.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1384.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Tele-Maroc" ,Tele-Maroc
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1380.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1380.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Tamazight" ,Tamazight
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1385.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1385.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Arriadia" ,Arriadia
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1388.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1388.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="SUD24-TV" ,SUD24-TV
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1389.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1389.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Assadisa" ,Assadisa
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1387.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1387.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Arrabia" ,Arrabia
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1386.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1386.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======Algeria=======
 http://......
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Samira-Tv" ,Samira-Tv
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1379.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1379.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Programme.National" ,Programme.National
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1360.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1360.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Canal-Algerie" ,Canal-Algerie
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1361.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1361.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Algeria 3" ,Algeria 3
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1362.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1362.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Algeria 5" ,Algeria 5
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1363.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1363.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Echorouk TV" ,Echorouk TV
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1358.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1358.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Echorouk news" ,Echorouk news
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1357.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1357.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Echorouk Benna" ,Echorouk Benna
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1359.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1359.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Kbc Algeria" ,Kbc Algeria
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1369.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1369.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Eljazairia-TV" ,Eljazairia-TV
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1372.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1372.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="EnnahLaki" ,EnnahLaki
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1365.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1365.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="EnnahTV" ,EnnahTV
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1364.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1364.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Elhaddaf-TV" ,Elhaddaf-TV
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1371.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1371.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Elbilad" ,Elbilad
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1370.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1370.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Dzair TV" ,Dzair TV
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1368.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1368.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Dzai News" ,Dzai News
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1367.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1367.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Al Magharibia-1" ,Al Magharibia-1
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1373.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1373.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Al Magharibia-2" ,Al Magharibia-2
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1374.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1374.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Berbere-TV" ,Berbere-TV
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1376.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1376.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Berbere-Music" ,Berbere-Music
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1377.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1377.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Berbere-Jeuness" ,Berbere-Jeuness
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1378.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1378.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Beur-TV" ,Beur-TV
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1375.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1375.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BAHIA TV" ,BAHIA TV
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1366.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1366.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======Tunesia=======
 http://......
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Tonesna" ,Tonesna
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1349.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1349.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Tunesia 1" ,Tunesia 1
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1347.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1347.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Tunesia 2" ,Tunesia 2
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1348.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1348.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Nessma" ,Nessma
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1352.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1352.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Hannibal" ,Hannibal
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1351.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1351.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Telvaza" ,Telvaza
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1355.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1355.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Zitouna" ,Zitouna
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1353.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1353.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="El-HiwEttounsi" ,El-HiwEttounsi
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1350.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1350.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Attasiaa" ,Attasiaa
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1354.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1354.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Al-Janoubia" ,Al-Janoubia
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1356.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1356.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======KIDS=======
 http://......
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Alrahma" ,Alrahma
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1343.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1343.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Alnas" ,Alnas
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1344.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1344.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Al Majd Quran" ,Al Majd Quran
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1340.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1340.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Al Majd Hadith" ,Al Majd Hadith
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1341.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1341.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Al Majd" ,Al Majd
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1342.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1342.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Alresalah" ,Alresalah
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1346.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1346.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="IQRAA" ,IQRAA
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1345.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1345.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============
 http://......
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="CN Arabia" ,CN Arabia
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1335.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1335.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Baraeem" ,Baraeem
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1337.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1337.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Toyour ElJannah" ,Toyour ElJannah
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1338.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1338.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Toyour Baby" ,Toyour Baby
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1339.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1339.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Space Toon" ,Space Toon
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1336.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1336.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Aljazeera" ,Aljazeera
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1324.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1324.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Alarabiyia" ,Alarabiyia
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1325.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1325.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Alhadath" ,Alhadath
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1326.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1326.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Al Ekhbariya" ,Al Ekhbariya
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1328.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1328.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="BBC" ,BBC
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1331.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1331.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Skynews" ,Skynews
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1327.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1327.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Quest-Arabia" ,Quest-Arabia
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1334.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1334.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="National Geo-Abudhabi" ,National Geo-Abudhabi
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1333.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1333.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Aljazeera Doc" ,Aljazeera Doc
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1332.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1332.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======Art=======
 http://......
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Aflam 1" ,Aflam 1
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1319.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1319.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Aflam 2" ,Aflam 2
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1320.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1320.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Hekayat 1" ,Hekayat 1
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1321.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1321.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Hekayat 2" ,Hekayat 2
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1322.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1322.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="Cinema" ,Cinema
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1323.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1323.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======MBC=======
 http://......
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="MBC 1" ,MBC 1
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1278.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1278.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="MBC 2" ,MBC 2
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1279.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1279.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="MBC 3" ,MBC 3
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1280.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1280.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="MBC 4" ,MBC 4
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1281.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1281.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="MBC MAX" ,MBC MAX
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1283.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1283.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="MBC ACTION" ,MBC ACTION
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1282.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1282.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="MBC DRAMA" ,MBC DRAMA
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1286.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1286.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="MBC DRAMA HD" ,MBC DRAMA HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1287.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1287.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="MBC BOLLYWOOD" ,MBC BOLLYWOOD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1289.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1289.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="MBC MASR 1" ,MBC MASR 1
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1284.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1284.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="MBC MASR 2" ,MBC MASR 2
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1285.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1285.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="MBC B4U AFLAM" ,MBC B4U AFLAM
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1292.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1292.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="MBC ZEE Alwan" ,MBC ZEE Alwan
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1290.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1290.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="MBC ZEE Aflam" ,MBC ZEE Aflam
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1291.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1291.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="MBC VARIETY HD" ,MBC VARIETY HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1288.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1288.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="MBC SPORT 4HD" ,MBC SPORT 4HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1296.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1296.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="MBC SPORT 3HD" ,MBC SPORT 3HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1295.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1295.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="MBC SPORT 2HD" ,MBC SPORT 2HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1294.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1294.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="United.Arab.Emirates3_PREMIUM-MXPlayer" tvg-name="MBC SPORT 1HD" ,MBC SPORT 1HD
-http://2.primatv.club:8450/live/w4orldip201/zo417worldeF/1293.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://2.primatv.club:8450/live/Fu5ltvi2218/A50ip18full/1293.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 
 
@@ -10383,344 +10595,6 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
 http://.....
 
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Al Salam
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/87.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",bait la7em
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/89.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Ajyal
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/63.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Makan
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/144.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",ZDF
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/817.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Das Erste
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/816.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Mediaset-extra
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/822.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",TRT SPOR
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/819.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",RTP 1
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/820.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===Alfajer TV===
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/735.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Alfajertv HD1
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/75.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Alfajertv HD2
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/73.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",AlfajertvHD4
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/733.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",AlfajertvHD3
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/76.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",AlfajertvHD5
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/734.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===BeIN Sports FULLHD===
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/2.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 1 FULLHD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/3.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 2 FULLHD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/4.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 3 FULLHD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/5.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 4 FULLHD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/6.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 5 FULLHD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/7.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 6 FULLHD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/8.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 7 FULLHD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/9.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 8 FULLHD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/10.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===BeIN SPORTS HD*===
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/769.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BeIN SPORTS 1
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/770.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BeIN SPORTS 2
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/771.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BeIN SPORTS 3
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/772.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BeIN SPORTS 4
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/773.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BeIN SPORTS 5
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/774.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BeIN SPORTS 6
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/775.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",========BeIN Sports HD2=========
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/99.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 1HD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/95.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 2HD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/96.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 3HD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/97.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 4HD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/98.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 5HD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/368.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 6HD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/369.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 7HD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/370.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 8HD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/371.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 9HD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/372.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 10HD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/373.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===BeIN Sports SD===
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/11.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 1SD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/12.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 2SD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/13.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 3SD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/14.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 4SD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/15.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 5SD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/16.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 6SD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/17.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 7SD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/18.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN 8SD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/19.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===BeIN MOVES===
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/20.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN DRAMA HD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/797.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN MOVES1
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/791.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN MOVES2
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/792.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN MOVES3
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/793.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN MOVES4
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/794.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BEIN SERIES 1HD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/795.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===OSN===
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/34.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",OSN-YaHala-Cinema
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/798.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Osn First
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/799.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",OSN-MoviesHD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/804.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",OSN-Movies-Premiere-HD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/806.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",OSN-Movies-Comedy
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/807.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",OSN-Movies-Action
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/805.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",OSN-Cinema2
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/809.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",OSN-Cinema1
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/808.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",OSN-Movies Drama
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/810.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",OSN-Movies Action2HD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/811.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Animal-Planet
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/813.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",OSN WWE
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/802.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",OSN-Movies-Festival
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/803.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",National-Geographic-AbuDhabi
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/812.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===MBC===
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/24.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC 1
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/25.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC 2
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/26.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC 3
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/27.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC 4
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/28.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC DRAMA
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/29.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC ACTION
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/30.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC MAX
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/31.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC Variety
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/33.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===ROTANA===
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/132.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Rotana-Drama
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/130.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Rotana-Classic
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/131.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Rotana-Cinema
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/128.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Rotana-Aflam
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/129.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===NEWS===
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/47.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Aljazeera
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/48.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Alarabiya
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/49.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Alhadath
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/50.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",BBC
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/54.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Deutsche Welle AR
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/53.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",France 24ar
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/52.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",RT ARABIC
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/55.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Sky News AR
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/51.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===KIDS===
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/56.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Ajyal baby
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/61.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",‪Atfal Wa Mwaheb‬‏
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/392.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Talking Tom and Friends
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/60.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Talking Tom Shorts
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/59.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Toyor Aljanah
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/58.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MAJED+
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/389.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Toyor Baby
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/57.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===DOCUMENTARY===
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/127.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Al Jazeera Documentary
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/67.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===MOROOCO===
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/406.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",2M Maroc
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/409.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Tamazight
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/414.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Medi1tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/415.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Assadissa
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/413.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Arriadia
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/410.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Arrabiaa
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/411.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Al_aoula_inter/
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/408.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Almaghribya
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/412.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===Algeria===
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/416.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Tamazight/
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/417.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Samira_tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/420.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Ennahar_algerie
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/425.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",El_Djazairia
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/424.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",EchoroukTV
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/421.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",EchoroukNews
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/422.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Algerie 1
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/419.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===MORE===
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/62.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Quraan TV
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/66.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Sama TV
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/376.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",CBC
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/65.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Wanasah
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/388.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Sama Dubai
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/382.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Roya
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/385.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Raya
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/386.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",OTV
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/380.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MaanHD
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/387.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",LBC
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/378.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",LBC 2
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/379.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",LDC
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/390.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Dubai One
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/391.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",CBC DRAMA
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/384.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Arabica TV
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/381.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Abudhabi Drama
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/383.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Syria Drama
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/377.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",===Kurdistan TV===
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/764.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Zarok-tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/758.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Waar-tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/745.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Vin-tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/749.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Super-tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/763.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Sterk-tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/748.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",StarWorld
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/800.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Star-Movies
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/801.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Speda-tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/746.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Rudaw
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/741.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Ronahi-tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/739.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Rojava-tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/753.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Rengin-tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/761.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Qamislo-tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/757.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Newmax-tv-comedy
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/755.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Newmax-tv-box-office
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/754.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Newmax-tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/756.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Nalia-tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/742.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Minbij-tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/759.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Med-muzik-tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/760.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Kurdsat-tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/740.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Kurdmax-tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/743.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Kurdmax-show-tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/747.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Kurdistan24-tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/744.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Korek-tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/751.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Kanal4
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/750.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Ezidxan-tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/762.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Al-yaum-tv
-http://janiptv.com:8888/live/8jvu2ahl/r9zh2lzi/752.ts
 
 
 
