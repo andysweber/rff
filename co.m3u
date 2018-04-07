@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 http://.....
 
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,06/04/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,07/04/18
 http://.....
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -1785,25 +1785,14 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 group-title="UK4"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
 http://.....
 
-#EXTINF:-1 group-title="UK4" ,SKY Sport 1 UK
-http://cdnv.cli.tn/iptv/ch922?code=610116485444847
-#EXTINF:-1 group-title="UK4" ,Sky Sport 2 UK
-http://cdnv.cli.tn/iptv/ch937?code=610116485444847
-#EXTINF:-1 group-title="UK4" ,SKY Sport 3 UK
-http://cdnv.cli.tn/iptv/ch914?code=610116485444847
-#EXTINF:-1 group-title="UK4" ,SKY Sport 4 UK
-http://cdnv.cli.tn/iptv/ch915?code=610116485444847
-#EXTINF:-1 group-title="UK4" ,SKY Sport 5 UK
-http://cdnv.cli.tn/iptv/ch916?code=610116485444847
-#EXTINF:-1 group-title="UK4" ,Sport Mix UK
-http://cdnv.cli.tn/iptv/ch931?code=610116485444847
-#EXTINF:-1 group-title="UK4" ,BT Sport 1
-http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
-#EXTINF:-1 group-title="UK4" ,BT Sport 2
-http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
-#EXTINF:-1 group-title="UK4" ,BT Sport Extra
-http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
-
+#EXTINF:-1 group-title="UK4",Sky SPORT 1
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12648.ts
+#EXTINF:-1 group-title="UK4",SPORT KLUB 1
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12035.ts
+#EXTINF:-1 group-title="UK4",SPORT KLUB 2
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12036.ts
+#EXTINF:-1 group-title="UK4",SPORT KLUB 3
+http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12037.ts
 #EXTINF:-1 group-title="UK4",beINSports HD 1
 http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11938.ts
 #EXTINF:-1 group-title="UK4",beINSports HD 2
@@ -1814,14 +1803,7 @@ http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11940.ts
 http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11941.ts
 #EXTINF:-1 group-title="UK4",Viasat Sport HD se
 http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12059.ts
-#EXTINF:-1 group-title="UK4",SK 1
-http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12035.ts
-#EXTINF:-1 group-title="UK4",Sky SPORT 1
-http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12648.ts
-#EXTINF:-1 group-title="UK4",SPORT KLUB 2 (HR)
-http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12036.ts
-#EXTINF:-1 group-title="UK4",SPORT KLUB 3 (HR)
-http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12037.ts
+
 
 
 
@@ -3300,7 +3282,40 @@ http://streamxcode.ddns.net:25461/live/gold/cold/826.ts|refferer=http://geostrea
 
 
 
-#EXTINF:8 group-title="Italy3-PREMIUM-MXPlayer",
+#EXTINF:8 group-title="Italy3-PREMIUM",
+
+#EXTINF:-1 group-title="Italy3-PREMIUM" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg" ,==Italy==
+http://..........
+
+#EXTINF:-1 group-title="Italy3-PREMIUM"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE: USE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Italy3-PREMIUM"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,ONLY
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Italy3-PREMIUM"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,MXPlayer.
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Italy3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Italy3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Italy3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Italy3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Italy3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Italy3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Italy3-PREMIUM"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
+http://.....
+
+#EXTINF:-1 group-title="Italy3-PREMIUM",Sky Sport 1 HD Italy
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/92.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="Italy3-PREMIUM",Sky Sport 2 HD Italy
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/93.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="Italy3-PREMIUM",Sky Sport 3 HD Italy
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/10.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="Italy3-PREMIUM",Sky Sport 24 HD Italy
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/11.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
 
 
 
@@ -3977,6 +3992,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
 http://...
 
+
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="BOING" ,BOING
 http://2.primatv.club:8450/live/Fu6ltvi2218/A60ip18full/1409.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 group-title="France2-PREMIUM-MXPlayer" tvg-name="TF1"  ,TF1
@@ -4159,6 +4175,47 @@ http://2.primatv.club:8450/live/Fu6ltvi2218/A60ip18full/1463.ts|user-agent=VLC/3
 
 #EXTINF:8 group-title="France3-PREMIUM_MXplayer",
 
+#EXTINF:-1 group-title="France3-PREMIUM" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg" ,==France==
+http://..........
+#EXTINF:-1 group-title="France3-PREMIUM"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE: USE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="France3-PREMIUM"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,ONLY
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="France3-PREMIUM"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,MXPlayer.
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="France3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="France3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="France3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="France3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="France3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="France3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="France3-PREMIUM"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
+http://...
+
+#EXTINF:-1 group-title="France3-PREMIUM",Canal + Sport
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/91.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="France3-PREMIUM",Canal +
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/90.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="France3-PREMIUM",Bein Movies 1 HD
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/351.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="France3-PREMIUM",Bein Movies 2 HD
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/352.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="France3-PREMIUM",Bein Movies 3 HD
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/353.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="France3-PREMIUM",Bein Movies 4 HD
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/354.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="France3-PREMIUM",Bein Sports 1 FR (576p)
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/2128.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="France3-PREMIUM",Bein Sports 2 FR (576p)
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/2129.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="France3-PREMIUM",Bein Sports 3 FR (576p)
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/2130.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
 
 
 
@@ -4606,93 +4663,93 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 
 #EXTINF:8 group-title="Germany2-PREMIUM",
 
-#EXTINF:-1 group-title="Germany2-PREMIUM tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif" ,==Germany==
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif" ,==Germany==
 http://..........
 
-#EXTINF:-1 group-title="Germany2-PREMIUM  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE:
+#EXTINF:-1 group-title="Germany2-PREMIUM"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE:
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany2-PREMIUM  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
+#EXTINF:-1 group-title="Germany2-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany2-PREMIUM  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
+#EXTINF:-1 group-title="Germany2-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany2-PREMIUM  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
+#EXTINF:-1 group-title="Germany2-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany2-PREMIUM  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
+#EXTINF:-1 group-title="Germany2-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany2-PREMIUM  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
+#EXTINF:-1 group-title="Germany2-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany2-PREMIUM  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
+#EXTINF:-1 group-title="Germany2-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany2-PREMIUM  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
+#EXTINF:-1 group-title="Germany2-PREMIUM"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
 http://.....
 
-#EXTINF:0 group-title="Germany2-PREMIUM,Pink Thriller – Pink Thriller
+#EXTINF:0 group-title="Germany2-PREMIUM",Pink Thriller – Pink Thriller
 http://stream4.tvit.ba:8088/live?channelId=206&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,Pink Crime & Mystery – Pink Crime & Mystery
+#EXTINF:0 group-title="Germany2-PREMIUM",Pink Crime & Mystery – Pink Crime & Mystery
 http://stream4.tvit.ba:8088/live?channelId=207&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,Pink Romance – Pink Romance
+#EXTINF:0 group-title="Germany2-PREMIUM",Pink Romance – Pink Romance
 http://stream4.tvit.ba:8088/live?channelId=208&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,Pink Koncert – Pink Koncert
+#EXTINF:0 group-title="Germany2-PREMIUM",Pink Koncert – Pink Koncert
 http://stream4.tvit.ba:8088/live?channelId=210&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,Pink Hits 2 – Pink Hits 2
+#EXTINF:0 group-title="Germany2-PREMIUM",Pink Hits 2 – Pink Hits 2
 http://stream4.tvit.ba:8088/live?channelId=211&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,KCN 2 – KCN 2
+#EXTINF:0 group-title="Germany2-PREMIUM",KCN 2 – KCN 2
 http://stream3.tvit.ba:8088/live?channelId=215&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,ZDF Infokanal – ZDF Infokanal
+#EXTINF:0 group-title="Germany2-PREMIUM",ZDF Infokanal – ZDF Infokanal
 http://stream3.tvit.ba:8088/live?channelId=218&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,ZDF Neo – ZDF Neo
+#EXTINF:0 group-title="Germany2-PREMIUM",ZDF Neo – ZDF Neo
 http://stream3.tvit.ba:8088/live?channelId=219&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,RTL Television – RTL Television
+#EXTINF:0 group-title="Germany2-PREMIUM",RTL Television – RTL Television
 http://stream3.tvit.ba:8088/live?channelId=223&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,n-TV – n-TV
+#EXTINF:0 group-title="Germany2-PREMIUM",n-TV – n-TV
 http://stream3.tvit.ba:8088/live?channelId=224&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,Sonnenklar TV – Sonnenklar TV
+#EXTINF:0 group-title="Germany2-PREMIUM",Sonnenklar TV – Sonnenklar TV
 http://stream3.tvit.ba:8088/live?channelId=225&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,Sport 1 Germany
+#EXTINF:0 group-title="Germany2-PREMIUM",Sport 1 Germany
 http://80.65.168.166:8088/live?channelId=227&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,Izvorna TV – Izvorna TV
+#EXTINF:0 group-title="Germany2-PREMIUM",Izvorna TV – Izvorna TV
 http://stream2.tvit.ba:80/live?channelId=228&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,RTV Zenica – RTV Zenica
+#EXTINF:0 group-title="Germany2-PREMIUM",RTV Zenica – RTV Zenica
 http://stream2.tvit.ba:80/live?channelId=230&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,Alfa TV – Alfa TV
+#EXTINF:0 group-title="Germany2-PREMIUM",Alfa TV – Alfa TV
 http://stream2.tvit.ba:80/live?channelId=231&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,FOX Crime – FOX Crime
+#EXTINF:0 group-title="Germany2-PREMIUM",FOX Crime – FOX Crime
 http://stream4.tvit.ba:8088/live?channelId=233&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,Pink World – Pink World
+#EXTINF:0 group-title="Germany2-PREMIUM",Pink World – Pink World
 http://stream4.tvit.ba:8088/live?channelId=247&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,Cinestar Fantasy – Cinestar Fantasy
+#EXTINF:0 group-title="Germany2-PREMIUM",Cinestar Fantasy – Cinestar Fantasy
 http://stream1.tvit.ba:8088/live?channelId=248&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,Cinemacoius 1 – Cinemacoius 1
+#EXTINF:0 group-title="Germany2-PREMIUM",Cinemacoius 1 – Cinemacoius 1
 http://stream4.tvit.ba:8088/live?channelId=250&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,Cinemaciuos 2 – Cinemacious 2
+#EXTINF:0 group-title="Germany2-PREMIUM",Cinemaciuos 2 – Cinemacious 2
 http://stream3.tvit.ba:8088/live?channelId=251&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,CBS Reality – CBS Reality
+#EXTINF:0 group-title="Germany2-PREMIUM",CBS Reality – CBS Reality
 http://stream3.tvit.ba:8088/live?channelId=253&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,ORF 1 – ORF 1
+#EXTINF:0 group-title="Germany2-PREMIUM",ORF 1 – ORF 1
 http://stream3.tvit.ba:8088/live?channelId=263&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,ORF 2 – ORF 2
+#EXTINF:0 group-title="Germany2-PREMIUM",ORF 2 – ORF 2
 http://stream3.tvit.ba:8088/live?channelId=264&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,ATV Austrija – ATV Austrija
+#EXTINF:0 group-title="Germany2-PREMIUM",ATV Austrija – ATV Austrija
 http://stream3.tvit.ba:8088/live?channelId=265&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,ORF 2 Tirol – ORF 2 Tirol
+#EXTINF:0 group-title="Germany2-PREMIUM",ORF 2 Tirol – ORF 2 Tirol
 http://stream3.tvit.ba:8088/live?channelId=266&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,Bibel TV HD – Bibel TV HD
+#EXTINF:0 group-title="Germany2-PREMIUM",Bibel TV HD – Bibel TV HD
 http://80.65.168.166:8088/live?channelId=268&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,VH 1 – VH 1
+#EXTINF:0 group-title="Germany2-PREMIUM",VH 1 – VH 1
 http://stream3.tvit.ba:8088/live?channelId=270&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,pink extra – pink extra
+#EXTINF:0 group-title="Germany2-PREMIUM",pink extra – pink extra
 http://stream2.tvit.ba:80/live?channelId=287&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,Arte HD – Arte HD
+#EXTINF:0 group-title="Germany2-PREMIUM",Arte HD – Arte HD
 http://80.65.168.166:8088/live?channelId=288&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,HBO 3 – HBO 3
+#EXTINF:0 group-title="Germany2-PREMIUM",HBO 3 – HBO 3
 http://stream4.tvit.ba:8088/live?channelId=292&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,Cinemacious 3 – Cinemacious 3
+#EXTINF:0 group-title="Germany2-PREMIUM",Cinemacious 3 – Cinemacious 3
 http://stream4.tvit.ba:8088/live?channelId=272&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,TV 1 – TV 1
+#EXTINF:0 group-title="Germany2-PREMIUM",TV 1 – TV 1
 http://stream3.tvit.ba:8088/live?channelId=12&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,Pink Classic – Pink Classic
+#EXTINF:0 group-title="Germany2-PREMIUM",Pink Classic – Pink Classic
 http://cms.tvit.ba:80/live?channelId=291&uid=844&deviceMac=00:1A:79:40:CD:DA
-#EXTINF:0 group-title="Germany2-PREMIUM,WOMAN – WOMAN
+#EXTINF:0 group-title="Germany2-PREMIUM",WOMAN – WOMAN
 http://stream4.tvit.ba:8088/live?channelId=122&uid=844&deviceMac=00:1A:79:40:CD:DA
 
 
@@ -4713,8 +4770,33 @@ http://stream4.tvit.ba:8088/live?channelId=122&uid=844&deviceMac=00:1A:79:40:CD:
 
 
 
-#EXTINF:8 group-title="Germany3-PREMIUM-MXPlayer",
+#EXTINF:8 group-title="Germany3-PREMIUM",
 
+
+#EXTINF:-1 group-title="Germany3-PREMIUM" tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif" ,==Germany==
+http://..........
+
+#EXTINF:-1 group-title="Germany3-PREMIUM"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE:
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Germany3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Germany3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Germany3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Germany3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Germany3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Germany3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Germany3-PREMIUM"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
+http://.....
+
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Sport 1 HD Deutch Germany
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/58.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Sport 2 HD Deutch Germany
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/59.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
 
 
 
@@ -9136,6 +9218,69 @@ http://streamxcode.ddns.net:25461/live/gold/cold/5906.ts|refferer=http://solidst
 
 
 #EXTINF:9 group-title="India2-premium-MXPlayer",
+
+#EXTINF:-1 group-title="India2-premium" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png" ,==India==
+http://..........
+
+#EXTINF:-1 group-title="India2-premium"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE:
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="India2-premium"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="India2-premium"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="India2-premium"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="India2-premium"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="India2-premium"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="India2-premium"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="India2-premium" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
+http://.....
+
+#EXTINF:-1 group-title="India2-premium",Sony Ten 1
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/153.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="India2-premium",Sony Ten 2
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/152.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="India2-premium",Sony Ten 1 Backup
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/312.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="India2-premium",Sony Ten 2 Backup
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/313.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="India2-premium",Star Sports 1
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/115.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="India2-premium",Star Sports 2
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/150.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="India2-premium",Star Sports 1 Hindi
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/240.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="India2-premium",Star Sports 1 Tamil
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/149.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="India2-premium",Star Sports 1 Backup
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/435.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="India2-premium",Star Sports 2 Backup
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/436.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="India2-premium",Star Sports 1 Tamil Backup
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/438.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="India2-premium",Star Sports 1 Hindi Backup
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/437.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="India2-premium",Sony ESPN
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/759.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="India2-premium",Sony Six
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/6.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="India2-premium",Sony Six Backup
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/766.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="India2-premium",Sony Ten 3
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/815.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+#EXTINF:-1 group-title="India2-premium",Sony Ten 3 Backup
+http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/314.ts?.coms|user-agent=oioiehfadojaiujKugvkjhb
+
+
+
+
+
+
+
+
 
 
 
