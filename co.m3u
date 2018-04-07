@@ -278,41 +278,42 @@ http://wpso.com:1936/hls/wzra.m3u8
 
 
 #EXTINF:8 group-title="Greece_Premium",
+#EXTINF:-1 group-title="Greece" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/manaellada.png" ,==GREECE==
+http://..........
 
-
-#EXTINF:-1 group-title="Greece_Premium",ERT1 
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/hD0NSD",ERT1 
 http://78.128.63.6:8009/play/a002/index.m3u8 
-#EXTINF:-1 group-title="Greece_Premium",ERT2 
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/quc9Qp,ERT2 
 http://78.128.63.6:8009/play/a005/index.m3u8 
-#EXTINF:-1 group-title="Greece_Premium",ERT3 
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/FOIiN8",ERT3 
 http://78.128.63.6:8009/play/a00a/index.m3u8 
-#EXTINF:-1 group-title="Greece_Premium",ERT HD 
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="http://ws.greekelitetv.com/Roku/RokuApp/GreekEliteTV/Artwork/ept_hd_sd.jpg",ERT HD 
 http://78.128.63.6:8009/play/a00b/index.m3u8 
-#EXTINF:-1 group-title="Greece_Premium",SKAI 
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/np3siv" ,SKAI 
 http://78.128.63.6:8009/play/a00f/index.m3u8 
-#EXTINF:-1 group-title="Greece_Premium",STAR 
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/z2xi2U" ,STAR 
 http://78.128.63.6:8009/play/a00g/index.m3u8 
-#EXTINF:-1 group-title="Greece_Premium",ANT1 
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 
 http://78.128.63.6:8009/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Greece_Premium",ALPHA 
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg" ,ALPHA 
 http://78.128.63.6:8009/play/a00i/index.m3u8 
-#EXTINF:-1 group-title="Greece_Premium",M.tv 
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/CsM9Iu",M.tv 
 http://78.128.63.6:8009/play/a00d/index.m3u8 
 #EXTINF:-1 group-title="Greece_Premium",ART 
 http://78.128.63.6:8009/play/a00k/index.m3u8 
 #EXTINF:-1 group-title="Greece_Premium",Proto 
 http://78.128.63.6:8009/play/a003/index.m3u8 
-#EXTINF:-1 group-title="Greece_Premium",Voice Of Greece 
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/2eMR7A",Voice Of Greece 
 http://78.128.63.6:8009/play/a009/index.m3u8 
-#EXTINF:-1 group-title="Greece_Premium",MEGA 
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/nTCu62" ,MEGA 
 http://78.128.63.6:8009/play/a00e/index.m3u8 
 #EXTINF:-1 group-title="Greece_Premium",Trito 
 http://78.128.63.6:8009/play/a006/index.m3u8 
-#EXTINF:-1 group-title="Greece_Premium",epsilontv 
+#EXTINF:-1 group-title="Greece_Premium"  tvg-logo="https://goo.gl/tjFpM3" ,epsilontv 
 http://78.128.63.6:8009/play/a00l/index.m3u8 
 #EXTINF:-1 group-title="Greece_Premium",Era Sport 
 http://78.128.63.6:8009/play/a008/index.m3u8 
-#EXTINF:-1 group-title="Greece_Premium",Vouli 
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/m1ZYJB" ,Vouli 
 http://78.128.63.6:8009/play/a007/index.m3u8 
 #EXTINF:-1 group-title="Greece_Premium",Kosmos 
 http://78.128.63.6:8009/play/a004/index.m3u8 
