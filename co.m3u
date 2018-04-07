@@ -278,7 +278,7 @@ http://wpso.com:1936/hls/wzra.m3u8
 
 
 #EXTINF:8 group-title="Greece_Premium",
-#EXTINF:-1 group-title="Greece" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/manaellada.png" ,==GREECE==
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/manaellada.png" ,==GREECE==
 http://..........
 
 #EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/hD0NSD",ERT1 
@@ -299,7 +299,7 @@ http://78.128.63.6:8009/play/a00j/index.m3u8
 http://78.128.63.6:8009/play/a00i/index.m3u8 
 #EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/CsM9Iu",M.tv 
 http://78.128.63.6:8009/play/a00d/index.m3u8 
-#EXTINF:-1 group-title="Greece_Premium",ART 
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://www.livetvgr.com/wp-content/uploads/2013/01/art1.png",ART 
 http://78.128.63.6:8009/play/a00k/index.m3u8 
 #EXTINF:-1 group-title="Greece_Premium",Proto 
 http://78.128.63.6:8009/play/a003/index.m3u8 
@@ -311,11 +311,11 @@ http://78.128.63.6:8009/play/a00e/index.m3u8
 http://78.128.63.6:8009/play/a006/index.m3u8 
 #EXTINF:-1 group-title="Greece_Premium"  tvg-logo="https://goo.gl/tjFpM3" ,epsilontv 
 http://78.128.63.6:8009/play/a00l/index.m3u8 
-#EXTINF:-1 group-title="Greece_Premium",Era Sport 
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/ert-erasport.png",Era Sport 
 http://78.128.63.6:8009/play/a008/index.m3u8 
 #EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/m1ZYJB" ,Vouli 
 http://78.128.63.6:8009/play/a007/index.m3u8 
-#EXTINF:-1 group-title="Greece_Premium",Kosmos 
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://pbs.twimg.com/profile_images/744452196373233664/wyJ1sMWU_400x400.jpg",Kosmos 
 http://78.128.63.6:8009/play/a004/index.m3u8 
 
 
