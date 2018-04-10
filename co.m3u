@@ -345,31 +345,31 @@ http://78.128.63.6:8009/play/a004/index.m3u8
 #EXTINF:-1 group-title="Greece2_Premium" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/manaellada.png" ,==GREECE==
 http://..........
 
-#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/hD0NSD",ERT1 
+#EXTINF:-1 group-title="Greece2_Premium" tvg-logo="https://goo.gl/hD0NSD",ERT1 
 http://212.224.72.200:2200/DE/et1-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/quc9Qp",ERT2 
+#EXTINF:-1 group-title="Greece2_Premium" tvg-logo="https://goo.gl/quc9Qp",ERT2 
 http://212.224.72.200:2200/DE/et2-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/FOIiN8",ERT3 
+#EXTINF:-1 group-title="Greece2_Premium" tvg-logo="https://goo.gl/FOIiN8",ERT3 
 http://212.224.72.200:2200/DE/et3-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/np3siv" ,SKAI 
+#EXTINF:-1 group-title="Greece2_Premium" tvg-logo="https://goo.gl/np3siv" ,SKAI 
 http://212.224.72.200:2200/DE/skai-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/z2xi2U" ,STAR 
+#EXTINF:-1 group-title="Greece2_Premium" tvg-logo="https://goo.gl/z2xi2U" ,STAR 
 http://212.224.72.200:2200/DE/star-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 
+#EXTINF:-1 group-title="Greece2_Premium" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 
 http://212.224.72.200:2200/DE/ant1-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Greece_Premium" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg" ,ALPHA 
+#EXTINF:-1 group-title="Greece2_Premium" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg" ,ALPHA 
 http://212.224.72.200:2200/DE/alpha-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/CsM9Iu",M.tv 
+#EXTINF:-1 group-title="Greece2_Premium" tvg-logo="https://goo.gl/CsM9Iu",M.tv 
 http://212.224.72.200:2200/DE/makedonia-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Greece_Premium" tvg-logo="http://www.riknews.com.cy/images/stories/icons/logo-2.png",RikSat
+#EXTINF:-1 group-title="Greece2_Premium" tvg-logo="http://www.riknews.com.cy/images/stories/icons/logo-2.png",RikSat
 http://212.224.72.200:2200/TR1/syriatv2-ar/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Greece_Premium",Kontra
+#EXTINF:-1 group-title="Greece2_Premium",Kontra
 http://212.224.72.200:2200/DE/kontrachannel-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/2eMR7A",Voice Of Greece 
+#EXTINF:-1 group-title="Greece2_Premium" tvg-logo="https://goo.gl/2eMR7A",Voice Of Greece 
 http://212.224.72.200:2200/DE/4etv-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/nTCu62" ,MEGA 
+#EXTINF:-1 group-title="Greece2_Premium" tvg-logo="https://goo.gl/nTCu62" ,MEGA 
 http://212.224.72.200:2200/DE/mega-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
-#EXTINF:-1 group-title="Greece_Premium"  tvg-logo="https://goo.gl/tjFpM3" ,epsilontv 
+#EXTINF:-1 group-title="Greece2_Premium"  tvg-logo="https://goo.gl/tjFpM3" ,epsilontv 
 http://212.224.72.200:2200/DE/epsilon-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
 
 
