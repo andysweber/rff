@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 http://.....
 
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,09/04/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,10/04/18
 http://.....
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -329,6 +329,48 @@ http://78.128.63.6:8009/play/a004/index.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:8 group-title="Greece2_Premium",
+
+#EXTINF:-1 group-title="Greece2_Premium" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/manaellada.png" ,==GREECE==
+http://..........
+
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/hD0NSD",ERT1 
+http://212.224.72.200:2200/DE/et1-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/quc9Qp",ERT2 
+http://212.224.72.200:2200/DE/et2-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/FOIiN8",ERT3 
+http://212.224.72.200:2200/DE/et3-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/np3siv" ,SKAI 
+http://212.224.72.200:2200/DE/skai-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/z2xi2U" ,STAR 
+http://212.224.72.200:2200/DE/star-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 
+http://212.224.72.200:2200/DE/ant1-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg" ,ALPHA 
+http://212.224.72.200:2200/DE/alpha-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/CsM9Iu",M.tv 
+http://212.224.72.200:2200/DE/makedonia-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="http://www.riknews.com.cy/images/stories/icons/logo-2.png",RikSat
+http://212.224.72.200:2200/TR1/syriatv2-ar/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="Greece_Premium",Kontra
+http://212.224.72.200:2200/DE/kontrachannel-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/2eMR7A",Voice Of Greece 
+http://212.224.72.200:2200/DE/4etv-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="Greece_Premium" tvg-logo="https://goo.gl/nTCu62" ,MEGA 
+http://212.224.72.200:2200/DE/mega-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="Greece_Premium"  tvg-logo="https://goo.gl/tjFpM3" ,epsilontv 
+http://212.224.72.200:2200/DE/epsilon-gr/tracks-v1a1/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
 
 
 
@@ -1383,374 +1425,6 @@ http://wowza2.mysoltv.com:1992/USA_FUEL_HD/index.m3u8
 
 #EXTINF:3 group-title="UK3", 
 
-#EXTINF:1 group-title="UK3" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
-http://..........
-#EXTINF:-1 group-title="UK3"tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE:
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK3"tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK3"tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK3"tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK3"tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK3"tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK3"tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK3"tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
-http://.....
-
-#EXTINF:-1 group-title="UK3" tvg-name="BBC1 HD" ,BBC1 HD 
-http://62.210.93.115:80/live?channelId=1&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BBC1"  ,BBC One
-http://62.210.99.158:80/live?channelId=2&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz"  ,BBC2 HD 
-http://62.210.93.115:80/live?channelId=3&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3"  ,BBC TWO 
-http://62.210.93.115:80/live?channelId=4&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="ITV Central" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV HD" ,ITV HD - ITV HD
-http://62.210.93.115:80/live?channelId=5&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" ,ITV - ITV
-http://62.210.93.115:80/live?channelId=6&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3"  ,ITV plus1 - ITV plus1
-http://62.210.93.115:80/live?channelId=7&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Channel 4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 4 HD" ,Channel 4 HD - Channel 4 HD
-http://62.210.93.115:80/live?channelId=8&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Channel 4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 4" ,Channel 4 - Channel 4
-http://62.210.93.115:80/live?channelId=9&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Channel 4 + 1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 4 plus1" ,Channel 4 plus1 - Channel 4 plus1
-http://62.210.93.115:80/live?channelId=10&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Channel 5" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 5 HD" ,Channel 5 HD - Channel 5 HD
-http://62.210.93.115:80/live?channelId=11&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Channel 5" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 5" ,Channel 5 - Channel 5
-http://62.210.93.115:80/live?channelId=12&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Channel 5 +1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 5 plus1" ,Channel 5 plus1 - Channel 5 plus1
-http://62.210.93.115:80/live?channelId=13&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="ITV2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV2" ,ITV2 - ITV2
-http://62.210.93.115:80/live?channelId=14&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="ITV3" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV3" ,ITV3 - ITV3
-http://62.210.93.115:80/live?channelId=15&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="ITV4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV4" ,ITV4 - ITV4
-http://62.210.93.115:80/live?channelId=16&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="ITVBe" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITVBe" ,ITVBe - ITVBe
-http://62.210.93.115:80/live?channelId=17&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="4seven" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="4seven" ,4seven - 4seven
-http://62.210.93.115:80/live?channelId=18&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="E4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="E4" ,E4 - E4
-http://62.210.93.115:80/live?channelId=19&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="More4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="More4" ,More4 - More4
-http://62.210.93.115:80/live?channelId=20&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="5USA" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="5 USA" ,5 USA - 5 USA
-http://62.210.93.115:80/live?channelId=21&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="5STAR" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="5STAR" ,5STAR - 5STAR
-http://62.210.93.115:80/live?channelId=22&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="My5" tvg-link=" " tvg-name="My5" ,My5 - My5
-http://62.210.93.115:80/live?channelId=23&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="AMC" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="AMC from BT" ,AMC from BT - AMC from BT
-http://62.210.93.115:80/live?channelId=24&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky1 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky1 HD" ,Sky1 HD - Sky1 HD
-http://62.210.93.115:80/live?channelId=25&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky1 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky1" ,Sky1 - Sky1
-http://62.210.93.115:80/live?channelId=26&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky 2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky2" ,Sky2 - Sky2
-http://62.210.93.115:80/live?channelId=27&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Living" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Living" ,Sky Living - Sky Living
-http://62.210.93.115:80/live?channelId=28&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Atlantic" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Atlantic HD" ,Sky Atlantic HD - Sky Atlantic HD
-http://62.210.93.115:80/live?channelId=29&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Atlantic" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Atlantic" ,Sky Atlantic - Sky Atlantic
-http://62.210.93.115:80/live?channelId=30&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Arts HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Arts" ,Sky Arts - Sky Arts
-http://62.210.93.115:80/live?channelId=31&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Discovery" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Discovery" ,Discovery - Discovery
-http://62.210.93.115:80/live?channelId=32&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Discovery History" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disc.History" ,Disc.History - Disc.History
-http://62.210.93.115:80/live?channelId=33&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Discovery Science" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disc.Science" ,Disc.Science - Disc.Science
-http://62.210.93.115:80/live?channelId=34&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Discovery Turbo" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disc.Turbo" ,Disc.Turbo - Disc.Turbo
-http://62.210.93.115:80/live?channelId=35&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Discovery Shed" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Discovery Shed" ,Discovery Shed - Discovery Shed
-http://62.210.93.115:80/live?channelId=36&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="DMAX" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="DMAX" ,DMAX - DMAX
-http://62.210.93.115:80/live?channelId=37&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BLAZE" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Blaze" ,Blaze - Blaze
-http://62.210.93.115:80/live?channelId=38&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Comedy Central" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ComedyCentral" ,ComedyCentral - ComedyCentral
-http://62.210.93.115:80/live?channelId=39&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Comedy Central Extra" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ComedyXtra" ,ComedyXtra - ComedyXtra
-http://62.210.93.115:80/live?channelId=40&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="CI HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Crime and Investigation" ,Crime and Investigation - Crime and Investigation
-http://62.210.93.115:80/live?channelId=41&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Animal Planet" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Animal Planet" ,Animal Planet - Animal Planet
-http://62.210.93.115:80/live?channelId=42&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="HISTORY" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="HISTORY" ,HISTORY - HISTORY
-http://62.210.93.115:80/live?channelId=43&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="H2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="H2" ,H2 - H2
-http://62.210.93.115:80/live?channelId=44&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Nat Geo Wild" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="National Geo Wild" ,National Geo Wild - National Geo Wild
-http://62.210.93.115:80/live?channelId=45&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="National Geographic" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="National Geographic" ,National Geographic - National Geographic
-http://62.210.93.115:80/live?channelId=46&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="TLC" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="TLC" ,TLC - TLC
-http://62.210.93.115:80/live?channelId=47&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Syfy" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Syfy" ,Syfy - Syfy
-http://62.210.93.115:80/live?channelId=48&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Lifetime" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Lifetime" ,Lifetime - Lifetime
-http://62.210.93.115:80/live?channelId=49&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="MTV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="MTV" ,MTV - MTV
-http://62.210.93.115:80/live?channelId=50&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Dave" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Dave" ,Dave - Dave
-http://62.210.93.115:80/live?channelId=51&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Dave ja vu" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Dave ja vu" ,Dave ja vu - Dave ja vu
-http://62.210.93.115:80/live?channelId=52&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="FOX" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="FOX" ,FOX - FOX
-http://62.210.93.115:80/live?channelId=53&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="horror channel" tvg-link=" " tvg-name="horror channel" ,horror channel - horror channel
-http://62.210.93.115:80/live?channelId=54&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Investigation Discovery" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ID" ,ID - ID
-http://62.210.93.115:80/live?channelId=55&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Good Food" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Good Food" ,Good Food - Good Food
-http://62.210.93.115:80/live?channelId=56&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Home" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Home" ,Home - Home
-http://62.210.93.115:80/live?channelId=57&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Food Network" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Food Network" ,Food Network - Food Network
-http://62.210.93.115:80/live?channelId=58&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Alibi" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="alibi" ,alibi - alibi
-http://62.210.93.115:80/live?channelId=59&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Drama" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Drama" ,Drama - Drama
-http://62.210.93.115:80/live?channelId=60&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="E!" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="E!" ,E! - E!
-http://62.210.93.115:80/live?channelId=61&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Eden" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Eden" ,Eden - Eden
-http://62.210.93.115:80/live?channelId=62&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="GOLD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="GOLD" ,GOLD - GOLD
-http://62.210.93.115:80/live?channelId=63&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Pick" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Pick" ,Pick - Pick
-http://62.210.93.115:80/live?channelId=64&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Really" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Really" ,Really - Really
-http://62.210.93.115:80/live?channelId=65&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="YESTERDAY" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Yesterday" ,Yesterday - Yesterday
-http://62.210.93.115:80/live?channelId=66&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="W" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="W" ,W - W
-http://62.210.93.115:80/live?channelId=67&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Universal Channel" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Universal" ,Universal - Universal
-http://62.210.93.115:80/live?channelId=68&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="QUEST" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="QUEST" ,QUEST - QUEST
-http://62.210.93.115:80/live?channelId=69&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Action HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA ACTION & ADVENTURE HD" ,CINEMA ACTION & ADVENTURE HD - CINEMA ACTION & ADVENTURE HD
-http://62.210.93.43:80/live?channelId=70&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Disney HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA DISNEY HD" ,CINEMA DISNEY HD - CINEMA DISNEY HD
-http://62.210.93.43:80/live?channelId=71&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky DraRomHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA DRAMA AND ROMANCE HD" ,CINEMA DRAMA AND ROMANCE HD - CINEMA DRAMA AND ROMANCE HD
-http://62.210.93.43:80/live?channelId=72&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Family HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA FAMILY HD" ,CINEMA FAMILY HD - CINEMA FAMILY HD
-http://62.210.93.43:80/live?channelId=73&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Hits HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA HITS HD" ,CINEMA HITS HD - CINEMA HITS HD
-http://62.210.93.43:80/live?channelId=74&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Greats HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA MODERN GREATS HD" ,CINEMA MODERN GREATS HD - CINEMA MODERN GREATS HD
-http://62.210.93.43:80/live?channelId=75&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="SkyPremiereHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA PREMIERE HD" ,CINEMA PREMIERE HD - CINEMA PREMIERE HD
-http://62.210.93.43:80/live?channelId=76&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Movies Sci-Fi & Horror" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA SCI-FI & HORROR HD" ,CINEMA SCI-FI & HORROR HD - CINEMA SCI-FI & HORROR HD
-http://62.210.93.43:80/live?channelId=77&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Movies Select HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA SELECT HD" ,CINEMA SELECT HD - CINEMA SELECT HD
-http://62.210.93.43:80/live?channelId=78&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Movies Crime & Thriller HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CINEMA THRILLER HD" ,CINEMA THRILLER HD - CINEMA THRILLER HD
-http://62.210.93.43:80/live?channelId=79&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Action HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Action & Adventure" ,Sky Movies Action & Adventure - Sky Movies Action & Adventure
-http://62.210.93.43:80/live?channelId=80&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Movies Comedy HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Comedy" ,Sky Movies Comedy - Sky Movies Comedy
-http://62.210.93.43:80/live?channelId=81&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Disney HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Disney" ,Sky Movies Disney - Sky Movies Disney
-http://62.210.93.43:80/live?channelId=82&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky DraRomHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Drama & Romance" ,Sky Movies Drama & Romance - Sky Movies Drama & Romance
-http://62.210.93.43:80/live?channelId=83&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Family HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Family" ,Sky Movies Family - Sky Movies Family
-http://62.210.93.43:80/live?channelId=84&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Greats HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Greats" ,Sky Movies Greats - Sky Movies Greats
-http://62.210.93.43:80/live?channelId=85&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="SkyPremiereHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Premiere" ,Sky Movies Premiere - Sky Movies Premiere
-http://62.210.93.43:80/live?channelId=86&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Movies Sci-Fi & Horror" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Sci-Fi & Horror" ,Sky Movies Sci-Fi & Horror - Sky Movies Sci-Fi & Horror
-http://62.210.93.43:80/live?channelId=87&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Movies Select HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Select" ,Sky Movies Select - Sky Movies Select
-http://62.210.93.43:80/live?channelId=88&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Movies Crime & Thriller HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Movies Thriller" ,Sky Movies Thriller - Sky Movies Thriller
-http://62.210.93.43:80/live?channelId=89&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Baby TV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Baby TV" ,Baby TV - Baby TV
-http://62.210.93.43:80/live?channelId=90&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="CBBC" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="CBBC" ,CBBC - CBBC
-http://62.210.93.43:80/live?channelId=91&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Cartoon Network" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Cartoon network" ,Cartoon network - Cartoon network
-http://62.210.93.43:80/live?channelId=92&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Cbeeies" tvg-link=" " tvg-name="Cbeeies" ,Cbeeies - Cbeeies
-http://62.210.93.43:80/live?channelId=93&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Disney Channel" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disney Channel" ,Disney Channel - Disney Channel
-http://62.210.93.43:80/live?channelId=94&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Disney Junior" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disney Jr" ,Disney Jr - Disney Jr
-http://62.210.93.43:80/live?channelId=95&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Disney XD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disney XD" ,Disney XD - Disney XD
-http://62.210.93.43:80/live?channelId=96&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Nick Jr" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Nick Jr" ,Nick Jr - Nick Jr
-http://62.210.93.43:80/live?channelId=97&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Nicktoons" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Nick Toons" ,Nick Toons - Nick Toons
-http://62.210.93.43:80/live?channelId=98&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Nickelodeon" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Nickelodeon" ,Nickelodeon - Nickelodeon
-http://62.210.93.43:80/live?channelId=99&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Nick Jr Too" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="NickJr Too" ,NickJr Too - NickJr Too
-http://62.210.93.43:80/live?channelId=100&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Boomerang" tvg-link=" " tvg-name="Boomerang" ,Boomerang - Boomerang
-http://62.210.93.43:80/live?channelId=101&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="MTV Base" tvg-link=" " tvg-name="MTV Base" ,MTV Base - MTV Base
-http://62.210.93.43:80/live?channelId=102&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="MTV Classic" tvg-link=" " tvg-name="MTV Classic" ,MTV Classic - MTV Classic
-http://62.210.93.43:80/live?channelId=103&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="MTV Dance" tvg-link=" " tvg-name="MTV Dance" ,MTV Dance - MTV Dance
-http://62.210.93.43:80/live?channelId=104&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="MTV Hits" tvg-link=" " tvg-name="MTV Hits" ,MTV Hits - MTV Hits
-http://62.210.93.43:80/live?channelId=105&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="MTV Music" tvg-link=" " tvg-name="MTV Music" ,MTV Music - MTV Music
-http://62.210.93.43:80/live?channelId=106&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="MTV Rocks" tvg-link=" " tvg-name="MTV Rocks" ,MTV Rocks - MTV Rocks
-http://62.210.93.43:80/live?channelId=107&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BBC One Northern Ireland" tvg-link=" " tvg-name="BBC One Northern Ireland" ,BBC One Northern Ireland - BBC One Northern Ireland
-http://62.210.93.43:80/live?channelId=108&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BBC One Scotland" tvg-link=" " tvg-name="BBC One Scotland" ,BBC One Scotland - BBC One Scotland
-http://62.210.93.43:80/live?channelId=109&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BBC Two Scotland" tvg-link=" " tvg-name="BBC Two Scotland" ,BBC Two Scotland - BBC Two Scotland
-http://62.210.93.43:80/live?channelId=110&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BBC Two Wales" tvg-link=" " tvg-name="BBC Two Wales" ,BBC Two Wales - BBC Two Wales
-http://62.210.93.43:80/live?channelId=111&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="3e" tvg-link=" " tvg-name="3e" ,3e - 3e
-http://62.210.93.43:80/live?channelId=112&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="RTE one" tvg-link=" " tvg-name="RTE one" ,RTE one - RTE one
-http://62.210.93.43:80/live?channelId=113&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="RTE two" tvg-link=" " tvg-name="RTE two" ,RTE two - RTE two
-http://62.210.93.43:80/live?channelId=114&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="S4C" tvg-link=" " tvg-name="S4C" ,S4C - S4C
-http://62.210.93.43:80/live?channelId=115&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="STV" tvg-link=" " tvg-name="STV" ,STV - STV
-http://62.210.93.43:80/live?channelId=116&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="STV2" tvg-link=" " tvg-name="STV2" ,STV2 - STV2
-http://62.210.93.43:80/live?channelId=117&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="TG4" tvg-link=" " tvg-name="TG4" ,TG4 - TG4
-http://62.210.93.43:80/live?channelId=118&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Sports Action" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Action" ,Sly Sports Action - Sly Sports Action
-http://62.210.99.158:80/live?channelId=119&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Sports Action" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Action HD" ,Sly Sports Action HD - Sly Sports Action HD
-http://62.210.99.158:80/live?channelId=120&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Sports Arena" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Arena" ,Sly Sports Arena - Sly Sports Arena
-http://62.210.99.158:80/live?channelId=121&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Sports Arena" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Arena HD" ,Sly Sports Arena HD - Sly Sports Arena HD
-http://62.210.99.158:80/live?channelId=122&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Sports Cricket" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Cricket" ,Sly Sports Cricket - Sly Sports Cricket
-http://62.210.99.158:80/live?channelId=123&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Sports Cricket" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Cricket HD" ,Sly Sports Cricket HD - Sly Sports Cricket HD
-http://62.210.99.158:80/live?channelId=124&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Sports Football" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Football" ,Sly Sports Football - Sly Sports Football
-http://62.210.99.158:80/live?channelId=125&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Sports Football" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Football HD" ,Sly Sports Football HD - Sly Sports Football HD
-http://62.210.99.158:80/live?channelId=126&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Sports Golf" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Golf" ,Sly Sports Golf - Sly Sports Golf
-http://62.210.99.158:80/live?channelId=127&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Sports Golf" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Golf HD" ,Sly Sports Golf HD - Sly Sports Golf HD
-http://62.210.99.158:80/live?channelId=128&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Sports Main Event" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Main" ,Sly Sports Main - Sly Sports Main
-http://62.210.99.158:80/live?channelId=129&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Sports Main Event" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Main HD" ,Sly Sports Main HD - Sly Sports Main HD
-http://62.210.99.158:80/live?channelId=130&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Sports Mix" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Mix" ,Sly Sports Mix - Sly Sports Mix
-http://62.210.99.158:80/live?channelId=131&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Sports Mix" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports Mix HD" ,Sly Sports Mix HD - Sly Sports Mix HD
-http://62.210.99.158:80/live?channelId=132&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Sports Premier League" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports PL" ,Sly Sports PL - Sly Sports PL
-http://62.210.99.158:80/live?channelId=133&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Sports Premier League" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports PL HD" ,Sly Sports PL HD - Sly Sports PL HD
-http://62.210.99.158:80/live?channelId=134&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Sports F1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports F1" ,Sly Sports F1 - Sly Sports F1
-http://62.210.99.158:80/live?channelId=135&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Sky Sports F1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Spts F1 HD" ,Sly Spts F1 HD - Sly Spts F1 HD
-http://62.210.99.158:80/live?channelId=136&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="SkySp News" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports News" ,Sly Sports News - Sly Sports News
-http://62.210.99.158:80/live?channelId=137&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="SkySp News" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sly Sports News HD" ,Sly Sports News HD - Sly Sports News HD
-http://62.210.99.158:80/live?channelId=138&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BT Sport 1HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 1" ,BT Sport 1 - BT Sport 1
-http://62.210.214.28:80/live?channelId=140&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BT Sport 1HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 1 HD" ,BT Sport 1 HD - BT Sport 1 HD
-http://62.210.214.28:80/live?channelId=141&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BT Sport 2 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 2" ,BT Sport 2 - BT Sport 2
-http://62.210.214.28:80/live?channelId=142&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BT Sport 2 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 2 HD" ,BT Sport 2 HD - BT Sport 2 HD
-http://62.210.214.28:80/live?channelId=143&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BT Sport 3 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 3" ,BT Sport 3 - BT Sport 3
-http://62.210.214.28:80/live?channelId=144&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BT Sport 3 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport 3 HD" ,BT Sport 3 HD - BT Sport 3 HD
-http://62.210.214.28:80/live?channelId=145&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BTSpt//ESPNHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport ESPN" ,BT Sport ESPN - BT Sport ESPN
-http://62.210.214.28:80/live?channelId=146&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BTSpt//ESPNHD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport ESPN HD" ,BT Sport ESPN HD - BT Sport ESPN HD
-http://62.210.214.28:80/live?channelId=147&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BT Sport X1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 1" ,BT Sport Extra 1 - BT Sport Extra 1
-http://62.210.214.28:80/live?channelId=148&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BT Sport X2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 2" ,BT Sport Extra 2 - BT Sport Extra 2
-http://62.210.214.28:80/live?channelId=149&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BT Sport X3" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 3" ,BT Sport Extra 3 - BT Sport Extra 3
-http://62.210.214.28:80/live?channelId=150&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BT Sport X4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 4" ,BT Sport Extra 4 - BT Sport Extra 4
-http://62.210.214.28:80/live?channelId=151&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BT Sport X5" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 5" ,BT Sport Extra 5 - BT Sport Extra 5
-http://62.210.214.28:80/live?channelId=152&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BT Sport X6" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BT Sport Extra 6" ,BT Sport Extra 6 - BT Sport Extra 6
-http://62.210.214.28:80/live?channelId=153&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="eir Sport 1" tvg-name="eir Sport 1" ,eir Sport 1 - eir Sport 1
-http://62.210.214.28:80/live?channelId=154&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="eir Sport 2" tvg-name="eir Sport 2" ,eir Sport 2 - eir Sport 2
-http://62.210.214.28:80/live?channelId=155&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Eurosport 1" tvg-name="Eurosport 1" ,Eurosport 1 - Eurosport 1
-http://62.210.214.28:80/live?channelId=156&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Eurosport 2" tvg-name="Eurosport 2" ,Eurosport 2 - Eurosport 2
-http://62.210.214.28:80/live?channelId=157&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="FreeSports" tvg-name="FreeSports" ,FreeSports - FreeSports
-http://62.210.214.28:80/live?channelId=158&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="FrontRunner" tvg-name="FrontRunner" ,FrontRunner - FrontRunner
-http://62.210.214.28:80/live?channelId=159&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="MUTV" tvg-name="MUTV" ,MUTV - MUTV
-http://62.210.214.28:80/live?channelId=162&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="LFC tv" tvg-name="LFC tv" ,LFC tv - LFC tv
-http://62.210.214.28:80/live?channelId=163&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Chelsea Tv" tvg-name="Chelsea Tv" ,Chelsea Tv - Chelsea Tv
-http://62.210.214.28:80/live?channelId=164&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="MOTOGP LIVE 1" tvg-name="MOTOGP LIVE 1" ,MOTOGP LIVE 1 - MOTOGP LIVE 1
-http://62.210.214.28:80/live?channelId=165&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="MOTOGP LIVE 2" tvg-name="MOTOGP LIVE 2" ,MOTOGP LIVE 2 - MOTOGP LIVE 2
-http://62.210.214.28:80/live?channelId=166&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="MOTOGP LIVE 3" tvg-name="MOTOGP LIVE 3" ,MOTOGP LIVE 3 - MOTOGP LIVE 3
-http://62.210.214.28:80/live?channelId=167&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Motorsport TV" tvg-name="Motorsport TV" ,Motorsport TV - Motorsport TV
-http://62.210.214.28:80/live?channelId=168&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Premier Sports" tvg-name="Premier Sports" ,Premier Sports - Premier Sports
-http://62.210.214.28:80/live?channelId=169&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Premier Sports HD" tvg-name="Premier Sports HD" ,Premier Sports HD - Premier Sports HD
-http://62.210.214.28:80/live?channelId=170&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Racing UK" tvg-name="Racing UK" ,Racing UK - Racing UK
-http://62.210.214.28:80/live?channelId=171&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="Racing UK HD" tvg-name="Racing UK HD" ,Racing UK HD - Racing UK HD
-http://62.210.214.28:80/live?channelId=172&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="At The Races" tvg-name="At The Races" ,At The Races - At The Races
-http://62.210.214.28:80/live?channelId=173&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BoxNation" tvg-name="BoxNation" ,BoxNation - BoxNation
-http://62.210.214.28:80/live?channelId=174&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="BBC NEWS" tvg-name="BBC NEWS" ,BBC NEWS - BBC NEWS
-http://163.172.15.141:9732/live?channelId=257&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="CNN NEWS" tvg-name="CNN NEWS" ,CNN NEWS - CNN NEWS
-http://163.172.15.141:9732/live?channelId=258&uid=249&deviceMac=00:1A:79:3C:C6:C4
-#EXTINF:-1 group-title="UK3" tvg-id="SKY NEWS" tvg-name="SKY NEWS" ,SKY NEWS - SKY NEWS
-http://163.172.15.141:9732/live?channelId=259&uid=249&deviceMac=00:1A:79:3C:C6:C4
-
 
 
 
@@ -1767,43 +1441,7 @@ http://163.172.15.141:9732/live?channelId=259&uid=249&deviceMac=00:1A:79:3C:C6:C
 
 #EXTINF:3 group-title="UK4", 
 
-#EXTINF:1 group-title="UK4" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
-http://..........
-#EXTINF:-1 group-title="UK4" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE:
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK4"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK4"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK4" tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK4"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK4"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK4"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="UK4"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
-http://.....
 
-#EXTINF:-1 group-title="UK4",Sky SPORT 1
-http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12648.ts
-#EXTINF:-1 group-title="UK4",SPORT KLUB 1
-http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12035.ts
-#EXTINF:-1 group-title="UK4",SPORT KLUB 2
-http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12036.ts
-#EXTINF:-1 group-title="UK4",SPORT KLUB 3
-http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12037.ts
-#EXTINF:-1 group-title="UK4",beINSports HD 1
-http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11938.ts
-#EXTINF:-1 group-title="UK4",beINSports HD 2
-http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11939.ts
-#EXTINF:-1 group-title="UK4",beINSports HD 3
-http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11940.ts
-#EXTINF:-1 group-title="UK4",beINSports HD 4
-http://str1.perfecttv.us:46801/live/310avni/29-09-13a/11941.ts
-#EXTINF:-1 group-title="UK4",Viasat Sport HD se
-http://str1.perfecttv.us:46801/live/310avni/29-09-13a/12059.ts
 
 
 
@@ -2315,6 +1953,356 @@ http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/860.ts?.coms|user-
 
 
 #EXTINF:8 group-title="UK3-PREMIUM",
+
+#EXTINF:-1 group-title="UK3-PREMIUM" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
+http://..........
+
+#EXTINF:-1 group-title="UK3-PREMIUM"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE:
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="UK3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="UK3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="UK3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="UK3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="UK3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="UK3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="UK3-PREMIUM" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
+http://.....
+
+#EXTINF:-1 group-title="UK3-PREMIUM" ,ITV
+http://212.224.72.210:2200/NLES/itv-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,ITV 
+2http://212.224.72.210:2200/NLES/itv2-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,ITV 3
+http://212.224.72.210:2200/NLES/itv3-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,ITV 4
+http://212.224.72.210:2200/NLES/itv4-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,ITVBe
+http://212.224.72.210:2200/NLES/itvbe-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,ITV +1
+http://212.224.72.210:2200/NLES/itvplus1-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,STV
+http://212.224.72.210:2200/NLES/stv-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,UTV
+http://212.224.72.210:2200/NLES/utv-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,BBC One London
+http://212.224.72.210:2200/NLES/bbcone-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,BBC Two
+http://212.224.72.210:2200/NLES/bbctwo-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,BBC Four
+http://212.224.72.210:2200/NLES/bbcfour-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,BBC World News
+http://212.224.72.210:2200/TR1/bbcworldnews-ar/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,BBC News
+http://212.224.72.210:2200/NLES/bbcnews-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,BBC Parliament
+http://212.224.72.210:2200/NLES/bbcparliament-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,CNBC
+http://212.224.72.210:2200/NLES/cnbc-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Al Jazeera English
+http://212.224.72.210:2200/NLES/aljazeeraenglish-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,CNN
+http://212.224.72.210:2200/NLES/cnn-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,E4 UK
+http://212.224.72.210:2200/NLES/e4-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Sky News
+http://212.224.72.210:2200/NLES/skynews-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Rte One
+http://212.224.72.210:2200/EX/rteone-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Press TV
+http://212.224.72.210:2200/TN/presstv-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Rte Two
+http://212.224.72.210:2200/EX/rtetwo-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Bloomberg
+http://212.224.72.210:2200/NLES/bloomberg-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,France 24
+http://212.224.72.210:2200/TR1/France24-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,CCTV News
+http://212.224.72.210:2200/TR1/cctvnews-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Russia Today
+http://212.224.72.210:2200/TR1/russiatoday-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Times Now
+http://212.224.72.210:2200/NLES/timesnow-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Channel 4
+http://212.224.72.210:2200/NLES/channel4-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Channel 5
+http://212.224.72.210:2200/NLES/channel5-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,5 USA
+http://212.224.72.210:2200/NLES/5usa-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,5 Star
+http://212.224.72.210:2200/NLES/5star-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,TLC
+http://212.224.72.210:2200/NLES/tlc-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Fox
+http://212.224.72.210:2200/EX/fox-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Sony Movies
+http://212.224.72.210:2200/NLES/sonymovies-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Syfy
+http://212.224.72.210:2200/NLES/syfy-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Challenge
+http://212.224.72.210:2200/NLES/challenge-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Sony Channel
+http://212.224.72.210:2200/NLES/sonychannel-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Home
+http://212.224.72.210:2200/NLES/home-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Universal
+http://212.224.72.210:2200/NLES/universal-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Horror Channel
+http://212.224.72.210:2200/NLES/horrorchannel-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Christmas 24
+http://212.224.72.210:2200/NLES/ummahchannel-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Crime Invastigation
+http://212.224.72.210:2200/EX/crimeinvastigation-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,TCM HD
+http://212.224.72.210:2200/EX/tcm-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,CBS Drama
+http://212.224.72.210:2200/NLES/cbsdrama-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,CBS Reality
+http://212.224.72.210:2200/NLES/cbsreality-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,CBS Action
+http://212.224.72.210:2200/NLES/cbsaction-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY 1
+http://212.224.72.210:2200/EX/sky1-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,I Film English
+http://212.224.72.210:2200/TR1/ifilmenglish-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,E!
+http://212.224.72.210:2200/NLES/e-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Sky Arts
+http://212.224.72.210:2200/EX/skyarts-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Drama
+http://212.224.72.210:2200/NLES/drama-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Film 4
+http://212.224.72.210:2200/NLES/film4-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Movies4Men
+http://212.224.72.210:2200/NLES/movies4men-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Sky Living
+http://212.224.72.210:2200/EX/skyliving-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY ACTION HD
+http://212.224.72.210:2200/EX/skycinemaactionhd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY PREMIER HD
+http://212.224.72.210:2200/EX/skycinemapremierehd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY FAMILY HD
+http://212.224.72.210:2200/EX/skycinemafamilyhd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY COMEDY HD
+http://212.224.72.210:2200/EX/skycomedyhd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY CRIME HD
+http://212.224.72.210:2200/EX/skycinemacrimehd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY GREATS HD
+http://212.224.72.210:2200/EX/skygreatshd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY ATLANTIC HD
+http://212.224.72.210:2200/EX/skyatlantichd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY DISNEY HD
+http://212.224.72.210:2200/EX/skycinemadisneyhd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY SCIFI HD
+http://212.224.72.210:2200/EX/skycinemascifihd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY ACTION SD
+http://212.224.72.210:2200/EX/skycinemaaction-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY PREMIER SD
+http://212.224.72.210:2200/EX/skycinemapremiere-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY FAMILY SD
+http://212.224.72.210:2200/EX/skycinemafamily-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY THRILLER HD
+http://212.224.72.210:2200/EX/skycinemathriller-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY COMEDY SD
+http://212.224.72.210:2200/EX/skycomedy-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY CRIME SD
+http://212.224.72.210:2200/EX/skycinemacrime-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY GREATS SD
+http://212.224.72.210:2200/EX/skygreats-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY ATLANTIC SD
+http://212.224.72.210:2200/EX/skyatlantichd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY DISNEY SD
+http://212.224.72.210:2200/EX/skycinemadisney-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY SCIFI SD
+http://212.224.72.210:2200/EX/skycinemascifi-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY SPORT NEWS
+http://212.224.72.210:2200/EX/skysportsnews-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,VIP SKY SPORT MAIN EVENT HD
+http://212.224.72.210:2200/EX/skysportsmaineventhd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY SPORTS PREMIUM LEAGUE HD
+http://212.224.72.210:2200/EX/skysportpremiereleague-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,VIP SKY SPORT CRICKET HD
+http://212.224.72.210:2200/EX/skysportscrickethd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,VIP UK SKY SPORT ACTION HD
+http://212.224.72.210:2200/EX/skysports3hdvip-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,VIP UK SKY SPORT GOLF HD
+http://212.224.72.210:2200/EX/skysportsgolfhdvip-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,VIP UK SKY SPORT MIX HD
+http://212.224.72.210:2200/EX/skysports5hdvip-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY SPORT MAIN EVENT SD
+http://212.224.72.210:2200/EX/skysportsmaineventsd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY SPORT CRICKET SD
+http://212.224.72.210:2200/EX/skysportscricketsd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY SPORT ACTION HD
+http://212.224.72.210:2200/EX/skysportsactionhd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY SPORT GOLF HD
+http://212.224.72.210:2200/EX/skysportsgolfhd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY SPORT MIX HD
+http://212.224.72.210:2200/EX/skysportsmixhd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,VIP UK SKY SPORT F1 HD
+http://212.224.72.210:2200/EX/skyf1hd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY SPORT F1 HD
+http://212.224.72.210:2200/EX/skyf1-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY SPORT ARENA
+http://212.224.72.210:2200/EX/skysportarena-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY SPORTSNET WORLD HD
+http://212.224.72.210:2200/EX/skysportsnetworldhd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,At The Races UK
+http://212.224.72.210:2200/EX/attheracesuk-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY SPORT BOX OFFICE
+http://212.224.72.210:2200/EX/skysportboxofficehd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY UK BOX OFFICE 1 HD
+http://212.224.72.210:2200/EX/skyukboxoffice1hd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY UK BOX OFFICE 2 HD
+http://212.224.72.210:2200/EX/skyukboxoffice2hd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY UK BOX OFFICE 3 HD
+http://212.224.72.210:2200/EX/skyukboxoffice3hd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY UK BOX OFFICE 4 HD
+http://212.224.72.210:2200/EX/skyukboxoffice4hd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,SKY SPORT FOOTBALL
+http://212.224.72.210:2200/EX/skysportfootball-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,WWE NETWORK
+http://212.224.72.210:2200/EX/wwenetwork-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,BT SPORT 1
+http://212.224.72.210:2200/NLES/btsport1-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,BT SPORT 2
+http://212.224.72.210:2200/NLES/btsport2-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,BT SPORT 3
+http://212.224.72.210:2200/NLES/btsport3-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,BT Sport ESPN
+http://212.224.72.210:2200/NLES/espn-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,eir Sport 1
+http://212.224.72.210:2200/NLES/eirsport1-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,eir Sport 2
+http://212.224.72.210:2200/NLES/eirsport2-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,BOX Nation
+http://212.224.72.210:2200/NLES/boxnation-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,PREMIERE SPORT
+http://212.224.72.210:2200/NLES/premiersports-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Euro Sport 1 HD
+http://212.224.72.210:2200/EX/eurosport1-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Euro Sport 2 HD
+http://212.224.72.210:2200/EX/eurosport2-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Racing UK
+http://212.224.72.210:2200/NLES/racinguk-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,CHELSEA
+http://212.224.72.210:2200/EX/chelsea-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,LIVERPOOL
+http://212.224.72.210:2200/EX/liverpool-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Boomerang
+http://212.224.72.210:2200/NLES/boomerang-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,MANCHESTER UNITED TV
+http://212.224.72.210:2200/EX/mutv-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Animal Planet
+http://212.224.72.210:2200/NLES/animalplanet-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,National Geographic Wild
+http://212.224.72.210:2200/EX/nationalgeographicwild-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,National Geographic
+http://212.224.72.210:2200/EX/nationalgeographic1-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Discovery
+http://212.224.72.210:2200/NLES/discovery-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Discovery Science
+http://212.224.72.210:2200/NLES/discoveryscience-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Investigation Discovery
+http://212.224.72.210:2200/NLES/investigationdiscovery-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Discovery Turbo
+http://212.224.72.210:2200/NLES/discturbo-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Discovery History
+http://212.224.72.210:2200/NLES/discoveryhistory-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,CCTV 9 Documentary
+http://212.224.72.210:2200/TR1/cctv9documentary-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Cartoon Network
+http://212.224.72.210:2200/NLES/cartoonnetwork-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Disney Channel Plus
+http://212.224.72.210:2200/EX/disneychannelplus-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Disney Channel
+http://212.224.72.210:2200/EX/disneychannel-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Disney XD
+http://212.224.72.210:2200/EX/disneyxd-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Disney Junior
+http://212.224.72.210:2200/EX/disneyjunior-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Tiny Pop
+http://212.224.72.210:2200/EX/tinypop-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Nickelodeon
+http://212.224.72.210:2200/EX/nickelodeon-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Nick JR
+http://212.224.72.210:2200/EX/nickjr-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Nick Toon
+http://212.224.72.210:2200/EX/nicktoon-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Baby TV
+http://212.224.72.210:2200/EX/babytv-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,CBeebies
+http://212.224.72.210:2200/NLES/cbeebies-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,CBBC
+http://212.224.72.210:2200/EX/cbbc-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Home & Health
+http://212.224.72.210:2200/NLES/homeandhealth-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Food Network
+http://212.224.72.210:2200/NLES/foodnetwork-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Good Food
+http://212.224.72.210:2200/NLES/goodfood-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,MTV Hits
+http://212.224.72.210:2200/NLES/mtvhits-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,MTV Dance
+http://212.224.72.210:2200/NLES/mtvdance-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,MTV Rocks
+http://212.224.72.210:2200/NLES/mtvrocks-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,VH 1
+http://212.224.72.210:2200/NLES/vh1-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Viva
+http://212.224.72.210:2200/NLES/viva-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Yesterday
+http://212.224.72.210:2200/NLES/yesterday-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Fashion
+http://212.224.72.210:2200/TR1/fashion-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Fashion TV
+http://212.224.72.210:2200/TR1/22tv-ar/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,TV One
+http://212.224.72.210:2200/NLES/tvone-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,GOLD
+http://212.224.72.210:2200/NLES/gold-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,ATN Bangla UK
+http://212.224.72.210:2200/NLES/atnbanglauk-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,NTV
+http://212.224.72.210:2200/NLES/ntv-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,IQRA BANGLA
+http://212.224.72.210:2200/NLES/iqrabangla-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Alibi
+http://212.224.72.210:2200/NLES/alibi-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Channel i
+http://212.224.72.210:2200/NLES/channeli-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Channel Aka
+http://212.224.72.210:2200/NLES/channelaka-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Hidayah TV
+http://212.224.72.210:2200/TR1/hidayahtv-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,British Muslim
+http://212.224.72.210:2200/NLES/britishmuslim-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Islam Channel
+http://212.224.72.210:2200/NLES/islamchannel-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Ahlubayt
+http://212.224.72.210:2200/NLES/ahlubayt-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Ideal Xmas
+http://212.224.72.210:2200/NLES/idealextra-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Ideal World
+http://212.224.72.210:2200/NLES/idealworld-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Love World
+http://212.224.72.210:2200/NLES/loveworld-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Dave
+http://212.224.72.210:2200/NLES/dave-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Eden
+http://212.224.72.210:2200/NLES/eden-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,Really
+http://212.224.72.210:2200/NLES/really-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+#EXTINF:-1 group-title="UK3-PREMIUM" ,MTV
+http://212.224.72.210:2200/NLES/mtv-uk/index.m3u8?token=9c83654201efd4b05bcade2ff64151f1|user-agent=REDLINECLIENT GOLDENBOX V1.9.45/7.1.8 (Linux;Android 4.4.2) ExoPlayerLib/2.5.4
+
+
+
 
 
 
@@ -3302,38 +3290,6 @@ http://streamxcode.ddns.net:25461/live/gold/cold/826.ts|refferer=http://geostrea
 
 #EXTINF:8 group-title="Italy3-PREMIUM",
 
-#EXTINF:-1 group-title="Italy3-PREMIUM" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg" ,==Italy==
-http://..........
-
-#EXTINF:-1 group-title="Italy3-PREMIUM"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE: USE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Italy3-PREMIUM"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,ONLY
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Italy3-PREMIUM"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,MXPlayer.
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Italy3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Italy3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Italy3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Italy3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Italy3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Italy3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Italy3-PREMIUM"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
-http://.....
-
-#EXTINF:-1 group-title="Italy3-PREMIUM",Sky Sport 1 HD Italy
-http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/92.ts?.coms|user-agent=SportStv204 
-#EXTINF:-1 group-title="Italy3-PREMIUM",Sky Sport 2 HD Italy
-http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/93.ts?.coms|user-agent=SportStv204 
-#EXTINF:-1 group-title="Italy3-PREMIUM",Sky Sport 3 HD Italy
-http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/10.ts?.coms|user-agent=SportStv204 
-#EXTINF:-1 group-title="Italy3-PREMIUM",Sky Sport 24 HD Italy
-http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/11.ts?.coms|user-agent=SportStv204 
 
 
 
@@ -4788,33 +4744,6 @@ http://stream4.tvit.ba:8088/live?channelId=122&uid=844&deviceMac=00:1A:79:40:CD:
 
 
 #EXTINF:8 group-title="Germany3-PREMIUM",
-
-
-#EXTINF:-1 group-title="Germany3-PREMIUM" tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif" ,==Germany==
-http://..........
-
-#EXTINF:-1 group-title="Germany3-PREMIUM"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE:
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany3-PREMIUM"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
-http://.....
-
-#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Sport 1 HD Deutch Germany
-http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/58.ts?.coms|user-agent=SportStv204 
-#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Sport 2 HD Deutch Germany
-http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiujkugvkjhb/59.ts?.coms|user-agent=SportStv204 
-
 
 
 
