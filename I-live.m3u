@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="Update Date" tvg-logo="https://goo.gl/eimzf3" ,Updated
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Update Date" tvg-logo="https://goo.gl/eimzf3" ,08/04/18
+#EXTINF:-1 group-title="Update Date" tvg-logo="https://goo.gl/eimzf3" ,11/04/18
 https://www.youtube.com/watch?v=t4RRga0RUr8
 
 
@@ -35,7 +35,6 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream 
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="http://puu.sh/nvrR5/1bb233b647.png", Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" , Visit-X Tv 720P
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8?MWINFO		
 #EXTINF:-1 group-title="LIVE TV",BRAZZERS TV Europe 
@@ -43,9 +42,6 @@ http://37.192.213.121:81/udp/239.1.6.40:1234
 #EXTINF:-1 group-title="LIVE TV",РУССКАЯ НОЧЬ (RUSSIAN NIGHT)  
 
 #EXTINF:-1 group-title="LIVE TV",PLAYBOY TV 
-
-#EXTINF:-1 group-title="LIVE TV",+18 EROX
-http://185.10.211.10:3000/jgj/UaUgEZ/689
 
 #EXTINF:-1 group-title="LIVE TV",Venus
 http://187.162.61.1:8010/play/a03z
@@ -66,26 +62,83 @@ http://187.162.61.1:8010/play/a03y
 
 #EXTINF:1 group-title="LIVE TV2",
 
-#EXTINF:-1 group-title="LIVE TV2",XXX VENUS
-http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/964.ts
-#EXTINF:-1 group-title="LIVE TV2",XXX PLAYBOY
-http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/979.ts
-#EXTINF:-1 group-title="LIVE TV2",XXX Dorcel
-http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/1881.ts
-#EXTINF:-1 group-title="LIVE TV2",XXX SEXTREME
-http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/8323.ts
-#EXTINF:-1 group-title="LIVE TV2",XXX HOT
-http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/985.ts
-#EXTINF:-1 group-title="LIVE TV2",XXX HOT HD
-http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/5772.ts
-#EXTINF:-1 group-title="LIVE TV2",XXX PENTHOUSE HD
-http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4156.ts
-#EXTINF:-1 group-title="LIVE TV2",XXX HUSTLER HD
-http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/8324.ts
-#EXTINF:-1 group-title="LIVE TV2",XXX Redlight HD
-http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/4941.ts
-#EXTINF:-1 group-title="LIVE TV2",XXX Jasmin TV HD
-http://suissetv.dynu.com:6969/live/AGCeB9jxlh/Wr3E2hoouR/417.ts
+
+#EXTINF:-1 group-title="LIVE TV2" group-title="LIVE TV2",Dorcel HD
+http://213.155.23.136:63500/udp/DorcelHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Dorcel XXX HD
+http://213.155.23.136:63500/udp/DorcelXXXHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Erox HD
+http://213.155.23.136:63500/udp/EroxHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Ero XXX HD
+http://213.155.23.136:63500/udp/EroXXXHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Hustler HD
+http://213.155.23.136:63500/udp/HustlerHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Penthouse 1 HD
+http://213.155.23.136:63500/udp/Penthouse1HD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Penthouse 2 HD
+http://213.155.23.136:63500/udp/Penthouse2HD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Private TV HD
+http://213.155.23.136:63500/udp/PrivateHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Redlight HD
+http://213.155.23.136:63500/udp/RedlightHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",SuperOne HD
+http://213.155.23.136:63500/udp/SuperOneHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Brazzers TV Europe
+http://213.155.23.136:63500/udp/BrazzersTVEurope:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Cento X Cento TV
+http://213.155.23.136:63500/udp/CentoXCentoTV:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Dorcel
+http://213.155.23.136:63500/udp/DorcelTV:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",DUSK
+http://213.155.23.136:63500/udp/DUSK:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Exotica Plus
+http://213.155.23.136:63500/udp/ExoticaPlus:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Evil Angel TV
+http://213.155.23.136:63500/udp/EvilAngel:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Frenchlover TV
+http://213.155.23.136:63500/udp/Frenchlover:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",HOT
+http://213.155.23.136:63500/udp/HOT:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Hustler TV
+http://213.155.23.136:63500/udp/HustlerTV:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Passion XXX
+http://213.155.23.136:63500/udp/PassionXXX:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Pinko TV
+http://213.155.23.136:63500/udp/PinkoTV:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Pink Erotic 1
+http://213.155.23.136:63500/udp/PinkErotic1:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Pink Erotic 2
+http://213.155.23.136:63500/udp/PinkErotic2:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Pink Erotic 3
+http://213.155.23.136:63500/udp/PinkErotic3:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Pink Erotic 4
+http://213.155.23.136:63500/udp/PinkErotic4:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Pink Erotic 5
+http://213.155.23.136:63500/udp/PinkErotic5:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Pink Erotic 6
+http://213.155.23.136:63500/udp/PinkErotic6:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Pink Erotic 7
+http://213.155.23.136:63500/udp/PinkErotic7:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Pink Erotic 8
+http://213.155.23.136:63500/udp/PinkErotic8:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Private TV
+http://213.155.23.136:63500/udp/PrivateTV:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",SCT
+http://213.155.23.136:63500/udp/SCT:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Sexto Senso TV
+http://213.155.23.136:63500/udp/SextoSensoTV:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",SuperOne
+http://213.155.23.136:63500/udp/SuperOne:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Venus
+http://213.155.23.136:63500/udp/Venus:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",X Bizarre
+http://213.155.23.136:63500/udp/XBizarre:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",X Bunga Bunga
+http://213.155.23.136:63500/udp/XBungaBunga:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",X Desire
+http://213.155.23.136:63500/udp/XDesire:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",X Muvi
+http://213.155.23.136:63500/udp/XMuvi:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist/index.m3u8
 
 
 
