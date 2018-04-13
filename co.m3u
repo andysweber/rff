@@ -62,7 +62,7 @@ http://master.cystreams.com:25461/live/greek/zagori/14.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA
 http://master.cystreams.com:25461/live/greek/zagori/15.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.lakatamia.tv/media/images/banners/348d2c4feecfee8be4cef04e45c0b312-1505304062.jpg" ,SMILE TV
-http://master.cystreams.com:25461/live/L-Smile/megapixel/119.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://master.cystreams.com:25461/live/greek/zagori/119.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/tvmallcyprusmtntv-jpg-ByVTOq9ql.jpg" ,TV Mall
 http://master.cystreams.com:25461/live/tvmall/tvmall/539.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://i.imgur.com/w9Je47D.png",CYSPORTS
