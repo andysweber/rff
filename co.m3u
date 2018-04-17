@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 http://.....
 
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,14/04/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,17/04/18
 http://.....
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -4609,6 +4609,8 @@ http://live.vidoo.de/live/weltderwunder/f1tv.m3u8
 
 
 #EXTINF:8 group-title="Germany2",
+#EXTINF:-1 group-title="Germany2" tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif" ,==Germany==
+http://..........
 
 #EXTINF:-1 group-title="Germany2",TV Shop Germany HD
 http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/453/index.m3u8
@@ -4678,7 +4680,43 @@ http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/802/inde
 
 
 #EXTINF:8 group-title="Germany3",
+#EXTINF:-1 group-title="Germany3" tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif" ,==Germany==
+http://..........
 
+#EXTINF:-1 group-title="Germany3",HD
+http://90.75.191.32:8000/play/a0mm/index.m3u8
+#EXTINF:-1 group-title="Germany3",Pro7 MAXX HD
+http://90.75.191.32:8000/play/a0n0/index.m3u8
+#EXTINF:-1 group-title="Germany3",SIXX HD
+http://90.75.191.32:8000/play/a0mz/index.m3u8
+#EXTINF:-1 group-title="Germany3",ProSieben HD
+http://90.75.191.32:8000/play/a0mx/index.m3u8
+#EXTINF:-1 group-title="Germany3",HSE24 EXTRA HD
+http://90.75.191.32:8000/play/a0ml/index.m3u8
+#EXTINF:-1 group-title="Germany3",WELT HD
+http://90.75.191.32:8000/play/a0mh/index.m3u8
+#EXTINF:-1 group-title="Germany3",SPORT1 HD
+http://90.75.191.32:8000/play/a0mo/index.m3u8
+#EXTINF:-1 group-title="Germany3",n-tv HD
+http://90.75.191.32:8000/play/a0mt/index.m3u8
+#EXTINF:-1 group-title="Germany3",Deluxe Music HD
+http://90.75.191.32:8000/play/a0mn/index.m3u8
+#EXTINF:-1 group-title="Germany3",ANIXE HD
+http://90.75.191.32:8000/play/a0mf/index.m3u8
+#EXTINF:-1 group-title="Germany3",Disney Channel HD
+http://90.75.191.32:8000/play/a0mk/index.m3u8
+#EXTINF:-1 group-title="Germany3",kabel eins HD
+http://90.75.191.32:8000/play/a0my/index.m3u8
+#EXTINF:-1 group-title="Germany3",RTLII HD
+http://90.75.191.32:8000/play/a0mu/index.m3u8
+#EXTINF:-1 group-title="Germany3",RTL HD
+http://90.75.191.32:8000/play/a0mr/index.m3u8
+#EXTINF:-1 group-title="Germany3",VOX HD
+http://90.75.191.32:8000/play/a0ms/index.m3u8
+#EXTINF:-1 group-title="Germany3",NICKELODEON HD
+http://90.75.191.32:8000/play/a0mg/index.m3u8
+#EXTINF:-1 group-title="Germany3",SAT.1 HD
+http://90.75.191.32:8000/play/a0mw/index.m3u8
 
 
 
@@ -5480,337 +5518,6 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/211/inde
 
 
 #EXTINF:8 group-title="Spain3",
-
-
-#EXTINF:-1 group-title="Spain3" tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif" ,==Spain==
-http://..........
-
-#EXTINF:-1 group-title="Spain3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Spain3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Spain3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Spain3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Spain3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Spain3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Spain3"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
-http://.....
-
-#EXTINF:-1 group-title="Spain3",CANAL SUR ANDALUCIA
-http://95.122.50.234:4022//udp/239.0.0.1:8208
-#EXTINF:-1 group-title="Spain3",La 1 HD
-http://95.122.50.234:4022//udp/239.0.0.185:8208
-#EXTINF:-1 group-title="Spain3",La 1
-http://95.122.50.234:4022//udp/239.0.0.76:8208
-#EXTINF:-1 group-title="Spain3",La 2
-http://95.122.50.234:4022//udp/239.0.0.2:8208
-#EXTINF:-1 group-title="Spain3",Antena 3 HD
-http://95.122.50.234:4022//udp/239.0.0.186:8208
-#EXTINF:-1 group-title="Spain3",Antena 3
-http://95.122.50.234:4022//udp/239.0.0.3:8208
-#EXTINF:-1 group-title="Spain3",Cuatro HD
-http://95.122.50.234:4022//udp/239.0.0.177:8208
-#EXTINF:-1 group-title="Spain3",Cuatro
-http://95.122.50.234:4022//udp/239.0.0.4:8208
-#EXTINF:-1 group-title="Spain3",Tele 5 HD
-http://95.122.50.234:4022//udp/239.0.0.176:8208
-#EXTINF:-1 group-title="Spain3",Tele 5
-http://95.122.50.234:4022//udp/239.0.0.5:8208
-#EXTINF:-1 group-title="Spain3",laSexta HD
-http://95.122.50.234:4022//udp/239.0.0.187:8208
-#EXTINF:-1 group-title="Spain3",La Sexta
-http://95.122.50.234:4022//udp/239.0.0.58:8208
-#EXTINF:-1 group-title="Spain3",D KISS
-http://95.122.50.234:4022//udp/239.0.0.6:8208
-#EXTINF:-1 group-title="Spain3",GOL TV
-http://95.122.50.234:4022//udp/239.0.0.7:8208
-#EXTINF:-1 group-title="Spain3",AMC HD
-http://95.122.50.234:4022//udp/239.0.9.132:8208
-#EXTINF:-1 group-title="Spain3",AMC
-http://95.122.50.234:4022//udp/239.0.0.8:8208
-#EXTINF:-1 group-title="Spain3",La XARXA
-http://95.122.50.234:4022//udp/239.0.0.9:8208
-#EXTINF:-1 group-title="Spain3",DISNEY JUNIOR
-http://95.122.50.234:4022//udp/239.0.0.10:8208
-#EXTINF:-1 group-title="Spain3",DISNEY XD
-http://95.122.50.234:4022//udp/239.0.0.11:8208
-#EXTINF:-1 group-title="Spain3",Calle 13 HD
-http://95.122.50.234:4022//udp/239.0.5.74:8208
-#EXTINF:-1 group-title="Spain3",CALLE 13
-http://95.122.50.234:4022//udp/239.0.0.13:8208
-#EXTINF:-1 group-title="Spain3",AXN HD
-http://95.122.50.234:4022//udp/239.0.9.131:8208
-#EXTINF:-1 group-title="Spain3",AXN
-http://95.122.50.234:4022//udp/239.0.0.14:8208
-#EXTINF:-1 group-title="Spain3",AXN White HD
-http://95.122.50.234:4022//udp/239.0.5.79:8208
-#EXTINF:-1 group-title="Spain3",AXN WHITE
-http://95.122.50.234:4022//udp/239.0.0.62:8208
-#EXTINF:-1 group-title="Spain3",Cosmopolitan HD
-http://95.122.50.234:4022//udp/239.0.5.71:8208
-#EXTINF:-1 group-title="Spain3",COSMO
-http://95.122.50.234:4022//udp/239.0.0.15:8208
-#EXTINF:-1 group-title="Spain3",Hollywood HD
-http://95.122.50.234:4022//udp/239.0.5.76:8208
-#EXTINF:-1 group-title="Spain3",HOLLYWOOD
-http://95.122.50.234:4022//udp/239.0.0.16:8208
-#EXTINF:-1 group-title="Spain3",BE MAD NATURE
-http://95.122.50.234:4022//udp/239.0.0.17:8208
-#EXTINF:-1 group-title="Spain3",Eurosport HD
-http://95.122.50.234:4022//udp/239.0.9.135:8208
-#EXTINF:-1 group-title="Spain3",EUROSPORT 1 Es
-http://95.122.50.234:4022//udp/239.0.0.18:8208
-#EXTINF:-1 group-title="Spain3",EUROSPORT 2 Es
-http://95.122.50.234:4022//udp/239.0.0.37:8208
-#EXTINF:-1 group-title="Spain3",HISTORIA
-http://95.122.50.234:4022//udp/239.0.0.19:8208
-#EXTINF:-1 group-title="Spain3",VIAJAR HD
-http://95.122.50.234:4022//udp/239.0.5.73:8208
-#EXTINF:-1 group-title="Spain3",VIAJAR
-http://95.122.50.234:4022//udp/239.0.0.20:8208
-#EXTINF:-1 group-title="Spain3",DISCOVERY HD
-http://95.122.50.234:4022//udp/239.0.5.77:8208
-#EXTINF:-1 group-title="Spain3",DISCOVERY
-http://95.122.50.234:4022//udp/239.0.0.21:8208
-#EXTINF:-1 group-title="Spain3",ODISEA HD
-http://95.122.50.234:4022//udp/239.0.5.82:8208
-#EXTINF:-1 group-title="Spain3",ODISEA
-http://95.122.50.234:4022//udp/239.0.0.22:8208
-#EXTINF:-1 group-title="Spain3",TELEMADRID+7
-http://95.122.50.234:4022//udp/239.0.0.25:8208
-#EXTINF:-1 group-title="Spain3",LA OTRA
-http://95.122.50.234:4022//udp/239.0.0.26:8208
-#EXTINF:-1 group-title="Spain3",LA COCINA
-http://95.122.50.234:4022//udp/239.0.0.27:8208
-#EXTINF:-1 group-title="Spain3",EURONEWS
-http://95.122.50.234:4022//udp/239.0.0.28:8208
-#EXTINF:-1 group-title="Spain3",BLOOMBERG
-http://95.122.50.234:4022//udp/239.0.0.29:8208
-#EXTINF:-1 group-title="Spain3",BBC WORLD NEWS
-http://95.122.50.234:4022//udp/239.0.0.30:8208
-#EXTINF:-1 group-title="Spain3",TV 5 MONDE EUROPE
-http://95.122.50.234:4022//udp/239.0.0.31:8208
-#EXTINF:-1 group-title="Spain3",D MAX
-http://95.122.50.234:4022//udp/239.0.0.32:8208
-#EXTINF:-1 group-title="Spain3",La 1
-http://95.122.50.234:4022//udp/239.0.0.33:8208
-#EXTINF:-1 group-title="Spain3",TEN
-http://95.122.50.234:4022//udp/239.0.0.34:8208
-#EXTINF:-1 group-title="Spain3",A&E
-http://95.122.50.234:4022//udp/239.0.0.38:8208
-#EXTINF:-1 group-title="Spain3",DARK
-http://95.122.50.234:4022//udp/239.0.0.39:8208
-#EXTINF:-1 group-title="Spain3",CNN
-http://95.122.50.234:4022//udp/239.0.0.40:8208
-#EXTINF:-1 group-title="Spain3",SPORT CH
-http://95.122.50.234:4022//udp/239.0.0.42:8208
-#EXTINF:-1 group-title="Spain3",Fox life HD
-http://95.122.50.234:4022//udp/239.0.5.86:8208
-#EXTINF:-1 group-title="Spain3",FOX LIFE
-http://95.122.50.234:4022//udp/239.0.0.43:8208
-#EXTINF:-1 group-title="Spain3",Fox HD
-http://95.122.50.234:4022//udp/239.0.9.134:8208
-#EXTINF:-1 group-title="Spain3",FOX
-http://95.122.50.234:4022//udp/239.0.0.74:8208
-#EXTINF:-1 group-title="Spain3",TNT HD
-http://95.122.50.234:4022//udp/239.0.5.87:8208
-#EXTINF:-1 group-title="Spain3",TNT
-http://95.122.50.234:4022//udp/239.0.0.44:8208
-#EXTINF:-1 group-title="Spain3",CANAL ORBE
-http://95.122.50.234:4022//udp/239.0.0.45:8208
-#EXTINF:-1 group-title="Spain3",SPORT FOTBAL
-http://95.122.50.234:4022//udp/239.0.0.46:8208
-#EXTINF:-1 group-title="Spain3",DIVINITY
-http://95.122.50.234:4022//udp/239.0.0.48:8208
-#EXTINF:-1 group-title="Spain3",E SPORT 3
-http://95.122.50.234:4022//udp/239.0.0.51:8208
-#EXTINF:-1 group-title="Spain3",EXTRA MADURA DEPORTES SAT
-http://95.122.50.234:4022//udp/239.0.0.52:8208
-#EXTINF:-1 group-title="Spain3",CMM DEPORTES
-http://95.122.50.234:4022//udp/239.0.0.55:8208
-#EXTINF:-1 group-title="Spain3",CRIME INVESTIGACION
-http://95.122.50.234:4022//udp/239.0.0.57:8208
-#EXTINF:-1 group-title="Spain3",ENERGY
-http://95.122.50.234:4022//udp/239.0.0.59:8208
-#EXTINF:-1 group-title="Spain3",ETB SAT
-http://95.122.50.234:4022//udp/239.0.0.60:8208
-#EXTINF:-1 group-title="Spain3",324
-http://95.122.50.234:4022//udp/239.0.0.61:8208
-#EXTINF:-1 group-title="Spain3",LA REDDACION ABIERTA
-http://95.122.50.234:4022//udp/239.0.0.63:8208
-#EXTINF:-1 group-title="Spain3",DISNEY CHANNEL
-http://95.122.50.234:4022//udp/239.0.0.64:8208
-#EXTINF:-1 group-title="Spain3",CGTN SPAIN
-http://95.122.50.234:4022//udp/239.0.0.65:8208
-#EXTINF:-1 group-title="Spain3",BOING
-http://95.122.50.234:4022//udp/239.0.0.66:8208
-#EXTINF:-1 group-title="Spain3",Comedy Central HD
-http://95.122.50.234:4022//udp/239.0.0.174:8208
-#EXTINF:-1 group-title="Spain3",COMEDY CENTRAL
-http://95.122.50.234:4022//udp/239.0.0.68:8208
-#EXTINF:-1 group-title="Spain3",NICKELODEON
-http://95.122.50.234:4022//udp/239.0.0.69:8208
-#EXTINF:-1 group-title="Spain3",DECASA
-http://95.122.50.234:4022//udp/239.0.0.71:8208
-#EXTINF:-1 group-title="Spain3",EWTN
-http://95.122.50.234:4022//udp/239.0.0.72:8208
-#EXTINF:-1 group-title="Spain3",VH 1
-http://95.122.50.234:4022//udp/239.0.0.75:8208
-#EXTINF:-1 group-title="Spain3",Movistar
-http://95.122.50.234:4022//udp/239.0.0.77:8208
-#EXTINF:-1 group-title="Spain3",RTV 24 H INT.
-http://95.122.50.234:4022//udp/239.0.0.78:8208
-#EXTINF:-1 group-title="Spain3",Teledeporte HD
-http://95.122.50.234:4022//udp/239.0.0.188:8208
-#EXTINF:-1 group-title="Spain3",TDP
-http://95.122.50.234:4022//udp/239.0.0.79:8208
-#EXTINF:-1 group-title="Spain3",CLAN+7
-http://95.122.50.234:4022//udp/239.0.0.80:8208
-#EXTINF:-1 group-title="Spain3",ATRAPAME SI PUEDES
-http://95.122.50.234:4022//udp/239.0.0.81:8208
-#EXTINF:-1 group-title="Spain3",REAL MADRID HD
-http://95.122.50.234:4022//udp/239.0.0.83:8208
-#EXTINF:-1 group-title="Spain3",FDF
-http://95.122.50.234:4022//udp/239.0.0.84:8208
-#EXTINF:-1 group-title="Spain3",TV
-http://95.122.50.234:4022//udp/239.0.0.85:8208
-#EXTINF:-1 group-title="Spain3",NAT GEO HD
-http://95.122.50.234:4022//udp/239.0.5.78:8208
-#EXTINF:-1 group-title="Spain3",NAT GEO
-http://95.122.50.234:4022//udp/239.0.0.103:8208
-#EXTINF:-1 group-title="Spain3",NAT GEO WILD
-http://95.122.50.234:4022//udp/239.0.0.89:8208
-#EXTINF:-1 group-title="Spain3",PARAMOUNT CHANNEL
-http://95.122.50.234:4022//udp/239.0.0.90:8208
-#EXTINF:-1 group-title="Spain3",13 TV
-http://95.122.50.234:4022//udp/239.0.0.91:8208
-#EXTINF:-1 group-title="Spain3",FUTBOL REPLAY
-http://95.122.50.234:4022//udp/239.0.0.97:8208
-#EXTINF:-1 group-title="Spain3",LATIEN DAEN CASA LDC
-http://95.122.50.234:4022//udp/239.0.0.98:8208
-#EXTINF:-1 group-title="Spain3",GARAGE TV
-http://95.122.50.234:4022//udp/239.0.0.99:8208
-#EXTINF:-1 group-title="Spain3",Sundance Channel HD
-http://95.122.50.234:4022//udp/239.0.5.72:8208
-#EXTINF:-1 group-title="Spain3",SUNDANCE TV
-http://95.122.50.234:4022//udp/239.0.0.102:8208
-#EXTINF:-1 group-title="Spain3",NOVA
-http://95.122.50.234:4022//udp/239.0.0.106:8208
-#EXTINF:-1 group-title="Spain3",NEOX
-http://95.122.50.234:4022//udp/239.0.0.107:8208
-#EXTINF:-1 group-title="Spain3",#0
-http://95.122.50.234:4022//udp/239.0.0.108:8208
-#EXTINF:-1 group-title="Spain3",CYL
-http://95.122.50.234:4022//udp/239.0.0.109:8208
-#EXTINF:-1 group-title="Spain3",BETEVE CINEMA
-http://95.122.50.234:4022//udp/239.0.0.110:8208
-#EXTINF:-1 group-title="Spain3",SyFy HD
-http://95.122.50.234:4022//udp/239.0.5.75:8208
-#EXTINF:-1 group-title="Spain3",SYFY
-http://95.122.50.234:4022//udp/239.0.0.111:8208
-#EXTINF:-1 group-title="Spain3",BABY TV
-http://95.122.50.234:4022//udp/239.0.0.113:8208
-#EXTINF:-1 group-title="Spain3",NICK JR
-http://95.122.50.234:4022//udp/239.0.0.115:8208
-#EXTINF:-1 group-title="Spain3",PANDA
-http://95.122.50.234:4022//udp/239.0.0.117:8208
-#EXTINF:-1 group-title="Spain3",MOVISTAR PLUS
-http://95.122.50.234:4022//udp/239.0.0.123:8208
-#EXTINF:-1 group-title="Spain3",MOVISTAR PLUS
-http://95.122.50.234:4022//udp/239.0.0.124:8208
-#EXTINF:-1 group-title="Spain3",DISNEY CHANNEL HD
-http://95.122.50.234:4022//udp/239.0.0.173:8208
-#EXTINF:-1 group-title="Spain3",M ESPORTS HD
-http://95.122.50.234:4022//udp/239.0.0.178:8208
-#EXTINF:-1 group-title="Spain3",REAL MADRID HD
-http://95.122.50.234:4022//udp/239.0.0.179:8208
-#EXTINF:-1 group-title="Spain3",M PLUS EUROSPORT 360 MULTIDEPORTE
-http://95.122.50.234:4022//udp/239.0.0.180:8208
-#EXTINF:-1 group-title="Spain3",MOVISTAR PLUS PROGRAMMA
-http://95.122.50.234:4022//udp/239.0.0.181:8208
-#EXTINF:-1 group-title="Spain3",BE MAD HD
-http://95.122.50.234:4022//udp/239.0.0.182:8208
-#EXTINF:-1 group-title="Spain3",RADIO
-http://95.122.50.234:4022//udp/239.0.0.189:8208
-#EXTINF:-1 group-title="Spain3",A3 SERIES HD
-http://95.122.50.234:4022//udp/239.0.0.190:8208
-#EXTINF:-1 group-title="Spain3",MTV España
-http://95.122.50.234:4022//udp/239.0.0.211:8208
-#EXTINF:-1 group-title="Spain3",Non Stop People HD
-http://95.122.50.234:4022//udp/239.0.5.170:8208
-#EXTINF:-1 group-title="Spain3",NONSTOP PEOPLE
-http://95.122.50.234:4022//udp/239.0.0.212:8208
-#EXTINF:-1 group-title="Spain3",MOVISTAR PLUS
-http://95.122.50.234:4022//udp/239.0.0.214:8208
-#EXTINF:-1 group-title="Spain3",LA LIGA
-http://95.122.50.234:4022//udp/239.0.0.218:8208
-#EXTINF:-1 group-title="Spain3",I 24 NEWs-N
-http://95.122.50.234:4022//udp/239.0.0.220:8208
-#EXTINF:-1 group-title="Spain3",CNC
-http://95.122.50.234:4022//udp/239.0.0.221:8208
-#EXTINF:-1 group-title="Spain3",MOVISTAR PLUS
-http://95.122.50.234:4022//udp/239.0.3.3:8208
-#EXTINF:-1 group-title="Spain3",M SERIES XTRA
-http://95.122.50.234:4022//udp/239.0.3.20:8208
-#EXTINF:-1 group-title="Spain3",ATRESERIES HD
-http://95.122.50.234:4022//udp/239.0.3.29:8208
-#EXTINF:-1 group-title="Spain3",M ESPORTS STARCRAFT
-http://95.122.50.234:4022//udp/239.0.3.30:8208
-#EXTINF:-1 group-title="Spain3",MEGA
-http://95.122.50.234:4022//udp/239.0.3.31:8208
-#EXTINF:-1 group-title="Spain3",EUROSPORT 360 MULTIDEPORTE
-http://95.122.50.234:4022//udp/239.0.3.33:8208
-#EXTINF:-1 group-title="Spain3",MEDITERANEO
-http://95.122.50.234:4022//udp/239.0.3.34:8208
-#EXTINF:-1 group-title="Spain3",TV 3 CAT
-http://95.122.50.234:4022//udp/239.0.3.36:8208
-#EXTINF:-1 group-title="Spain3",GALICIA TV
-http://95.122.50.234:4022//udp/239.0.3.37:8208
-#EXTINF:-1 group-title="Spain3",M MOTO GP
-http://95.122.50.234:4022//udp/239.0.3.38:8208
-#EXTINF:-1 group-title="Spain3",M ESTRENOS
-http://95.122.50.234:4022//udp/239.0.3.40:8208
-#EXTINF:-1 group-title="Spain3",M XTRA
-http://95.122.50.234:4022//udp/239.0.3.41:8208
-#EXTINF:-1 group-title="Spain3",M ACCION
-http://95.122.50.234:4022//udp/239.0.3.42:8208
-#EXTINF:-1 group-title="Spain3",M COMEDIA
-http://95.122.50.234:4022//udp/239.0.3.43:8208
-#EXTINF:-1 group-title="Spain3",M DCINE
-http://95.122.50.234:4022//udp/239.0.3.44:8208
-#EXTINF:-1 group-title="Spain3",M CINE N
-http://95.122.50.234:4022//udp/239.0.3.45:8208
-#EXTINF:-1 group-title="Spain3",M GOLF
-http://95.122.50.234:4022//udp/239.0.5.2:8208
-#EXTINF:-1 group-title="Spain3",M SERIES
-http://95.122.50.234:4022//udp/239.0.5.4:8208
-#EXTINF:-1 group-title="Spain3",M DEPORTES 2
-http://95.122.50.234:4022//udp/239.0.5.5:8208
-#EXTINF:-1 group-title="Spain3",M SERIES XTRA HD
-http://95.122.50.234:4022//udp/239.0.5.83:8208
-#EXTINF:-1 group-title="Spain3",TCM HD
-http://95.122.50.234:4022//udp/239.0.5.89:8208
-#EXTINF:-1 group-title="Spain3",TCM
-http://95.122.50.234:4022//udp/239.0.6.5:8208
-#EXTINF:-1 group-title="Spain3",M FUTBOL HD
-http://95.122.50.234:4022//udp/239.0.6.14:8208
-#EXTINF:-1 group-title="Spain3",M FUTBOL
-http://95.122.50.234:4022//udp/239.0.6.8:8208
-#EXTINF:-1 group-title="Spain3",Fox News
-http://95.122.50.234:4022//udp/239.0.7.65:8208
-#EXTINF:-1 group-title="Spain3",Al Jazeera (Inglés)
-http://95.122.50.234:4022//udp/239.0.7.66:8208
-#EXTINF:-1 group-title="Spain3",France 24 (Inglés)
-http://95.122.50.234:4022//udp/239.0.7.67:8208
-#EXTINF:-1 group-title="Spain3",Russia Today
-http://95.122.50.234:4022//udp/239.0.7.68:8208
-#EXTINF:-1 group-title="Spain3",CNBC Europe
-http://95.122.50.234:4022//udp/239.0.7.69:8208
-
 
 
 
