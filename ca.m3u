@@ -31,117 +31,115 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 
 #EXTINF:1 group-title="Documentary/Entertainment", 
 
-#EXTINF:-1 group-title="Documentary/Entertainment",Animal Planet (Wuffy Player)
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://daxushequ.com/data/out/9/img60762913.jpg",Animal Planet (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1251.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Documentary/Entertainment",Animal Planet
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://daxushequ.com/data/out/9/img60762913.jpg",Animal Planet
 http://37.194.121.4:1234/udp/239.1.5.3:1234 
-#EXTINF:-1 group-title="Documentary/Entertainment",Animal Planet
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://daxushequ.com/data/out/9/img60762913.jpg",Animal Planet
 http://176.108.193.126:4022/udp/235.1.1.46:5678
-#EXTINF:-1 group-title="Documentary/Entertainment",Animal Planet
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://daxushequ.com/data/out/9/img60762913.jpg",Animal Planet
 http://185.10.211.10:3000/jgj/UaUgEZ/30 
-#EXTINF:-1 group-title="Documentary/Entertainment",Animal Planet HD
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://daxushequ.com/data/out/9/img60762913.jpg",Animal Planet HD
 http://185.10.211.10:3000/jgj/UaUgEZ/31 
-#EXTINF:-1 group-title="Documentary/Entertainment",National Geographic (Wuffy Player)
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/misc/National-Geographic-Logo.jpg",National Geographic (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1195.m3u8$http-refferer=http://localhost
-#EXTINF:0 group-title="Documentary/Entertainment",National Geographic
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/misc/National-Geographic-Logo.jpg",National Geographic
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
-#EXTINF:0 group-title="Documentary/Entertainment",National Geographic 
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/misc/National-Geographic-Logo.jpg",National Geographic 
 http://185.10.211.10:3000/jgj/UaUgEZ/59 
-#EXTINF:0 group-title="Documentary/Entertainment",National Geographic HD
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/misc/National-Geographic-Logo.jpg",National Geographic HD
 http://185.10.211.10:3000/jgj/UaUgEZ/60 
-#EXTINF:-1 group-title="Documentary/Entertainment",NATGEO WILD (Wuffy Player)
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://media.marketwire.com/attachments/201111/35566_NatGeoLogo.jpg",NATGEO WILD (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1193.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Documentary/Entertainment",NATGEO WILD
+#EXTINF:-1 group-title="Documentary/Entertainment"tvg-logo="http://media.marketwire.com/attachments/201111/35566_NatGeoLogo.jpg",NATGEO WILD
 http://185.10.211.10:3000/jgj/UaUgEZ/57 
-#EXTINF:-1 group-title="Documentary/Entertainment",NATGEO WILD HD 
+#EXTINF:-1 group-title="Documentary/Entertainment"tvg-logo="http://media.marketwire.com/attachments/201111/35566_NatGeoLogo.jpg",NATGEO WILD HD 
 http://185.10.211.10:3000/jgj/UaUgEZ/58 
-#EXTINF:-1 group-title="Documentary/Entertainment",Discovery (Wuffy Player)
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1133.m3u8$http-refferer=http://localhostt
-#EXTINF:-1 group-title="Documentary/Entertainment",DISCOVERY
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",DISCOVERY
 http://74.81.71.186:4000/live/138/138.m3u8
-#EXTINF:0 group-title="Documentary/Entertainment",Discovery Channel
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery Channel
 http://37.194.121.4:1234/udp/239.1.5.1:1234 
-#EXTINF:0 group-title="Documentary/Entertainment",Discovery Channel
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery Channel
 http://176.108.193.126:4022/udp/235.1.1.47:5678 
-#EXTINF:0 group-title="Documentary/Entertainment",Discovery Channel
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery Channel
 http://82.209.254.92:8000/play/a03v 
-#EXTINF:0 group-title="Documentary/Entertainment",Discovery Channel
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery Channel
 http://82.209.208.5:7018/play/a01d/index.m3u8 
-#EXTINF:0 group-title="Documentary/Entertainment",Discovery Channel
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery Channel
 http://185.10.211.10:3000/jgj/UaUgEZ/34 
-#EXTINF:0 group-title="Documentary/Entertainment",Discovery Channel HD
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery Channel HD
 http://185.10.211.10:3000/jgj/UaUgEZ/35 
-#EXTINF:0 group-title="Documentary/Entertainment",Discovery World
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://dune-hd.com/resources/support/misc/tv_channels_icons/channel_48.1319735745.png",Discovery World
 http://37.194.121.4:1234/udp/239.1.5.2:1234 
-#EXTINF:0 group-title="Documentary/Entertainment",Discovery World
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://dune-hd.com/resources/support/misc/tv_channels_icons/channel_48.1319735745.png",Discovery World
 http://185.10.211.10:3000/jgj/UaUgEZ/41 
-#EXTINF:-1 group-title="Documentary/Entertainment",Discovery Science (Wuffy Player)
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://4.bp.blogspot.com/-KFrx1NgKR9A/TZuiubLiRrI/AAAAAAAAA3I/faOXkdD5JvU/s320/Science+morph+logo+2011.jpg",Discovery Science (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1271.m3u8$http-refferer=http://localhost
-#EXTINF:0 group-title="Documentary/Entertainment",Discovery Science
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="http://4.bp.blogspot.com/-KFrx1NgKR9A/TZuiubLiRrI/AAAAAAAAA3I/faOXkdD5JvU/s320/Science+morph+logo+2011.jpg",Discovery Science
 http://37.194.121.4:1234/udp/239.1.5.9:1234 
-#EXTINF:0 group-title="Documentary/Entertainment",Discovery Science
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="http://4.bp.blogspot.com/-KFrx1NgKR9A/TZuiubLiRrI/AAAAAAAAA3I/faOXkdD5JvU/s320/Science+morph+logo+2011.jpg",Discovery Science
 http://176.108.193.126:4022/udp/235.1.1.29:5678 
-#EXTINF:0 group-title="Documentary/Entertainment",Discovery Science
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="http://4.bp.blogspot.com/-KFrx1NgKR9A/TZuiubLiRrI/AAAAAAAAA3I/faOXkdD5JvU/s320/Science+morph+logo+2011.jpg",Discovery Science
 http://185.10.211.10:3000/jgj/UaUgEZ/38 
-#EXTINF:0 group-title="Documentary/Entertainment",Discovery Science HD 
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="http://4.bp.blogspot.com/-KFrx1NgKR9A/TZuiubLiRrI/AAAAAAAAA3I/faOXkdD5JvU/s320/Science+morph+logo+2011.jpg",Discovery Science HD 
 http://185.10.211.10:3000/jgj/UaUgEZ/39 
-#EXTINF:-1 group-title="Documentary/Entertainment",DTX 
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/51/DTX_Discovery_logo.png",DTX 
 http://176.108.193.126:4022/udp/235.1.1.28:5678
-#EXTINF:-1 group-title="Documentary/Entertainment",DTX
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/51/DTX_Discovery_logo.png",DTX
 http://185.10.211.10:3000/jgj/UaUgEZ/43 
-#EXTINF:-1 group-title="Documentary/Entertainment",DTX HD 
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/51/DTX_Discovery_logo.png",DTX HD 
 http://185.10.211.10:3000/jgj/UaUgEZ/44 
-#EXTINF:0 group-title="Documentary/Entertainment",Investigation Discovery
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2016/08/Investigation-Discovery.jpg",Investigation Discovery
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
-#EXTINF:0 group-title="Documentary/Entertainment",Discovery ID 
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2016/08/Investigation-Discovery.jpg",Discovery ID 
 http://185.10.211.10:3000/jgj/UaUgEZ/36 
-#EXTINF:0 group-title="Documentary/Entertainment",Discovery ID HD 
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2016/08/Investigation-Discovery.jpg",Discovery ID HD 
 http://185.10.211.10:3000/jgj/UaUgEZ/37 
-#EXTINF:-1 group-title="Documentary/Entertainment",History 
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.insiteeducation.co.za/blog/wp-content/uploads/2016/08/history-logo.gif",History 
 http://91.149.172.100:80/channel?id=136&u=demo&p=demo 
-#EXTINF:-1 group-title="Documentary/Entertainment",History
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.insiteeducation.co.za/blog/wp-content/uploads/2016/08/history-logo.gif",History
 http://185.10.211.10:3000/jgj/UaUgEZ/55 
-#EXTINF:-1 group-title="Documentary/Entertainment",History HD 
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.insiteeducation.co.za/blog/wp-content/uploads/2016/08/history-logo.gif",History HD 
 http://185.10.211.10:3000/jgj/UaUgEZ/56 
-#EXTINF:0 group-title="Documentary/Entertainment",FOX
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="http://sire-assets-fox.fichub.com/assets/fox/images/misc/apple-touch-icon.png",FOX
 http://37.194.121.4:1234/udp/239.1.4.5:1234 
-#EXTINF:0 group-title="Documentary/Entertainment",FOX
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="http://sire-assets-fox.fichub.com/assets/fox/images/misc/apple-touch-icon.png",FOX
 http://185.10.211.10:3000/jgj/UaUgEZ/112 
-#EXTINF:0 group-title="Documentary/Entertainment",FOX HD 
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="http://www.lbn.lk/images/channel-logo/1455639791Fox_life_it.png",FOX HD 
 http://185.10.211.10:3000/jgj/UaUgEZ/113 
-#EXTINF:-1 group-title="Documentary/Entertainment",Fox Life 
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.lbn.lk/images/channel-logo/1455639791Fox_life_it.png",Fox Life 
 http://91.149.172.100:80/channel?id=75&u=demo&p=demo 
-#EXTINF:-1 group-title="Documentary/Entertainment",Fox Life
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.lbn.lk/images/channel-logo/1455639791Fox_life_it.png",Fox Life
 http://37.194.121.4:1234/udp/239.1.3.11:1234 
-#EXTINF:-1 group-title="Documentary/Entertainment",Fox Life 
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.lbn.lk/images/channel-logo/1455639791Fox_life_it.png",Fox Life 
 http://185.10.211.10:3000/jgj/UaUgEZ/114 
-#EXTINF:-1 group-title="Documentary/Entertainment",Fox Life  HD 
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.lbn.lk/images/channel-logo/1455639791Fox_life_it.png",Fox Life  HD 
 http://185.10.211.10:3000/jgj/UaUgEZ/115 
-#EXTINF:-1 group-title="Documentary/Entertainment",TLC
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://pbs.twimg.com/profile_images/1114619173/TLC_logo_400x400.jpg",TLC
 http://37.194.121.4:1234/udp/239.1.3.16:1234 
-#EXTINF:-1 group-title="Documentary/Entertainment",Food Network 
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",Food Network 
 http://185.10.211.10:3000/jgj/UaUgEZ/52 
-#EXTINF:-1 group-title="Documentary/Entertainment",Food Network HD 
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",Food Network HD 
 http://185.10.211.10:3000/jgj/UaUgEZ/53 
-#EXTINF:-1 group-title="Documentary/Entertainment",Amazing Facts TV
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.amazingfactsministries.com/wp-content/uploads/2015/11/aftv.jpg",Amazing Facts TV
 http://bglive-w.bitgravity.com/amazingfacts/live/feed01
-#EXTINF:-1 group-title="Documentary/Entertainment",London Live
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://mybnk.org/wp-content/uploads/2014/10/London-Live.jpg",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-#EXTINF:-1 group-title="Documentary/Entertainment",FLORIDA CH
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/1f/02/8d/1f028dc9-0feb-8280-37a0-ae9eaf62dde2/mzl.whuoihua.png/1200x630bb.jpg",FLORIDA CH
 http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
 #EXTINF:-1 group-title="Documentary/Entertainment",CW 44
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
-#EXTINF:-1 group-title="Documentary/Entertainment",HSN
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://image.roku.com/developer_channels/prod/9005813a83e9cad6f234a15733be5427a8dae5f5c7e9755194a37a882fd5c2e0.png",HSN
 http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31/mp4:420p500kB31.m3u8
-#EXTINF:-1 group-title="Documentary/Entertainment",HSN 2
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://homeshoppingista.files.wordpress.com/2010/06/hsn2.jpg",HSN 2
 http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31/mp4:468p500kB3.m3u8
-#EXTINF:-1 group-title="Documentary/Entertainment",Fashion TV
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://images4.fanpop.com/image/photos/22500000/fashion-tv-fashion-tv-22517317-160-160.jpg",Fashion TV
 http://37.194.121.4:1234/udp/239.1.3.13:1234 
-#EXTINF:-1 group-title="Documentary/Entertainment",NASA USA
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://78.media.tumblr.com/e8a19b51e0ed87dd2fc0864a77ceade2/tumblr_inline_nuhb48myFF1tzhl5u_400.gif",NASA USA
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-#EXTINF:-1 group-title="Documentary/Entertainment",AMAZING FACTS TV
-http://bglive-w.bitgravity.com/amazingfacts/live/feed01
-#EXTINF:0 group-title="Documentary/Entertainment", GAME SHOW 
+#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.dafont.com/forum/attach/orig/4/4/441812.png",GAME SHOW 
 http://cdn-01.bonus-tv.ru:9090/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
 
 
