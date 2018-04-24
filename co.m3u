@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 http://.....
 
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,23/04/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,24/04/18
 http://.....
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -8241,9 +8241,23 @@ http://61.216.177.73/sta/ch1865033.m3u8
 #EXTINF:-1 group-title="China2",MOMO购物3
 http://61.216.177.73/sta/ch1865034.m3u8
 
+#EXTINF:-1 group-title="China2"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,Server 3
+http://.....
 
-
-
+#EXTINF:-1 group-title="China2",TVBJ2
+http://219.78.181.209:7522/upnp/channelstream/01.m3u8
+#EXTINF:-1 group-title="China2",无线新闻台
+http://219.78.181.209:7522/upnp/channelstream/02.m3u8
+#EXTINF:-1 group-title="China2",明珠台
+http://219.78.181.209:7522/upnp/channelstream/00.m3u8
+#EXTINF:-1 group-title="China2",RTHK31
+http://219.78.181.209:7522/upnp/channelstream/06.m3u8
+#EXTINF:-1 group-title="China2",RTHK31
+http://219.78.181.209:7522/upnp/channelstream/05.m3u8
+#EXTINF:-1 group-title="China2",RTHK32
+http://219.78.181.209:7522/upnp/channelstream/07.m3u8
+#EXTINF:-1 group-title="China2",RTHK33
+http://219.78.181.209:7522/upnp/channelstream/09.m3u8
 
 
 
@@ -8715,6 +8729,33 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/Stream(03)/index.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:9 group-title="India3",
+
+#EXTINF:-1 group-title="India3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png" ,==India==
+http://.........
+
+#EXTINF:-1 group-title="India3",Animal Planet HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
+#EXTINF:-1 group-title="India3",SONY ROX MUSIC HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/01.m3u8
+#EXTINF:-1 group-title="India3",Discovery WORLD HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
 
 
 
@@ -9226,44 +9267,7 @@ http://selevision9893-i.akamaihd.net/hls/live/219353/98936/1.m3u8
 
 #EXTINF:9 group-title="United.Arab.Emirates4",
 
-#EXTINF:-1 group-title="United.Arab.Emirates4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png" ,==U.A.E==
-http://..........
 
-#EXTINF:-1 group-title="United.Arab.Emirates4"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="United.Arab.Emirates4"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="United.Arab.Emirates4"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="United.Arab.Emirates4"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="United.Arab.Emirates4"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="United.Arab.Emirates4"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="United.Arab.Emirates4"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
-http://.....
-
-#EXTINF:-1 group-title="United.Arab.Emirates4" ,Bein Sports 1 
-http://blackhouse.sx/live1/tracks-v1a1/index.m3u8 
-#EXTINF:-1 group-title="United.Arab.Emirates4" ,Bein Sports 2 
-http://blackhouse.sx/live2/tracks-v1a1/index.m3u8 
-#EXTINF:-1 group-title="United.Arab.Emirates4" ,Bein Sports 3 
-http://blackhouse.sx/live3/tracks-v1a1/index.m3u8 
-#EXTINF:-1 group-title="United.Arab.Emirates4" ,Bein Sports 4 
-http://blackhouse.sx/live4/tracks-v1a1/index.m3u8 
-#EXTINF:-1 group-title="United.Arab.Emirates4" ,Bein Sports 5 
-http://blackhouse.sx/live5/tracks-v1a1/index.m3u8 
-#EXTINF:-1 group-title="United.Arab.Emirates4" ,Bein Sports 6 
-http://blackhouse.sx/live6/tracks-v1a1/index.m3u8 
-#EXTINF:-1 group-title="United.Arab.Emirates4" ,Bein Sports 7 
-http://blackhouse.sx/live7/tracks-v1a1/index.m3u8 
-#EXTINF:-1 group-title="United.Arab.Emirates4" ,Bein Sports 8 
-http://blackhouse.sx/live8/tracks-v1a1/index.m3u8 
-#EXTINF:-1 group-title="United.Arab.Emirates4" ,Bein Sports 9 
-http://blackhouse.sx/live9/tracks-v1a1/index.m3u8 
-#EXTINF:-1 group-title="United.Arab.Emirates4" ,Bein Sports 10 
-http://blackhouse.sx/live10/tracks-v1a1/index.m3u8
 
 
 
@@ -10646,21 +10650,307 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 group-title="Russian2"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
 http://.....
 
-#EXTINF:-1 group-title="Russian2",Матч ТВ 
-http://188.134.21.64:81/udp/235.10.10.15:1234 
-#EXTINF:-1 group-title="Russian2",ЖАРА 
-http://188.134.21.64:81/udp/235.10.10.114:1234 
-#EXTINF:-1 group-title="Russian2",Совершенно Секретно 
-http://188.134.21.64:81/udp/235.10.10.129:1234 
-#EXTINF:-1 group-title="Russian2",Открытый Мир 
-http://188.134.21.64:81/udp/235.10.10.131:1234 
-#EXTINF:-1 group-title="Russian2",Пятница 
-http://188.134.21.64:81/udp/235.10.10.5:1234
 
-
-
-
-
+#EXTINF:-1 group-title="Russian2" ,TV 1000 Comedy
+http://212.66.34.1:8888/udp/238.4.0.1:1234
+#EXTINF:-1 group-title="Russian2" ,TV 1000 Premium
+http://212.66.34.1:8888/udp/238.4.0.2:1234
+#EXTINF:-1 group-title="Russian2" ,TV 1000 Megahit
+http://212.66.34.1:8888/udp/238.4.0.3:1234
+#EXTINF:-1 group-title="Russian2" ,AMC
+http://212.66.34.1:8888/udp/238.4.0.4:1234
+#EXTINF:-1 group-title="Russian2" ,Spike
+http://212.66.34.1:8888/udp/238.4.0.5:1234
+#EXTINF:-1 group-title="Russian2" ,FILMUADRAMA
+http://212.66.34.1:8888/udp/238.4.0.7:1234
+#EXTINF:-1 group-title="Russian2" ,RTVi
+http://212.66.34.1:8888/udp/238.4.0.9:1234
+#EXTINF:-1 group-title="Russian2" ,Zoo
+http://212.66.34.1:8888/udp/238.4.0.12:1234
+#EXTINF:-1 group-title="Russian2" ,Paramount Channel
+http://212.66.34.1:8888/udp/238.4.0.11:1234
+#EXTINF:-1 group-title="Russian2" ,Oboz TV
+http://212.66.34.1:8888/udp/238.4.0.14:1234
+#EXTINF:-1 group-title="Russian2" ,Discovery Channel
+http://212.66.34.1:8888/udp/238.4.0.10:1234
+#EXTINF:-1 group-title="Russian2" ,Inter
+http://212.66.34.1:8888/udp/238.4.0.16:1234
+#EXTINF:-1 group-title="Russian2" ,ENGLISH CLUB TV
+http://212.66.34.1:8888/udp/238.4.0.15:1234
+#EXTINF:-1 group-title="Russian2" ,UKRAINA-SD
+http://212.66.34.1:8888/udp/238.4.0.17:1234
+#EXTINF:-1 group-title="Russian2" ,1+1
+http://212.66.34.1:8888/udp/238.4.0.18:1234
+#EXTINF:-1 group-title="Russian2" ,KIEV STB
+http://212.66.34.1:8888/udp/238.4.0.19:1234
+#EXTINF:-1 group-title="Russian2" ,ICTV
+http://212.66.34.1:8888/udp/238.4.0.20:1234
+#EXTINF:-1 group-title="Russian2" ,UA:
+http://212.66.34.1:8888/udp/238.4.0.22:1234
+#EXTINF:-1 group-title="Russian2" ,NTN
+http://212.66.34.1:8888/udp/238.4.0.23:1234
+#EXTINF:-1 group-title="Russian2" ,NOVY CHANNEL
+http://212.66.34.1:8888/udp/238.4.0.21:1234
+#EXTINF:-1 group-title="Russian2" ,K1
+http://212.66.34.1:8888/udp/238.4.0.25:1234
+#EXTINF:-1 group-title="Russian2" ,TET
+http://212.66.34.1:8888/udp/238.4.0.24:1234
+#EXTINF:-1 group-title="Russian2" ,K2
+http://212.66.34.1:8888/udp/238.4.0.26:1234
+#EXTINF:-1 group-title="Russian2" ,M1
+http://212.66.34.1:8888/udp/238.4.0.30:1234
+#EXTINF:-1 group-title="Russian2" ,NLO TV
+http://212.66.34.1:8888/udp/238.4.0.34:1234
+#EXTINF:-1 group-title="Russian2" ,ZOOM
+http://212.66.34.1:8888/udp/238.4.0.29:1234
+#EXTINF:-1 group-title="Russian2" ,PRYAMIY SD
+http://212.66.34.1:8888/udp/238.4.0.32:1234
+#EXTINF:-1 group-title="Russian2" ,Donbass
+http://212.66.34.1:8888/udp/238.4.0.35:1234
+#EXTINF:-1 group-title="Russian2" ,2+2
+http://212.66.34.1:8888/udp/238.4.0.27:1234
+#EXTINF:-1 group-title="Russian2" ,UA: Culture
+http://212.66.34.1:8888/udp/238.4.0.31:1234
+#EXTINF:-1 group-title="Russian2" ,MEGA
+http://212.66.34.1:8888/udp/238.4.0.28:1234
+#EXTINF:-1 group-title="Russian2" ,Espreso TV
+http://212.66.34.1:8888/udp/238.4.0.37:1234
+#EXTINF:-1 group-title="Russian2" ,112 SD
+http://212.66.34.1:8888/udp/238.4.0.38:1234
+#EXTINF:-1 group-title="Russian2" ,Channel 5 (Ukraine)
+http://212.66.34.1:8888/udp/238.4.0.36:1234
+#EXTINF:-1 group-title="Russian2" ,Indigo
+http://212.66.34.1:8888/udp/238.4.0.39:1234
+#EXTINF:-1 group-title="Russian2" ,KRT
+http://212.66.34.1:8888/udp/238.4.0.40:1234
+#EXTINF:-1 group-title="Russian2" ,Enter Film
+http://212.66.34.1:8888/udp/238.4.0.33:1234
+#EXTINF:-1 group-title="Russian2" ,XSPORT
+http://212.66.34.1:8888/udp/238.4.0.41:1234
+#EXTINF:-1 group-title="Russian2" ,PIXEL
+http://212.66.34.1:8888/udp/238.4.0.44:1234
+#EXTINF:-1 group-title="Russian2" ,VINTAGE TV
+http://212.66.34.1:8888/udp/238.4.0.42:1234
+#EXTINF:-1 group-title="Russian2" ,DoTV
+http://212.66.34.1:8888/udp/238.4.0.46:1234
+#EXTINF:-1 group-title="Russian2" ,Орбита
+http://212.66.34.1:8888/udp/238.4.0.45:1234
+#EXTINF:-1 group-title="Russian2" ,ENGLISH CLUB TV
+http://212.66.34.1:8888/udp/238.4.0.49:1234
+#EXTINF:-1 group-title="Russian2" ,Sony Channel
+http://212.66.34.1:8888/udp/238.4.0.50:1234
+#EXTINF:-1 group-title="Russian2" ,Kvartal TV
+http://212.66.34.1:8888/udp/238.4.0.48:1234
+#EXTINF:-1 group-title="Russian2" ,Sony Sci-Fi
+http://212.66.34.1:8888/udp/238.4.0.51:1234
+#EXTINF:-1 group-title="Russian2" ,КАПРИ
+http://212.66.34.1:8888/udp/238.4.0.47:1234
+#EXTINF:-1 group-title="Russian2" ,8 channel
+http://212.66.34.1:8888/udp/238.4.0.53:1234
+#EXTINF:-1 group-title="Russian2" ,Zee TV
+http://212.66.34.1:8888/udp/238.4.0.54:1234
+#EXTINF:-1 group-title="Russian2" ,Donechchyna.TV
+http://212.66.34.1:8888/udp/238.4.0.52:1234
+#EXTINF:-1 group-title="Russian2" ,Paramount Comedy
+http://212.66.34.1:8888/udp/238.4.0.56:1234
+#EXTINF:-1 group-title="Russian2" ,#НАШЕ
+http://212.66.34.1:8888/udp/238.4.0.55:1234
+#EXTINF:-1 group-title="Russian2" ,V gostiah uskazki
+http://212.66.34.1:8888/udp/238.4.0.57:1234
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.101:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.102:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.103:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.108:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.105:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.109:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.113:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.104:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.107:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.106:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.110:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.112:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.114:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.115:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.111:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.116:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.117:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.121:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.118:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.119:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.123:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.120:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.125:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.126:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.122:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.124:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.127:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.129:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.130:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.128:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.133:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.132:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.131:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.135:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.139:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.138:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.140:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.136:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.141:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.142:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.143:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.144:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.145:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.147:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.148:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.146:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.150:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.1.149:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.2.101:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.2.102:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.2.103:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.2.104:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.2.106:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.2.105:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.3.101:4001
+#EXTINF:-1 group-title="Russian2" ,New HD
+http://212.66.34.1:8888/udp/225.1.3.105:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.4.102:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.4.101:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.4.103:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.4.106:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.4.105:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.4.107:4001
+#EXTINF:-1 group-title="Russian2" ,New HD
+http://212.66.34.1:8888/udp/225.1.4.104:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.5.102:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.5.103:4001
+#EXTINF:-1 group-title="Russian2" ,Discovery Science
+http://212.66.34.1:8888/udp/225.1.5.101:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.5.104:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.5.108:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.5.106:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.5.107:4001
+#EXTINF:-1 group-title="Russian2" ,Viasat Nature
+http://212.66.34.1:8888/udp/225.1.5.109:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.6.104:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.6.103:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.6.102:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.6.101:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.7.102:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.7.101:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.7.107:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.7.103:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.7.105:4001
+#EXTINF:-1 group-title="Russian2" ,New HD
+http://212.66.34.1:8888/udp/225.1.7.106:4001
+#EXTINF:-1 group-title="Russian2" ,New HD
+http://212.66.34.1:8888/udp/225.1.7.104:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.8.101:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.8.103:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.8.105:4001
+#EXTINF:-1 group-title="Russian2" ,New HD
+http://212.66.34.1:8888/udp/225.1.8.104:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.8.108:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.8.107:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.8.106:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.8.113:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.8.111:4001
+#EXTINF:-1 group-title="Russian2" ,New HD
+http://212.66.34.1:8888/udp/225.1.8.109:4001
+#EXTINF:-1 group-title="Russian2" ,New
+http://212.66.34.1:8888/udp/225.1.8.114:4001
+#EXTINF:-1 group-title="Russian2" ,New HD
+http://212.66.34.1:8888/udp/225.1.8.110:4001
+#EXTINF:-1 group-title="Russian2" ,New HD
+http://212.66.34.1:8888/udp/225.1.9.101:4001
+#EXTINF:-1 group-title="Russian2" ,New HD
+http://212.66.34.1:8888/udp/225.1.9.102:4001
+#EXTINF:-1 group-title="Russian2" ,New HD
+http://212.66.34.1:8888/udp/225.1.9.103:4001
 
 
 
