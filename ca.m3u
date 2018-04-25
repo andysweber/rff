@@ -181,15 +181,15 @@ http://185.10.211.10:3000/jgj/UaUgEZ/3
 http://82.209.208.5:7018/play/a015/index.m3u8 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/200px-Boomerang_tv_logo.png",boomerang (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1128.m3u8$http-refferer=http://localhost
-#EXTINF:0 group-title="KIDS" tvg-logo="https://da4pli3l5vc0d.cloudfront.net/2f/a2/2fa2f28a87e28694f49cdf28eb9cf04e2bd4159c.svg",Cartoon Network
+#EXTINF:0 group-title="KIDS" tvg-logo="http://onlinetv1.ru/wp-content/uploads/2018/02/bhp.png",Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://da4pli3l5vc0d.cloudfront.net/2f/a2/2fa2f28a87e28694f49cdf28eb9cf04e2bd4159c.svg",Cartoon Network 
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://onlinetv1.ru/wp-content/uploads/2018/02/bhp.png",Cartoon Network 
 http://185.10.211.10:3000/jgj/UaUgEZ/4 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://da4pli3l5vc0d.cloudfront.net/2f/a2/2fa2f28a87e28694f49cdf28eb9cf04e2bd4159c.svg",Cartoon Network 
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://onlinetv1.ru/wp-content/uploads/2018/02/bhp.png",Cartoon Network 
 http://82.209.208.5:7018/play/a013/index.m3u8 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://da4pli3l5vc0d.cloudfront.net/2f/a2/2fa2f28a87e28694f49cdf28eb9cf04e2bd4159c.svg",Cartoon Network HD 
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://onlinetv1.ru/wp-content/uploads/2018/02/bhp.png",Cartoon Network HD 
 http://185.10.211.10:3000/jgj/UaUgEZ/5 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://da4pli3l5vc0d.cloudfront.net/2f/a2/2fa2f28a87e28694f49cdf28eb9cf04e2bd4159c.svg",Cartoon Network (Wuffy Player)
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://onlinetv1.ru/wp-content/uploads/2018/02/bhp.png",Cartoon Network (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1264.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://apprecs.org/ios/images/app-icons/256/67/529997671.jpg",Disney Channel (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1272.m3u8$http-refferer=http://localhost
