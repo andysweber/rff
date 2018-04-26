@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 http://.....
 
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,25/04/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,26/04/18
 http://.....
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -55,16 +55,26 @@ http://..........
 
 #EXTINF:-1 group-title="Cyprus" tvg-name="Rik1" epg-id="Rik1" tvg-logo="http://www.riknews.com.cy/images/stories/icons/logo-2.png" ,RIKSAT
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.megatv.com.cy/images/logo_tvone.png" ,TVONE (NEW plugin 1.22)
+#EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.megatv.com.cy/images/logo_tvone.png" ,TVONE (Version 1.22)
 http://www.megatv.com.cy/live/?cs=1|webdown
+#EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.megatv.com.cy/images/logo_tvone.png" ,TVONE (Version 1.22)
+http://www.fireshow.xyz/megacym.html|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" epg-id="Sigma" tvg-logo="https://goo.gl/ccdFP9" ,SIGMA
 http://81.21.47.74/hls/live.m3u8
+#EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" epg-id="Sigma" tvg-logo="https://goo.gl/ccdFP9" ,SIGMA (Version 1.22)
+http://www.fireshow.xyz/sigmam.html|webdown
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus (Version 1.22)
+http://www.alphacyprus.com.cy/page/live|webdown
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/ANT1_%28logo%29.png",Ant1 Cyprus (Version 1.22)
+http://www.ant1iwo.com/webtv/web-tv-live/|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/tvg/logos/219.png" ,Capital
 http://master.cystreams.com:25461/live/greek/zagori/14.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA
 http://master.cystreams.com:25461/live/greek/zagori/15.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.lakatamia.tv/media/images/banners/348d2c4feecfee8be4cef04e45c0b312-1505304062.jpg" ,SMILE TV
 http://master.cystreams.com:25461/live/greek/zagori/119.ts
+#EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.lakatamia.tv/media/images/banners/348d2c4feecfee8be4cef04e45c0b312-1505304062.jpg" ,SMILE TV (Version 1.22)
+http://www.lakatamia.tv/app/chans/cy/smilecy.html|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/tvmallcyprusmtntv-jpg-ByVTOq9ql.jpg" ,TV Mall
 http://master.cystreams.com:25461/live/tvmall/tvmall/539.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://i.imgur.com/w9Je47D.png",CYSPORTS
@@ -125,8 +135,10 @@ http://master.cystreams.com:25461/live/greek/zagori/43.ts
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/np3siv" ,SKAI
 http://master.cystreams.com:25461/live/greek/zagori/42.ts
-#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/np3siv" ,SKAI (Youtube)
-https://www.youtube.com/watch?v=yRnKFv9JLYo
+#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/np3siv" ,SKAI (Version 1.22)
+http://www.tvradiogr.com/p/tv/18/skai-live.html|webdown
+#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/np3siv" ,SKAI official (Version 1.22)
+http://www.skai.gr/mobile/tv-live/|webview zoom=100 scroll=0,100
 #EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
 http://master.cystreams.com:25461/live/greek/zagori/40.ts
 #EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR HD
@@ -1742,19 +1754,6 @@ http://163.172.15.141:9732/live?channelId=259&uid=987&deviceMac=00:1A:79:4A:84:A
 
 #EXTINF:3 group-title="UK4", 
 
-#EXTINF:-1 group-title="UK4",BT SPORT 2 
-http://31.220.0.196:8081/live/ctvb2/playlist.m3u8 
-#EXTINF:-1 group-title="UK4",BT SPORT 1 
-http://31.220.0.196:8081/live/ctvb1/playlist.m3u8 
-#EXTINF:-1 group-title="UK4",BT SPORT 3 
-http://31.220.0.196:8081/live/ctvb3/playlist.m3u8 
-#EXTINF:-1 group-title="UK4",iptvbin.com ESPN 
-http://31.220.0.196:8081/live/ctvb4/playlist.m3u8 
-#EXTINF:-1 group-title="UK4",FS 1 
-http://31.220.0.196:8081/live/fx11sx/playlist.m3u8 
-#EXTINF:-1 group-title="UK4",FS 2 
-http://31.220.0.196:8081/live/fx2sx/playlist.m3u8 
-
 
 
 
@@ -1774,24 +1773,6 @@ http://31.220.0.196:8081/live/fx2sx/playlist.m3u8
 
 #EXTINF:3 group-title="UK5", 
 
-#EXTINF:-1 group-title="UK5",SKY Sport 1
-http://cdnv.cli.tn/iptv/ch922?code=610116485444847
-#EXTINF:-1 group-title="UK5",Sky Sport 2
-http://cdnv.cli.tn/iptv/ch937?code=610116485444847
-#EXTINF:-1 group-title="UK5",SKY Sport 3
-http://cdnv.cli.tn/iptv/ch914?code=610116485444847
-#EXTINF:-1 group-title="UK5",SKY Sport 4
-http://cdnv.cli.tn/iptv/ch915?code=610116485444847
-#EXTINF:-1 group-title="UK5",SKY Sport 5
-http://cdnv.cli.tn/iptv/ch916?code=610116485444847
-#EXTINF:-1 group-title="UK5",Sport Mix
-http://cdnv.cli.tn/iptv/ch931?code=610116485444847
-#EXTINF:-1 group-title="UK5",BT Sport 1
-http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
-#EXTINF:-1 group-title="UK5",BT Sport 2
-http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
-#EXTINF:-1 group-title="UK5",BT Sport Extra
-http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
 
 
 
@@ -2158,92 +2139,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1126.m3u8$http-refferer
 
 #EXTINF:8 group-title="UK2-PREMIUM",
 
-#EXTINF:-1 group-title="UK2-PREMIUM",WWE Network
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/146.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",MUTV
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/145.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Chelsea TV
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/148.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Box Nation
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/44.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",At The Races
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/83.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Racing UK
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/84.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie Christmas (Ex-Drama)
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/68.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",SkyMovies Select
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/73.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie (SciFi&Horror)
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/72.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie (Premiere)
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/71.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie (Modern Greats)
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/70.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie (Family)
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/69.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie (Crime&Thriller)
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/67.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie (Comedy)
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/66.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie (Action&Adventure)
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/65.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",SkyMovies Disney
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/154.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Sky Atlantic
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/74.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",ITV 1 UK
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/52.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",ITV 2 UK
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/53.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",ITV 3 UK
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/54.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",ITV 4 UK
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/55.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",BBC 1 UK
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/22.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",BBC 2 UK
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/23.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",BBC 3 UK
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/24.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",BBC 4 UK
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/25.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports F1
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/80.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports F1 HQ
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/119.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports News
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/81.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports News HQ
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/118.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Eir Sports1
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/849.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Eir Sports2
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/850.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports Action (576p)
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/2133.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports Arena (576p)
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/2136.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports Cricket (576p)
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/2132.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports Football (576p)
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/2137.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports Golf (576p)
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/2134.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports Main Event (576p)
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/2131.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports Premier League (576p)
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/2135.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",BT Sports 1 (576p)
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/2138.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",BT Sports 2 (576p)
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/2139.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",BT Sports 3 (576p)
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/2140.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",BT Sports ESPN (576p)
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/2141.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports Mix
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/860.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
 
 
 
@@ -4139,48 +4034,6 @@ http://2.primatv.club:8450/live/Full0FB2018/A00ip18full/1463.ts|user-agent=VLC/3
 
 
 #EXTINF:8 group-title="France3-PREMIUM_MXplayer",
-
-#EXTINF:-1 group-title="France3-PREMIUM" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg" ,==France==
-http://..........
-#EXTINF:-1 group-title="France3-PREMIUM"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE: USE
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="France3-PREMIUM"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,ONLY
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="France3-PREMIUM"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,MXPlayer.
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="France3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="France3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="France3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="France3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="France3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="France3-PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="France3-PREMIUM"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
-http://...
-
-#EXTINF:-1 group-title="France3-PREMIUM",Canal + Sport
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/91.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="France3-PREMIUM",Canal +
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/90.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="France3-PREMIUM",Bein Movies 1 HD
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/351.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="France3-PREMIUM",Bein Movies 2 HD
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/352.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="France3-PREMIUM",Bein Movies 3 HD
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/353.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="France3-PREMIUM",Bein Movies 4 HD
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/354.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="France3-PREMIUM",Bein Sports 1 FR (576p)
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/2128.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="France3-PREMIUM",Bein Sports 2 FR (576p)
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/2129.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="France3-PREMIUM",Bein Sports 3 FR (576p)
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/2130.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
 
 
 
@@ -9096,60 +8949,6 @@ http://streamxcode.ddns.net:25461/live/gold/cold/5906.ts|refferer=http://solidst
 
 #EXTINF:9 group-title="India2-premium-MXPlayer",
 
-#EXTINF:-1 group-title="India2-premium" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png" ,==India==
-http://..........
-
-#EXTINF:-1 group-title="India2-premium"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE:
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="India2-premium"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="India2-premium"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="India2-premium"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="India2-premium"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="India2-premium"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="India2-premium"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="India2-premium" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
-http://.....
-
-#EXTINF:-1 group-title="India2-premium",Sony Ten 1
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/153.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="India2-premium",Sony Ten 2
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/152.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="India2-premium",Sony Ten 1 Backup
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/312.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="India2-premium",Sony Ten 2 Backup
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/313.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="India2-premium",Star Sports 1
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/115.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="India2-premium",Star Sports 2
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/150.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="India2-premium",Star Sports 1 Hindi
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/240.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="India2-premium",Star Sports 1 Tamil
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/149.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="India2-premium",Star Sports 1 Backup
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/435.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="India2-premium",Star Sports 2 Backup
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/436.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="India2-premium",Star Sports 1 Tamil Backup
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/438.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="India2-premium",Star Sports 1 Hindi Backup
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/437.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="India2-premium",Sony ESPN
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/759.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="India2-premium",Sony Six
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/6.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="India2-premium",Sony Six Backup
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/766.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="India2-premium",Sony Ten 3
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/815.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
-#EXTINF:-1 group-title="India2-premium",Sony Ten 3 Backup
-http://s1.wssiptv.com:8000/live/WSSFREE/qeoidjasdjnadaksjd/314.ts?.coms|user-agent=0000001_jkdhfjksdhfHHH
 
 
 
