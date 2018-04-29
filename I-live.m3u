@@ -37,16 +37,8 @@ rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" , Visit-X Tv 720P
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8?MWINFO		
-#EXTINF:-1 group-title="LIVE TV",BRAZZERS TV Europe 
-http://37.192.213.121:81/udp/239.1.6.40:1234 
-#EXTINF:-1 group-title="LIVE TV",РУССКАЯ НОЧЬ (RUSSIAN NIGHT)  
 
-#EXTINF:-1 group-title="LIVE TV",PLAYBOY TV 
 
-#EXTINF:-1 group-title="LIVE TV",Venus
-http://187.162.61.1:8010/play/a03z
-#EXTINF:-1 group-title="LIVE TV",Playboy
-http://187.162.61.1:8010/play/a03y
 
 
 
@@ -62,44 +54,67 @@ http://187.162.61.1:8010/play/a03y
 
 #EXTINF:1 group-title="LIVE TV2",
 
-#EXTINF:-1 group-title="LIVE TV2",Playboy
-http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/142/index.m3u8
-#EXTINF:-1 group-title="LIVE TV2",Nuart TV
-http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/264/index.m3u8
-#EXTINF:-1 group-title="LIVE TV2",Р СѓСЃСЃРєР°СЏ РЅРѕС‡СЊ
-http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/266/index.m3u8
-#EXTINF:-1 group-title="LIVE TV2",Blue Hustler
-http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/268/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Dorcel HD
+http://128.140.176.222:35035/udp/DorcelHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",Dorcel XXX HD
+http://128.140.176.222:35035/udp/DorcelXXXHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",Ero XXX HD
+http://128.140.176.222:35035/udp/EroXXXHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",Erox HD
+http://128.140.176.222:35035/udp/EroxHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
 #EXTINF:-1 group-title="LIVE TV2",Hustler HD
-http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/502/index.m3u8
-#EXTINF:-1 group-title="LIVE TV2",Hustler TV
-http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/755/index.m3u8
-#EXTINF:-1 group-title="LIVE TV2",Brazzers TV Europe
-http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/346/index.m3u8
+http://128.140.176.222:35035/udp/HustlerHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",Penthouse 1 HD
+http://128.140.176.222:35035/udp/Penthouse1HD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",Penthouse 2 HD
+http://128.140.176.222:35035/udp/Penthouse2HD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
 #EXTINF:-1 group-title="LIVE TV2",Private TV HD
-http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/354/index.m3u8
-#EXTINF:-1 group-title="LIVE TV2",Evil Angel TV
-http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/358/index.m3u8
-#EXTINF:-1 group-title="LIVE TV2",DUSK
-http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/359/index.m3u8
-#EXTINF:-1 group-title="LIVE TV2",SCT
-http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/360/index.m3u8
-#EXTINF:-1 group-title="LIVE TV2",Cento X Cento
-http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/361/index.m3u8
-#EXTINF:-1 group-title="LIVE TV2",Sesto Senso
-http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/362/index.m3u8
-#EXTINF:-1 group-title="LIVE TV2",XMUVI
-http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/363/index.m3u8
-#EXTINF:-1 group-title="LIVE TV2",Pink O TV
-http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/365/index.m3u8
-#EXTINF:-1 group-title="LIVE TV2",XXL
-http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/500/index.m3u8
+http://128.140.176.222:35035/udp/PrivateTVHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
 #EXTINF:-1 group-title="LIVE TV2",Redlight HD
-http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/501/index.m3u8
-#EXTINF:-1 group-title="LIVE TV2",Vivid TV Europe
-http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/754/index.m3u8
-#EXTINF:-1 group-title="LIVE TV2",Zest TV
-http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/855/index.m3u8
+http://128.140.176.222:35035/udp/RedlightHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",SuperOne HD
+http://128.140.176.222:35035/udp/SuperOneHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",Brazzers TV Europe
+http://128.140.176.222:35035/udp/BrazzersTVEurope:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",Cento X Cento TV
+http://128.140.176.222:35035/udp/CentoXCentoTV:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",Dorcel
+http://128.140.176.222:35035/udp/DorcelTV:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",DUSK
+http://128.140.176.222:35035/udp/DUSK:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",Exotica Plus
+http://128.140.176.222:35035/udp/ExoticaPlus:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",Evil Angel TV
+http://128.140.176.222:35035/udp/EvilAngel:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",Frenchlover TV
+http://128.140.176.222:35035/udp/Frenchlover:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",HOT
+http://128.140.176.222:35035/udp/HOT:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",Hustler TV
+http://128.140.176.222:35035/udp/HustlerTV:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",Passion XXX
+http://128.140.176.222:35035/udp/PassionXXX:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",Pinko TV
+http://128.140.176.222:35035/udp/PinkoTV:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",Private TV
+http://128.140.176.222:35035/udp/PrivateTV:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",SCT
+http://128.140.176.222:35035/udp/SCT:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",Sexto Senso TV Italia
+http://128.140.176.222:35035/udp/SextoSensoTV:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",SuperOne
+http://128.140.176.222:35035/udp/SuperOne:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",Venus
+http://128.140.176.222:35035/udp/Venus:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",X Bizarre
+http://128.140.176.222:35035/udp/XBizarre:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",X Bunga Bunga
+http://128.140.176.222:35035/udp/XBungaBunga:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",X Desire
+http://128.140.176.222:35035/udp/XDesire:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1 group-title="LIVE TV2",X Muvi
+http://128.140.176.222:35035/udp/XMuvi:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+
 
 
 
