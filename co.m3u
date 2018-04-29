@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 http://.....
 
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,28/04/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,29/04/18
 http://.....
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -768,6 +768,27 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
 #EXTINF:3 group-title="USA2", 
 
+#EXTINF:1 group-title="USA2" tvg-logo="http://www.cyma.ca/images/usa5b15d.gif" ,===USA===
+http://..........
+
+#EXTINF:-1 group-title="USA2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" ,TLC 
+http://wowza2.mysoltv.com:1992/UK_ENG_tlc/index.m3u8
+#EXTINF:-1 group-title="USA2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" ,INVESTIGATION DISCOVERY 
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_id/index.m3u8
+#EXTINF:-1 group-title="USA2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430" ,DISCOVERY +1 
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_science/index.m3u8
+#EXTINF:-1 group-title="USA2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" ,DISCOVERY TURBO 
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_turbo/index.m3u8
+#EXTINF:-1 group-title="USA2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Discovery_Home_%26_Health_Asia.svg/1280px-Discovery_Home_%26_Health_Asia.svg.png" ,DISCOVERY HOME & HEALTH 
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_home/index.m3u8
+#EXTINF:-1 group-title="USA2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043" ,BABY TV 
+http://wowza2.mysoltv.com:1992/UK_UK_Baby/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="USA2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1180px-H2_TV_logo.svg.png" ,H2 
+http://wowza2.mysoltv.com:1992/UK_ENG_history2/index.m3u8
+#EXTINF:-1 group-title="USA2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/2000px-History_Logo_2008-2015.svg.png" ,HISTORY 
+http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
+#EXTINF:-1 group-title="USA2" tvg-logo="http://i.imgur.com/udcCfFP.png" ,FUEL TV 
+http://wowza2.mysoltv.com:1992/USA_FUEL_HD/index.m3u8
 
 
 
@@ -1355,6 +1376,28 @@ http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34b
 
 #EXTINF:3 group-title="UK2", 
 
+#EXTINF:1 group-title="UK2" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
+http://..........
+
+#EXTINF:-1 group-title="UK2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" ,TLC 
+http://wowza2.mysoltv.com:1992/UK_ENG_tlc/index.m3u8
+#EXTINF:-1 group-title="UK2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" ,INVESTIGATION DISCOVERY 
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_id/index.m3u8
+#EXTINF:-1 group-title="UK2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430" ,DISCOVERY +1 
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_science/index.m3u8
+#EXTINF:-1 group-title="UK2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" ,DISCOVERY TURBO 
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_turbo/index.m3u8
+#EXTINF:-1 group-title="UK2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Discovery_Home_%26_Health_Asia.svg/1280px-Discovery_Home_%26_Health_Asia.svg.png" ,DISCOVERY HOME & HEALTH 
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_home/index.m3u8
+#EXTINF:-1 group-title="UK2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043" ,BABY TV 
+http://wowza2.mysoltv.com:1992/UK_UK_Baby/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="UK2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1180px-H2_TV_logo.svg.png" ,H2 
+http://wowza2.mysoltv.com:1992/UK_ENG_history2/index.m3u8
+#EXTINF:-1 group-title="UK2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/2000px-History_Logo_2008-2015.svg.png" ,HISTORY 
+http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
+#EXTINF:-1 group-title="UK2" tvg-logo="http://i.imgur.com/udcCfFP.png" ,FUEL TV 
+http://wowza2.mysoltv.com:1992/USA_FUEL_HD/index.m3u8
+
 
 
 
@@ -1375,6 +1418,14 @@ http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34b
 #EXTINF:1 group-title="UK3" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
 http://..........
 #EXTINF:-1 group-title="UK3"tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE:
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="UK3"tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,OFFLINE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="UK3"tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,DUE TO
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="UK3"tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,TECHNICAL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="UK3"tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,PROBLEMS
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 group-title="UK3"tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
 https://www.youtube.com/watch?v=t4RRga0RUr8
@@ -1760,7 +1811,18 @@ http://163.172.15.141:9732/live?channelId=259&uid=987&deviceMac=00:1A:79:4A:84:A
 
 #EXTINF:3 group-title="UK4", 
 
-
+#EXTINF:-1 group-title="UK4",BT SPORT 2 
+http://31.220.0.196:8081/live/ctvb2/playlist.m3u8 
+#EXTINF:-1 group-title="UK4",BT SPORT 1 
+http://31.220.0.196:8081/live/ctvb1/playlist.m3u8 
+#EXTINF:-1 group-title="UK4",BT SPORT 3 
+http://31.220.0.196:8081/live/ctvb3/playlist.m3u8 
+#EXTINF:-1 group-title="UK4",iptvbin.com ESPN 
+http://31.220.0.196:8081/live/ctvb4/playlist.m3u8 
+#EXTINF:-1 group-title="UK4",FS 1 
+http://31.220.0.196:8081/live/fx11sx/playlist.m3u8 
+#EXTINF:-1 group-title="UK4",FS 2 
+http://31.220.0.196:8081/live/fx2sx/playlist.m3u8 
 
 
 
@@ -2149,129 +2211,129 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1126.m3u8$http-refferer
 http://..........
 
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports Main Event
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2131.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2131.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports Cricket
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2132.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2132.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports Action
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2133.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2133.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports Golf
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2134.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2134.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports Premier League
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2135.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2135.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports Football
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2137.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2137.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports Arena
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2136.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2136.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",BT Sports 1
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2138.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2138.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",BT Sports 2
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2139.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2139.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",BT Sports 3
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2140.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2140.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",BT Sports ESPN
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2141.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2141.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Cinema Hits
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2422.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2422.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie Action&Adventure (Backup)
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2421.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2421.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie Comedy (Backup)
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2420.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2420.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie Christmas Ex-Drama (Backup)
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2419.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2419.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie Modern Greats (Backup)
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2418.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2418.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie Premiere (Backup)
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2417.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2417.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie SciFi&Horror (Backup)
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2416.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2416.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie Select
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2415.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2415.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie Showcase
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2414.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2414.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie Action&Adventure
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/65.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/65.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie Comedy
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/66.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/66.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie Crime&Thriller
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/67.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/67.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie Family
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/69.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/69.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie Modern Greats
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/70.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/70.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie Premiere
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/71.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/71.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie SciFi&Horror
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/72.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/72.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Movie Christmas Ex-Drama
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/68.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/68.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",SkyMovies Disney
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/154.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/154.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",SkyMovies Select
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/73.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/73.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports F1
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/80.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/80.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports F1 HQ
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/119.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/119.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports Mix
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/860.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/860.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports News
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/81.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/81.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports News HQ
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/118.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/118.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports F1 HD Backup
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2464.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2464.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Sports News HD Backup
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2463.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2463.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Setanta Sports
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/57.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/57.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Sky Atlantic
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/74.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/74.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",SportsNetWorld
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/467.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/467.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",ITV 1 UK
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/52.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/52.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",ITV 2 UK
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/53.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/53.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",ITV 3 UK
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/54.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/54.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",ITV 4 UK
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/55.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/55.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",BBC 1 UK
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/22.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/22.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",BBC 2 UK
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/23.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/23.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",BBC 3 UK
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/24.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/24.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",BBC 4 UK
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/25.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/25.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Willow Cricket
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/117.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/117.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Willow Cricket Backup
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/434.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/434.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",WWE Network
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/146.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/146.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Box Nation
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/44.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/44.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Box Nation Backup
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/780.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/780.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",British Eurosport 1
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/50.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/50.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",British Eurosport 1  Backup
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2156.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2156.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",British Eurosport 2
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/51.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/51.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",British Eurosport 2 Backup
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/2157.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/2157.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Chelsea TV
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/148.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/148.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Eir Sports1
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/849.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/849.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",Eir Sports2
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/850.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/850.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",ESPN 2 USA
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/49.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/49.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 #EXTINF:-1 group-title="UK2-PREMIUM",ESPN USA
-http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/48.ts|user-agent=3sdfsdf33sdf
+http://live1.livetvindia.co.in:8000/live/0000001_jkdhfjksdhfHHH/0000001_jkdhfjksdhfHHH/48.m3u8|user-agent=0000001_jkdhfjsdhfHHHH
 
 
 
@@ -2303,6 +2365,10 @@ http://live1.livetvindia.co.in:8000/live/3sdfsdf33sdf/3sdfsdf33sdf/48.ts|user-ag
 
 
 #EXTINF:8 group-title="UK4-PREMIUM",
+
+
+
+
 
 
 
@@ -2705,67 +2771,7 @@ http://185.134.228.141:8891
 
 
 #EXTINF:-1 group-title="Bulgaria2",
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/255px-Flag_of_Bulgaria.svg.png" ,==Bulgaria==
-http://..........
 
-#EXTINF:-1 group-title="Bulgaria2",BNT 1
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/327.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",BNT 2
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/969.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",BNT HD
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/769.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",bTV
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/23.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",Nova TV
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/152.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",Kanal 3
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/613.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",TV Plus
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/586.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",Alfa TV
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/581.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",Skat TV
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/966.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",Diema
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/967.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",TV EVROPA
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/923.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",Bulgaria On Air
-http://sweip.noip.me:9090/live/sevgin22/ RZIA3dU56b/585.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",Bulgaria 24 
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/1042.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",Action
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/33.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",Kino Nova
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/732.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",HOBBY TV
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/155.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",Hobby Lov BG 
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/1356.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",bTV Action
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/1004.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",Disney Channel
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/1354.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",Cartoon Network  
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/1355.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",Sport Plus
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/1003.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",Diema Sport 1 
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/864.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",Diema Sport 2
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/865.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",Ring
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/731.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",Planeta TV 
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/611.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",FEN TV
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/328.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",Balkanika  
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/329.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",ROMA TV
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/28.m3u8 
-#EXTINF:-1 group-title="Bulgaria2",Box TV
-http://sweip.noip.me:9090/live/sevgin22/RZIA3dU56b/24.m3u8
 
 
 
@@ -3018,7 +3024,6 @@ http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/975/inde
 http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/970/index.m3u8
 #EXTINF:-1 group-title="Italy2" ,Rai 5
 http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/971/index.m3u8
-
 
 
 
@@ -4191,6 +4196,14 @@ http://2.primatv.club:8450/live/Full0FB2018/A00ip18full/1463.ts|user-agent=VLC/3
 http://..........
 #EXTINF:-1 group-title="France4-PREMIUM"  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
 https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="France4-PREMIUM" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,OFFLINE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="France4-PREMIUM" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,DUE TO
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="France4-PREMIUM" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,TECHNICAL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="France4-PREMIUM" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,PROBLEMS
+https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 group-title="France4-PREMIUM"  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 group-title="France4-PREMIUM"  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,NOT WORK MEANS
@@ -4704,65 +4717,6 @@ http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/802/inde
 
 #EXTINF:8 group-title="Germany3",
 
-#EXTINF:-1 group-title="Germany3" tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif" ,==Germany==
-http://..........
-
-#EXTINF:-1 group-title="Germany3",RTL Television
-http://95.91.20.4:9981/stream/channelid/994686115
-#EXTINF:-1 group-title="Germany3",RTL2
-http://95.91.20.4:9981/stream/channelid/1769763664
-#EXTINF:-1 group-title="Germany3",ProSieben
-http://95.91.20.4:9981/stream/channelid/380885991
-#EXTINF:-1 group-title="Germany3",n-tv
-http://95.91.20.4:9981/stream/channelid/883453294
-#EXTINF:-1 group-title="Germany3",WELT
-http://95.91.20.4:9981/stream/channelid/695208954
-#EXTINF:-1 group-title="Germany3",ZDFinfo HD
-http://95.91.20.4:9981/stream/channelid/86632655
-#EXTINF:-1 group-title="Germany3",zdf_neo HD
-http://95.91.20.4:9981/stream/channelid/7581338
-#EXTINF:-1 group-title="Germany3",KiKA HD
-http://95.91.20.4:9981/stream/channelid/149986921
-#EXTINF:-1 group-title="Germany3",SUPER RTL
-http://95.91.20.4:9981/stream/channelid/1114091962
-#EXTINF:-1 group-title="Germany3",3sat HD
-http://95.91.20.4:9981/stream/channelid/1045342298
-#EXTINF:-1 group-title="Germany3",WDR HD Köln
-http://95.91.20.4:9981/stream/channelid/658751735
-#EXTINF:-1 group-title="Germany3",BR Fernsehen Süd HD
-http://95.91.20.4:9981/stream/channelid/1875357578
-#EXTINF:-1 group-title="Germany3",NDR FS HH HD
-http://95.91.20.4:9981/stream/channelid/1281512471
-#EXTINF:-1 group-title="Germany3",SWR BW HD
-http://95.91.20.4:9981/stream/channelid/1655824077
-#EXTINF:-1 group-title="Germany3",Eurosport 1 Deutschland
-http://95.91.20.4:9981/stream/channelid/795632716
-#EXTINF:-1 group-title="Germany3",SPORT1
-http://95.91.20.4:9981/stream/channelid/1500356822a
-#EXTINF:-1 group-title="Germany3",MDR AKTUELL
-http://95.91.20.4:9981/stream/channelid/230389445
-#EXTINF:-1 group-title="Germany3",sunshine live
-http://95.91.20.4:9981/stream/channelid/1674166734
-#EXTINF:-1 group-title="Germany3",MDR JUMP
-http://95.91.20.4:9981/stream/channelid/2138474199
-#EXTINF:-1 group-title="Germany3",MDR SACHSEN
-http://95.91.20.4:9981/stream/channelid/333005635
-#EXTINF:-1 group-title="Germany3",ZDF
-http://95.91.20.4:9981/stream/channelid/1192190377
-#EXTINF:-1 group-title="Germany3",Das Erste HD
-http://95.91.20.4:9981/stream/channelid/1056706857
-#EXTINF:-1 group-title="Germany3",ZDF HD
-http://95.91.20.4:9981/stream/channelid/609522864
-#EXTINF:-1 group-title="Germany3",MDR Sachsen HD
-http://95.91.20.4:9981/stream/channelid/1036152772
-#EXTINF:-1 group-title="Germany3",SAT.1
-http://95.91.20.4:9981/stream/channelid/1002884902
-#EXTINF:-1 group-title="Germany3",SPORT1
-http://95.91.20.4:9981/stream/channelid/1500356822
-#EXTINF:-1 group-title="Germany3",Eurosport 1 HD
-http://95.91.20.4:9981/stream/channelid/584513551
-#EXTINF:-1 group-title="Germany3",Eurosport 2 HD
-http://95.91.20.4:9981/stream/channelid/70565368
 
 
 
@@ -4941,11 +4895,15 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 #EXTINF:-1 group-title="Germany3-PREMIUM" tvg-logo=https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif ,==Germany==
 http://..........
 
-#EXTINF:-1 group-title="Germany3-PREMIUM"  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE: USE
+#EXTINF:-1 group-title="Germany3-PREMIUM"  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,NOTE:
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany3-PREMIUM"  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,ONLY
+#EXTINF:-1 group-title="Germany3-PREMIUM" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,OFFLINE
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Germany3-PREMIUM"  tvg-logo=http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg ,MXPlayer.
+#EXTINF:-1 group-title="Germany3-PREMIUM" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,DUE TO
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Germany3-PREMIUM" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,TECHNICAL
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 group-title="Germany3-PREMIUM" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,PROBLEMS
 https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:-1 group-title="Germany3-PREMIUM"  tvg-logo=http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png ,IF 2-3 CHANNELS
 https://www.youtube.com/watch?v=t4RRga0RUr8
@@ -10843,57 +10801,6 @@ http://2.primatv.club:8450/live/Full0FB2018/A00ip18full/1293.ts|user-agent=VLC/3
 
 #EXTINF:9 group-title="United.Arab.Emirates4_PREMIUM",
 
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png" ,==U.A.E==
-http://..........
-
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE:
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
-http://.....
-
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC 1
-httphost://$http-raw=http://www.janjuaplayer.com/hembedplayer/mbc_11/2/600/420$http-refferer=http://arembed.com/live.php?ch=MBC_1
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC 2
-httphost://$http-raw=http://www.janjuaplayer.com/hembedplayer/mbc_22/2/600/420$http-refferer=http://arembed.com/live.php?ch=MBC_2
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC 3
-httphost://$http-raw=http://www.janjuaplayer.com/hembedplayer/mbc_3333/2/600/420$http-refferer=http://arembed.com/live.php?ch=MBC_3
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC 4
-httphost://$http-raw=http://www.janjuaplayer.com/hembedplayer/mbc_44/2/600/420$http-refferer=http://arembed.com/live.php?ch=MBC_4
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC Action
-httphost://$http-raw=http://www.janjuaplayer.com/hembedplayer/mbc_actions1/2/600/420$http-refferer=http://arembed.com/live.php?ch=MBC_Action
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC Drama
-httphost://$http-raw=http://www.janjuaplayer.com/hembedplayer/mbc_darama/2/600/420$http-refferer=http://arembed.com/live.php?ch=MBC_Drama
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC MAsr
-httphost://$http-raw=http://www.janjuaplayer.com/hembedplayer/mbc_masr1/2/600/420$http-refferer=http://arembed.com/live.php?ch=MBC_Masr
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC Masr 2
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/masr2rer/2/600/420$http-refferer=http://arembed.com/live.php?ch=MBC_Masr_2
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC Max
-httphost://$http-raw=http://www.janjuaplayer.com/hembedplayer/Mbc_max1/2/600/420$http-refferer=http://arembed.com/live.php?ch=MBC_Max
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Zee Alwan
-httphost://$http-raw=http://www.janjuaplayer.com/hembedplayer/zee_alwan1/2/600/420$http-refferer=http://arembed.com/live.php?ch=Zee_Alwan
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",2M Morroco
-httphost://$http-raw=http://www.janjuaplayer.com/hembedplayer/2m_morroco/2/600/420$http-refferer=http://arembed.com/live.php?ch=2M_Morroco
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC Sports 1
-httphost://$http-raw=http://www.janjuaplayer.com/hembedplayer/mbc_1pqro/2/600/420$http-refferer=http://arembed.com/live.php?ch=MBC_Sports1
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC Sports 2
-httphost://$http-raw=http://www.janjuaplayer.com/hembedplayer/mbc2_001a/2/600/420$http-refferer=http://arembed.com/live.php?ch=MBC_Sports2
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC Sports 3
-httphost://$http-raw=http://www.janjuaplayer.com/hembedplayer/mbcspor3/2/600/420$http-refferer=http://arembed.com/live.php?ch=MBC_Sports3
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",MBC Sports 4
-httphost://$http-raw=http://www.janjuaplayer.com/hembedplayer/mbcspor3/2/600/420$http-refferer=http://arembed.com/live.php?ch=MBC_Sports4
-
 
 
 
@@ -10980,6 +10887,46 @@ rtmp://203.113.166.233/live/NTV_VIDEO
 http://210.245.20.94/hls/ktv1.m3u8
 #EXTINF:-1 group-title="Vietnam" tvg-logo="https://goo.gl/tDSGow",PTP - Phú Yên
 http://113.161.4.48:8080/phuyen/tv.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:9 group-title="Serbia",
+
+#EXTINF:-1 group-title="Serbia"  ,=Serbia=
+http://..........
+
+#EXTINF:-1 group-title="Serbia" ,ARENA1 
+rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA1 
+#EXTINF:-1 group-title="Serbia" ,ARENA2 
+rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA2 
+#EXTINF:-1 group-title="Serbia" ,ARENA3 
+rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA3 
+#EXTINF:-1 group-title="Serbia" ,ARENA4 
+rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA4 
+#EXTINF:-1 group-title="Serbia" ,ARENA5 
+rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA5
 
 
 
