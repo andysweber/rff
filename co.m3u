@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 http://.....
 
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,02/05/18 !
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,03/05/18 
 http://.....
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -1799,7 +1799,38 @@ http://31.220.0.196:8081/live/fx2sx/playlist.m3u8
 
 #EXTINF:3 group-title="UK5", 
 
-
+#EXTINF:0 group-title="UK5", BT Sport 1 
+http://185.53.163.205:2700 
+#EXTINF:0 group-title="UK5", BT Sport 2 
+http://185.53.163.205:2506 
+#EXTINF:0 group-title="UK5", BT Sport 3 
+http://185.53.163.205:2701 
+#EXTINF:0 group-title="UK5", BT Sport ESPN 
+http://185.53.163.205:2507 
+#EXTINF:0 group-title="UK5", BT Sport Extra 1 
+http://185.53.163.205:2707 
+#EXTINF:0 group-title="UK5", BT Sport Extra 2 
+http://185.53.163.205:2500 
+#EXTINF:0 group-title="UK5", BT Sport Extra 3 
+http://185.53.163.205:2501 
+#EXTINF:0 group-title="UK5", BT Sport Extra 4 
+http://185.53.163.205:2502 
+#EXTINF:0 group-title="UK5", BT Sport Extra 5 
+http://185.53.163.205:2503 
+#EXTINF:0 group-title="UK5", BT Sport Extra 6 
+http://185.53.163.205:2504 
+#EXTINF:0 group-title="UK5", Sky Sports 1 UK 
+http://185.53.163.212:2312 
+#EXTINF:0 group-title="UK5", Sky Sports 2 UK 
+http://185.53.163.212:2313 
+#EXTINF:0 group-title="UK5", Sky Sports 3 UK 
+http://185.53.163.212:2314 
+#EXTINF:0 group-title="UK5", Sky Sports 4 UK 
+http://185.53.163.212:19702 
+#EXTINF:0 group-title="UK5", Sky Sports 5 UK 
+http://185.53.163.212:19700 
+#EXTINF:0 group-title="UK5", Sky Sports F1 UK 
+http://185.53.163.212:2310
 
 
 
@@ -10898,20 +10929,6 @@ http://113.161.4.48:8080/phuyen/tv.m3u8
 
 
 #EXTINF:9 group-title="Serbia",
-
-#EXTINF:-1 group-title="Serbia"  ,=Serbia=
-http://..........
-
-#EXTINF:-1 group-title="Serbia" ,ARENA1 
-rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA1 
-#EXTINF:-1 group-title="Serbia" ,ARENA2 
-rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA2 
-#EXTINF:-1 group-title="Serbia" ,ARENA3 
-rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA3 
-#EXTINF:-1 group-title="Serbia" ,ARENA4 
-rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA4 
-#EXTINF:-1 group-title="Serbia" ,ARENA5 
-rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA5
 
 
 
