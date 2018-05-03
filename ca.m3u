@@ -266,82 +266,41 @@ http://91.149.172.100:80/channel?id=134&u=demo&p=demo
 http://91.149.172.100:80/channel?id=20&u=demo&p=demo 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://www.schau-hd.tv/attachments/162/mtv.png",MTV HD 
 http://91.149.172.100:80/channel?id=4&u=demo&p=demo 
-#EXTINF:-1 group-title="MUSIC",Music Box
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://antele.pro/wp-content/uploads/2017/04/musicbox.png",Music Box
 http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",M tv
+#EXTINF:-1 group-title="MUSIC" ,M TV
 http://81.30.182.82:18092/hls/live.m3u8
-#EXTINF:-1 group-title="MUSIC",CAPITAL TV
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Capital-TV-NEW.png",CAPITAL TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:-1 group-title="MUSIC",Capital TV
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://media-assets-03.thedrum.com/cache/images/thedrum-prod/public-drum_basic_article-120126-main_images-Capital_FM_Network_logo_0--default--300.png",Capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
-#EXTINF:-1 group-title="MUSIC", Heart TV
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://www.thaiptv.com/img/hearttv.jpg", Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:-1 group-title="MUSIC",NRJ Hits
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://online-red.com/images/tv/nrj-hits-tv.png",NRJ Hits  
 http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
-#EXTINF:-1 group-title="MUSIC",NRJ TV
-rtmp://rtmp.infomaniak.ch:1935/livecast/energytv
-#EXTINF:0 group-title="MUSIC",MUSIC VOX TV
-rtmp://stream.smcloud.net/live/vox2/stream1
-#EXTINF:0 group-title="MUSIC",Telehit
-http://159.203.63.115:8081/rstm/Telehit/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",JuceTV Music
-http://109.68.190.192:1935/WEB_JuceTV/JuceTV.stream/playlist.m3u8 
-#EXTINF:0 group-title="MUSIC",First Music Channel
+#EXTINF:0 group-title="MUSIC" tvg-logo="https://live-tv-channels.net/pt-data/uploads/logo/by-first-music-channel-hd.jpg",First Music Channel
 rtmp://rtmp.one.by/SD/1muz
-#EXTINF:0 group-title="MUSIC",RETRO Music TV
-http://212.79.96.134:8018
-#EXTINF:0 group-title="MUSIC",DjinG
-http://cdn.djing.com/tv/d-05.m3u8
-#EXTINF:0 group-title="MUSIC",Djing Animation HD
-http://cdn.djing.com/tv/a-05.m3u8
-#EXTINF:0 group-title="MUSIC",Djing Classic HD
-http://www.djing.com/tv/i-05.m3u8
-#EXTINF:0 group-title="MUSIC",Djing Ibiza HD
-http://cdn.djing.com/tv/d-05.m3u8
-#EXTINF:0 group-title="MUSIC",Djing Underground HD
-http://cdn.djing.com/tv/u-05.m3u8
-#EXTINF:0 group-title="MUSIC", HD Live Mix (Music) (US) (English)
-rtmp://91.201.78.3:1935/live/rockhd
-#EXTINF:0 group-title="MUSIC", HD One Classic (Music) (US) (English)
-rtmp://91.201.78.3:1935/live/classicshd
-#EXTINF:0 group-title="MUSIC", HD One Dance (Music) (US) (English)
-rtmp://91.201.78.3:1935/live/dancehd
-#EXTINF:0 group-title="MUSIC", HD One Jazz (Music) (US) (English)
-rtmp://91.201.78.3:1935/live/jazzhd
-#EXTINF:0 group-title="MUSIC", HD One Pop (Music) (US) (English)
-rtmp://91.201.78.3:1935/live/pophd
-#EXTINF:0 group-title="MUSIC", HD One Rock (Music) (US) (English)
-rtmp://91.201.78.3:1935/live/rockhd
-#EXTINF:0 group-title="MUSIC",Kiss TV
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:0 group-title="MUSIC",Radio 105 TV
+#EXTINF:0 group-title="MUSIC" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2014/12/djing-200x141.jpg",DjinG   
+https://www.djing.com/tv/d-28081-04.m3u8
+#EXTINF:0 group-title="MUSIC" tvg-logo="https://ulango.tv/uploads/channels/355362/logo_djing%20animation1.png",Djing Animation HD
+https://www.djing.com/tv/a-28081-04.m3u8
+#EXTINF:0 group-title="MUSIC" tvg-logo="http://vivotvhd.com/img/cha/2.gif",Djing Classic HD
+https://www.djing.com/tv/i-28081-04.m3u8
+#EXTINF:0 group-title="MUSIC" tvg-logo="http://5.189.166.30/LBox/Divers/Logos/Musica/DJING_IBIZA.png",Djing Ibiza HD
+https://www.djing.com/tv/d-28081-04.m3u8
+#EXTINF:0 group-title="MUSIC" tvg-logo="http://www.elitgrafik.com/m/tv/tv_logo_k/169.jpg",Djing Underground HD
+https://www.djing.com/tv/u-28081-04.m3u8
+#EXTINF:0 group-title="MUSIC" tvg-logo=" https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/b8/38/15/b8381545-a4ef-9964-a41f-769e6e68173c/mzl.viicybue.png/246x0w.jpg",Radio 105 TV   
 rtmp://fms.105.net:1935/live/105Test1#gfgyut9991.ch?token=0.861700,1.03854
-#EXTINF:0 group-title="MUSIC",Radio Monte Carlo TV
+#EXTINF:0 group-title="MUSIC" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/06/RMC-TV-Turkey.jpg",Radio Monte Carlo TV
 rtmp://fms.105.net:1935/live/rmc1
-#EXTINF:0 group-title="MUSIC",Virgin TV
+#EXTINF:0 group-title="MUSIC" tvg-logo="http://static.radio.pt/images/broadcasts/15/43/8275/1/c175.png",Virgin TV
 rtmp://fms.105.net:1935/live/virgin1
-#EXTINF:-1 group-title="MUSIC" tvg-logo="Virgin Radio Tv.png",VIRGIN TV
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://static.radio.pt/images/broadcasts/15/43/8275/1/c175.png",VIRGIN TV
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
-#EXTINF:0 group-title="MUSIC",Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="MUSIC",BMP
-mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_med
-#EXTINF:0 group-title="MUSIC",Polo TV
-rtmp://stream.smcloud.net/live/polotv
-#EXTINF:-1 group-title="MUSIC",M6 MUSIC FRANCE
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-#EXTINF:-1 group-title="MUSIC",tvaztec Honduras
-http://aztecalive-lh.akamaihd.net:80/i/142kvpq0l_1@67741/master.m3u8
 #EXTINF:0 group-title="MUSIC",C Music World TV
 mmsh://streaming.cmusic.tv/cmusicworld-tv
-#EXTINF:0 group-title="MUSIC",ELECTROSOUND TV
-http://www.electrosound.tv:1935/public/stream/chunklist.m3u8
-#EXTINF:0 group-title="MUSIC",ESKA TV
-http://stream.smcloud.net/live/eskatv/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",Deluxe Music
-http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
-#EXTINF:0 group-title="MUSIC",KroneHIT Music
-http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
+
 
 
 
@@ -367,48 +326,25 @@ http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 
 #EXTINF:4 group-title="Sports",
 
-#EXTINF:-1 group-title="Sports",BEIN SPORTs NEW HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.telechargerlogiciel.com/wp-content/uploads/2017/07/beIN-SPORTS.png",BEIN SPORTs NEW HD   
 https://www.youtube.com/watch?v=k9A3O-Kc_PQ
-
-#EXTINF:-1 group-title="Sports",ADSport 1HD 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.livetvhd.net/thumbs/Abu-Dhabi-Sports-1.jpg",ADSport 1HD 
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 
-#EXTINF:-1 group-title="Sports",ADSport 2HD 
+#EXTINF:-1 group-title="Sports" tvg-logo="http://ulango.tv/uploads/channels/5404/%20%D8%A3%D8%A8%D9%88%20%D8%B8%D8%A8%D9%8A%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9%202.png",ADSport 2HD 
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8 
-
-#EXTINF:-1 group-title="Sports",SPORTS TV
+#EXTINF:-1 group-title="Sports" tvg-logo="http://basketdergisi.com/uploads/dosyalar/2010/10/sports_tv_logo.jpg",SPORTS TV  
 http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
-#EXTINF:-1 group-title="Sports",ALL Sports 
+#EXTINF:-1 group-title="Sports" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png",ALL Sports 
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-1 group-title="Sports",REAL MADRID TV
+#EXTINF:-1 group-title="Sports" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/realm.png",REAL MADRID TV 
 http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-#EXTINF:-1 group-title="Sports",Real Madrid Tv
+#EXTINF:-1 group-title="Sports"  tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/realm.png",Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 group-title="Sports",Eurosport 1 (MXPlayer)
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/50.ts|user-agent=wSsS
-#EXTINF:-1 group-title="Sports",Eurosport 2 (MXPlayer)
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/51.ts|user-agent=wSsS
-#EXTINF:-1 group-title="Sports",Eurosport 2 HD (Po/EN)
+#EXTINF:-1 group-title="Sports" tvg-logo="http://pub.ceskasit.cz/kouzelna-tv/loga/eurosport_2_hd.png",Eurosport 2 HD (Po/EN)  
 http://195.206.253.157:8001/eurosport2hd
-#EXTINF:-1 group-title="Sports",Versus HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://files.ctctcdn.com/b3ee691f001/21d24f03-f480-4017-ac90-2da2c0574fa6.jpg",Versus HD
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-#EXTINF: 0,PAC-12 Bay
-http://www.xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF: 0,PAC-12 Bay
-http://xrxs.net/video/live-p12baya-2328.m3u8
-#EXTINF: 0,PAC-12 Oregon
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF: 0,PAC-12 Network
-http://www.xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1 group-title="Sports",USA-BASKET UNI.(Arizona)
-http://xrxs.net/video/live-p12ariz-1164.m3u8
-#EXTINF:-1 group-title="Sports",USA-BASKET UNI.(Los Angeles)
-http://xrxs.net/video/live-p12losa-1164.m3u8
-#EXTINF:-1 group-title="Sports",USA-BASKET UNI.(Moutain)
-http://xrxs.net/video/live-p12moun-1164.m3u8
-#EXTINF:-1 group-title="Sports",USA-BASKET UNI.(Oregon)
-http://xrxs.net/video/live-p12oreg-1164.m3u8
-#EXTINF:-1 group-title="Sports",USA-BASKET UNI.(Washington)
-http://xrxs.net/video/live-p12wash-2328.m3u8
+
 
 
 
