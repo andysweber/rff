@@ -379,46 +379,34 @@ http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
 #EXTINF:5 group-title="NEWS",
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://forums.tvnewstalk.net/data/avatars/l/0/148.jpg" ,ABC News 9 (Orlando)
-http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/master.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://kutv2productions.com/images/KUTV2Productions_SplashImage_972x510.jpg" ,CBS 2 (Salt Lake City)
-http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://uncubed.com/wp-content/uploads/2014/07/cbslocal.png" ,CBS 2 News (New York)
-http://play-prod1.live.anvato.net/server/play/cbslocal-wcbsx-dfp/master.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/WJMN-TV_2006_Logo.png/200px-WJMN-TV_2006_Logo.png" ,CBS 3 News (Michigan)
-http://wjmn-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:-1 group-title="NEWS",Al Jazeera English
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:-1 group-title="NEWS",Al Jazeera HD (EN)
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://tribwttv.files.wordpress.com/2017/03/cropped-cbs4512.png" ,CBS 4 News (Indianapolis)
 http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://kpho.images.worldnow.com/images/490348_G.jpg" ,CBS 5 News (Arizona)
-http://wnmeredithaz-lh.akamaihd.net/i/MEREDITHAZ_1313@308211/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9e/KREX-TV_2005.jpg" ,CBS 5 News (Colorado)
 http://krex-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://channelpear.com/images/media/14552.jpg" ,CBS 13 News (Stockton)
-http://play-prod1.live.anvato.net/server/play/cbslocal-kovrx-dfp/master.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://jacksonville.com/sites/default/files/styles/teaser__620x350/public/field/image/749636_web1_msms_CBS47.jpg" ,CBS 47 News (Jacksonville)
-http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://cdn.diena.lv/agency/58414e6747b69.jpg", DW
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://cdn.diena.lv/agency/58414e6747b69.jpg",DWTV
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2013/06/wttg-logo_304x200.jpg" ,Fox 5 News (Washington DC)
 https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://media.myfoxmemphiscom.cmgdigital.com/theme/images/placeholder-16x9.jpg" ,FOX 13 News (Memphis)
-http://cmghlslive-i.akamaihd.net/hls/live/224672/WHBQ/2564k/prog.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://www.newenglandone.com/images/stories/2016/wfxtfox25newsat4.jpg" ,FOX 25 News (New England)
-http://cmghlslive-i.akamaihd.net/hls/live/224671/WFXT/904k/prog.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/1200px-WJAX-TV_logo.png" ,Fox News 30 (Jacksonville)
-http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://cbsla.files.wordpress.com/2016/04/streaminglivenow_kcal_700x350.jpg" ,KCAL 9 News (Los Angeles)
-http://play-prod1.live.anvato.net/server/play/cbslocal-kcal-dfp/master.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://wanewscouncil.org/wp-content/uploads/2011/09/post-img_kiro-logo_v1.png" ,KIRO 7 News (Seattle)
-http://cmghlslive-i.akamaihd.net:80/hls/live/224708/KIRO/904k/prog.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://img.new.livestream.com/events/000000000033e132/78ad5b5b-7d1f-4f38-b1af-1060355a4061_30000.jpg" ,KOB 4 News (Santa Fe)
 https://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://bellmonawards.com/wp-content/uploads/2014/08/sponsor-fox.png" ,KOKI Fox 23 (Tulsa)
-http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://channelpear.com/images/media/4059.jpg" ,KTVU News (Bay Area)
-http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/KXAN_Austin_News_logo.png" ,KXAN News (Austin)
 https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
+#EXTINF:0 group-title="NEWS" tvg-logo="http://www.userlogos.org/files/logos/jumpordie/lifenews_01.png",LiFE News RU
+http://tv.life.ru/lifetv/360p/index.m3u8
+#EXTINF:0 group-title="NEWS" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0021/8106/brand.gif", MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://i.imgur.com/N2mDQbE.jpg" ,NBC 4 News (New York)
 http://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" ,NBC 4 News (Washington DC)
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/WMAQ_Logo_2012.png" ,NBC 5 News (Chicago)
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://pbs.twimg.com/media/C2hgdt4W8AEAJ3D.jpg" ,NBC 10 News (Philadelphia)
 http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://channelpear.com/images/media/14551.jpg" ,NBC 11 News (Bay Area)
@@ -431,93 +419,30 @@ http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/9/9a/News_12_Hudson_Valley_Logo_From_December_2010.jpg" ,News 12 (Hudson Valley)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" ,NBC 4 News (Washington DC)
-https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/WMAQ_Logo_2012.png" ,NBC 5 News (Chicago)
-http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://img.new.livestream.com/events/00000000003a4452/bd7082af-14f2-4019-bde9-a081a1d56330_30000.jpg" ,NBC News 13 (Albany)
 http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://content.secondspace.com/ktvz/img/KTVZ_Widget.png" ,NewsChannel 21 (Oregon)
 http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
+#EXTINF:0 group-title="NEWS" tvg-logo="https://www.jobs.bg/assets/logo/2015-11-12/b_6ecb99828eb47e2d54fe3d1f80d84f4d.jpg",ON AIR Bulgaria
+http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://4.bp.blogspot.com/-JHRpErOl0P0/UOenW38k2VI/AAAAAAAAMNU/D2hZCstD8bI/s1600/Logo+Tv+publica.png", Publica TV(Mold)
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://ulango.tv/uploads/channels/3783291/logo_rte%20news%20now.png",RTE News Now
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://www.freeetv.com/images/01_logo/rti_television_ivoirienne.jpg", RTI
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://www.coultersproperty.co.uk/wp-content/uploads/2017/12/sky-news-logo-370x229.jpg",sky News
+https://www.youtube.com/watch?v=XOacA3RYrXk
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/888431997017661440/fj0FLr2O_400x400.jpg" ,WBZ 4 News (Boston)
 http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/WCCB_CW_logo.png" ,WCCB News (Charlotte)
 http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://cdn.tribtv.com/slates/wgntv.png" ,WGN 9 News (Chicago)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://mediaweb.wpxi.com/theme/images/placeholder-16x9.jpg" ,WPXI News (Pittsburg)
-http://cmghlslive-i.akamaihd.net:80/hls/live/224715/WPXI/904k/prog.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://mediaweb.wsoctv.com/theme/images/placeholder-16x9.jpg" ,WSOC 9 News (Charlotte)
-http://cmghlslive-i.akamaihd.net:80/hls/live/224717/WSOC/904k/prog.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/Fairfax+County+Government+TV+Channel+16+logo_1396.png" ,WTPC 16 (Virginia)
-http://mplive.play.ebmcdn.net/eastbay-live-pull-camera-3/_definst_/mp4:camera.stream/chunklist_w1700328985.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://www.mycitykitchen.org/wp-content/uploads/2013/02/WVIT_NBC30.png" ,WVIT 30 News (Hartford)
 http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://img.new.livestream.com/events/000000000068bfe1/9052fb7b-99ee-4dcd-87fd-c1102bc5592e_30000.jpg" ,WXXV News 25 (Mississippi)
 http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
-#EXTINF:-1 group-title="NEWS",CHCH TV (CANADA)
-rtmp://52.86.189.59/live/news
-#EXTINF:-1 group-title="NEWS",ABC NEWS 720p
-http://abclive.abcnews.com/i/abc_live4@97035/index_2500_av-b.m3u8
-#EXTINF:-1 group-title="NEWS",NBC NEWS
-http://msnbc2prod-lh.akamaihd.net:80/i/msnbc2_live01@9615/index_1200_av-p.m3u8
-#EXTINF:-1 group-title="NEWS",ABC NEWS
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:-1 group-title="NEWS",CBSN NEWS
-http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
-#EXTINF:-1 group-title="NEWS",RTE News Now
-http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
-#EXTINF:-1 group-title="NEWS",EURONEWS
-http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
-#EXTINF:-1 group-title="NEWS",EURONEWS (2)
-http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
-#EXTINF:-1 group-title="NEWS",BLOOMBERG
-http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
-#EXTINF:-1 group-title="NEWS",BLOOMBERG
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
-#EXTINF:-1 group-title="NEWS",Bloomberg Tv Europe
-http://217.66.99.235:1234/udp/225.1.1.135:4001
-#EXTINF:-1 group-title="NEWS",Al Jazeera English
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
-#EXTINF:-1 group-title="NEWS",Al Jazeera HD (EN)
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
-#EXTINF:-1 group-title="NEWS",RT
-http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
-#EXTINF:-1 group-title="NEWS",RT Doc
-http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
-#EXTINF:-1 group-title="NEWS",FRANCE 24 English
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1 group-title="NEWS",FRANCE 24 English
-http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_1200.m3u8
-#EXTINF:-1 group-title="NEWS",DWTV
-http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
-#EXTINF:-1 group-title="NEWS",NHK World
-http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
-#EXTINF:-1 group-title="NEWS",Reuters
-http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="NEWS",RAI NEWS 24
-http://rm-edge-8.cdn2.streamago.tv/streamagoedge/1917/810/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS",sky News
-https://www.youtube.com/watch?v=XOacA3RYrXk
-#EXTINF:-1 group-title="NEWS",I24 News
-https://stream-02.sg1.dailymotion.com/50/dm/3/x29atae/live-1.m3u8
-#EXTINF:0 group-title="NEWS", MSNBC
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="NEWS", DW
-http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
-#EXTINF:-1 group-title="NEWS", RTI
-http://cdn.vsnw.net:8081/interradio/720i.m3u8
-#EXTINF:-1 group-title="NEWS", Publica TV(Mold)
-http://livebeta.publika.md/LIVE/P/6810.m3u8
-#EXTINF:-1 group-title="NEWS", News 1
-http://91.196.149.76/newsone/stream.m3u8
-#EXTINF:-1 group-title="NEWS", euronews
-http://evronovosti.mediacdn.ru/sr1/evronovosti/chunklist_b2658304.m3u8
-#EXTINF:0 group-title="NEWS",LiFE News RU (360p)
-http://tv.life.ru/lifetv/360p/index.m3u8
-#EXTINF:0 group-title="NEWS",ON AIR Bulgaria
-http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
 
 
 
@@ -545,18 +470,18 @@ http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Cinema" ,RELOAD Play
 http://bit.ly/2l0o6Os
-#EXTINF:-1 group-title="Cinema" ,Paramount channel 
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Paramount-Channel-logo.jpg",Paramount channel 
 http://91.149.172.100:80/channel?id=93&u=demo&p=demo 
-#EXTINF:-1 group-title="Cinema" ,Paramount Comedy 
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/4/4a/Paramoun_Comedy_Channel_2000.png",Paramount Comedy 
 http://91.149.172.100:80/channel?id=90&u=demo&p=demo 
-#EXTINF:-1 group-title="Cinema",HBO Comedy (wuffy Player)
+#EXTINF:-1 group-title="Cinema" tvg-logo="http://www.logotypes101.com/logos/842/722FA648C176AC694B93340552CC9A97/hbocomedy.png",HBO Comedy (wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/977.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Cinema",HBO East (wuffy Player)
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://pipul.tv/wp-content/uploads/2017/05/hbo-east.png",HBO East (wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/978.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Cinema",HBO HD (wuffy Player)
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/HBO_HD_new_logo.png",HBO HD (wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/979.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Cinema",HBO Signature (wuffy Player)
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://www.gmkfreelogos.com/logos/H/img/HBO_Signature.gif",HBO Signature (wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/980.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Cinema",HBO Zone (wuffy Player)
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png",HBO Zone (wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/981.m3u8$http-refferer=http://localhost
 
