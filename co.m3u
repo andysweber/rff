@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 http://.....
 
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,03/05/18 
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,04/05/18 
 http://.....
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -63,8 +63,7 @@ http://www.fireshow.xyz/megacym.html|webdown
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" epg-id="Sigma" tvg-logo="https://goo.gl/ccdFP9" ,SIGMA (Version 1.22)
 http://www.fireshow.xyz/sigmam.html|webdown
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus (Version 1.22)
-http://www.alphacyprus.com.cy/page/live|webdown
+
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/ANT1_%28logo%29.png",Ant1 Cyprus (Version 1.22)
 http://www.ant1iwo.com/webtv/web-tv-live/|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/tvg/logos/219.png" ,Capital
@@ -1769,18 +1768,29 @@ http://163.172.15.141:9732/live?channelId=259&uid=987&deviceMac=00:1A:79:4A:84:A
 
 #EXTINF:3 group-title="UK4", 
 
-#EXTINF:-1 group-title="UK4",BT SPORT 1 
-http://31.220.0.196:8081/live/ctvb1/playlist.m3u8 
-#EXTINF:-1 group-title="UK4",BT SPORT 2 
-http://31.220.0.196:8081/live/ctvb2/playlist.m3u8 
-#EXTINF:-1 group-title="UK4",BT SPORT 3 
-http://31.220.0.196:8081/live/ctvb3/playlist.m3u8 
-#EXTINF:-1 group-title="UK4",ESPN 
-http://31.220.0.196:8081/live/ctvb4/playlist.m3u8 
-#EXTINF:-1 group-title="UK4",FS 1 
-http://31.220.0.196:8081/live/fx11sx/playlist.m3u8 
-#EXTINF:-1 group-title="UK4",FS 2 
-http://31.220.0.196:8081/live/fx2sx/playlist.m3u8 
+
+#EXTINF:1 group-title="UK4" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
+http://..........
+
+#EXTINF:-1 group-title="UK4",SKY Sport 1
+http://cdnv.cli.tn/iptv/ch922?code=610116485444847
+#EXTINF:-1 group-title="UK4",Sky Sport 2
+http://cdnv.cli.tn/iptv/ch937?code=610116485444847
+#EXTINF:-1 group-title="UK4",SKY Sport 3
+http://cdnv.cli.tn/iptv/ch914?code=610116485444847
+#EXTINF:-1 group-title="UK4",SKY Sport 4
+http://cdnv.cli.tn/iptv/ch915?code=610116485444847
+#EXTINF:-1 group-title="UK4",SKY Sport 5
+http://cdnv.cli.tn/iptv/ch916?code=610116485444847
+#EXTINF:-1 group-title="UK4",Sport Mix
+http://cdnv.cli.tn/iptv/ch931?code=610116485444847
+#EXTINF:-1 group-title="UK4",BT Sport 1
+http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
+#EXTINF:-1 group-title="UK4",BT Sport 2
+http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
+#EXTINF:-1 group-title="UK4",BT Sport Extra
+http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
+
 
 
 
@@ -1798,6 +1808,8 @@ http://31.220.0.196:8081/live/fx2sx/playlist.m3u8
 
 
 #EXTINF:3 group-title="UK5", 
+#EXTINF:1 group-title="UK5" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
+http://..........
 
 #EXTINF:0 group-title="UK5", BT Sport 1 
 http://185.53.163.205:2700 
@@ -1841,9 +1853,15 @@ http://185.53.163.212:2310
 
 
 
+#EXTINF:1 group-title="UK6" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
+http://..........
 
-
-
+#EXTINF:-1 group-title="UK6",BT Sport 1 HD 
+http://163.172.220.115:8080/bt/btsp1/index.m3u8 
+#EXTINF:-1 group-title="UK6",BT Sport 2 HD 
+http://163.172.220.115:8080/bt/btsp2/index.m3u8 
+#EXTINF:-1 group-title="UK6",BT Sport 3 HD 
+http://163.172.220.115:8080/bt/btsp3/index.m3u8
 
 
 
@@ -6699,202 +6717,6 @@ http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/941/inde
 
 #EXTINF:4 group-title="Portugal4",
 
-#EXTINF:-1 group-title="Portugal4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png" ,==Portugal==
-http://..........
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
-https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
-http://.....
-
-#EXTINF:-1 group-title="Portugal4",A Bola TV
-http://87.118.138.144:8030/play/a017
-#EXTINF:-1 group-title="Portugal4",Afro Music
-http://87.118.138.144:8030/play/a047
-#EXTINF:-1 group-title="Portugal4",C-Music
-http://87.118.138.144:8030/play/a00r
-#EXTINF:-1 group-title="Portugal4",CBS Reality
-http://87.118.138.144:8030/play/a013
-#EXTINF:-1 group-title="Portugal4",CMTV
-http://87.118.138.144:8030/play/a049
-#EXTINF:-1 group-title="Portugal4",Canal Panda
-http://87.118.138.144:8030/play/a02p
-#EXTINF:-1 group-title="Portugal4",Canal Q
-http://87.118.138.144:8030/play/a032
-#EXTINF:-1 group-title="Portugal4",CanĿªo Nova
-http://87.118.138.144:8030/play/a038
-#EXTINF:-1 group-title="Portugal4",Cartoon Network
-http://87.118.138.144:8030/play/a02t
-#EXTINF:-1 group-title="Portugal4",Cinemundo
-http://87.118.138.144:8030/play/a00b
-#EXTINF:-1 group-title="Portugal4",Discovery Channel
-http://87.118.138.144:8030/play/a00y
-#EXTINF:-1 group-title="Portugal4",Disney Channel
-http://87.118.138.144:8030/play/a015
-#EXTINF:-1 group-title="Portugal4",E! Entertainment
-http://87.118.138.144:8030/play/a02x
-#EXTINF:-1 group-title="Portugal4",Eurosport 1
-http://87.118.138.144:8030/play/a00a
-#EXTINF:-1 group-title="Portugal4",Eurosport 2
-http://87.118.138.144:8030/play/a036
-#EXTINF:-1 group-title="Portugal4",Eurosport 2 Xtra
-http://87.118.138.144:8030/play/a00d
-#EXTINF:-1 group-title="Portugal4",FOX Comedy
-http://87.118.138.144:8030/play/a02v
-#EXTINF:-1 group-title="Portugal4",Globo
-http://87.118.138.144:8030/play/a04b
-#EXTINF:-1 group-title="Portugal4",Globo Premium
-http://87.118.138.144:8030/play/a035
-#EXTINF:-1 group-title="Portugal4",Histðria
-http://87.118.138.144:8030/play/a00c
-#EXTINF:-1 group-title="Portugal4",Jim Jam
-http://87.118.138.144:8030/play/a00n
-#EXTINF:-1 group-title="Portugal4",MCM POP
-http://87.118.138.144:8030/play/a037
-#EXTINF:-1 group-title="Portugal4",MCS Extreme
-http://87.118.138.144:8030/play/a00w
-#EXTINF:-1 group-title="Portugal4",NBA TV
-http://87.118.138.144:8030/play/a02o
-#EXTINF:-1 group-title="Portugal4",Nat Geo Wild
-http://87.118.138.144:8030/play/a02q
-#EXTINF:-1 group-title="Portugal4",Odisseia
-http://87.118.138.144:8030/play/a00z
-#EXTINF:-1 group-title="Portugal4",PFC
-http://87.118.138.144:8030/play/a034
-#EXTINF:-1 group-title="Portugal4",Porto Canal
-http://87.118.138.144:8030/play/a02s
-#EXTINF:-1 group-title="Portugal4",RTP .frica
-http://87.118.138.144:8030/play/a048
-#EXTINF:-1 group-title="Portugal4",RTP 1
-http://87.118.138.144:8030/play/a004
-#EXTINF:-1 group-title="Portugal4",RTP 2
-http://87.118.138.144:8030/play/a005
-#EXTINF:-1 group-title="Portugal4",RTP 3
-http://87.118.138.144:8030/play/a007
-#EXTINF:-1 group-title="Portugal4",RTP AĿores
-http://87.118.138.144:8030/play/a00i
-#EXTINF:-1 group-title="Portugal4",RTP Madeira
-http://87.118.138.144:8030/play/a00h
-#EXTINF:-1 group-title="Portugal4",RTP Memðria
-http://87.118.138.144:8030/play/a02u
-#EXTINF:-1 group-title="Portugal4",SIC
-http://87.118.138.144:8030/play/a00t
-#EXTINF:-1 group-title="Portugal4",SIC Caras
-http://87.118.138.144:8030/play/a02w
-#EXTINF:-1 group-title="Portugal4",SIC K
-http://87.118.138.144:8030/play/a00k
-#EXTINF:-1 group-title="Portugal4",SIC NotŦcias
-http://87.118.138.144:8030/play/a00u
-#EXTINF:-1 group-title="Portugal4",SIC Radical
-http://87.118.138.144:8030/play/a02r
-#EXTINF:-1 group-title="Portugal4",SPORT TV 4
-http://87.118.138.144:8030/play/a00m
-#EXTINF:-1 group-title="Portugal4",Syfy
-http://87.118.138.144:8030/play/a00v
-#EXTINF:-1 group-title="Portugal4",TV Galicia
-http://87.118.138.144:8030/play/a033
-#EXTINF:-1 group-title="Portugal4",TVCine 3
-http://87.118.138.144:8030/play/a045
-#EXTINF:-1 group-title="Portugal4",TVCine 4
-http://87.118.138.144:8030/play/a044
-#EXTINF:-1 group-title="Portugal4",TVI
-http://87.118.138.144:8030/play/a02n
-#EXTINF:-1 group-title="Portugal4",TVI 24
-http://87.118.138.144:8030/play/a00p
-#EXTINF:-1 group-title="Portugal4",TVI FicĿªo
-http://87.118.138.144:8030/play/a016
-#EXTINF:-1 group-title="Portugal4",TVSØries
-http://87.118.138.144:8030/play/a012
-#EXTINF:-1 group-title="Portugal4",Venus
-http://87.118.138.144:8030/play/a011
-#EXTINF:-1 group-title="Portugal4",motorsport.tv
-http://87.118.138.144:8030/play/a00x
-
-#EXTINF:-1 group-title="Portugal4",24 Kitchen HD
-http://87.118.138.144:8031/play/a043
-#EXTINF:-1 group-title="Portugal4",A&E
-http://87.118.138.144:8031/play/a049
-#EXTINF:-1 group-title="Portugal4",AMC HD
-http://87.118.138.144:8031/play/a03v
-#EXTINF:-1 group-title="Portugal4",AXN Black HD
-http://87.118.138.144:8031/play/a03z
-#EXTINF:-1 group-title="Portugal4",AXN HD
-http://87.118.138.144:8031/play/a03i
-#EXTINF:-1 group-title="Portugal4",AXN White HD
-http://87.118.138.144:8031/play/a040
-#EXTINF:-1 group-title="Portugal4",BTV 1 HD
-http://87.118.138.144:8031/play/a03k
-#EXTINF:-1 group-title="Portugal4",Baby First
-http://87.118.138.144:8031/play/a03s
-#EXTINF:-1 group-title="Portugal4",Biggs
-http://87.118.138.144:8031/play/a04b
-#EXTINF:-1 group-title="Portugal4",CaĿa e Pesca
-http://87.118.138.144:8031/play/a04i
-#EXTINF:-1 group-title="Portugal4",CaĿavision
-http://87.118.138.144:8031/play/a03b
-#EXTINF:-1 group-title="Portugal4",Discovery HD Showcase
-http://87.118.138.144:8031/play/a04h
-#EXTINF:-1 group-title="Portugal4",Disney Jœnior
-http://87.118.138.144:8031/play/a04e
-#EXTINF:-1 group-title="Portugal4",Euronews
-http://87.118.138.144:8031/play/a04j
-#EXTINF:-1 group-title="Portugal4",Eurosport News
-http://87.118.138.144:8031/play/a04m
-#EXTINF:-1 group-title="Portugal4",FOX Crime HD
-http://87.118.138.144:8031/play/a042
-#EXTINF:-1 group-title="Portugal4",FOX HD
-http://87.118.138.144:8031/play/a03j
-#EXTINF:-1 group-title="Portugal4",FOX Life HD
-http://87.118.138.144:8031/play/a041
-#EXTINF:-1 group-title="Portugal4",FOX Movies
-http://87.118.138.144:8031/play/a048
-#EXTINF:-1 group-title="Portugal4",Fuel TV
-http://87.118.138.144:8031/play/a04l
-#EXTINF:-1 group-title="Portugal4",HOT
-http://87.118.138.144:8031/play/a04d
-#EXTINF:-1 group-title="Portugal4",Hollywood HD
-http://87.118.138.144:8031/play/a03c
-#EXTINF:-1 group-title="Portugal4",Kombat Sport
-http://87.118.138.144:8031/play/a03d
-#EXTINF:-1 group-title="Portugal4",MCS Lifestyle
-http://87.118.138.144:8031/play/a04k
-#EXTINF:-1 group-title="Portugal4",Motorvision
-http://87.118.138.144:8031/play/a03y
-#EXTINF:-1 group-title="Portugal4",National Geographic HD
-http://87.118.138.144:8031/play/a03h
-#EXTINF:-1 group-title="Portugal4",Nickelodeon
-http://87.118.138.144:8031/play/a03r
-#EXTINF:-1 group-title="Portugal4",SIC Mulher
-http://87.118.138.144:8031/play/a046
-#EXTINF:-1 group-title="Portugal4",SPORT TV +
-http://87.118.138.144:8031/play/a04a
-#EXTINF:-1 group-title="Portugal4",SPORT TV 1 HD
-http://87.118.138.144:8031/play/a03e
-#EXTINF:-1 group-title="Portugal4",SPORT TV 2 HD
-http://87.118.138.144:8031/play/a03f
-#EXTINF:-1 group-title="Portugal4",SPORT TV 3 HD
-http://87.118.138.144:8031/play/a03g
-#EXTINF:-1 group-title="Portugal4",SPORT TV 5
-http://87.118.138.144:8031/play/a04c
-#EXTINF:-1 group-title="Portugal4",Sporting TV
-http://87.118.138.144:8031/play/a04f
-#EXTINF:-1 group-title="Portugal4",TLC
-http://87.118.138.144:8031/play/a047
-#EXTINF:-1 group-title="Portugal4",TVCine 1 HD
-http://87.118.138.144:8031/play/a03u
-#EXTINF:-1 group-title="Portugal4",TVCine 2 HD
-http://87.118.138.144:8031/play/a03o
-#EXTINF:-1 group-title="Portugal4",TVI Reality
-http://87.118.138.144:8031/play/a045
 
 
 
@@ -8824,17 +8646,6 @@ http://47.95.172.168/channel/2830.m3u8
 
 #EXTINF:9 group-title="Bangladesh",
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://theflagcompany.in/wp-content/uploads/2016/01/bangladeshNatinalFlag-600x600.jpg" ,==Bangladesh==
-http://..........
-
-#EXTINF:-1 group-title="Bangladesh",NEWS 24 HD
-http://streamxcode.ddns.net:25461/live/gold/cold/3487.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1 group-title="Bangladesh",SK MOVIES
-http://streamxcode.ddns.net:25461/live/gold/cold/3480.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1 group-title="Bangladesh",SOLID MOVIE BANGLA
-http://streamxcode.ddns.net:25461/live/gold/cold/3511.ts|refferer=http://geostreamz.com/&user-agent=098
-#EXTINF:-1 group-title="Bangladesh",iTV
-http://streamxcode.ddns.net:25461/live/gold/cold/3488.ts|refferer=http://geostreamz.com/&user-agent=098
 
 
 
@@ -10825,17 +10636,6 @@ http://2.primatv.club:8450/live/haLA1tv2018/ha10LA218tv/1293.ts|user-agent=VLC/3
 
 #EXTINF:10 group-title="SERBIA",
 
-#EXTINF:-1 group-title="SERBIA" ,ARENA1 
-rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA1 
-#EXTINF:-1 group-title="SERBIA" ,ARENA2 
-rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA2 
-#EXTINF:-1 group-title="SERBIA" ,ARENA3 
-rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA3 
-#EXTINF:-1 group-title="SERBIA" ,ARENA4 
-rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA4 
-#EXTINF:-1 group-title="SERBIA" ,ARENA5 
-rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA5
-
 
 
 
@@ -10913,22 +10713,6 @@ http://113.161.4.48:8080/phuyen/tv.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:9 group-title="Serbia",
 
 
 
