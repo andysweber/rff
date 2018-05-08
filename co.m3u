@@ -1208,6 +1208,120 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1117.m3u8$http-refferer
 
 
 
+#EXTINF:-1 group-title="UK",
+
+#EXTINF:-1 group-title="UK" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
+http://..........
+
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/bbc1.jpg",BBC 1 
+https://easyview.eu/bbc-one/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/BBC_Two_HD.jpg",BBC 2
+https://easyview.eu/bbc-two/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/bbc4-logo-400x284.jpg",BBC 4
+https://easyview.eu/bbc-four/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/05/CBBC.jpg",Cbbc 
+https://easyview.eu/cbbc/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/05/cbeebies.jpg",cbeebies
+https://easyview.eu/cbeebies/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/bbc-one-wales.jpg",BBC 1 Wales
+https://easyview.eu/bbc-one-wales/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/BBC-One-Scotland.jpg",BBC 1 Scotland
+https://easyview.eu/bbc-one-scotland/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/BBC-Northern-Ireland.jpg",BBC 1 Northern Ireland
+https://easyview.eu/bbc-one-northern-ireland/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/bbc-parliament.jpg",BBC Parliament
+https://easyview.eu/bbc-parliament/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/bbc_news.jpg",BBC News
+https://easyview.eu/bbc-news/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/05/BBC_Alba.jpg",BBC alba
+https://easyview.eu/bbc-alba/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/bbcredbutton.jpg",BBC red button
+https://easyview.eu/bbc-red-button/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/ITV-Where-Drama-Lives-1-400x284.jpg",ITV
+https://easyview.eu/itv/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/itv2_logo_new_2015-400x284.jpg",ITV 2
+https://easyview.eu/itv2/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/itv3-400x284.jpg",ITV 3
+https://easyview.eu/itv3/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/itv4-400x284.jpg",ITV 4
+https://easyview.eu/itv4/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/citv_logo_2015-400x284.jpg",CITV
+https://easyview.eu/citv/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/itvbe-400x284.jpg",ITV Be.
+https://easyview.eu/itvbe/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/itvencore.jpg",ITV encore
+https://easyview.eu/itv-encore/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/channel_channel4.jpg",4
+https://easyview.eu/channel-4/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/C5new3.jpg",5
+https://easyview.eu/five/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/10/film-4-22_595x335-400x284.jpg",Film 4
+https://easyview.eu/film-4/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/10/e4.jpg",E4
+https://easyview.eu/e4/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/more4-400x284.jpg",More4
+https://easyview.eu/more4/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/dave-400x284.jpg",Dave
+https://easyview.eu/dave/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/golduk-400x284.jpg",Gold
+https://easyview.eu/gold/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/challenge-400x284.png",Challenge
+https://easyview.eu/challenge/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/really.jpg",Really
+https://easyview.eu/really/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/yesterday.jpg",Yesterday
+https://easyview.eu/yesterday/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/yesterdayplus1.jpg",Yesterday +1
+https://easyview.eu/yesterdayplus1/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/drama.jpg",Drama
+https://easyview.eu/drama/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/home.png",Home
+https://easyview.eu/home/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/quest.jpg",Quest
+https://easyview.eu/quest/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/quest_red.jpg",Quest Red
+https://easyview.eu/quest-red/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/food_network.jpg",Food Network
+https://easyview.eu/food-network/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/food_network_plus1.png",Food Network +1
+https://easyview.eu/food-network-plus1/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/travel_channel.jpeg",Travel Channel
+https://easyview.eu/travel-channel/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/travelchannelplus1.png",Travel Channel +1
+https://easyview.eu/travel-channel-plus1/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/4seven.jpg",4 Seven
+https://easyview.eu/4seven/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/bet.jpg",Bet
+https://easyview.eu/bet/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/davejavu.png",Dave ja vu
+https://easyview.eu/dave-ja-vu/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/fashiontv.jpg",fashion tv
+https://easyview.eu/fashion-tv/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/5usa.jpg",5usa
+https://easyview.eu/5usa/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
