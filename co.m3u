@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,08/05/18 
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,09/05/18 
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -2472,6 +2472,148 @@ http://live1.livetvindia.co.in:8000/live/1235sd4fs2d1/1235sd4fs2d1/48.ts|user-ag
 
 #EXTINF:8 group-title="UK3-PREMIUM",
 
+#EXTINF:-1 group-title="UK3-PREMIUM",BT Sport 1
+httphost://$http-raw=http://unblocked.lol/bt1$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",BT Sport 2
+httphost://$http-raw=http://unblocked.lol/bt2$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",BT Sport Europe
+httphost://$http-raw=http://unblocked.lol/bt3$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",BT Sport ESPN
+httphost://$http-raw=http://unblocked.lol/btsportespn$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Sony SIX
+httphost://$http-raw=http://unblocked.lol/sonysix$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",TEN 1
+httphost://$http-raw=http://unblocked.lol/ten1$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",ESPN
+httphost://$http-raw=http://unblocked.lol/espn$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Eurosport
+httphost://$http-raw=http://unblocked.lol/eurosport$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Eurosport 2
+httphost://$http-raw=http://unblocked.lol/eurosport2$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",WWE Network
+httphost://$http-raw=http://unblocked.lol/wwenetwork$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Premier Sports
+httphost://$http-raw=http://unblocked.lol/premiersports$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",BoxNation
+httphost://$http-raw=http://unblocked.lol/boxnation$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Willow TV
+httphost://$http-raw=http://unblocked.lol/willowtv$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Fox Sports 1
+httphost://$http-raw=http://unblocked.lol/foxsports1$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Fox Sports 2
+httphost://$http-raw=http://unblocked.lol/foxsports2$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",NBA TV
+httphost://$http-raw=http://unblocked.lol/nbatv$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Racing UK
+httphost://$http-raw=http://unblocked.lol/racinguk$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",At The Races
+httphost://$http-raw=http://unblocked.lol/attheraces$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",LFCTV
+httphost://$http-raw=http://unblocked.lol/lfctv$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",MUTV
+httphost://$http-raw=http://unblocked.lol/mutv$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Chelsea TV
+httphost://$http-raw=http://unblocked.lol/chelseatv$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Motors TV
+httphost://$http-raw=http://unblocked.lol/motorstv$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Golf Channel
+httphost://$http-raw=http://unblocked.lol/golfchannel$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Setanta Sports
+httphost://$http-raw=http://unblocked.lol/setantasports$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",TSN
+httphost://$http-raw=http://unblocked.lol/tsn$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",TSN2
+httphost://$http-raw=http://unblocked.lol/tsn2$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",NFL Network
+httphost://$http-raw=http://unblocked.lol/nflnetwork$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",PTV Sports
+httphost://$http-raw=http://unblocked.lol/ptvsports$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",NBCSN
+httphost://$http-raw=http://unblocked.lol/nbcsn$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",WWE TV
+httphost://$http-raw=http://unblocked.lol/wwetv$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",National Geographic
+httphost://$http-raw=http://unblocked.lol/natgeo$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Animal Planet
+httphost://$http-raw=http://unblocked.lol/animal$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Discovery Channel
+httphost://$http-raw=http://unblocked.lol/discovery$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Discovery Turbo
+httphost://$http-raw=http://unblocked.lol/turbo$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",History Channel
+httphost://$http-raw=http://unblocked.lol/history$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",atlantic
+httphost://$http-raw=http://unblocked.lol/atlantic$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",premiere
+httphost://$http-raw=http://unblocked.lol/premiere$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",family
+httphost://$http-raw=http://unblocked.lol/family$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",crime
+httphost://$http-raw=http://unblocked.lol/crime$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",skyaction
+httphost://$http-raw=http://unblocked.lol/skyaction$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",comedy
+httphost://$http-raw=http://unblocked.lol/comedy$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",select
+httphost://$http-raw=http://unblocked.lol/select$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",disney
+httphost://$http-raw=http://unblocked.lol/disney$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Barclays Premier League
+httphost://$http-raw=http://unblocked.lol/barclayspremierleague$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",UEFA Champions League
+httphost://$http-raw=http://unblocked.lol/uefachampionsleague$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",skyarena
+httphost://$http-raw=http://unblocked.lol/skyarena$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Sky Sports Main Event
+httphost://$http-raw=http://unblocked.lol/sk1$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Sky Sports Football
+httphost://$http-raw=http://unblocked.lol/skyfootball$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Sky Sports Cricket
+httphost://$http-raw=http://unblocked.lol/sk2$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Sky Sports Action
+httphost://$http-raw=http://unblocked.lol/sk3$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Sky Sports Golf
+httphost://$http-raw=http://unblocked.lol/sk4$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Sky Premier League
+httphost://$http-raw=http://unblocked.lol/sk5$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Sky Sports News
+httphost://$http-raw=http://unblocked.lol/skysportsnews$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Sky Sports F1
+httphost://$http-raw=http://unblocked.lol/skf1$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Sky Sports F1 Italia
+httphost://$http-raw=http://unblocked.lol/skf1-it$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Sky Sports Box Office
+httphost://$http-raw=http://unblocked.lol/skysportsbox$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Sky Sport 1 Italia
+httphost://$http-raw=http://unblocked.lol/skysport1italia$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Sky Sport 2 Italia
+httphost://$http-raw=http://unblocked.lol/skysport2italia$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Sky Sport 3 Italia
+httphost://$http-raw=http://unblocked.lol/skysport3italia$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Sky Sport 24 Italia
+httphost://$http-raw=http://unblocked.lol/skysport24italia$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Sky Calcio
+httphost://$http-raw=http://unblocked.lol/skycalcio$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="UK3-PREMIUM",Sky Sport MotoGP
+httphost://$http-raw=http://unblocked.lol/skysportmotogp$http-refferer=https://unblocked.lol/tv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3168,9 +3310,29 @@ http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/971/inde
 
 
 
-#EXTINF:8 group-title="Italy3",
+#EXTINF:-1 group-title="Italy3",
 
 
+#EXTINF:-1 group-title="Italy3",Canale5
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw8FugjAAANAPWkgcLW05cNhgDgFF7EorN0shOkAitCiEj99e8pSo9tAGoFvIdOASvIIkdXfVXo9ze8v1pHs%2bXZAU6ZLFZ%2be0HRzasf5It3POvl68001RP0xkPqvuETZhKc4q%2bx3fURABWtLywERk3ECzN3Tn%2fAqannVsDmZSCtfQxme9neU8qUYT490QLplg9xZ9eN4KUUHT9kf4m6e%2f3AZ%2fhQpWBNbYciGuLYidjSVrIi2s1AXa%2f2tprydDTavkNS6OjM8JIN9j7j897w%2bDN9F%2b5wAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 group-title="Italy3",Italia1
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw9tugjAAANAPIgRoi4UHHhDQRhYugiv0xVBrmaCgTQbD8PHuJCdbspJsCoujFJwoiP6EoyKXx0aMSN9pDezT4V62vE607c92Ahf3gcn1mQYXkCq7qYY63EEzKO95xTQcjyww6ZugglHajVqV8OVhSQPsodEllZW%2fAHj5o2KZMI8K2l3iZzeiKoZq5UfO3MN2Keqh9bw1Px%2fmIBoO89s5lfS8W5FAVwdJrLsISx1h29S5dLiOhWgQ%2bC85WG%2fP2f8ybNJ%2fh8OxpJP6DSc5e94HOXGhH%2bcAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 group-title="Italy3",Rete4
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw8mOgjAAANAPaghOl7QcOKiRRUQHSsBwowPFAYelihTDxzsveWGhZ9BmDQn0CSYXgHpyng6tP%2fB8%2f546zh00dWH0e1TlPWv867BUVuo%2b7rrbKqSgsJZdj5jbPEtI6PIlEOhNruR4kxvWJaF3mb20Mv063rdF9s2eZqvp2SIBh9QjQX%2brf%2f6iEJ0kBck48OQR5S7TtW2vsWbdciVzEiHjmO7GFZe4YlhSw8JUGpiSjSEkEwYtywLD%2f1LAVUwK93nlvsC7ng8v7gyxo7a2%2fQGg7AFt5wAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 group-title="Italy3",Mediaset20
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw9uOQ0AYAOAHEnHIPw4XLtY69GAGtWG4M8YoQrTarBUPv%2f2SL1W%2bzxcB7YO%2fcEPR0GRjtxp8Ci5b4ZJVW%2fC7jdOrS%2bN7lT%2fKjODcziLy1NhQRp0BOLGfeapn8dggr6YqxycbvbJCSvpAVaCaFTE1JI68K5eWOf%2fFfsCSrlRXHnFq7NrCBiQZt0Cboh6SXgLr50Q7xznubN98XNzsMCRf1awdwKG1QJiyDaaQwUSqzITFZJPzGvRPwfTDT97nCln6QLw6%2fKPtGG%2b7mzrOP7hwL6TnAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 group-title="Italy3",La5
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANzMuOgkAQAMAPMgQZm4U5eNhEVNAVpwPCchtsEBUdUZ6Gj9dDXSus0Y0M3S8YTva94TbKTjf1tqL3ZiXdHacAy%2fXiqq%2bKYBGS6gLl34VCF7m5h%2fOMqwvBkBemvNhnUMdfNvA%2bFvBTEfpGTX8w81phJkMGwgslPdbTxCn7OP3vttDdHdhh25gxg%2bzmB4%2fKeE8Uk62Yz0dPUnRom%2bOhORFipEYgyGzILY2DlWtgmVMtze1Us4gksK88ZSO%2b2viZyeX15SSuL3BplE%2f9230ASvQSgucAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 group-title="Italy3",Italia2
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw9tugjAAANAPIoSLLYUHHjRWdCAKuAq8UWrLRMZqIyDh491JjjXX6fxihsWnPrEFVXUaXQcOWbM9vrtIrORFjJvTSALYRCQZnLI5SGc0iNq1SlVdofWaCF6reFe8m7pBBM8zovjZ8cefgP10yrGI8%2figFY53SfNJXk2yr4IoZLEKa9JF6qve%2f94gXbfnxzE%2fb7JsdITvL7S4l%2ffn2qzC1MNWyxfAwM0FHOkeQFwHCJo65S7VEWMVsP9zai%2foe6tKz6h%2bAJc4dLNS2oOR%2bP4HSm9coecAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 group-title="Italy3",mediasetextra
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw9tyQ0AAANAPMoa1q8uDhzUk07gtstF4W3GLYoVS7fj49sychJgZW9Adi6sK2lBsn3R9SVsATul4gufGKxiBQ3TuokyVsi%2bvT00mfcDeGPdczzFd%2bdLMe7hBt9N%2bHbpp0TBtc1IQ2yH99G7TEUrcV306XTqxJI97uizhpcI5cUKbBqLSOehSymqnDV5KbBvNj8FjyzoCwK%2bwffS3G%2fBdb307UIkqA9VYNhGuZYR1VS5qo5BxWXKk%2fa8L7YieLYiH3iX7NCn%2b7IhnorBvy%2foDvL1raecAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 group-title="Italy3",topcrime
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANzDtugzAAANADRSgEm9%2bQoRAHUhAF1aXBG8aGiPJxC6YYcfhkeOtLerkqj9%2fAcYORsLw%2bLJEvCm%2fzSI%2f444i%2bVmuxDgaIRCX%2bxQGmROGEjEi%2fpO0wpChK5mJomi1Guc8dJyAgwyGQ4ua2xbae8Hb3LL873c1oXMilGY3pumZV674lao6XyYS6KB06diln1melkoyYf835vI8YBwEIY9DkHzSkcocMcgfWtuZCu9agbeoarR2q2YyV0HipqbHnCufzt5G%2fTz%2byY0hS8iuzV%2fcEjHX4MucAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 group-title="Italy3",iris
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw91ugjAYANAHIiQKha9ccKECKiI%2fk6F4J9YipEg32EddePjtJKd5qte4Idv36dlhL%2bDur5siOA00lCjjILztI%2b845P63IVtouCg7W%2bHyQY8wqeHgCMl61ZnVqDTmM7kuksK%2b%2fFSsvF9zxM%2fsYCls4r5G3DPhp2%2bRJo3KnF1hb2EjUGYi%2fw2XwqzNmI7JCLTdQSpXrjvTMsDVB71e2nPaWQOdCSMPSjjoDgGuE7AWesVppQNjN2L855UxDwvwPDJpX7YPvLSiqEatnlz3Dz14unrnAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 group-title="Italy3",tgcom
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANzEtygjAAANADMYw0CQ0sXBSwgJYGUT66IyYRLUJEA8Jw%2bLp428dPuRNoxZeXm%2bH9Yj5AnvaDT9bnsN67HcGvJ6aa0%2fxCcnT7awyL7klu8raZVtWwPzt52W%2bsDOKfrQLgg%2ftuBQIvqcZjGRv3MOot%2bw%2blj09uHGTLI24EzUraZAoFyBgzOZQo9RSYuqTeaWu8AzHIRjcZlst5Ww2TjDPSquuJuRc6I4a4hQTWbYSFjrBp6FRYVMeMlQi8CQpmfljAAiZ5otRibKL6u%2fWh9%2b7%2bAS5g%2fannAAAA$http-refferer=http://linkprotect.xmtvplayer.com
 
 
 
@@ -8730,32 +8892,20 @@ http://47.95.172.168/channel/2830.m3u8
 #EXTINF:-1 group-title="Bangladesh2" tvg-logo="https://theflagcompany.in/wp-content/uploads/2016/01/bangladeshNatinalFlag-600x600.jpg" ,==Bangladesh==
 http://..........
 
-#EXTINF:-1 group-title="Bangladesh2",Channel i
-http://162.254.149.187:1935/live/channel-i/playlist.m3u8
-#EXTINF:-1 group-title="Bangladesh2",Gaan bangla
-http://162.254.149.146:1935/live/gaanbangla/playlist.m3u8
-#EXTINF:-1 group-title="Bangladesh2",Desh TV
-http://162.254.149.187:1935/live/deshtv/playlist.m3u8
-#EXTINF:-1 group-title="Bangladesh2",Btv
-http://162.254.149.187:1935/live/btv/playlist.m3u8
-#EXTINF:-1 group-title="Bangladesh2",Ekattor TV
-http://162.254.149.187:1935/live/71tv/playlist.m3u8
-#EXTINF:-1 group-title="Bangladesh2",Somoy Tv YT
-https://www.youtube.com/watch?v=nzzH_b4V6q0
-#EXTINF:-1 group-title="Bangladesh2",NTV YT
-https://www.youtube.com/watch?v=ZtFHxG_WC9I
-#EXTINF:-1 group-title="Bangladesh2",ATN News
-https://www.youtube.com/watch?v=sWECuljcFcA
-#EXTINF:-1 group-title="Bangladesh2",Rtv YT
-https://www.youtube.com/watch?v=8k0679HmGMc
-#EXTINF:-1 group-title="Bangladesh2",Channels 24
-https://www.youtube.com/watch?v=nxXCkz7FikI
-#EXTINF:-1 group-title="Bangladesh2",Channel S
-http://cdn02.iqbroadcast.tv/iqb01/ad4e11a583b062d0039b0f1f96769c4b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh2",BanglaVision
+http://27.147.156.14:1935/Bangla-Vision/Bangla-Vision.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh2",Somoy Tv
-http://103.250.71.30:8081/somoylive/somoy000.smil/playlist.m3u8
+https://www.youtube.com/watch?v=9r-bTBjM8dc
+#EXTINF:-1 group-title="Bangladesh2",NTV
+https://www.youtube.com/watch?v=ht4n_RCeeBY
+#EXTINF:-1 group-title="Bangladesh2",ATN News
+https://www.youtube.com/watch?v=cTG4IFk0UuA
 #EXTINF:-1 group-title="Bangladesh2",Boishakhi
 http://ipme.oncast.me:1935/forchannels/boishakhitv-org-forchanels.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh2",Somoy Tv
+http://103.250.71.30:8081/somoylive/somoy000.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh2",Channel S
+http://cdn02.iqbroadcast.tv/iqb01/ad4e11a583b062d0039b0f1f96769c4b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh2",Maasranga
 http://202.59.143.234:1935/tvprogram/MAASRANGA-MOBILE/chunklist_w1427739980.m3u8
 #EXTINF:-1 group-title="Bangladesh2",Peace Tv Bangla
@@ -8764,18 +8914,17 @@ http://199.167.151.237:1935/live/sp15_2.stream/master-baba_1.m3u8
 http://202.59.143.234:1935/tvprogram/MAASRANGA-MOBILE/chunklist_w1427739980.m3u8
 #EXTINF:-1 group-title="Bangladesh2",Boishalhi TV
 http://ipme.oncast.me:1935/forchannels/boishakhitv-org-forchanels.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangladesh2",Somoy TV
-http://103.250.71.30:8081/somoylive/somoy000.smil/playlist.m3u8
-#EXTINF:-1 group-title="Bangladesh2",Gann Bngla
-http://techbap.com/gaan_bangla.mp4
-#EXTINF:-1 group-title="Bangladesh2",NTV_2
-http://techbap.com/deepto_tv.mp4
-#EXTINF:-1 group-title="Bangladesh2",ATN News_2
-http://techbap.com/atn_news.mp4
-#EXTINF:-1 group-title="Bangladesh2",Jamuna TV_2
-http://techbap.com/rtv_online.mp4
-#EXTINF:-1 group-title="Bangladesh2",Deepto TV_2
-http://techbap.com/deepto_tv.mp4
+#EXTINF:-1 group-title="Bangladesh2",Sony Ahat
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226099/03.m3u8
+#EXTINF:-1 group-title="Bangladesh2",Zee Bangla
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225882/03.m3u8
+#EXTINF:-1 group-title="Bangladesh2",Ten 1
+http://mhms9.airtel.tv/PLTV/88888888/224/3221225931/04.m3u8
+#EXTINF:-1 group-title="Bangladesh2",Ten 2
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/03.m3u8
+#EXTINF:-1 group-title="Bangladesh2",Ten 3
+http://mhms8.airtel.tv/wh7f454c46tw2266972042_1041721119/PLTV/88888888/224/3221226330/01.m3u8
+
 #EXTINF:-1 group-title="Bangladesh2",Deepto TV only Bd
 http://203.76.117.226/hls/D@Ee0Pt0Tv/index.m3u8
 #EXTINF:-1 group-title="Bangladesh2",NTV only Bd
@@ -8806,16 +8955,6 @@ http://203.76.117.226/hls/s@nG@iTbATv/index.m3u8
 http://203.76.117.226/hls/aT@N0OB@n/index.m3u8
 #EXTINF:-1 group-title="Bangladesh2",ATN Bangla only Bd
 http://203.76.117.226/hls/AtN@B@N0/index.m3u8
-#EXTINF:-1 group-title="Bangladesh2",PTV Sports
-http://185.39.10.60:1935/tv/ri1ewZM46K20171105/chunklist_w460883375_tkaGxzZW5kdGltZT0xNTIwOTcwMzAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9MTNYRWsyTEJmcjhaVkxsX3R5SUgxcjJGZjJjb0d3YVAyMGVFODh0ZlMtcz0=.m3u8
-
-
-
-
-
-
-
-
 
 
 
