@@ -31,15 +31,15 @@ https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:1 group-title="Documentary/Entertainment", 
 
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://daxushequ.com/data/out/9/img60762913.jpg",Animal Planet (Wuffy Player)
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://wba-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Animal-Planet-logo.jpg",Animal Planet (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1251.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://daxushequ.com/data/out/9/img60762913.jpg",Animal Planet
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://wba-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Animal-Planet-logo.jpg",Animal Planet
 http://37.194.121.4:1234/udp/239.1.5.3:1234 
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://daxushequ.com/data/out/9/img60762913.jpg",Animal Planet
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://wba-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Animal-Planet-logo.jpg",Animal Planet
 http://176.108.193.126:4022/udp/235.1.1.46:5678
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://daxushequ.com/data/out/9/img60762913.jpg",Animal Planet
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://wba-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Animal-Planet-logo.jpg",Animal Planet
 http://185.10.211.10:3000/jgj/UaUgEZ/30 
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://daxushequ.com/data/out/9/img60762913.jpg",Animal Planet HD
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://wba-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Animal-Planet-logo.jpg",Animal Planet HD
 http://185.10.211.10:3000/jgj/UaUgEZ/31 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/misc/National-Geographic-Logo.jpg",National Geographic (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1195.m3u8$http-refferer=http://localhost
