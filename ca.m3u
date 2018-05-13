@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,30/03/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,13/05/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -35,96 +35,44 @@ https://www.youtube.com/watch?v=7sIsiHbDi_0
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1251.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://wba-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Animal-Planet-logo.jpg",Animal Planet
 http://37.194.121.4:1234/udp/239.1.5.3:1234 
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://wba-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Animal-Planet-logo.jpg",Animal Planet
-http://176.108.193.126:4022/udp/235.1.1.46:5678
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://wba-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Animal-Planet-logo.jpg",Animal Planet
-http://185.10.211.10:3000/jgj/UaUgEZ/30 
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://wba-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Animal-Planet-logo.jpg",Animal Planet HD
-http://185.10.211.10:3000/jgj/UaUgEZ/31 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/misc/National-Geographic-Logo.jpg",National Geographic (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1195.m3u8$http-refferer=http://localhost
 #EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/misc/National-Geographic-Logo.jpg",National Geographic
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
-#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/misc/National-Geographic-Logo.jpg",National Geographic 
-http://185.10.211.10:3000/jgj/UaUgEZ/59 
-#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/misc/National-Geographic-Logo.jpg",National Geographic HD
-http://185.10.211.10:3000/jgj/UaUgEZ/60 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://media.marketwire.com/attachments/201111/35566_NatGeoLogo.jpg",NATGEO WILD (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1193.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Documentary/Entertainment"tvg-logo="http://media.marketwire.com/attachments/201111/35566_NatGeoLogo.jpg",NATGEO WILD
-http://185.10.211.10:3000/jgj/UaUgEZ/57 
-#EXTINF:-1 group-title="Documentary/Entertainment"tvg-logo="http://media.marketwire.com/attachments/201111/35566_NatGeoLogo.jpg",NATGEO WILD HD 
-http://185.10.211.10:3000/jgj/UaUgEZ/58 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1133.m3u8$http-refferer=http://localhostt
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",DISCOVERY
 http://74.81.71.186:4000/live/138/138.m3u8
 #EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery Channel
 http://37.194.121.4:1234/udp/239.1.5.1:1234 
-#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery Channel
-http://176.108.193.126:4022/udp/235.1.1.47:5678 
-#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery Channel
-http://82.209.254.92:8000/play/a03v 
-#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery Channel
-http://82.209.208.5:7018/play/a01d/index.m3u8 
-#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery Channel
-http://185.10.211.10:3000/jgj/UaUgEZ/34 
-#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery Channel HD
-http://185.10.211.10:3000/jgj/UaUgEZ/35 
 #EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://dune-hd.com/resources/support/misc/tv_channels_icons/channel_48.1319735745.png",Discovery World
 http://37.194.121.4:1234/udp/239.1.5.2:1234 
-#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://dune-hd.com/resources/support/misc/tv_channels_icons/channel_48.1319735745.png",Discovery World
-http://185.10.211.10:3000/jgj/UaUgEZ/41 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://4.bp.blogspot.com/-KFrx1NgKR9A/TZuiubLiRrI/AAAAAAAAA3I/faOXkdD5JvU/s320/Science+morph+logo+2011.jpg",Discovery Science (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1271.m3u8$http-refferer=http://localhost
 #EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="http://4.bp.blogspot.com/-KFrx1NgKR9A/TZuiubLiRrI/AAAAAAAAA3I/faOXkdD5JvU/s320/Science+morph+logo+2011.jpg",Discovery Science
 http://37.194.121.4:1234/udp/239.1.5.9:1234 
 #EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="http://4.bp.blogspot.com/-KFrx1NgKR9A/TZuiubLiRrI/AAAAAAAAA3I/faOXkdD5JvU/s320/Science+morph+logo+2011.jpg",Discovery Science
-http://176.108.193.126:4022/udp/235.1.1.29:5678 
-#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="http://4.bp.blogspot.com/-KFrx1NgKR9A/TZuiubLiRrI/AAAAAAAAA3I/faOXkdD5JvU/s320/Science+morph+logo+2011.jpg",Discovery Science
-http://185.10.211.10:3000/jgj/UaUgEZ/38 
+http://185.57.68.14/112/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="http://4.bp.blogspot.com/-KFrx1NgKR9A/TZuiubLiRrI/AAAAAAAAA3I/faOXkdD5JvU/s320/Science+morph+logo+2011.jpg",Discovery Science
 http://eu.iptvmd.net:4333/discovery_science 
-#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="http://4.bp.blogspot.com/-KFrx1NgKR9A/TZuiubLiRrI/AAAAAAAAA3I/faOXkdD5JvU/s320/Science+morph+logo+2011.jpg",Discovery Science HD 
-http://185.10.211.10:3000/jgj/UaUgEZ/39 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/51/DTX_Discovery_logo.png",DTX 
-http://176.108.193.126:4022/udp/235.1.1.28:5678
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/51/DTX_Discovery_logo.png",DTX
-http://185.10.211.10:3000/jgj/UaUgEZ/43 
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/51/DTX_Discovery_logo.png",DTX HD 
-http://185.10.211.10:3000/jgj/UaUgEZ/44 
+http://185.57.68.14/111/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2016/08/Investigation-Discovery.jpg",Investigation Discovery
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
-#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2016/08/Investigation-Discovery.jpg",Discovery ID 
-http://185.10.211.10:3000/jgj/UaUgEZ/36 
-#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2016/08/Investigation-Discovery.jpg",Discovery ID HD 
-http://185.10.211.10:3000/jgj/UaUgEZ/37 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.insiteeducation.co.za/blog/wp-content/uploads/2016/08/history-logo.gif",History 
 http://91.149.172.100:80/channel?id=136&u=demo&p=demo 
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.insiteeducation.co.za/blog/wp-content/uploads/2016/08/history-logo.gif",History
-http://185.10.211.10:3000/jgj/UaUgEZ/55 
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.insiteeducation.co.za/blog/wp-content/uploads/2016/08/history-logo.gif",History HD 
-http://185.10.211.10:3000/jgj/UaUgEZ/56 
 #EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="http://sire-assets-fox.fichub.com/assets/fox/images/misc/apple-touch-icon.png",FOX
 http://37.194.121.4:1234/udp/239.1.4.5:1234 
-#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="http://sire-assets-fox.fichub.com/assets/fox/images/misc/apple-touch-icon.png",FOX
-http://185.10.211.10:3000/jgj/UaUgEZ/112 
-#EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="http://www.lbn.lk/images/channel-logo/1455639791Fox_life_it.png",FOX HD 
-http://185.10.211.10:3000/jgj/UaUgEZ/113 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.lbn.lk/images/channel-logo/1455639791Fox_life_it.png",Fox Life 
 http://91.149.172.100:80/channel?id=75&u=demo&p=demo 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.lbn.lk/images/channel-logo/1455639791Fox_life_it.png",Fox Life
 http://37.194.121.4:1234/udp/239.1.3.11:1234 
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.lbn.lk/images/channel-logo/1455639791Fox_life_it.png",Fox Life 
-http://185.10.211.10:3000/jgj/UaUgEZ/114 
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.lbn.lk/images/channel-logo/1455639791Fox_life_it.png",Fox Life  HD 
-http://185.10.211.10:3000/jgj/UaUgEZ/115 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://pbs.twimg.com/profile_images/1114619173/TLC_logo_400x400.jpg",TLC
 http://37.194.121.4:1234/udp/239.1.3.16:1234 
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",Food Network 
-http://185.10.211.10:3000/jgj/UaUgEZ/52 
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",Food Network HD 
-http://185.10.211.10:3000/jgj/UaUgEZ/53 
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://pbs.twimg.com/profile_images/1114619173/TLC_logo_400x400.jpg",TLC
+http://185.57.68.14/139/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.amazingfactsministries.com/wp-content/uploads/2015/11/aftv.jpg",Amazing Facts TV
 http://bglive-w.bitgravity.com/amazingfacts/live/feed01
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://mybnk.org/wp-content/uploads/2014/10/London-Live.jpg",London Live
@@ -163,14 +111,6 @@ mmsh://wpso.com:200/kids
 http://bit.ly/2rvaV7Q
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://vignette.wikia.nocookie.net/logosfakeped/images/e/eb/Babytv_fox_font.png",BabyTV 
 http://wowza2.mysoltv.com:1992/UK_UK_Baby/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://vignette.wikia.nocookie.net/logosfakeped/images/e/eb/Babytv_fox_font.png",BabyTV 
-http://185.10.211.10:3000/jgj/UaUgEZ/2 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg",Duck HD 
-http://185.10.211.10:3000/jgj/UaUgEZ/6 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg",Duck TV 
-http://185.10.211.10:3000/jgj/UaUgEZ/7 
-#EXTINF:0 group-title="KIDS" tvg-logo="http://www.bestkabel.zywiec.pl/uploaded/Watch-Polsat-JimJam-Live-TV-from-Poland.jpg",JimJam
-http://185.10.211.10:3000/jgj/UaUgEZ/11
 #EXTINF:0 group-title="KIDS" tvg-logo="http://www.bestkabel.zywiec.pl/uploaded/Watch-Polsat-JimJam-Live-TV-from-Poland.jpg",Jim Jam
 http://37.194.182.58:81/udp/239.1.3.2:1234
 #EXTINF:-1 group-title="KIDS"  tvg-logo="http://www.bestkabel.zywiec.pl/uploaded/Watch-Polsat-JimJam-Live-TV-from-Poland.jpg",JimJam 
@@ -178,7 +118,7 @@ http://91.149.172.100:80/channel?id=25&u=demo&p=demo
 #EXTINF:-1 group-title="KIDS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/200px-Boomerang_tv_logo.png",Boomerang 
 http://91.149.172.100:80/channel?id=119&u=demo&p=demo 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/200px-Boomerang_tv_logo.png",Boomerang 
-http://185.10.211.10:3000/jgj/UaUgEZ/3 
+http://185.57.68.14/133/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/200px-Boomerang_tv_logo.png",Boomerang 
 http://82.209.208.5:7018/play/a015/index.m3u8 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/200px-Boomerang_tv_logo.png",boomerang (Wuffy Player)
@@ -186,11 +126,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1128.m3u8$http-refferer
 #EXTINF:0 group-title="KIDS" tvg-logo="http://onlinetv1.ru/wp-content/uploads/2018/02/bhp.png",Cartoon Network
 http://37.194.121.4:1234/udp/239.1.3.3:1234 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://onlinetv1.ru/wp-content/uploads/2018/02/bhp.png",Cartoon Network 
-http://185.10.211.10:3000/jgj/UaUgEZ/4 
-#EXTINF:-1 group-title="KIDS" tvg-logo="http://onlinetv1.ru/wp-content/uploads/2018/02/bhp.png",Cartoon Network 
 http://82.209.208.5:7018/play/a013/index.m3u8 
-#EXTINF:-1 group-title="KIDS" tvg-logo="http://onlinetv1.ru/wp-content/uploads/2018/02/bhp.png",Cartoon Network HD 
-http://185.10.211.10:3000/jgj/UaUgEZ/5 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://onlinetv1.ru/wp-content/uploads/2018/02/bhp.png",Cartoon Network (Wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1264.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://apprecs.org/ios/images/app-icons/256/67/529997671.jpg",Disney Channel (Wuffy Player)
@@ -201,16 +137,10 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1273.m3u8$http-refferer
 http://185.10.211.10:3000/jgj/UaUgEZ/14 
 #EXTINF:0 group-title="KIDS" tvg-logo="http://www.fotoseimagenes.net/imagenes/full/0/26/0/nickelodeon-latinoamerica-1.jpg",Nickelodeon
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
-#EXTINF:-1 group-title="KIDS" tvg-logo="http://www.fotoseimagenes.net/imagenes/full/0/26/0/nickelodeon-latinoamerica-1.jpg",Nickelodeon HD 
-http://185.10.211.10:3000/jgj/UaUgEZ/15
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png",NICK 
 http://91.149.172.100:80/channel?id=87&u=demo&p=demo 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/86/c9/34/86c9345c-b67a-a4cb-d7f1-fd66bfb27d1d/AppIcon-1x_U007emarketing-85-220-0-6.png/246x0w.jpg",Nick Jr 
 http://91.149.172.100:80/channel?id=76&u=demo&p=demo 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/86/c9/34/86c9345c-b67a-a4cb-d7f1-fd66bfb27d1d/AppIcon-1x_U007emarketing-85-220-0-6.png/246x0w.jpg",Nick Jr
-http://185.10.211.10:3000/jgj/UaUgEZ/13
-#EXTINF:0 group-title="KIDS" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/86/c9/34/86c9345c-b67a-a4cb-d7f1-fd66bfb27d1d/AppIcon-1x_U007emarketing-85-220-0-6.png/246x0w.jpg",Nick Jr
-http://176.108.193.126:4022/udp/235.1.1.84:5678
 #EXTINF:-1 group-title="KIDS" ,Life Kids Network
 rtmp://live.streams.ovh:1935/LIFEHD/LIFEHD
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ff/25/54/ff2554ca-e6ca-9337-a90c-73c72d9a70ad/mzl.iddssfzk.png/246x0w.jpg",Talking TOM
@@ -264,10 +194,14 @@ http://91.149.172.100:80/channel?id=140&u=demo&p=demo
 http://91.149.172.100:80/channel?id=134&u=demo&p=demo 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://pbs.twimg.com/profile_images/982890334324740096/Qj_5yoro_400x400.jpg",MTV Dance 
 http://91.149.172.100:80/channel?id=20&u=demo&p=demo 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://pbs.twimg.com/profile_images/982890334324740096/Qj_5yoro_400x400.jpg",MTV Dance
+http://185.57.68.14/105/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://www.schau-hd.tv/attachments/162/mtv.png",MTV HD 
 http://91.149.172.100:80/channel?id=4&u=demo&p=demo 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://antele.pro/wp-content/uploads/2017/04/musicbox.png",Music Box
 http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC"tvg-logo="http://www.lagardere.com/fichiers/fckeditor/Image/Groupe/Societes_et_marques/--Logos/MCM_TOP/MCM-TOP_138.gif" ,MCM TOP   
+http://185.57.68.14/106/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="MUSIC" ,M TV
 http://81.30.182.82:18092/hls/live.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Capital-TV-NEW.png",CAPITAL TV
@@ -484,4 +418,13 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/979.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/980.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png",HBO Zone (wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/981.m3u8$http-refferer=http://localhost
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Paramount-Channel-logo.jpg",Paramount Channel (RU)
+http://185.57.68.14:8091/109/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/4/4a/Paramoun_Comedy_Channel_2000.png",Paramount Comedy (RU)
+http://185.57.68.14:8091/129/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="http://animeugolok.narod.ru/nks/logo/TV1000.png",TV 1000 HD Action (RU)  
+http://185.57.68.14:8091/163/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="http://s1.vcdn.biz/static/f/384509101/image.jpg",TV 1000 HD (RU)
+http://185.57.68.14:8091/164/tracks-v1a1/index.m3u8
+
 
