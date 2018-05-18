@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,16/05/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,18/05/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -725,8 +725,356 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
 
 
-#EXTINF:3 group-title="USA2", 
+#EXTINF:-1 group-title="USA-CANADA2", 
 
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.1:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.2:8208
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/230.50.0.6:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.5:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.12:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.13:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.14:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.15:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.16:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.23:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.26:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.30:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.31:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.32:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.33:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.37:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.35:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.38:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.39:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.40:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.42:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.43:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.44:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.45:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.46:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.48:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.49:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.51:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.52:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.53:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.55:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.56:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.58:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.59:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.60:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.61:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.62:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.63:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.64:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.68:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.69:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.70:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.72:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.73:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.75:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.77:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.79:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.80:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.83:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.84:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.85:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.86:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.87:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.88:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.89:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.91:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.92:8208
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/230.50.0.95:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.93:8208
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/230.50.0.97:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.102:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.104:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.106:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.107:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.108:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.110:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.111:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.112:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.113:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.114:8208
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/230.50.0.117:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.115:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.118:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.119:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.120:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.121:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.122:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.123:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.125:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.127:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.128:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.129:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.131:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.143:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.144:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.145:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.148:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.150:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.151:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.152:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.155:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.156:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.161:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.163:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.165:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.167:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.178:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.179:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.180:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.187:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.188:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.192:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.223:8208
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/230.50.0.229:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.227:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.228:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.0.230:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.1.37:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.1.38:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.1.39:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.1.40:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.1.67:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.1.78:8208
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/230.50.1.83:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.1.82:8208
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/230.50.1.106:8208
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.1:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.2:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.3:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.4:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.5:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.6:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.7:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.8:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.9:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.10:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.11:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.12:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.13:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.14:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.15:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.16:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.17:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.18:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.19:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.20:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.21:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.22:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.23:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.24:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.25:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.26:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.27:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.28:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.29:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.30:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.31:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.32:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.33:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.34:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.35:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.36:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.37:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.38:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.39:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.54.40:1136
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/239.255.54.134:1136
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/239.255.54.137:1136
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/239.255.54.143:1136
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/239.255.54.190:1136
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/239.255.54.194:1136
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/239.255.54.241:1136
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/239.255.55.19:1136
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/239.255.55.24:1136
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/239.255.55.45:1136
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/239.255.55.166:1136
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/239.255.55.170:1136
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/239.255.56.6:1136
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/239.255.56.26:1136
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/239.255.56.62:1136
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/239.255.56.64:1136
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/239.255.56.130:1136
+#EXTINF:-1 group-title="USA-CANADA2,New HD
+http://209.182.228.25:8000/udp/239.255.56.141:1136
+#EXTINF:-1 group-title="USA-CANADA2,New
+http://209.182.228.25:8000/udp/239.255.50.13:1136
 
 
 
@@ -3139,7 +3487,8 @@ http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/971/inde
 
 
 #EXTINF:-1 group-title="Italy3",
-
+#EXTINF:-1 group-title="Italy3" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg" ,==Italy==
+http://..........
 
 #EXTINF:-1 group-title="Italy3",Canale5
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw8FugjAAANAPWkgcLW05cNhgDgFF7EorN0shOkAitCiEj99e8pSo9tAGoFvIdOASvIIkdXfVXo9ze8v1pHs%2bXZAU6ZLFZ%2be0HRzasf5It3POvl68001RP0xkPqvuETZhKc4q%2bx3fURABWtLywERk3ECzN3Tn%2fAqannVsDmZSCtfQxme9neU8qUYT490QLplg9xZ9eN4KUUHT9kf4m6e%2f3AZ%2fhQpWBNbYciGuLYidjSVrIi2s1AXa%2f2tprydDTavkNS6OjM8JIN9j7j897w%2bDN9F%2b5wAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
@@ -3166,6 +3515,242 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCA
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Italy4",
+#EXTINF:-1 group-title="Italy4" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/412zg5-aMVL._SX355_.jpg" ,==Italy==
+http://..........
+
+#EXTINF:-1 group-title="Italy4",Mediaset canale 5
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset canale 5 144p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset canale 5 288p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset canale 5 432p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset canale 5
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Italia 1
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Italia 1 144p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch02)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Italia 1 288p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch02)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Italia 1 432p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch02)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Italia 1
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch02)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset rete 4
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset rete 4 144p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset rete 4 288p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset rete 4 432p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset rete 4
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset la 5
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset la 5 144p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset la 5 288p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset la 5 432p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset la 5
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Italia 2
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch05)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Italia 2 144p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch05)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Italia 2 288p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch05)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Italia 2 432p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch05)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Italia 2
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch05)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset iris
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch06)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset iris 144p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch06)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset iris 288p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch06)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset iris 432p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch06)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset iris
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch06)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset TOP crime
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch07)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset TOP crime 144p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch07)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset TOP crime 288p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch07)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset TOP crime 432p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch07)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset TOP crime
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch07)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset extra
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch09)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset extra 144p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch09)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset extra 288p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch09)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset extra 432p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch09)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset extra
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch09)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset tgcom 24
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch10)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset tgcom 24 144p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch10)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset tgcom 24 288p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch10)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset tgcom 24 432p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch10)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset tgcom 24
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch10)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Grande fratello regia 1
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch15)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Grande fratello regia 1 144p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch15)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Grande fratello regia 1 288p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch15)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Grande fratello regia 1 432p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch15)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Grande fratello regia 1
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch15)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Grande fratello regia 2
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch23)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Grande fratello regia 2 144p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch23)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Grande fratello regia 2 288p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch23)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Grande fratello regia 2 432p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch23)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Grande fratello regia 2
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch23)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset 20
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch25)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset 20 144p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch25)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset 20 288p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch25)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset 20 432p
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch25)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset 20
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch25)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset canale 5 144p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset canale 5 288p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset canale 5 432p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Italia 1 144p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch02)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Italia 1 288p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch02)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Italia 1 432p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch02)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset rete 4 144p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset rete 4 288p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset rete 4 432p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset la 5
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset la 5 144p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset la 5 288p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset la 5 432p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset la 5
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Italia 2 144p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch05)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Italia 2 288p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch05)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Italia 2 432p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch05)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset iris 144p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch06)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset iris 288p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch06)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset iris 432p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch06)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset TOP crime
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch07)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset TOP crime 144p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch07)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset TOP crime 288p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch07)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset TOP crime 432p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch07)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset TOP crime
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch07)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset extra 144p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch09)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset extra 288p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch09)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset extra 432p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch09)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset tgcom 24
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch10)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset tgcom 24 144p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch10)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset tgcom 24 288p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch10)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset tgcom 24 432p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch10)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset tgcom 24
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch10)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Grande fratello regia 1
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch15)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Grande fratello regia 1 144p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch15)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Grande fratello regia 1 288p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch15)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Grande fratello regia 1 432p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch15)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Grande fratello regia 1
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch15)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Grande fratello regia 2
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch23)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Grande fratello regia 2 144p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch23)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Grande fratello regia 2 288p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch23)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Grande fratello regia 2 432p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch23)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset Grande fratello regia 2
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch23)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset 20 144p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch25)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset 20 288p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch25)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Italy4",Mediaset 20 432p
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch25)/Stream(03)/index.m3u8
 
 
 
@@ -4472,9 +5057,65 @@ http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/802/inde
 
 #EXTINF:8 group-title="Germany3",
 
+#EXTINF:-1 group-title="Germany3" tvg-logo="https://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif" ,==Germany==
+http://..........
 
-
-
+#EXTINF:-1 group-title="Germany3",Das Erste HD
+http://87.78.51.117:9981/stream/channelid/936228535
+#EXTINF:-1 group-title="Germany3",sunshine live
+http://87.78.51.117:9981/stream/channelid/193245606
+#EXTINF:-1 group-title="Germany3",WDR 2
+http://87.78.51.117:9981/stream/channelid/1014837529
+#EXTINF:-1 group-title="Germany3",ZDF HD
+http://87.78.51.117:9981/stream/channelid/695084232
+#EXTINF:-1 group-title="Germany3",WDR HD Köln
+http://87.78.51.117:9981/stream/channelid/839351449
+#EXTINF:-1 group-title="Germany3",RTL Television
+http://87.78.51.117:9981/stream/channelid/527338579
+#EXTINF:-1 group-title="Germany3",WDR 4
+http://87.78.51.117:9981/stream/channelid/780432440
+#EXTINF:-1 group-title="Germany3",RTL2
+http://87.78.51.117:9981/stream/channelid/1318496979
+#EXTINF:-1 group-title="Germany3",WDR 5
+http://87.78.51.117:9981/stream/channelid/729577206
+#EXTINF:-1 group-title="Germany3",SUPER RTL
+http://87.78.51.117:9981/stream/channelid/1489824309
+#EXTINF:-1 group-title="Germany3",1LIVE diGGi
+http://87.78.51.117:9981/stream/channelid/1401256412
+#EXTINF:-1 group-title="Germany3",ProSieben
+http://87.78.51.117:9981/stream/channelid/717558200
+#EXTINF:-1 group-title="Germany3",SAT.1
+http://87.78.51.117:9981/stream/channelid/1329990514
+#EXTINF:-1 group-title="Germany3",kabel eins
+http://87.78.51.117:9981/stream/channelid/184647165
+#EXTINF:-1 group-title="Germany3",VOX
+http://87.78.51.117:9981/stream/channelid/1070531847
+#EXTINF:-1 group-title="Germany3",WELT
+http://87.78.51.117:9981/stream/channelid/268310805
+#EXTINF:-1 group-title="Germany3",kabel eins Doku
+http://87.78.51.117:9981/stream/channelid/172070024
+#EXTINF:-1 group-title="Germany3",RTL Regional NRW
+http://87.78.51.117:9981/stream/channelid/493679317
+#EXTINF:-1 group-title="Germany3",zdf_neo HD
+http://87.78.51.117:9981/stream/channelid/960236418
+#EXTINF:-1 group-title="Germany3",SAT.1 Gold
+http://87.78.51.117:9981/stream/channelid/1850772634
+#EXTINF:-1 group-title="Germany3",Pro7 MAXX
+http://87.78.51.117:9981/stream/channelid/1968058208
+#EXTINF:-1 group-title="Germany3",NITRO
+http://87.78.51.117:9981/stream/channelid/2062560040
+#EXTINF:-1 group-title="Germany3",n-tv
+http://87.78.51.117:9981/stream/channelid/1692421700
+#EXTINF:-1 group-title="Germany3",Das Erste
+http://87.78.51.117:9981/stream/channelid/273626396
+#EXTINF:-1 group-title="Germany3",ZDF
+http://87.78.51.117:9981/stream/channelid/84985002
+#EXTINF:-1 group-title="Germany3",WDR Köln
+http://87.78.51.117:9981/stream/channelid/296161737
+#EXTINF:-1 group-title="Germany3",ZDFinfo
+http://87.78.51.117:9981/stream/channelid/533149398
+#EXTINF:-1 group-title="Germany3",zdf_neo
+http://87.78.51.117:9981/stream/channelid/61989093
 
 
 
@@ -10060,16 +10701,7 @@ http://163.172.220.115:8080/arena/arenasp4/index.m3u8
 #EXTINF:1 group-title="SERBIA",Arena Sport 5
 http://163.172.220.115:8080/arena/arenasp5/index.m3u8
 
-#EXTINF:1 group-title="SERBIA", ARENA SPORT 1 HD 
-http://92.60.224.62:3019/udp/239.1.9.1:22901 
-#EXTINF:1 group-title="SERBIA", ARENA SPORT 2 HD 
-http://92.60.224.62:3019/udp/239.1.9.2:22902 
-#EXTINF:1 group-title="SERBIA", ARENA SPORT 3 HD 
-http://92.60.224.62:3019/udp/239.1.9.3:22903 
-#EXTINF:1 group-title="SERBIA", ARENA SPORT 4 HD 
-http://92.60.224.62:3019/udp/239.1.9.4:22904 
-#EXTINF:1 group-title="SERBIA", ARENA SPORT 5 HD 
-http://92.60.224.62:3019/udp/239.1.9.5:22905
+
 
 
 
