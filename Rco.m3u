@@ -1050,6 +1050,47 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
 #EXTINF:1 group-title="Portugal",
 
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIO94FM.png" ,94FM 
+http://195.8.58.150:35022/stream/1/
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOAMALIA.png" ,AMALIA 
+http://stream.radio.com.pt:9496/stream
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOANTENA1.png" ,ANTENA 1 
+http://radiocast.rtp.pt/antena180a.mp3
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOANTENA2.png" ,ANTENA 2 
+http://radiocast.rtp.pt/antena280a.mp3
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/44/Log%C3%B3tipo_da_r%C3%A1dio_Cidade.png" ,CIDADE FM 
+http://mcrwowza2.mcr.iol.pt/cidadefm/apple.sdp/chunklist_w1928988836.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOHIPERFM.png" ,HIPER FM 
+http://195.23.85.126:9500/stream/1/
+#EXTINF:-1 group-title="Portugal" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/02/marginal.jpg" ,MARGINAL 
+http://centova.radios.pt:8499/stream/1/
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOMEGAHITS.png" ,MEGA HITS 
+http://19553.live.streamtheworld.com/MEGA_HITS_SC
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIONOSTALGIA.png" ,NOSTALGIA 
+http://centova.radios.PT 8435/stream
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIONOVAERA.png" ,NOVA ERA 
+http://centova.radios.pt:9478/stream/1/
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOORBITAL.png" ,ORBITAL 
+http://195.23.85.126:8401/stream/1/
+#EXTINF:-1 group-title="Portugal" tvg-logo="http://www.radioplacard.pt/files/32/781.png" ,PLACARD 
+http://213.239.218.99:7098/;?1475760096281.aac
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIORADAR.png" ,RADAR 
+http://centova.radios.pt:8497/stream/1/
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOCOMERCIAL.png" ,RADIO COMERCIAL 
+http://mcrscast.mcr.iol.pt/comercial.mp3
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOFESTIVAL.png" ,RADIO FESTIVAL 
+http://centova.radios.pt:9520/stream/1/
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIONOVA.png" ,RADIO NOVA 
+http://centova.radios.pt:9528/stream/1/
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOONDAVIVA.png" ,RADIO ONDA VIVA 
+http://centova.radios.pt:9524/stream
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIORFM.png" ,RFM 
+http://19553.live.streamtheworld.com/RFM_SC
+#EXTINF:-1 group-title="Portugal" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2008/09/logo80RFMPlayer.png" ,RFM 80 
+http://19573.live.streamtheworld.com/GR80SRFM_SC
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOTSF.png" ,TSF 
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+
 #EXTINF:-1 group-title="Portugal" tvg-logo="http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png" , FM O DIA TV
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-logo="http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png" , FM O DIA
