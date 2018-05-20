@@ -418,7 +418,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/979.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/980.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png",HBO Zone (wuffy Player)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/981.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Paramount-Channel-logo.jpg",Paramount Channel (RU)
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Paramount-Channel-logo.jpg",Paramount Channel (RU)
 http://185.57.68.14:8091/109/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/4/4a/Paramoun_Comedy_Channel_2000.png",Paramount Comedy (RU)
 http://185.57.68.14:8091/129/tracks-v1a1/index.m3u8
