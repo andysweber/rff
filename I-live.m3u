@@ -52,9 +52,20 @@ http://stream.visit-x.tv/vxtv/live/playlist.m3u8?MWINFO
 
 
 
-#EXTINF:1 group-title="LIVE TV2",
+#EXTINF:-1 group-title="LIVE TV2",
 
-
+#EXTINF:-1 group-title="LIVE TV2",Erotic1 
+http://176.67.211.6:9000/udp/239.1.7.1:22701 
+#EXTINF:-1 group-title="LIVE TV2",Reality Kings 
+http://176.67.211.6:9000/udp/239.1.7.11:22711 
+#EXTINF:-1 group-title="LIVE TV2",Private TV HD 
+http://176.67.211.6:9000/udp/239.1.7.20:22720 
+#EXTINF:-1 group-title="LIVE TV2",Dorcel TV HD 
+http://176.67.211.6:9000/udp/239.1.7.22:22722 
+#EXTINF:-1 group-title="LIVE TV2",Dorcel HD 
+http://176.67.211.6:9000/udp/239.1.7.23:22723 
+#EXTINF:-1 group-title="LIVE TV2",Stars XXX HD 
+http://176.67.211.6:9000/udp/239.1.7.24:22724 
 
 
 
