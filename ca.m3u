@@ -369,6 +369,8 @@ http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
 http://cdn.vsnw.net:8081/interradio/720i.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://www.coultersproperty.co.uk/wp-content/uploads/2017/12/sky-news-logo-370x229.jpg",sky News
 https://www.youtube.com/watch?v=XOacA3RYrXk
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://www.coultersproperty.co.uk/wp-content/uploads/2017/12/sky-news-logo-370x229.jpg",sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/888431997017661440/fj0FLr2O_400x400.jpg" ,WBZ 4 News (Boston)
 http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/WCCB_CW_logo.png" ,WCCB News (Charlotte)
