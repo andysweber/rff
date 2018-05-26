@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,24/05/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,26/05/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -53,9 +53,9 @@ http://www.fireshow.xyz/rik1.html|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png", RIK2
 http://www.fireshow.xyz/rik2.html|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.megatv.com.cy/images/logo_tvone.png" ,TVONE
-http://www.megatv.com.cy/live/?cs=1|webdown
+http://www.megatv.com.cy/live/?cs=1|webdown$$start=file: \"http://$$end=\"},$$replace1=file: \"$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.megatv.com.cy/images/logo_tvone.png" ,TVONE
-http://www.fireshow.xyz/megacym.html|webdown
+http://www.fireshow.xyz/megacym.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" epg-id="Sigma" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" epg-id="Sigma" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
@@ -63,9 +63,9 @@ http://www.fireshow.xyz/sigmam.html|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus
 http://www.alphacyprus.com.cy/page/live|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/v6twaoa6r/ant1.png",Ant1 Cyprus
-http://www.ant1iwo.com/webtv/web-tv-live/|webdown
+http://www.ant1iwo.com/webtv/web-tv-live/|webdown$$start=href=\"http://l$$end=\" data-in$$replace1=href=\"$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/v6twaoa6r/ant1.png",Ant1 Cyprus
-http://www.fireshow.xyz/ant1cym.html|webdown
+http://www.fireshow.xyz/ant1cym.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
 http://master.cystreams.com:25461/live/greek/zagoria/14.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
@@ -88,8 +88,6 @@ https://www.youtube.com/watch?v=ll3n5FCA6jY
 http://gr.euronews.com/live|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://cdn.mypanel.tv/picon/cy/CBCTvMall.cy.png" ,TV Mall
 http://master.cystreams.com:25461/live/tvmall/tvmall/539.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://static.wixstatic.com/media/e9f47d_1f30d615e14e4ae6a72d87b53a394a39~mv2_d_1605_1228_s_2.png/v1/fill/w_367,h_280,al_c,usm_0.66_1.00_0.01/e9f47d_1f30d615e14e4ae6a72d87b53a394a39~mv2_d_1605_1228_s_2.png",7Sports
-http://www.istoikona.com/Media-Customers/moduleId/400/itemId/2/Station/7sports/controller/Media/action/gettv?SkinSrc=[G]Skins/Istoikona/PlayerPopup|webdown$$start=https://cdn.istoikona.com$$end=\" }\n $$replace1=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://i.imgur.com/w9Je47D.png",CYSPORTS
 http://cdnstream.istoikona.net:8081/cysports/cysports/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://alfasports.tv/wp-content/uploads/2017/07/19650478_10213391687526137_730682022_o.png",ALFA SPORT.TV
@@ -8034,23 +8032,6 @@ http://61.216.177.73/sta/ch1865033.m3u8
 #EXTINF:-1 group-title="China2",MOMO购物3
 http://61.216.177.73/sta/ch1865034.m3u8
 
-#EXTINF:-1 group-title="China2"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,Server 3
-http://.....
-
-#EXTINF:-1 group-title="China2",TVBJ2
-http://219.78.181.209:7522/upnp/channelstream/01.m3u8
-#EXTINF:-1 group-title="China2",无线新闻台
-http://219.78.181.209:7522/upnp/channelstream/02.m3u8
-#EXTINF:-1 group-title="China2",明珠台
-http://219.78.181.209:7522/upnp/channelstream/00.m3u8
-#EXTINF:-1 group-title="China2",RTHK31
-http://219.78.181.209:7522/upnp/channelstream/06.m3u8
-#EXTINF:-1 group-title="China2",RTHK31
-http://219.78.181.209:7522/upnp/channelstream/05.m3u8
-#EXTINF:-1 group-title="China2",RTHK32
-http://219.78.181.209:7522/upnp/channelstream/07.m3u8
-#EXTINF:-1 group-title="China2",RTHK33
-http://219.78.181.209:7522/upnp/channelstream/09.m3u8
 
 
 
@@ -10106,25 +10087,6 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 
 
 #EXTINF:9 group-title="India2-premium",
-
-#EXTINF:-1 group-title="India2-premium" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png" ,==India==
-http://..........
-
-#EXTINF:-1 group-title="India2-premium",Star sports HD1
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/57.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="India2-premium",Star sports HD2
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/56.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="India2-premium",Star sports HD3
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/55.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="India2-premium",Star sports HD4
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/54.m3u8$http-refferer=http://localhost
-
-
-
-
-
-
-
 
 
 
