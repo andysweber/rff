@@ -28,7 +28,7 @@ http://r1.cloudskep.com/cybcr/cybc4/icecast.audio
 http://phileradio.com:8193/89FM
 #EXTINF:0 group-title="Cyprus Radio" tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/hitfmcy.png" ,Hit FM 91.4
 http://eco.onestreaming.com:8207/;
-#EXTINF:0 group-title="Cyprus Radio",KANALI 7 91.8
+#EXTINF:0 group-title="Cyprus Radio" tvg-logo="http://new.kanali7.com/wp-content/uploads/2016/03/kanali-7-logo-low-1.png",KANALI 7 91.8
 http://live.kanali7.com:4012/;stream.nsv
 #EXTINF:0 group-title="Cyprus Radio" tvg-logo="http://cdn.e-radio.gr/logos/cy/big/astracy.png" ,RADIO ASTRA 92.8
 http://radio.dialogos.com.cy:8000/stream
