@@ -122,14 +122,6 @@ http://81.177.254.23:9996/play/Visit-X_HD/index.m3u8
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 #EXTINF:-1 group-title="P2P TV1" tvg-logo="https://goo.gl/eimzf3" ,ACESTREAM NEEDED.
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="P2P TV1" tvg-logo="https://goo.gl/eimzf3" ,Choose Acestream
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="P2P TV1" tvg-logo="https://goo.gl/eimzf3" ,as player if
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="P2P TV1" tvg-logo="https://goo.gl/eimzf3" ,not open
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="P2P TV1" tvg-logo="https://goo.gl/eimzf3" ,automatically
-https://www.youtube.com/watch?v=7sIsiHbDi_0
 #EXTINF:-1 group-title="P2P TV1" tvg-logo="https://goo.gl/eimzf3" ,
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 #EXTINF:-1 group-title="P2P TV1" tvg-logo="https://goo.gl/eimzf3" ,
@@ -274,14 +266,6 @@ acestream://ce40114fd91e7d13fb0b882df66058c7a949ddc1
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 #EXTINF:-1 group-title="P2P TV2" tvg-logo="https://goo.gl/eimzf3" ,ACESTREAM NEEDED.
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="P2P TV2" tvg-logo="https://goo.gl/eimzf3" ,Choose Acestream
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="P2P TV2" tvg-logo="https://goo.gl/eimzf3" ,as player if
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="P2P TV2" tvg-logo="https://goo.gl/eimzf3" ,not open
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="P2P TV2" tvg-logo="https://goo.gl/eimzf3" ,automatically
-https://www.youtube.com/watch?v=7sIsiHbDi_0
 #EXTINF:-1 group-title="P2P TV2" tvg-logo="https://goo.gl/eimzf3" ,
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 #EXTINF:-1 group-title="P2P TV2" tvg-logo="https://goo.gl/eimzf3" ,
@@ -295,3 +279,5 @@ acestream://2a2ecfa17d0f86ebe0b7a97f4c2e4c1e3bf9c87f
 acestream://66604bbfffc9c2b2623b9bbdb6c0c741d17a89ba
 #EXTINF:-1 group-title="P2P TV2",НЮ АРТ
 acestream://c4241183cafe41aadb5d7f86a3fb821383e1d9d2
+#EXTINF:-1 group-title="P2P TV2",Русская ночь
+acestream://5a9715fe5e6cb34502defb83e1aa3eaa48834bce
