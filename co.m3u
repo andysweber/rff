@@ -47,15 +47,15 @@ https://www.youtube.com/watch?v=7sIsiHbDi_0
 http://..........
 
 #EXTINF:-1 group-title="Cyprus" tvg-name="Rik1" epg-id="Rik1" tvg-logo="http://www.riknews.com.cy/images/stories/icons/logo-2.png" ,RIKSAT
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-sat/|webdown$$start=\"meta\" src=\"http://$$end=\" title=\"\">$$replace1=\"meta\" src=\"$$add=
+http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-sat/|webdown$$start=\" src=\"http://l$$end=\" title=\"\">$$replace1=\" src=\"$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-name="Rik1" epg-id="Rik1" tvg-logo="http://www.riknews.com.cy/images/stories/icons/logo-2.png" ,RIKSAT
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.offsite.com.cy/sites/default/files/2017_3/rik1_2.png" ,RIK1
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webdown$$start=\"meta\" src=\"http://$$end=\" title=\"\">$$replace1=\"meta\" src=\"$$add=
+http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webdown$$start=\" src=\"http://l$$end=\" title=\"\">$$replace1=\" src=\"$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.offsite.com.cy/sites/default/files/2017_3/rik1_2.png",RIK1
 http://www.fireshow.xyz/rik1.html|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png" ,RIK2
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|webdown$$start=\"meta\" src=\"http://$$end=\" title=\"\">$$replace1=\"meta\" src=\"$$add=
+http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|webdown$$start=\" src=\"http://l$$end=\" title=\"\">$$replace1=\" src=\"$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png",RIK2
 http://www.fireshow.xyz/rik2.html|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.megatv.com.cy/images/logo_tvone.png" ,TVONE
