@@ -80,7 +80,7 @@ http://www.anacon.org/app/chans/cy/capitalcy.html|webdown
 http://master.cystreams.com:25461/live/greek/zagoria/15.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://cdn.mypanel.tv/picon/cy/ExtraTV.cy.png" ,EXTRA
 http://www.anacon.org/app/chans/cy/extracy.html|webdown
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/plus-jpg-HkMDzfFyW.jpg",Plus 
+#EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/tvg/logos/201.png",Plus 
 http://www.anacon.org/app/chans/cy/pluscy.html|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
