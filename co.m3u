@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,04/06/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,06/06/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -1017,27 +1017,7 @@ http://209.182.228.22:8000/udp/230.50.1.78:8208
 
 
 
-#EXTINF:1 group-title="USA3" tvg-logo="http://www.cyma.ca/images/usa5b15d.gif" ,===USA===
-http://..........
 
-#EXTINF:-1 group-title="USA3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" ,TLC 
-http://wowza2.mysoltv.com:1992/UK_ENG_tlc/index.m3u8
-#EXTINF:-1 group-title="USA3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" ,INVESTIGATION DISCOVERY 
-http://wowza2.mysoltv.com:1992/UK_ENG_discovery_id/index.m3u8
-#EXTINF:-1 group-title="USA3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430" ,DISCOVERY +1 
-http://wowza2.mysoltv.com:1992/UK_ENG_discovery_science/index.m3u8
-#EXTINF:-1 group-title="USA3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" ,DISCOVERY TURBO 
-http://wowza2.mysoltv.com:1992/UK_ENG_discovery_turbo/index.m3u8
-#EXTINF:-1 group-title="USA3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Discovery_Home_%26_Health_Asia.svg/1280px-Discovery_Home_%26_Health_Asia.svg.png" ,DISCOVERY HOME & HEALTH 
-http://wowza2.mysoltv.com:1992/UK_ENG_discovery_home/index.m3u8
-#EXTINF:-1 group-title="USA3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043" ,BABY TV 
-http://wowza2.mysoltv.com:1992/UK_UK_Baby/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="USA3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1180px-H2_TV_logo.svg.png" ,H2 
-http://wowza2.mysoltv.com:1992/UK_ENG_history2/index.m3u8
-#EXTINF:-1 group-title="USA3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/2000px-History_Logo_2008-2015.svg.png" ,HISTORY 
-http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
-#EXTINF:-1 group-title="USA3" tvg-logo="http://i.imgur.com/udcCfFP.png" ,FUEL TV 
-http://wowza2.mysoltv.com:1992/USA_FUEL_HD/index.m3u8
 
 
 
@@ -1462,97 +1442,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1117.m3u8$http-refferer
 
 
 
-#EXTINF:-1 group-title="UK",
-
-#EXTINF:-1 group-title="UK" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
-http://..........
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/bbc1.jpg",BBC 1 
-https://easyview.eu/bbc-one/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/BBC_Two_HD.jpg",BBC 2
-https://easyview.eu/bbc-two/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/bbc4-logo-400x284.jpg",BBC 4
-https://easyview.eu/bbc-four/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/05/CBBC.jpg",Cbbc 
-https://easyview.eu/cbbc/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/05/cbeebies.jpg",cbeebies
-https://easyview.eu/cbeebies/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/bbc-one-wales.jpg",BBC 1 Wales
-https://easyview.eu/bbc-one-wales/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/BBC-One-Scotland.jpg",BBC 1 Scotland
-https://easyview.eu/bbc-one-scotland/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/BBC-Northern-Ireland.jpg",BBC 1 Northern Ireland
-https://easyview.eu/bbc-one-northern-ireland/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/bbc-parliament.jpg",BBC Parliament
-https://easyview.eu/bbc-parliament/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/bbc_news.jpg",BBC News
-https://easyview.eu/bbc-news/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/05/BBC_Alba.jpg",BBC alba
-https://easyview.eu/bbc-alba/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/bbcredbutton.jpg",BBC red button
-https://easyview.eu/bbc-red-button/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/ITV-Where-Drama-Lives-1-400x284.jpg",ITV
-https://easyview.eu/itv/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/itv2_logo_new_2015-400x284.jpg",ITV 2
-https://easyview.eu/itv2/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/itv3-400x284.jpg",ITV 3
-https://easyview.eu/itv3/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/itv4-400x284.jpg",ITV 4
-https://easyview.eu/itv4/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/citv_logo_2015-400x284.jpg",CITV
-https://easyview.eu/citv/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/itvbe-400x284.jpg",ITV Be.
-https://easyview.eu/itvbe/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/itvencore.jpg",ITV encore
-https://easyview.eu/itv-encore/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/channel_channel4.jpg",4
-https://easyview.eu/channel-4/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/C5new3.jpg",5
-https://easyview.eu/five/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/10/film-4-22_595x335-400x284.jpg",Film 4
-https://easyview.eu/film-4/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2017/10/e4.jpg",E4
-https://easyview.eu/e4/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/more4-400x284.jpg",More4
-https://easyview.eu/more4/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/dave-400x284.jpg",Dave
-https://easyview.eu/dave/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/golduk-400x284.jpg",Gold
-https://easyview.eu/gold/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/challenge-400x284.png",Challenge
-https://easyview.eu/challenge/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/really.jpg",Really
-https://easyview.eu/really/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/yesterday.jpg",Yesterday
-https://easyview.eu/yesterday/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/yesterdayplus1.jpg",Yesterday +1
-https://easyview.eu/yesterdayplus1/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/drama.jpg",Drama
-https://easyview.eu/drama/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/home.png",Home
-https://easyview.eu/home/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/quest.jpg",Quest
-https://easyview.eu/quest/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/quest_red.jpg",Quest Red
-https://easyview.eu/quest-red/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/food_network.jpg",Food Network
-https://easyview.eu/food-network/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/food_network_plus1.png",Food Network +1
-https://easyview.eu/food-network-plus1/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/travel_channel.jpeg",Travel Channel
-https://easyview.eu/travel-channel/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/travelchannelplus1.png",Travel Channel +1
-https://easyview.eu/travel-channel-plus1/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/4seven.jpg",4 Seven
-https://easyview.eu/4seven/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/bet.jpg",Bet
-https://easyview.eu/bet/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/davejavu.png",Dave ja vu
-https://easyview.eu/dave-ja-vu/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/fashiontv.jpg",fashion tv
-https://easyview.eu/fashion-tv/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/5usa.jpg",5usa
-https://easyview.eu/5usa/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
 
 
 
@@ -1640,6 +1529,117 @@ http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34b
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="UK1",
+
+#EXTINF:-1 group-title="UK1" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
+http://..........
+
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/bbc1.jpg",BBC 1 
+https://easyview.eu/bbc-one/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/BBC_Two_HD.jpg",BBC 2
+https://easyview.eu/bbc-two/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/bbc4-logo-400x284.jpg",BBC 4
+https://easyview.eu/bbc-four/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/05/CBBC.jpg",Cbbc 
+https://easyview.eu/cbbc/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/05/cbeebies.jpg",cbeebies
+https://easyview.eu/cbeebies/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/bbc-one-wales.jpg",BBC 1 Wales
+https://easyview.eu/bbc-one-wales/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/BBC-One-Scotland.jpg",BBC 1 Scotland
+https://easyview.eu/bbc-one-scotland/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/BBC-Northern-Ireland.jpg",BBC 1 Northern Ireland
+https://easyview.eu/bbc-one-northern-ireland/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/bbc-parliament.jpg",BBC Parliament
+https://easyview.eu/bbc-parliament/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/bbc_news.jpg",BBC News
+https://easyview.eu/bbc-news/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/05/BBC_Alba.jpg",BBC alba
+https://easyview.eu/bbc-alba/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/bbcredbutton.jpg",BBC red button
+https://easyview.eu/bbc-red-button/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/ITV-Where-Drama-Lives-1-400x284.jpg",ITV
+https://easyview.eu/itv/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/itv2_logo_new_2015-400x284.jpg",ITV 2
+https://easyview.eu/itv2/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/itv3-400x284.jpg",ITV 3
+https://easyview.eu/itv3/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/itv4-400x284.jpg",ITV 4
+https://easyview.eu/itv4/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/citv_logo_2015-400x284.jpg",CITV
+https://easyview.eu/citv/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/itvbe-400x284.jpg",ITV Be.
+https://easyview.eu/itvbe/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/itvencore.jpg",ITV encore
+https://easyview.eu/itv-encore/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/channel_channel4.jpg",4
+https://easyview.eu/channel-4/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/C5new3.jpg",5
+https://easyview.eu/five/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/10/film-4-22_595x335-400x284.jpg",Film 4
+https://easyview.eu/film-4/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/10/e4.jpg",E4
+https://easyview.eu/e4/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/more4-400x284.jpg",More4
+https://easyview.eu/more4/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/dave-400x284.jpg",Dave
+https://easyview.eu/dave/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/golduk-400x284.jpg",Gold
+https://easyview.eu/gold/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/challenge-400x284.png",Challenge
+https://easyview.eu/challenge/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/really.jpg",Really
+https://easyview.eu/really/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/yesterday.jpg",Yesterday
+https://easyview.eu/yesterday/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/yesterdayplus1.jpg",Yesterday +1
+https://easyview.eu/yesterdayplus1/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/drama.jpg",Drama
+https://easyview.eu/drama/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/home.png",Home
+https://easyview.eu/home/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/quest.jpg",Quest
+https://easyview.eu/quest/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/quest_red.jpg",Quest Red
+https://easyview.eu/quest-red/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/food_network.jpg",Food Network
+https://easyview.eu/food-network/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/food_network_plus1.png",Food Network +1
+https://easyview.eu/food-network-plus1/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/travel_channel.jpeg",Travel Channel
+https://easyview.eu/travel-channel/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/travelchannelplus1.png",Travel Channel +1
+https://easyview.eu/travel-channel-plus1/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/4seven.jpg",4 Seven
+https://easyview.eu/4seven/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/bet.jpg",Bet
+https://easyview.eu/bet/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/davejavu.png",Dave ja vu
+https://easyview.eu/dave-ja-vu/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/fashiontv.jpg",fashion tv
+https://easyview.eu/fashion-tv/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
+#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/5usa.jpg",5usa
+https://easyview.eu/5usa/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8
 
 
 
@@ -2056,7 +2056,8 @@ http://62.210.93.115:80/live?channelId=258&uid=1917&deviceMac=00:1A:79:15:34:33
 
 
 #EXTINF:-1 group-title="UK3", 
-
+#EXTINF:-1 group-title="UK3" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
+http://..........
 #EXTINF:-1 group-title="UK3" tvg-logo="http://www.thelogodb.com/images/media/logo/mp44981502554837.png" ,SKY SPORTS MAIN EVENT 
 http://sportsbar.pw/lba/MmI5ZTcxYThjNGY2NTZmODFhZGE2MzcxYzY4ZWZiOWE=/g8/SkyMainEvent.m3u8
 #EXTINF:-1 group-title="UK3" tvg-logo="http://www.thelogodb.com/images/media/logo/lnd1p01502554851.png" ,SKY SPORTS FOOTBALL HD 
@@ -2067,6 +2068,8 @@ http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g5/SkyActio
 http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g2/BTSport1.m3u8
 #EXTINF:-1 group-title="UK3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT2.png" ,BT SPORT 2 
 http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g3/BTSport2.m3u8
+#EXTINF:-1 group-title="UK3"  ,BT SPORT 3
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g4/BTSport3.m3u8
 #EXTINF:-1 group-title="UK3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTESPN.png" ,BT SPORT ESPN HD 
 http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g6/btsportespn.m3u8
 
@@ -2090,30 +2093,34 @@ http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g6/btsporte
 
 #EXTINF:3 group-title="UK4", 
 
-
 #EXTINF:-1 group-title="UK4" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
 http://..........
 
+#EXTINF:-1 group-title="UK4",BBC FOUR HD 
+http://185.227.241.19:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="UK4",BBC NEWS
+http://185.227.241.19:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="UK4",BBC ONE HD 
+http://185.227.241.19:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="UK4",BBC TWO HD 
+http://185.227.241.19:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="UK4",CBBC
+http://185.227.241.19:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="UK4",ITV 2 HD 
+http://185.227.241.19:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="UK4",ITV 3 HD 
+http://185.227.241.19:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="UK4",ITV 4 HD 
+http://185.227.241.19:8000/play/a02b/index.m3u8
 
-#EXTINF:-1 group-title="UK4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" ,TLC 
-http://wowza2.mysoltv.com:1992/UK_ENG_tlc/index.m3u8
-#EXTINF:-1 group-title="UK4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" ,INVESTIGATION DISCOVERY 
-http://wowza2.mysoltv.com:1992/UK_ENG_discovery_id/index.m3u8
-#EXTINF:-1 group-title="UK4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430" ,DISCOVERY +1 
-http://wowza2.mysoltv.com:1992/UK_ENG_discovery_science/index.m3u8
-#EXTINF:-1 group-title="UK4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" ,DISCOVERY TURBO 
-http://wowza2.mysoltv.com:1992/UK_ENG_discovery_turbo/index.m3u8
-#EXTINF:-1 group-title="UK4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Discovery_Home_%26_Health_Asia.svg/1280px-Discovery_Home_%26_Health_Asia.svg.png" ,DISCOVERY HOME & HEALTH 
-http://wowza2.mysoltv.com:1992/UK_ENG_discovery_home/index.m3u8
-#EXTINF:-1 group-title="UK4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043" ,BABY TV 
-http://wowza2.mysoltv.com:1992/UK_UK_Baby/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="UK4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1180px-H2_TV_logo.svg.png" ,H2 
-http://wowza2.mysoltv.com:1992/UK_ENG_history2/index.m3u8
-#EXTINF:-1 group-title="UK4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/2000px-History_Logo_2008-2015.svg.png" ,HISTORY 
-http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
-#EXTINF:-1 group-title="UK4" tvg-logo="http://i.imgur.com/udcCfFP.png" ,FUEL TV 
-http://wowza2.mysoltv.com:1992/USA_FUEL_HD/index.m3u8
-
+#EXTINF:-1 group-title="UK4",BBC ONE HD 
+http://185.59.221.136:9981/stream/channelid/650783408
+#EXTINF:-1 group-title="UK4",BBC TWO HD 
+http://185.59.221.136:9981/stream/channelid/382198530
+#EXTINF:-1 group-title="UK4",ITV HD
+http://185.59.221.136:9981/stream/channelid/1998784340
+#EXTINF:-1 group-title="UK4",ITV 2 HD 
+http://185.59.221.136:9981/stream/channelid/2139720971
 
 
 
@@ -2131,29 +2138,6 @@ http://wowza2.mysoltv.com:1992/USA_FUEL_HD/index.m3u8
 
 
 #EXTINF:3 group-title="UK5", 
-#EXTINF:1 group-title="UK5" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
-http://..........
-
-#EXTINF:0 group-title="UK5", BT Sport 1 
-http://185.53.163.205:2700 
-#EXTINF:0 group-title="UK5", BT Sport 2 
-http://185.53.163.205:2506 
-#EXTINF:0 group-title="UK5", BT Sport 3 
-http://185.53.163.205:2701 
-#EXTINF:0 group-title="UK5", BT Sport ESPN 
-http://185.53.163.205:2507 
-#EXTINF:0 group-title="UK5", BT Sport Extra 1 
-http://185.53.163.205:2707 
-#EXTINF:0 group-title="UK5", BT Sport Extra 2 
-http://185.53.163.205:2500 
-#EXTINF:0 group-title="UK5", BT Sport Extra 3 
-http://185.53.163.205:2501 
-#EXTINF:0 group-title="UK5", BT Sport Extra 4 
-http://185.53.163.205:2502 
-#EXTINF:0 group-title="UK5", BT Sport Extra 5 
-http://185.53.163.205:2503 
-#EXTINF:0 group-title="UK5", BT Sport Extra 6 
-http://185.53.163.205:2504 
 
 
 
@@ -2180,187 +2164,6 @@ http://185.53.163.205:2504
 
 
 
-#EXTINF:-1 group-title="UK6" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
-http://..........
-
-#EXTINF:-1 group-title="UK6",ITV3
-http://62.6.220.53:9981/play/a02q
-#EXTINF:-1 group-title="UK6",Dave ja vu
-http://62.6.220.53:9981/play/a03d
-#EXTINF:-1 group-title="UK6",Really
-http://62.6.220.53:9981/play/a01x
-#EXTINF:-1 group-title="UK6",ITV
-http://62.6.220.53:9981/play/a02p
-#EXTINF:-1 group-title="UK6",RNIB Connect
-http://62.6.220.53:9981/play/a01t
-#EXTINF:-1 group-title="UK6",movies4men
-http://62.6.220.53:9981/play/a020
-#EXTINF:-1 group-title="UK6",E4+1
-http://62.6.220.53:9981/play/a01q
-#EXTINF:-1 group-title="UK6",Pick+1
-http://62.6.220.53:9981/play/a04a
-#EXTINF:-1 group-title="UK6",BBC ONE HD
-http://62.6.220.53:9981/play/a03i
-#EXTINF:-1 group-title="UK6",LBC
-http://62.6.220.53:9981/play/a035
-#EXTINF:-1 group-title="UK6",QVC Beauty
-http://62.6.220.53:9981/play/a03f
-#EXTINF:-1 group-title="UK6",ITV4
-http://62.6.220.53:9981/play/a02s
-#EXTINF:-1 group-title="UK6",Gems TV
-http://62.6.220.53:9981/play/a022
-#EXTINF:-1 group-title="UK6",Drama
-http://62.6.220.53:9981/play/a02n
-#EXTINF:-1 group-title="UK6",BBC TWO
-http://62.6.220.53:9981/play/a025
-#EXTINF:-1 group-title="UK6",Sewing Quarter
-http://62.6.220.53:9981/play/a02z
-#EXTINF:-1 group-title="UK6",E4
-http://62.6.220.53:9981/play/a02x
-#EXTINF:-1 group-title="UK6",Channel 5 HD
-http://62.6.220.53:9981/play/a03l
-#EXTINF:-1 group-title="UK6",Channel 4+1
-http://62.6.220.53:9981/play/a02y
-#EXTINF:-1 group-title="UK6",Food Network
-http://62.6.220.53:9981/play/a01u
-#EXTINF:-1 group-title="UK6",5STAR
-http://62.6.220.53:9981/play/a02c
-#EXTINF:-1 group-title="UK6",More 4
-http://62.6.220.53:9981/play/a02w
-#EXTINF:-1 group-title="UK6",Challenge
-http://62.6.220.53:9981/play/a01o
-#EXTINF:-1 group-title="UK6",CBS Reality +1
-http://62.6.220.53:9981/play/a045
-#EXTINF:-1 group-title="UK6",ITV2
-http://62.6.220.53:9981/play/a02r
-#EXTINF:-1 group-title="UK6",True Movies
-http://62.6.220.53:9981/play/a03b
-#EXTINF:-1 group-title="UK6",Channel 4+1 HD
-http://62.6.220.53:9981/play/a041
-#EXTINF:-1 group-title="UK6",PBS America
-http://62.6.220.53:9981/play/a03x
-#EXTINF:-1 group-title="UK6",Keep It Country
-http://62.6.220.53:9981/play/a047
-#EXTINF:-1 group-title="UK6",Quest Red
-http://62.6.220.53:9981/play/a01y
-#EXTINF:-1 group-title="UK6",Channel 5+1
-http://62.6.220.53:9981/play/a02e
-#EXTINF:-1 group-title="UK6",BBC FOUR HD
-http://62.6.220.53:9981/play/a03q
-#EXTINF:-1 group-title="UK6",Dave
-http://62.6.220.53:9981/play/a01p
-#EXTINF:-1 group-title="UK6",BBC RB 1
-http://62.6.220.53:9981/play/a02a
-#EXTINF:-1 group-title="UK6",CBBC
-http://62.6.220.53:9981/play/a028
-#EXTINF:-1 group-title="UK6",TBN UK
-http://62.6.220.53:9981/play/a01w
-#EXTINF:-1 group-title="UK6",Channel 4
-http://62.6.220.53:9981/play/a02u
-#EXTINF:-1 group-title="UK6",BBC TWO HD
-http://62.6.220.53:9981/play/a03h
-#EXTINF:-1 group-title="UK6",Travel Channel
-http://62.6.220.53:9981/play/a039
-#EXTINF:-1 group-title="UK6",Sky News
-http://62.6.220.53:9981/play/a01m
-#EXTINF:-1 group-title="UK6",Together
-http://62.6.220.53:9981/play/a03y
-#EXTINF:-1 group-title="UK6",Vintage TV
-http://62.6.220.53:9981/play/a048
-#EXTINF:-1 group-title="UK6",5 USA
-http://62.6.220.53:9981/play/a02d
-#EXTINF:-1 group-title="UK6",5STAR+1
-http://62.6.220.53:9981/play/a03s
-#EXTINF:-1 group-title="UK6",QVC HD
-http://62.6.220.53:9981/play/a03p
-#EXTINF:-1 group-title="UK6",Quest Red+1
-http://62.6.220.53:9981/play/a049
-#EXTINF:-1 group-title="UK6",BT Showcase HD
-http://62.6.220.53:9981/play/a03r
-#EXTINF:-1 group-title="UK6",Channel 5
-http://62.6.220.53:9981/play/a030
-#EXTINF:-1 group-title="UK6",4seven
-http://62.6.220.53:9981/play/a036
-#EXTINF:-1 group-title="UK6",CBeebies
-http://62.6.220.53:9981/play/a04c
-#EXTINF:-1 group-title="UK6",ITVBe+1
-http://62.6.220.53:9981/play/a02l
-#EXTINF:-1 group-title="UK6",BBC Parliament
-http://62.6.220.53:9981/play/a029
-#EXTINF:-1 group-title="UK6",BBC FOUR
-http://62.6.220.53:9981/play/a027
-#EXTINF:-1 group-title="UK6",TJC
-http://62.6.220.53:9981/play/a01v
-#EXTINF:-1 group-title="UK6",ITVBe
-http://62.6.220.53:9981/play/a02k
-#EXTINF:-1 group-title="UK6",TalkingPictures TV
-http://62.6.220.53:9981/play/a03e
-#EXTINF:-1 group-title="UK6",Film4
-http://62.6.220.53:9981/play/a02v
-#EXTINF:-1 group-title="UK6",QVC
-http://62.6.220.53:9981/play/a02f
-#EXTINF:-1 group-title="UK6",Al Jazeera Eng HD
-http://62.6.220.53:9981/play/a043
-#EXTINF:-1 group-title="UK6",4seven HD
-http://62.6.220.53:9981/play/a042
-#EXTINF:-1 group-title="UK6",BBC NEWS HD
-http://62.6.220.53:9981/play/a040
-#EXTINF:-1 group-title="UK6",Film4+1
-http://62.6.220.53:9981/play/a03n
-#EXTINF:-1 group-title="UK6",5Spike
-http://62.6.220.53:9981/play/a034
-#EXTINF:-1 group-title="UK6",CBBC HD
-http://62.6.220.53:9981/play/a03m
-#EXTINF:-1 group-title="UK6",Travelxp
-http://62.6.220.53:9981/play/a04b
-#EXTINF:-1 group-title="UK6",FreeSports
-http://62.6.220.53:9981/play/a03v
-#EXTINF:-1 group-title="UK6",More4+1
-http://62.6.220.53:9981/play/a03t
-#EXTINF:-1 group-title="UK6",Forces TV
-http://62.6.220.53:9981/play/a03w
-#EXTINF:-1 group-title="UK6",POP
-http://62.6.220.53:9981/play/a037
-#EXTINF:-1 group-title="UK6",RT HD
-http://62.6.220.53:9981/play/a044
-#EXTINF:-1 group-title="UK6",ITV HD
-http://62.6.220.53:9981/play/a03j
-#EXTINF:-1 group-title="UK6",talkSPORT
-http://62.6.220.53:9981/play/a01s
-#EXTINF:-1 group-title="UK6",BBC NEWS
-http://62.6.220.53:9981/play/a026
-#EXTINF:-1 group-title="UK6",CBS Action
-http://62.6.220.53:9981/play/a03a
-#EXTINF:-1 group-title="UK6",QUEST
-http://62.6.220.53:9981/play/a02j
-#EXTINF:-1 group-title="UK6",Sony Crime Channel
-http://62.6.220.53:9981/play/a01z
-#EXTINF:-1 group-title="UK6",5SELECT
-http://62.6.220.53:9981/play/a02m
-#EXTINF:-1 group-title="UK6",ITV +1
-http://62.6.220.53:9981/play/a02t
-#EXTINF:-1 group-title="UK6",Pick
-http://62.6.220.53:9981/play/a01n
-#EXTINF:-1 group-title="UK6",Channel 4 HD
-http://62.6.220.53:9981/play/a03k
-#EXTINF:-1 group-title="UK6",Home
-http://62.6.220.53:9981/play/a03c
-#EXTINF:-1 group-title="UK6",CBS Reality
-http://62.6.220.53:9981/play/a02g
-#EXTINF:-1 group-title="UK6",RT
-http://62.6.220.53:9981/play/a038
-#EXTINF:-1 group-title="UK6",Sony Movie Ch
-http://62.6.220.53:9981/play/a021
-#EXTINF:-1 group-title="UK6",CBeebies HD
-http://62.6.220.53:9981/play/a04d
-#EXTINF:-1 group-title="UK6",BBC ONE Lon
-http://62.6.220.53:9981/play/a024
-#EXTINF:-1 group-title="UK6",Yesterday
-http://62.6.220.53:9981/play/a033
-#EXTINF:-1 group-title="UK6",4Music
-http://62.6.220.53:9981/play/a032
-#EXTINF:-1 group-title="UK6",5USA+1
-http://62.6.220.53:9981/play/a046
 
 
 
@@ -6686,7 +6489,7 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u
 
 #EXTINF:-1 group-title="Portugal2",
 
-#EXTINF:-1 group-title="Portugal3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png" ,==Portugal==
+#EXTINF:-1 group-title="Portugal2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png" ,==Portugal==
 http://..........
 
 #EXTINF:-1 group-title="Portugal2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png",SPORT TV 1 HD 
@@ -7514,6 +7317,187 @@ mms://62.162.58.55/TVKanal21
 
 #EXTINF:8 group-title="Albania2",
 
+#EXTINF:-1 group-title="Albania2" tvg-logo="http://www.worldatlas.com/webimage/flags/countrys/zzzflags/allarge.gif" ,==Albania==
+http://..........
+
+#EXTINF:-1 group-title="Albania2",A1 Balkan
+http://vip.alpha-one.net:8080/A1Balkan/index.m3u8
+#EXTINF:-1 group-title="Albania2",A1 Islam
+http://vip.alpha-one.net:8080/A1Islam/index.m3u8
+#EXTINF:-1 group-title="Albania2",Primera Music
+http://vip.alpha-one.net:8080/PrimeraMusic/index.m3u8
+#EXTINF:-1 group-title="Albania2",A1 Shqiptare
+http://vip.alpha-one.net:8080/A1Shqiptare/index.m3u8
+#EXTINF:-1 group-title="Albania2",A1 Cinema
+http://vip.alpha-one.net:8080/A1Cinema/index.m3u8
+#EXTINF:-1 group-title="Albania2",A1 Kids
+http://vip.alpha-one.net:8080/A1Kids/index.m3u8
+#EXTINF:-1 group-title="Albania2",A1 Srbija
+http://vip.alpha-one.net:8080/A1Srbija/index.m3u8
+#EXTINF:-1 group-title="Albania2",A1 World
+http://vip.alpha-one.net:8080/A1World/index.m3u8
+#EXTINF:-1 group-title="Albania2",A1 Bosnia
+http://vip.alpha-one.net:8080/A1Bosnia/index.m3u8
+#EXTINF:-1 group-title="Albania2",A1 Espana
+http://vip.alpha-one.net:8080/A1Espana/index.m3u8
+#EXTINF:-1 group-title="Albania2",A1 Exclusive
+http://vip.alpha-one.net:8080/A1Exclusive/index.m3u8
+#EXTINF:-1 group-title="Albania2",A1 Media TV HD
+http://vip.alpha-one.net:8080/A1MediaTV/index.m3u8
+#EXTINF:-1 group-title="Albania2",A1 Sport
+http://vip.alpha-one.net:8080/A1Sport/index.m3u8
+#EXTINF:-1 group-title="Albania2",FACETV HD
+http://vip.alpha-one.net:8080/FACETV/index.m3u8
+#EXTINF:-1 group-title="Albania2",JazzeraAL HD
+http://vip.alpha-one.net:8080/JazzeraAL/index.m3u8
+#EXTINF:-1 group-title="Albania2",MirTVHD
+http://vip.alpha-one.net:8080/MirTVHD/index.m3u8
+#EXTINF:-1 group-title="Albania2",RTV USK HD
+http://vip.alpha-one.net:8080/RTV:USK/index.m3u8
+#EXTINF:-1 group-title="Albania2",A1 Vikom
+http://vip.alpha-one.net:8080/a1vikom/index.m3u8
+#EXTINF:-1 group-title="Albania2",SMART TV TESANJ
+http://vip.alpha-one.net:8080/bs:SMARTTVTESANJ/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:8 group-title="Albania3",
+
+#EXTINF:-1 group-title="Albania3" tvg-logo="http://www.worldatlas.com/webimage/flags/countrys/zzzflags/allarge.gif" ,==Albania==
+http://..........
+
+#EXTINF:-1 group-title="Albania3",Kanali 7
+http://82.114.89.246:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Albania3",RTV21
+http://82.114.89.246:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="Albania3",Tring Tring
+http://82.114.89.246:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="Albania3",Tring International
+http://82.114.89.246:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Albania3",Tring Super
+http://82.114.89.246:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="Albania3",Tring World
+http://82.114.89.246:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Albania3",SPORT 1 HD
+http://82.114.89.246:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Albania3",RTV 21 M
+http://82.114.89.246:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Albania3",Jolly HD
+http://82.114.89.246:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="Albania3",klanks
+http://82.114.89.246:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Albania3",TIP TV
+http://82.114.89.246:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="Albania3",BBF
+http://82.114.89.246:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="Albania3",Tring Comedy
+http://82.114.89.246:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Albania3",TRING FANTASY
+http://82.114.89.246:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Albania3",Fox CRIME
+http://82.114.89.246:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="Albania3",Folk +
+http://82.114.89.246:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Albania3",ELRODI
+http://82.114.89.246:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="Albania3",Tring Life
+http://82.114.89.246:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Albania3",VIZION PLUS HD
+http://82.114.89.246:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Albania3",TVSH
+http://82.114.89.246:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Albania3",Nat Geographic
+http://82.114.89.246:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="Albania3",ORA NEWS HD
+http://82.114.89.246:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Albania3",dukagjini
+http://82.114.89.246:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="Albania3",MUSE
+http://82.114.89.246:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="Albania3",Tring Shqip
+http://82.114.89.246:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Albania3",TRING SPORT NEWS
+http://82.114.89.246:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Albania3",alsatm
+http://82.114.89.246:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Albania3",Tirana TV
+http://82.114.89.246:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="Albania3",RTV 21 Junior
+http://82.114.89.246:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="Albania3",KTV
+http://82.114.89.246:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="Albania3",Click
+http://82.114.89.246:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Albania3",Sport 4 HD
+http://82.114.89.246:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Albania3",Sport 3 HD
+http://82.114.89.246:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Albania3",FOX
+http://82.114.89.246:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="Albania3",Travel Channel
+http://82.114.89.246:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Albania3",Shenja TV
+http://82.114.89.246:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Albania3",Kids
+http://82.114.89.246:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Albania3",SPORT 2 HD
+http://82.114.89.246:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Albania3",Living HD
+http://82.114.89.246:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Albania3",LUXE TV
+http://82.114.89.246:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Albania3",Fox Life
+http://82.114.89.246:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="Albania3",Apollon TV
+http://82.114.89.246:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Albania3",Tring Planet
+http://82.114.89.246:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="Albania3",Smile
+http://82.114.89.246:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Albania3",MOTORS TV
+http://82.114.89.246:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Albania3",3 Plus
+http://82.114.89.246:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Albania3",Tring Max
+http://82.114.89.246:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Albania3",Channel ONE
+http://82.114.89.246:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="Albania3",RTK
+http://82.114.89.246:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Albania3",MEDIASET ITALIA
+http://82.114.89.246:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Albania3",TRING HISTORY
+http://82.114.89.246:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Albania3",TELESPORT
+http://82.114.89.246:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="Albania3",RTV 21 Popullore
+http://82.114.89.246:8000/play/a00q/index.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -8063,8 +8047,16 @@ http://65.254.55.10:4000/live/196/196.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="Czechoslovakia-WebTV",CT 1
 http://74.81.71.186:4000/live/176/176.m3u8
+#EXTINF:-1 group-title="Czechoslovakia-WebTV",CT 1
+http://65.254.55.10:4000/live/176/176.m3u8
+#EXTINF:-1 group-title="Czechoslovakia-WebTV",CT 1
+http://108.168.175.182:5000/live/176/176.m3u8
 #EXTINF:-1 group-title="Czechoslovakia-WebTV",CT 2
 http://74.81.71.186:4000/live/78/78.m3u8
+#EXTINF:-1 group-title="Czechoslovakia-WebTV",CT 2
+http://65.254.55.10:4000/live/78/78.m3u8
+#EXTINF:-1 group-title="Czechoslovakia-WebTV",CT 2
+http://108.168.175.182:5000/live/78/78.m3u8
 #EXTINF:-1 group-title="Czechoslovakia-WebTV",DISCOVERY
 http://74.81.71.186:4000/live/138/138.m3u8
 #EXTINF:-1 group-title="Czechoslovakia-WebTV",DokuCZ 
@@ -8083,6 +8075,8 @@ http://89.173.212.31:9981/stream/channelid/403611619
 http://89.173.212.31:9981/stream/channelid/2054758173
 #EXTINF:-1 group-title="Czechoslovakia-WebTV",JOJ
 http://89.173.212.31:9981/stream/channelid/1786963809
+#EXTINF:-1 group-title="Czechoslovakia-WebTV",JOJ SD
+http://65.254.55.10:4000/live/141/141.m3u8
 #EXTINF:-1 group-title="Czechoslovakia-WebTV",Joj (360p)
 http://nn.geo.joj.sk/hls/joj-360.m3u8
 #EXTINF:-1 group-title="Czechoslovakia-WebTV",Joj (540p)
@@ -8109,8 +8103,12 @@ http://74.81.71.186:4000/live/36/36.m3u8
 http://74.81.71.186:4000/live/60/60.m3u8
 #EXTINF:-1 group-title="Czechoslovakia-WebTV",NOVA Action
 http://174.36.163.12:4000/live/304/304.m3u8
+#EXTINF:-1 group-title="Czechoslovakia-WebTV",Nick HU
+http://65.254.55.10:4000/live/195/195.m3u8
 #EXTINF:-1 group-title="Czechoslovakia-WebTV",Ocko Gold 
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Czechoslovakia-WebTV", Prima HD
+http://65.254.55.10:4000/live/115/115.m3u8
 #EXTINF:-1 group-title="Czechoslovakia-WebTV",Prima Max
 http://74.208.44.158:5000/live/518/518.m3u8
 #EXTINF:-1 group-title="Czechoslovakia-WebTV",RebeL
@@ -8129,6 +8127,8 @@ http://5.63.149.252:5000/live/499/499.m3u8
 http://174.36.155.34:4000/live/189/189.m3u8
 #EXTINF:-1 group-title="Czechoslovakia-WebTV",Spektrum HOME
 http://199.195.199.196:5000/live/312/312.m3u8
+#EXTINF:-1 group-title="Czechoslovakia-WebTV",STV1
+http://65.254.55.10:4000/live/177/177.m3u8
 #EXTINF:-1 group-title="Czechoslovakia-WebTV",TA3
 http://89.173.212.31:9981/stream/channelid/1517949371
 #EXTINF:-1 group-title="Czechoslovakia-WebTV",WAU
