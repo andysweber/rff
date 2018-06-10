@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,08/06/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,10/06/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -311,32 +311,41 @@ http://wpso.com:1936/hls/wzra.m3u8
 
 
 
+#EXTINF:2 group-title="Greece2",
 
+#EXTINF:-1 group-title="Greece2" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/manaellada.png" ,==GREECE==
+http://..........
 
-#EXTINF:8 group-title="Greece_Premium-Wuffy_Player",
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="Greece2" tvg-logo="https://goo.gl/np3siv",SKAI
+http://62.68.73.5:5000/udp/225.1.1.15:10000
+#EXTINF:-1 group-title="Greece2" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg",ALPHA
+http://62.68.73.5:5000/udp/225.1.1.16:10000
+#EXTINF:-1 group-title="Greece2" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg",ALPHA
+http://91.138.133.30:9981/stream/channelid/1265365149?ticket=A5BBA15794C57E5C4C395F736B835E48B876E522&profile=pass
+#EXTINF:-1 group-title="Greece2" tvg-logo="https://goo.gl/q5aDRg",ANT1
+http://62.68.73.5:5000/udp/225.1.1.17:10000
+#EXTINF:-1 group-title="Greece2" tvg-logo="https://goo.gl/z2xi2U" ,STAR
+http://62.68.73.5:5000/udp/225.1.1.18:10000
+#EXTINF:-1 group-title="Greece2" tvg-logo="https://goo.gl/nTCu62",MEGA
+http://62.68.73.5:5000/udp/225.1.1.19:10000
 
 
 
 
 
-#EXTINF:8 group-title="Greece2_Premium",
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2097,22 +2106,6 @@ http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g6/btsporte
 http://..........
 
 
-#EXTINF:-1 group-title="UK4",BBC ONE HD 
-http://185.227.241.19:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="UK4",BBC TWO HD 
-http://185.227.241.19:8000/play/a01p/index.m3u8
-#EXTINF:-1 group-title="UK4",CBBC
-http://185.227.241.19:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="UK4",BBC FOUR HD 
-http://185.227.241.19:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="UK4",BBC NEWS
-http://185.227.241.19:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="UK4",ITV 2 HD 
-http://185.227.241.19:8000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="UK4",ITV 3 HD 
-http://185.227.241.19:8000/play/a02a/index.m3u8
-#EXTINF:-1 group-title="UK4",ITV 4 HD 
-http://185.227.241.19:8000/play/a02b/index.m3u8
 
 #EXTINF:-1 group-title="UK4",BBC ONE HD 
 http://185.59.221.136:9981/stream/channelid/650783408
@@ -12035,6 +12028,431 @@ http://pwq.v-sat.org:25461/live/bNah5FdCMH/IQiTtwwFhr/13435.ts|user-agent=+BoX@d
 http://pwq.v-sat.org:25461/live/bNah5FdCMH/IQiTtwwFhr/13342.ts|user-agent=+BoX@dash#
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM",Zitouna
 http://pwq.v-sat.org:25461/live/bNah5FdCMH/IQiTtwwFhr/13428.ts|user-agent=+BoX@dash#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",===AD SPORT===
+http://...
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",ADSPORT1
+http://185.115.33.86:8086/hls/ADSPORT1.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",ADSPORT2
+http://185.115.33.86:8086/hls/ADSPORT2.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",ADSPORT3
+http://185.115.33.86:8086/hls/ADSPORT3.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",ADSPORT4
+http://185.115.33.86:8086/hls/ADSPORT4.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",ADSPORT5
+http://185.115.33.86:8086/hls/ADSPORT5.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",===MBC_SPORT===
+http://...
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",MBC_SPORT1
+http://185.115.33.173:8080/hls/MBC_SPORT1.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",MBC_SPORT2
+http://185.115.33.173:8080/hls/MBC_SPORT2.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",MBC_SPORT3
+http://185.115.33.173:8080/hls/MBCSPORT3.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",MBC_SPORT4
+http://185.115.33.173:8080/hls/MBCSPORT4.m3u8?&key=070A120C0E351E27
+
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",===BeIN MOVES===
+http://...
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BeinDTX
+http://185.115.33.210:8086/hls/BeinDTX.m3u8?&key=070A120C0E351E27
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BeinAMC
+http://185.115.33.210:8086/hls/BeinAMC.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BeinDMAX
+http://185.115.33.210:8086/hls/BeinDMAX.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BeinDrama
+http://185.115.33.210:8086/hls/BeinDrama.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",bein_movies_hd_1
+http://81.171.17.169:8086/hls/bein_movies_hd_1.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",bein_movies_hd_2
+http://81.171.17.169:8086/hls/bein_movies_hd_2.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",bein_movies_hd_3
+http://185.115.33.85:8080/hls/bein_movies_hd_3.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",bein_movies_hd_4
+http://185.115.33.85:8080/hls/bein_movies_hd_4.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",bein_series_HD_1
+http://185.115.33.85:8080/hls/bein_series_HD_1.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",Fatafeat
+http://81.171.17.167:8080/hls/Fatafeat.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BeinGroummet
+http://185.115.33.210:8086/hls/BeinGroummet.m3u8?&key=070A120C0E351E27
+
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",===OSN===
+http://...
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSN_Yahala_Conema_HD
+http://185.23.213.36:8080/hls/OSN_Yahala_Conema_HD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSN-YAHAlA-DRAMA
+http://185.23.213.36:8080/hls/OSN-YAHAlA-DRAMA.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSN_Yahala_Home_HD
+http://185.23.213.36:8080/hls/OSN_Yahala_Home_HD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSN YAHALA
+http://185.23.213.36:8080/hls/OSNYAHALA.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSN-YAHAlA-DRAMA
+http://185.23.213.36:8080/hls/OSN-YAHAlA-DRAMA.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSN_Movies_HD
+http://185.23.213.36:8080/hls/OSN_Movies_HD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNMoviesfirst2HD
+http://185.23.213.36:8080/hls/OSNMoviesfirst2HD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSN_Movies_Action2HD
+http://185.23.213.36:8080/hls/OSN_Movies_Action2HD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNOFFICBOX1
+http://185.23.213.36:8080/hls/OSNOFFICBOX1n.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNOFFICBOX2
+http://185.23.213.36:8080/hls/OSNOFFICBOX2n.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNOFFICBOX3
+http://185.23.213.36:8080/hls/OSNOFFICBOX3n.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNMoviesHDFestival
+http://185.23.213.36:8080/hls/OSNMoviesHDFestival.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNMOVIESHDCOMEDY
+http://185.23.213.36:8080/hls/OSNMOVIESHDCOMEDY.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNMoviekidsHD
+http://185.23.213.36:8080/hls/OSNMoviekidsHD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSN_Movies_First
+http://185.23.213.36:8080/hls/OSN_Movies_First.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNMoviesPremiere2HD
+http://185.23.213.36:8080/hls/OSNMoviesPremiere2HD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNMoviesThrillerHD
+http://185.23.213.36:8080/hls/OSNMoviesThrillerHD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNMoviesThriller2HD
+http://185.23.213.36:8080/hls/OSNMoviesThriller2HD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSN_Fight_Network_HD
+http://185.23.213.36:8080/hls/OSN_Fight_Network_HD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNMusalsat1
+http://185.23.213.36:8080/hls/OSNMusalsat1.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNSeriesFirstHD
+http://185.23.213.36:8080/hls/OSNSeriesFirstHD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNARTAflam1HD
+http://185.23.213.36:8080/hls/OSNARTAflam1HD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNARTAflam2HD
+http://185.23.213.36:8080/hls/OSNARTAflam2HD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNArtCinema
+http://185.23.213.36:8080/hls/OSNArtCinema.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNartHekayat
+http://185.23.213.36:8080/hls/OSNartHekayat.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNARTHekayat2HD
+http://185.23.213.36:8080/hls/OSNARTHekayat2HD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNORBITCINEMA1
+http://mlljkjdsja.com:8083/hls/OSNORBITCINEMA1ts.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNORBITCINEMA2
+http://185.23.213.36:8080/hls/OSNORBITCINEMA2n.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNAnimalPlanetHD
+http://185.23.213.36:8080/hls/OSNAnimalPlanetHD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSN_FIRST_HD_HBO
+http://185.23.213.36:8080/hls/OSN_FIRST_HD_HBO.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSN_Discovery
+http://185.23.213.36:8080/hls/OSN_Discovery.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSN_Syfy_HD
+http://185.23.213.36:8080/hls/OSN_Syfy_HD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNWWEHD
+http://185.23.213.36:8080/hls/OSNWWEHD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNFoxActionMoviesHD
+http://185.23.213.36:8080/hls/OSNFoxActionMoviesHD.m3u8?&key=070A120C0E351E27
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",===MBC===
+http://...
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",MBC 1
+http://185.115.33.88:8080/hls/mal-mbc_1.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",MBC 2
+http://185.115.33.88:8080/hls/mbc2.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",MBC 3
+http://185.115.33.88:8080/hls/mbc3.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",MBC 4
+http://185.115.33.88:8080/hls/mbc4.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",MBC DRAMA
+http://37.48.85.239:8086/hls/mbc-drama.m3u8?&key=070A120C0E351E27
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",MBC ACTION
+http://185.115.33.88:8080/hls/mbc-action.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",MBC MAX
+http://185.115.33.88:8080/hls/mal-mbc_max.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",mbc-bolwed
+http://185.115.33.88:8080/hls/mbc-bolwed.m3u8?&key=070A120C0E351E27
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",mbc-maser
+http://95.211.213.40:8080/hls/mal-mbc-maser.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",mbc-maser2
+http://185.115.33.222:8080/hls/mal-mbc-maser2.m3u8?&key=070A120C0E351E27
+
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",===ROTANA===
+http://...
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",Rotana-Drama
+http://95.211.213.40:8080/hls/rotanamassriya.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",Rotana-Classic
+http://95.211.88.161:8080/hls/rotanaclassic.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",Rotana-Cinema
+http://185.115.33.214:8080/hls/rotanacinemaegy.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",Rotana-cinema-ksa
+http://185.115.33.214:8080/hls/rotanacinemaksa.m3u8?&key=070A120C0E351E27
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",rotanaclip
+http://185.115.33.88:8080/hls/rotanaclip.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",rotanakhalijiah
+http://95.211.88.161:8080/hls/rotanakhalijiah.m3u8?&key=070A120C0E351E27
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",===KIDS===
+http://...
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",OSNNickJr
+http://185.23.213.36:8080/hls/OSNNickJr.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",‪DisneyJunior
+http://185.115.33.89:8080/hls/DisneyJunior.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",CartoonNetWork
+http://185.115.33.86:8086/hls/CartoonNetWork.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",Disney-XD-E
+http://185.115.33.90:8080/hls/Disney-XD-E.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BeinJunior
+http://185.115.33.210:8086/hls/BeinJunior.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",karameeh
+http://95.211.88.161:8080/hls/karameeh.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",MajidKidsTV
+http://81.171.17.169:8086/hls/MajidKidsTVJD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",Nicktoons
+http://185.115.33.214:8080/hls/Nicktoons.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",CBeebiesHD
+http://185.115.33.89:8080/hls/CBeebiesHD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",CartoonNetWorkuk
+http://185.115.33.89:8080/hls/CartoonNetWorkuk.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",CartoonNetWork
+http://185.115.33.89:8080/hls/CartoonNetWork1n.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",NickJRtoo
+http://185.115.33.214:8080/hls/NickJRtoo.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",toyor_al_janeh
+http://95.211.213.40:8080/hls/toyor_al_janeh.m3u8?&key=070A120C0E351E27
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",===Tunisia===
+http://...
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",ZITONA
+http://185.115.33.214:8080/hls/zaytonna.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",Tunsia1
+http://janiptv.com:8888/live/www.janberyan.com/rkrOx8850025/394.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",Tunsia2
+http://185.115.33.140:8080/hls/TunisiaNat2JD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",Tounesna
+http://185.115.33.140:8080/hls/TUNISNAJD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",Nessma
+http://81.171.17.167:8080/hls/NessmaJD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",ElHiwarEttounsi
+http://81.171.17.169:8086/hls/ElHiwarEttounsiJD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",Janoubia
+http://95.211.88.161:8080/hls/Al_janoubia.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",Hannibal
+http://185.115.33.68:8080/hls/mal-hannibal.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",Attessia
+http://185.115.33.75:8080/hls/attessia_tv.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",===MOROOCO===
+http://...
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",2M Maroc
+http://185.115.33.88:8080/hls/2mmonde.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",Tamazight
+http://185.115.33.140:8080/hls/Tamazight.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",Arrabiaa
+http://81.171.17.169:8086/hls/ArradiaJD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",Al_aoula_inter/
+http://185.115.33.140:8080/hls/AlAoulainterLHDJD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",TeleMaroc
+http://81.171.17.167:8080/hls/TeleMaroc.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",===Algeria===
+http://...
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",canlalgeri
+http://81.171.17.167:8080/hls/canlalgeri.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",el-djazairia
+http://81.171.17.167:8080/hls/el-djazairia.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",DzairNews
+http://81.171.17.169:8086/hls/DzairNewsJD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",DzairTV
+http://185.115.33.75:8080/hls/DzairTVJD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",elheddaf
+http://185.115.33.88:8080/hls/elheddaf.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",EchoroukTV
+http://81.171.17.167:8080/hls/echourouk.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",ennahartv
+http://81.171.17.167:8080/hls/ennahartvJD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",EchoroukBenna
+http://95.211.213.40:8080/hls/echouroukbenna.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",a3
+http://81.171.17.167:8080/hls/a3.m3u8?&key=070A120C0E351E27
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",===Egypt===
+http://...
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",onlive
+http://185.115.33.68:8080/hls/onlive.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",nilesport
+http://185.115.33.74:8080/hls/nilesport.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",CBC
+http://185.115.33.68:8080/hls/cbc.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",CBC 2
+http://95.211.88.161:8080/hls/cbctwo.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",cbcsofra
+http://185.115.33.68:8080/hls/cbcsofra.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",cbcdrama
+http://185.115.33.214:8080/hls/cbcdrama.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",cbcextra
+http://95.211.88.161:8080/hls/cbcextra.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",sada-el-balad
+http://185.115.33.74:8080/hls/mal-sada-el-balad.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",sada-elbalad-drama
+http://185.115.33.46:8080/hls/mal-sada-elbalad-drama.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",alkaherawalnas
+http://185.115.33.74:8080/hls/alkaherawalnasJD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",ennahartv
+http://81.171.17.167:8080/hls/ennahartvJD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",alnahardrama
+http://185.115.33.74:8080/hls/alnahardramaJD.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",dream1
+http://185.115.33.74:8080/hls/dream1.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",dream2
+http://185.115.33.74:8080/hls/dream2.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",al-masria-esc
+http://185.115.33.140:8080/hls/mal-al-masria-esc.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",niletv
+http://185.115.33.74:8080/hls/niletv.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",nilenews
+http://185.115.33.74:8080/hls/nilenews.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",nilelive
+http://185.115.33.74:8080/hls/nilelive.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",niledrama
+http://185.115.33.214:8080/hls/niledrama.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",nileculture
+http://185.115.33.74:8080/hls/nileculture.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",nilecomedy
+http://185.115.33.74:8080/hls/nilecomedy.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",nilecinema
+http://185.115.33.222:8080/hls/nilecinema.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",alhyat-cinema
+http://95.211.213.40:8080/hls/mal-alhyat-cinema.m3u8?&key=070A120C0E351E27
+
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",al-hayat-muslsalt
+http://185.115.33.46:8080/hls/mal-al-hayat-muslsalt.m3u8?&key=070A120C0E351E27
+
+
+
+
 
 
 
