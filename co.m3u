@@ -632,8 +632,10 @@ http://www.djing.com/tv/animation.m3u8
 http://www.djing.com/tv/hothothot.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV",DW HD
 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:-1 group-title="USA/Canada-WebTV",FOX NEWS
-https://videoserver2.org/live/cWjBulhe2RvDUgGQOWhJPw/1528797118/877e1fd192b3a58577e4387971c215a7.m3u8
+#EXTINF:-1 group-title="USA/Canada-WebTV",FOX NEWS (Youtube)
+https://www.youtube.com/watch?v=LKzcwjOkwok
+#EXTINF:-1 group-title="USA/Canada-WebTV",FOX NEWS 
+https://videoserver2.org/live/5zU_aNUTJV6rudnufQsj9Q/1528904422/877e1fd192b3a58577e4387971c215a7.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2013/06/wttg-logo_304x200.jpg" ,Fox 5 News (Washington DC)
 https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="http://media.myfoxmemphiscom.cmgdigital.com/theme/images/placeholder-16x9.jpg" ,FOX 13 News (Memphis)
