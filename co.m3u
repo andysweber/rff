@@ -1632,37 +1632,37 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1117.m3u8$http-refferer
 
 #EXTINF:-1 group-title="USA2-PREMIUM",
 
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="NBC EPL 1 1080p" tvg-logo="https://image.frl/i/894vqy9dkwnzybmz.png" group-title="EPL | EFL",NBC EPL 1 1080p
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="NBC EPL 1 1080p" tvg-logo="https://image.frl/i/894vqy9dkwnzybmz.png" ,NBC EPL 1 1080p
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6452.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="NBC EPL 2 1080p" tvg-logo="https://image.frl/i/894vqy9dkwnzybmz.png" group-title="EPL | EFL",NBC EPL 2 1080p
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="NBC EPL 2 1080p" tvg-logo="https://image.frl/i/894vqy9dkwnzybmz.png" ,NBC EPL 2 1080p
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6450.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="NBC EPL 3 1080p" tvg-logo="https://image.frl/i/894vqy9dkwnzybmz.png" group-title="EPL | EFL",NBC EPL 3 1080p
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="NBC EPL 3 1080p" tvg-logo="https://image.frl/i/894vqy9dkwnzybmz.png" ,NBC EPL 3 1080p
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6448.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="NBC EPL 4 1080p" tvg-logo="https://image.frl/i/894vqy9dkwnzybmz.png" group-title="EPL | EFL",NBC EPL 4 1080p
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="NBC EPL 4 1080p" tvg-logo="https://image.frl/i/894vqy9dkwnzybmz.png" ,NBC EPL 4 1080p
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6446.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="NBC EPL 5 1080p" tvg-logo="https://image.frl/i/894vqy9dkwnzybmz.png" group-title="EPL | EFL",NBC EPL 5 1080p
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="NBC EPL 5 1080p" tvg-logo="https://image.frl/i/894vqy9dkwnzybmz.png" ,NBC EPL 5 1080p
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6444.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="NBC EPL 6 1080p" tvg-logo="https://image.frl/i/894vqy9dkwnzybmz.png" group-title="EPL | EFL",NBC EPL 6 1080p
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="NBC EPL 6 1080p" tvg-logo="https://image.frl/i/894vqy9dkwnzybmz.png" ,NBC EPL 6 1080p
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6442.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="NBC EPL 7 1080p" tvg-logo="https://image.frl/i/894vqy9dkwnzybmz.png" group-title="EPL | EFL",NBC EPL 7 1080p
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="NBC EPL 7 1080p" tvg-logo="https://image.frl/i/894vqy9dkwnzybmz.png" ,NBC EPL 7 1080p
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6440.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="NBC Goal Rush 1080p" tvg-logo="https://image.frl/i/894vqy9dkwnzybmz.png" group-title="EPL | EFL",NBC Goal Rush 1080p
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="NBC Goal Rush 1080p" tvg-logo="https://image.frl/i/894vqy9dkwnzybmz.png" ,NBC Goal Rush 1080p
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6490.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="EFL: 1 (Live During Events Only)" tvg-logo="https://image.frl/i/n2a2072m5ct09eqc.png" group-title="EPL | EFL",EFL: 1 (Live During Events Only)
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="EFL: 1 (Live During Events Only)" tvg-logo="https://image.frl/i/n2a2072m5ct09eqc.png" ,EFL: 1 (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6954.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="EFL: 2 (Live During Events Only)" tvg-logo="https://image.frl/i/n2a2072m5ct09eqc.png" group-title="EPL | EFL",EFL: 2 (Live During Events Only)
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="EFL: 2 (Live During Events Only)" tvg-logo="https://image.frl/i/n2a2072m5ct09eqc.png" ,EFL: 2 (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6953.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="EFL: 3 (Live During Events Only)" tvg-logo="https://image.frl/i/n2a2072m5ct09eqc.png" group-title="EPL | EFL",EFL: 3 (Live During Events Only)
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="EFL: 3 (Live During Events Only)" tvg-logo="https://image.frl/i/n2a2072m5ct09eqc.png" ,EFL: 3 (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6951.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="EFL: 4 (Live During Events Only)" tvg-logo="https://image.frl/i/n2a2072m5ct09eqc.png" group-title="EPL | EFL",EFL: 4 (Live During Events Only)
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="EFL: 4 (Live During Events Only)" tvg-logo="https://image.frl/i/n2a2072m5ct09eqc.png" ,EFL: 4 (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6952.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="EFL: 5 (Live During Events Only)" tvg-logo="https://image.frl/i/n2a2072m5ct09eqc.png" group-title="EPL | EFL",EFL: 5 (Live During Events Only)
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="EFL: 5 (Live During Events Only)" tvg-logo="https://image.frl/i/n2a2072m5ct09eqc.png" ,EFL: 5 (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6950.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="EFL: 6 (Live During Events Only)" tvg-logo="https://image.frl/i/n2a2072m5ct09eqc.png" group-title="EPL | EFL",EFL: 6 (Live During Events Only)
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="EFL: 6 (Live During Events Only)" tvg-logo="https://image.frl/i/n2a2072m5ct09eqc.png" ,EFL: 6 (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6949.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="EFL: 7 (Live During Events Only)" tvg-logo="https://image.frl/i/n2a2072m5ct09eqc.png" group-title="EPL | EFL",EFL: 7 (Live During Events Only)
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="EFL: 7 (Live During Events Only)" tvg-logo="https://image.frl/i/n2a2072m5ct09eqc.png" ,EFL: 7 (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6948.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="EFL: 8 (Live During Events Only)" tvg-logo="https://image.frl/i/n2a2072m5ct09eqc.png" group-title="EPL | EFL",EFL: 8 (Live During Events Only)
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="" tvg-name="EFL: 8 (Live During Events Only)" tvg-logo="https://image.frl/i/n2a2072m5ct09eqc.png" ,EFL: 8 (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6947.ts
 #EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="aande.us" tvg-name="US: A&E HD" tvg-logo="https://vgy.me/xkRbgC.png",US: A&E HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3876.ts
@@ -1684,29 +1684,29 @@ http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3307.ts
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/4989.ts
 #EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="bet.us" tvg-name="US: BET HD" tvg-logo="https://vgy.me/Z1MMQm.png",US: BET HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3879.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsports.us" tvg-name="US: Bein Sports HD" tvg-logo="http://necro.to/images/channels/BeinSports1.png" group-title="BeIN Sports",US: Bein Sports HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsports.us" tvg-name="US: Bein Sports HD" tvg-logo="http://necro.to/images/channels/BeinSports1.png",US: Bein Sports HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2817.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsportespanol.us" tvg-name="US: Bein Sports N HD" tvg-logo="http://necro.to/images/channels/BeinSportsn.png" group-title="BeIN Sports",US: Bein Sports N HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsportespanol.us" tvg-name="US: Bein Sports N HD" tvg-logo="http://necro.to/images/channels/BeinSportsn.png" ,US: Bein Sports N HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7191.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsports2.us" tvg-name="US: Bein Sports 2 HD" tvg-logo="http://necro.to/images/channels/BeinSports2.png" group-title="BeIN Sports",US: Bein Sports 2 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsports2.us" tvg-name="US: Bein Sports 2 HD" tvg-logo="http://necro.to/images/channels/BeinSports2.png" ,US: Bein Sports 2 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7190.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsports4.us" tvg-name="US: Bein Sports 4 HD" tvg-logo="http://necro.to/images/channels/BeinSports4.png" group-title="BeIN Sports",US: Bein Sports 4 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsports4.us" tvg-name="US: Bein Sports 4 HD" tvg-logo="http://necro.to/images/channels/BeinSports4.png" ,US: Bein Sports 4 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7189.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsports5.us" tvg-name="US: Bein Sports 5 HD" tvg-logo="http://necro.to/images/channels/BeinSports5.png" group-title="BeIN Sports",US: Bein Sports 5 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsports5.us" tvg-name="US: Bein Sports 5 HD" tvg-logo="http://necro.to/images/channels/BeinSports5.png",US: Bein Sports 5 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7188.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsports6.us" tvg-name="US: Bein Sports 6 HD" tvg-logo="http://necro.to/images/channels/BeinSports6.png" group-title="BeIN Sports",US: Bein Sports 6 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsports6.us" tvg-name="US: Bein Sports 6 HD" tvg-logo="http://necro.to/images/channels/BeinSports6.png" ,US: Bein Sports 6 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7187.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsports7.us" tvg-name="US: Bein Sports 7 HD" tvg-logo="http://necro.to/images/channels/BeinSports7.png" group-title="BeIN Sports",US: Bein Sports 7 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsports7.us" tvg-name="US: Bein Sports 7 HD" tvg-logo="http://necro.to/images/channels/BeinSports7.png",US: Bein Sports 7 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7186.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsports8.us" tvg-name="US: Bein Sports 8 HD" tvg-logo="http://necro.to/images/channels/BeinSports8.png" group-title="BeIN Sports",US: Bein Sports 8 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsports8.us" tvg-name="US: Bein Sports 8 HD" tvg-logo="http://necro.to/images/channels/BeinSports8.png" ,US: Bein Sports 8 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7185.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsports9.us" tvg-name="US: Bein Sports 9 HD" tvg-logo="http://necro.to/images/channels/BeinSports9.png" group-title="BeIN Sports",US: Bein Sports 9 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsports9.us" tvg-name="US: Bein Sports 9 HD" tvg-logo="http://necro.to/images/channels/BeinSports9.png" ,US: Bein Sports 9 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7184.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsports10.us" tvg-name="US: Bein Sports 10 HD" tvg-logo="http://necro.to/images/channels/BeinSports10.png" group-title="BeIN Sports",US: Bein Sports 10 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsports10.us" tvg-name="US: Bein Sports 10 HD" tvg-logo="http://necro.to/images/channels/BeinSports10.png" ,US: Bein Sports 10 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7183.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsportsmax1.qa" tvg-name="US: Bein Sports Max 1" tvg-logo="http://necro.to/images/channels/BeinSportsmax1.png" group-title="BeIN Sports",US: Bein Sports Max 1
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsportsmax1.qa" tvg-name="US: Bein Sports Max 1" tvg-logo="http://necro.to/images/channels/BeinSportsmax1.png" ,US: Bein Sports Max 1
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7192.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsportsmax2.qa" tvg-name="US: Bein Sports Max 2" tvg-logo="http://necro.to/images/channels/BeinSportsmax2.png" group-title="BeIN Sports",US: Bein Sports Max 2
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="beinsportsmax2.qa" tvg-name="US: Bein Sports Max 2" tvg-logo="http://necro.to/images/channels/BeinSportsmax2.png" ,US: Bein Sports Max 2
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7182.ts
 #EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="bloombergtv.us" tvg-name="US: Bloomberg HD" tvg-logo="https://vgy.me/RlUcED.png",US: Bloomberg HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2939.ts
@@ -2014,63 +2014,63 @@ http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/4995.ts
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2809.ts
 #EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="wwe.us" tvg-name="US: WWE Network HD" tvg-logo="https://vgy.me/4IYKSa.png",US: WWE Network HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2845.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings721.us" tvg-name="MLB Extra Innings 721 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 721 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings721.us" tvg-name="MLB Extra Innings 721 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 721 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6526.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings722.us" tvg-name="MLB Extra Innings 722 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 722 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings722.us" tvg-name="MLB Extra Innings 722 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 722 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6525.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings723.us" tvg-name="MLB Extra Innings 723 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 723 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings723.us" tvg-name="MLB Extra Innings 723 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 723 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6524.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings724.us" tvg-name="MLB Extra Innings 724 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 724 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings724.us" tvg-name="MLB Extra Innings 724 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 724 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6523.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings725.us" tvg-name="MLB Extra Innings 725 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 725 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings725.us" tvg-name="MLB Extra Innings 725 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 725 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6522.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings726.us" tvg-name="MLB Extra Innings 726 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 726 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings726.us" tvg-name="MLB Extra Innings 726 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 726 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6521.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings727.us" tvg-name="MLB Extra Innings 727 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 727 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings727.us" tvg-name="MLB Extra Innings 727 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 727 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6520.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings728.us" tvg-name="MLB Extra Innings 728 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 728 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings728.us" tvg-name="MLB Extra Innings 728 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 728 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6519.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings729.us" tvg-name="MLB Extra Innings 729 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 729 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings729.us" tvg-name="MLB Extra Innings 729 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 729 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6518.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings730.us" tvg-name="MLB Extra Innings 730 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 730 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings730.us" tvg-name="MLB Extra Innings 730 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 730 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6517.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings731.us" tvg-name="MLB Extra Innings 731 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 731 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings731.us" tvg-name="MLB Extra Innings 731 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 731 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6516.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings732.us" tvg-name="MLB Extra Innings 732 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 732 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings732.us" tvg-name="MLB Extra Innings 732 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 732 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6515.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings733.us" tvg-name="MLB Extra Innings 733 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 733 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings733.us" tvg-name="MLB Extra Innings 733 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 733 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6514.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings734.us" tvg-name="MLB Extra Innings 734 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 734 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings734.us" tvg-name="MLB Extra Innings 734 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 734 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6513.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings735.us" tvg-name="MLB Extra Innings 735 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 735 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings735.us" tvg-name="MLB Extra Innings 735 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 735 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6512.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings736.us" tvg-name="MLB Extra Innings 736 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 736 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings736.us" tvg-name="MLB Extra Innings 736 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 736 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6511.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings737.us" tvg-name="MLB Extra Innings 737 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 737 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings737.us" tvg-name="MLB Extra Innings 737 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 737 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6510.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings738.us" tvg-name="MLB Extra Innings 738 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 738 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings738.us" tvg-name="MLB Extra Innings 738 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 738 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6509.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings739.us" tvg-name="MLB Extra Innings 739 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 739 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings739.us" tvg-name="MLB Extra Innings 739 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 739 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6508.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings740.us" tvg-name="MLB Extra Innings 740 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 740 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings740.us" tvg-name="MLB Extra Innings 740 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 740 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6507.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings741.us" tvg-name="MLB Extra Innings 741 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 741 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings741.us" tvg-name="MLB Extra Innings 741 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 741 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6506.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings742.us" tvg-name="MLB Extra Innings 742 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 742 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings742.us" tvg-name="MLB Extra Innings 742 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 742 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6505.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings743.us" tvg-name="MLB Extra Innings 743 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 743 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings743.us" tvg-name="MLB Extra Innings 743 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 743 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6504.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings744.us" tvg-name="MLB Extra Innings 744 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 744 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings744.us" tvg-name="MLB Extra Innings 744 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 744 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6503.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings745.us" tvg-name="MLB Extra Innings 745 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 745 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings745.us" tvg-name="MLB Extra Innings 745 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 745 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6502.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings746.us" tvg-name="MLB Extra Innings 746 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 746 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings746.us" tvg-name="MLB Extra Innings 746 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 746 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6501.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings747.us" tvg-name="MLB Extra Innings 747 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 747 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings747.us" tvg-name="MLB Extra Innings 747 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 747 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6500.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings748.us" tvg-name="MLB Extra Innings 748 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 748 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings748.us" tvg-name="MLB Extra Innings 748 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 748 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6499.ts
-#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings749.us" tvg-name="MLB Extra Innings 749 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" group-title="MLB Extra Innings",MLB Extra Innings 749 HD
+#EXTINF:-1 group-title="USA2-PREMIUM" tvg-id="mlbextrainnings749.us" tvg-name="MLB Extra Innings 749 HD" tvg-logo="https://image.frl/i/rkcn2y977wrnybix.png" ,MLB Extra Innings 749 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6498.ts
 
 
