@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,13/06/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,14/06/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -320,8 +320,6 @@ http://..........
 http://62.68.73.5:5000/udp/225.1.1.15:10000
 #EXTINF:-1 group-title="Greece2" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg",ALPHA
 http://62.68.73.5:5000/udp/225.1.1.16:10000
-#EXTINF:-1 group-title="Greece2" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg",ALPHA
-http://91.138.133.30:9981/stream/channelid/1265365149?ticket=A5BBA15794C57E5C4C395F736B835E48B876E522&profile=pass
 #EXTINF:-1 group-title="Greece2" tvg-logo="https://goo.gl/q5aDRg",ANT1
 http://62.68.73.5:5000/udp/225.1.1.17:10000
 #EXTINF:-1 group-title="Greece2" tvg-logo="https://goo.gl/z2xi2U" ,STAR
@@ -435,45 +433,318 @@ https://cdn.tzampa.tv/live/Village.m3u8|referer=https://tzampa.tv/home&user-agen
 
 
 
-#EXTINF:2 group-title="Greece4",
+#EXTINF:-1 group-title="Greece4",
 
-#EXTINF:-1 group-title="Greece4" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/manaellada.png" ,==GREECE==
-http://..........
-
-#EXTINF:-1 group-title="Greece4",Axeloos TV
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/19168.ts
-#EXTINF:-1 group-title="Greece4",BLUE SKY
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/19167.ts
-#EXTINF:-1 group-title="Greece4",Boyah
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/19166.ts
-#EXTINF:-1 group-title="Greece4",Channel 9
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/19165.ts
-#EXTINF:-1 group-title="Greece4",DIAVATA TV
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/19164.ts
-#EXTINF:-1 group-title="Greece4",DIKTYO
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/19163.ts
-#EXTINF:-1 group-title="Greece4",E
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/19162.ts
-#EXTINF:-1 group-title="Greece4",Ellinikosfm TV
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/19161.ts
-#EXTINF:-1 group-title="Greece4",EPIRUS TV1
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/19160.ts
-#EXTINF:-1 group-title="Greece4",Ept 1
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/19159.ts
-#EXTINF:-1 group-title="Greece4",Ept 2
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/19158.ts
-#EXTINF:-1 group-title="Greece4",ERT 1
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/19157.ts
-#EXTINF:-1 group-title="Greece4",Ert HD
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/19156.ts
-#EXTINF:-1 group-title="Greece4",ERT2
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/19155.ts
-#EXTINF:-1 group-title="Greece4",Euronews
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/19154.ts
-#EXTINF:-1 group-title="Greece4",Eurosport 1
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/19153.ts
+#EXTINF:-1 group-title="Greece4",ZOUGL@
+http://iptvfree1.com:6969/live/Belmira/123456/3305.m3u8
+#EXTINF:-1 group-title="Greece4",Vouli TV
+http://iptvfree1.com:6969/live/Belmira/123456/3657.m3u8
+#EXTINF:-1 group-title="Greece4",VOULI
+http://iptvfree1.com:6969/live/Belmira/123456/3306.m3u8
+#EXTINF:-1 group-title="Greece4",Tv100
+http://iptvfree1.com:6969/live/Belmira/123456/3307.m3u8
+#EXTINF:-1 group-title="Greece4",TV Gold
+http://iptvfree1.com:6969/live/Belmira/123456/3308.m3u8
+#EXTINF:-1 group-title="Greece4",TV 1000
+http://iptvfree1.com:6969/live/Belmira/123456/3351.m3u8
+#EXTINF:-1 group-title="Greece4",TRT
+http://iptvfree1.com:6969/live/Belmira/123456/3309.m3u8
+#EXTINF:-1 group-title="Greece4",TILESPORT
+http://iptvfree1.com:6969/live/Belmira/123456/3310.m3u8
+#EXTINF:-1 group-title="Greece4",Thraki TV
+http://iptvfree1.com:6969/live/Belmira/123456/3311.m3u8
+#EXTINF:-1 group-title="Greece4",Thema TV
+http://iptvfree1.com:6969/live/Belmira/123456/3352.m3u8
+#EXTINF:-1 group-title="Greece4",Start TV
+http://iptvfree1.com:6969/live/Belmira/123456/3312.m3u8
+#EXTINF:-1 group-title="Greece4",Star TV
+http://iptvfree1.com:6969/live/Belmira/123456/3353.m3u8
+#EXTINF:-1 group-title="Greece4",Star
+http://iptvfree1.com:6969/live/Belmira/123456/3654.m3u8
+#EXTINF:-1 group-title="Greece4",Smile
+http://iptvfree1.com:6969/live/Belmira/123456/3653.m3u8
+#EXTINF:-1 group-title="Greece4",Skai
+http://iptvfree1.com:6969/live/Belmira/123456/3338.m3u8
+#EXTINF:-1 group-title="Greece4",Sigma
+http://iptvfree1.com:6969/live/Belmira/123456/3339.m3u8
+#EXTINF:-1 group-title="Greece4",SBC
+http://iptvfree1.com:6969/live/Belmira/123456/3313.m3u8
+#EXTINF:-1 group-title="Greece4",SAMIAKI
+http://iptvfree1.com:6969/live/Belmira/123456/3314.m3u8
+#EXTINF:-1 group-title="Greece4",Rik
+http://iptvfree1.com:6969/live/Belmira/123456/3649.m3u8
+#EXTINF:-1 group-title="Greece4",Omega TV
+http://iptvfree1.com:6969/live/Belmira/123456/3340.m3u8
+#EXTINF:-1 group-title="Greece4",OMEGA
+http://iptvfree1.com:6969/live/Belmira/123456/3315.m3u8
+#EXTINF:-1 group-title="Greece4",NOVA
+http://iptvfree1.com:6969/live/Belmira/123456/3354.m3u8
+#EXTINF:-1 group-title="Greece4",Nickelodeon
+http://iptvfree1.com:6969/live/Belmira/123456/3648.m3u8
+#EXTINF:-1 group-title="Greece4",New TV
+http://iptvfree1.com:6969/live/Belmira/123456/3321.m3u8
+#EXTINF:-1 group-title="Greece4",Nea Tv
+http://iptvfree1.com:6969/live/Belmira/123456/3647.m3u8
+#EXTINF:-1 group-title="Greece4",NEA
+http://iptvfree1.com:6969/live/Belmira/123456/3319.m3u8
+#EXTINF:-1 group-title="Greece4",Nat Geo
+http://iptvfree1.com:6969/live/Belmira/123456/3675.m3u8
+#EXTINF:-1 group-title="Greece4",MTVeece
+http://iptvfree1.com:6969/live/Belmira/123456/3646.m3u8
+#EXTINF:-1 group-title="Greece4",MESSINIA TV
+http://iptvfree1.com:6969/live/Belmira/123456/3320.m3u8
+#EXTINF:-1 group-title="Greece4",Mega
+http://iptvfree1.com:6969/live/Belmira/123456/3341.m3u8
+#EXTINF:-1 group-title="Greece4",Makeleio Web Tv
+http://iptvfree1.com:6969/live/Belmira/123456/3355.m3u8
+#EXTINF:-1 group-title="Greece4",Makedonia TV Delay
+http://iptvfree1.com:6969/live/Belmira/123456/3642.m3u8
+#EXTINF:-1 group-title="Greece4",Makedonia TV
+http://iptvfree1.com:6969/live/Belmira/123456/3641.m3u8
+#EXTINF:-1 group-title="Greece4",Makedonia
+http://iptvfree1.com:6969/live/Belmira/123456/3322.m3u8
+#EXTINF:-1 group-title="Greece4",Mad TV
+http://iptvfree1.com:6969/live/Belmira/123456/3640.m3u8
+#EXTINF:-1 group-title="Greece4",Lepanto
+http://iptvfree1.com:6969/live/Belmira/123456/3342.m3u8
+#EXTINF:-1 group-title="Greece4",KRITI TV
+http://iptvfree1.com:6969/live/Belmira/123456/3323.m3u8
+#EXTINF:-1 group-title="Greece4",Krhth TV
+http://iptvfree1.com:6969/live/Belmira/123456/3639.m3u8
+#EXTINF:-1 group-title="Greece4",KONTRA TV
+http://iptvfree1.com:6969/live/Belmira/123456/3324.m3u8
+#EXTINF:-1 group-title="Greece4",Kontra Channel
+http://iptvfree1.com:6969/live/Belmira/123456/3638.m3u8
+#EXTINF:-1 group-title="Greece4",JAYZEE
+http://iptvfree1.com:6969/live/Belmira/123456/3325.m3u8
+#EXTINF:-1 group-title="Greece4",High TV
+http://iptvfree1.com:6969/live/Belmira/123456/3637.m3u8
+#EXTINF:-1 group-title="Greece4",Extra Channel
+http://iptvfree1.com:6969/live/Belmira/123456/3636.m3u8
+#EXTINF:-1 group-title="Greece4",EXTRA
+http://iptvfree1.com:6969/live/Belmira/123456/3326.m3u8
 #EXTINF:-1 group-title="Greece4",Eurosport 2
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/19152.ts
+http://iptvfree1.com:6969/live/Belmira/123456/3343.m3u8
+#EXTINF:-1 group-title="Greece4",Eurosport 1
+http://iptvfree1.com:6969/live/Belmira/123456/3344.m3u8
+#EXTINF:-1 group-title="Greece4",Euronews
+http://iptvfree1.com:6969/live/Belmira/123456/3316.m3u8
+#EXTINF:-1 group-title="Greece4",ERT2
+http://iptvfree1.com:6969/live/Belmira/123456/3345.m3u8
+#EXTINF:-1 group-title="Greece4",Ert HD
+http://iptvfree1.com:6969/live/Belmira/123456/3670.m3u8
+#EXTINF:-1 group-title="Greece4",ERT 1
+http://iptvfree1.com:6969/live/Belmira/123456/3347.m3u8
+#EXTINF:-1 group-title="Greece4",Ept 2
+http://iptvfree1.com:6969/live/Belmira/123456/3674.m3u8
+#EXTINF:-1 group-title="Greece4",Ept 1
+http://iptvfree1.com:6969/live/Belmira/123456/3672.m3u8
+#EXTINF:-1 group-title="Greece4",Ellinikosfm TV
+http://iptvfree1.com:6969/live/Belmira/123456/3328.m3u8
+#EXTINF:-1 group-title="Greece4",E
+http://iptvfree1.com:6969/live/Belmira/123456/3348.m3u8
+#EXTINF:-1 group-title="Greece4",DIKTYO
+http://iptvfree1.com:6969/live/Belmira/123456/3358.m3u8
+#EXTINF:-1 group-title="Greece4",DIAVATA TV
+http://iptvfree1.com:6969/live/Belmira/123456/3317.m3u8
+#EXTINF:-1 group-title="Greece4",Channel 9
+http://iptvfree1.com:6969/live/Belmira/123456/3668.m3u8
+#EXTINF:-1 group-title="Greece4",Boyah
+http://iptvfree1.com:6969/live/Belmira/123456/3651.m3u8
+#EXTINF:-1 group-title="Greece4",BLUE SKY
+http://iptvfree1.com:6969/live/Belmira/123456/3329.m3u8
+#EXTINF:-1 group-title="Greece4",Axeloos TV
+http://iptvfree1.com:6969/live/Belmira/123456/3330.m3u8
+#EXTINF:-1 group-title="Greece4",Astra
+http://iptvfree1.com:6969/live/Belmira/123456/3331.m3u8
+#EXTINF:-1 group-title="Greece4",Art
+http://iptvfree1.com:6969/live/Belmira/123456/3332.m3u8
+#EXTINF:-1 group-title="Greece4",APT
+http://iptvfree1.com:6969/live/Belmira/123456/3673.m3u8
+#EXTINF:-1 group-title="Greece4",Ant1 HD
+http://iptvfree1.com:6969/live/Belmira/123456/3665.m3u8
+#EXTINF:-1 group-title="Greece4",ANT1
+http://iptvfree1.com:6969/live/Belmira/123456/3349.m3u8
+#EXTINF:-1 group-title="Greece4",Alpha
+http://iptvfree1.com:6969/live/Belmira/123456/3350.m3u8
+#EXTINF:-1 group-title="Greece4",AIGAIO TV
+http://iptvfree1.com:6969/live/Belmira/123456/3334.m3u8
+#EXTINF:-1 group-title="Greece4",ACTION 24
+http://iptvfree1.com:6969/live/Belmira/123456/3335.m3u8
+#EXTINF:-1 group-title="Greece4",AB Channel
+http://iptvfree1.com:6969/live/Belmira/123456/3659.m3u8
+#EXTINF:-1 group-title="Greece4",4E Star
+http://iptvfree1.com:6969/live/Belmira/123456/3337.m3u8
+#EXTINF:-1 group-title="Greece4",4E
+http://iptvfree1.com:6969/live/Belmira/123456/3336.m3u8
+#EXTINF:-1 group-title="Greece4",Ant1 Cyprus
+http://iptvfree1.com:6969/live/Belmira/123456/3663.m3u8
+#EXTINF:-1 group-title="Greece4",ANIMAL PLANET HD
+http://iptvfree1.com:6969/live/Belmira/123456/11745.m3u8
+#EXTINF:-1 group-title="Greece4",BABY TV
+http://iptvfree1.com:6969/live/Belmira/123456/11708.m3u8
+#EXTINF:-1 group-title="Greece4",CANNALI MUSIC
+http://iptvfree1.com:6969/live/Belmira/123456/11746.m3u8
+#EXTINF:-1 group-title="Greece4",CAPITAL CYPRUS
+http://iptvfree1.com:6969/live/Belmira/123456/11712.m3u8
+#EXTINF:-1 group-title="Greece4",CBS REALITY
+http://iptvfree1.com:6969/live/Belmira/123456/11744.m3u8
+#EXTINF:-1 group-title="Greece4",COSMOTE VILLAGE CINEMA
+http://iptvfree1.com:6969/live/Belmira/123456/11764.m3u8
+#EXTINF:-1 group-title="Greece4",DISCOVERY CHANNEL
+http://iptvfree1.com:6969/live/Belmira/123456/11743.m3u8
+#EXTINF:-1 group-title="Greece4",DISCOVERY HD SHOWCASE
+http://iptvfree1.com:6969/live/Belmira/123456/11742.m3u8
+#EXTINF:-1 group-title="Greece4",DISCOVERY ID
+http://iptvfree1.com:6969/live/Belmira/123456/11741.m3u8
+#EXTINF:-1 group-title="Greece4",DISCOVERY ID EXTRA
+http://iptvfree1.com:6969/live/Belmira/123456/11740.m3u8
+#EXTINF:-1 group-title="Greece4",DISCOVERY SCIENCE HD
+http://iptvfree1.com:6969/live/Belmira/123456/11739.m3u8
+#EXTINF:-1 group-title="Greece4",DISCOVERY TURBO EXTRA
+http://iptvfree1.com:6969/live/Belmira/123456/11738.m3u8
+#EXTINF:-1 group-title="Greece4",DISNEY CHANNEL
+http://iptvfree1.com:6969/live/Belmira/123456/11707.m3u8
+#EXTINF:-1 group-title="Greece4",DISNEY JUNIOR
+http://iptvfree1.com:6969/live/Belmira/123456/11706.m3u8
+#EXTINF:-1 group-title="Greece4",EXTRA CYPRUS
+http://iptvfree1.com:6969/live/Belmira/123456/11711.m3u8
+#EXTINF:-1 group-title="Greece4",FASHION TV HD
+http://iptvfree1.com:6969/live/Belmira/123456/11737.m3u8
+#EXTINF:-1 group-title="Greece4",FISHING TV
+http://iptvfree1.com:6969/live/Belmira/123456/11728.m3u8
+#EXTINF:-1 group-title="Greece4",FOX HD
+http://iptvfree1.com:6969/live/Belmira/123456/11719.m3u8
+#EXTINF:-1 group-title="Greece4",FOX LIFE HD
+http://iptvfree1.com:6969/live/Belmira/123456/11718.m3u8
+#EXTINF:-1 group-title="Greece4",GREECE
+http://iptvfree1.com:6969/live/Belmira/123456/11730.m3u8
+#EXTINF:-1 group-title="Greece4",GSTREAMS DOCUMENTARY 1
+http://iptvfree1.com:6969/live/Belmira/123456/11734.m3u8
+#EXTINF:-1 group-title="Greece4",GSTREAMS DOCUMENTARY 2
+http://iptvfree1.com:6969/live/Belmira/123456/11733.m3u8
+#EXTINF:-1 group-title="Greece4",GSTREAMS DOCUMENTARY 4
+http://iptvfree1.com:6969/live/Belmira/123456/11732.m3u8
+#EXTINF:-1 group-title="Greece4",GSTREAMS GREEK HITS
+http://iptvfree1.com:6969/live/Belmira/123456/11748.m3u8
+#EXTINF:-1 group-title="Greece4",GSTREAMS KSENA HITS
+http://iptvfree1.com:6969/live/Belmira/123456/11747.m3u8
+#EXTINF:-1 group-title="Greece4",GSTREAMS MUSIC  VIDEO CLIP 3
+http://iptvfree1.com:6969/live/Belmira/123456/11749.m3u8
+#EXTINF:-1 group-title="Greece4",GSTREAMS MUSIC VIDEO CLIP 1
+http://iptvfree1.com:6969/live/Belmira/123456/11751.m3u8
+#EXTINF:-1 group-title="Greece4",GSTREAMS MUSIC VIDEO CLIP 2
+http://iptvfree1.com:6969/live/Belmira/123456/11750.m3u8
+#EXTINF:-1 group-title="Greece4",GSTREAMS WESTERN MOVIES
+http://iptvfree1.com:6969/live/Belmira/123456/11721.m3u8
+#EXTINF:-1 group-title="Greece4",HISTORY HD
+http://iptvfree1.com:6969/live/Belmira/123456/11736.m3u8
+#EXTINF:-1 group-title="Greece4",HUNTER TV
+http://iptvfree1.com:6969/live/Belmira/123456/11729.m3u8
+#EXTINF:-1 group-title="Greece4",MAD CY
+http://iptvfree1.com:6969/live/Belmira/123456/11709.m3u8
+#EXTINF:-1 group-title="Greece4",MOVIES GR SUBS 1
+http://iptvfree1.com:6969/live/Belmira/123456/11762.m3u8
+#EXTINF:-1 group-title="Greece4",MOVIES GR SUBS 2
+http://iptvfree1.com:6969/live/Belmira/123456/11761.m3u8
+#EXTINF:-1 group-title="Greece4",MOVIES GR SUBS 3
+http://iptvfree1.com:6969/live/Belmira/123456/11760.m3u8
+#EXTINF:-1 group-title="Greece4",NAT GEO WILD
+http://iptvfree1.com:6969/live/Belmira/123456/11727.m3u8
+#EXTINF:-1 group-title="Greece4",NATIONAL GEOGRAFIC HD
+http://iptvfree1.com:6969/live/Belmira/123456/11726.m3u8
+#EXTINF:-1 group-title="Greece4",OTE CINEMA 1
+http://iptvfree1.com:6969/live/Belmira/123456/11768.m3u8
+#EXTINF:-1 group-title="Greece4",OTE CINEMA 2
+http://iptvfree1.com:6969/live/Belmira/123456/11767.m3u8
+#EXTINF:-1 group-title="Greece4",OTE CINEMA 3
+http://iptvfree1.com:6969/live/Belmira/123456/11766.m3u8
+#EXTINF:-1 group-title="Greece4",OTE CINEMA 4
+http://iptvfree1.com:6969/live/Belmira/123456/11765.m3u8
+#EXTINF:-1 group-title="Greece4",PLUS CYPRUS
+http://iptvfree1.com:6969/live/Belmira/123456/11710.m3u8
+#EXTINF:-1 group-title="Greece4",RIK 1
+http://iptvfree1.com:6969/live/Belmira/123456/11716.m3u8
+#EXTINF:-1 group-title="Greece4",RIK 2
+http://iptvfree1.com:6969/live/Belmira/123456/11715.m3u8
+#EXTINF:-1 group-title="Greece4",RIK SAT
+http://iptvfree1.com:6969/live/Belmira/123456/11717.m3u8
+#EXTINF:-1 group-title="Greece4",SiGMA CYPRUS
+http://iptvfree1.com:6969/live/Belmira/123456/11713.m3u8
+#EXTINF:-1 group-title="Greece4",SUNDANCE CHANNEL HD
+http://iptvfree1.com:6969/live/Belmira/123456/11725.m3u8
+#EXTINF:-1 group-title="Greece4",SURVIVOR GREECE 2017
+http://iptvfree1.com:6969/live/Belmira/123456/11720.m3u8
+#EXTINF:-1 group-title="Greece4",TRAVEL CHANNEL HD
+http://iptvfree1.com:6969/live/Belmira/123456/11724.m3u8
+#EXTINF:-1 group-title="Greece4",VIASAT HISTORY
+http://iptvfree1.com:6969/live/Belmira/123456/11723.m3u8
+#EXTINF:-1 group-title="Greece4",GR:MEGA ONE CYPRUS
+http://iptvfree1.com:6969/live/Belmira/123456/11714.m3u8
+#EXTINF:-1 group-title="Greece4",Best Movies 1
+http://iptvfree1.com:6969/live/Belmira/123456/12720.m3u8
+#EXTINF:-1 group-title="Greece4",Best Movies 2
+http://iptvfree1.com:6969/live/Belmira/123456/12719.m3u8
+#EXTINF:-1 group-title="Greece4",Best Movies 3
+http://iptvfree1.com:6969/live/Belmira/123456/12718.m3u8
+#EXTINF:-1 group-title="Greece4",Best Movies 4
+http://iptvfree1.com:6969/live/Belmira/123456/12717.m3u8
+#EXTINF:-1 group-title="Greece4",Best Movies 5
+http://iptvfree1.com:6969/live/Belmira/123456/12716.m3u8
+#EXTINF:-1 group-title="Greece4",Best Movies 6
+http://iptvfree1.com:6969/live/Belmira/123456/12715.m3u8
+#EXTINF:-1 group-title="Greece4",Cinemaeek 1
+http://iptvfree1.com:6969/live/Belmira/123456/12722.m3u8
+#EXTINF:-1 group-title="Greece4",Cinemaeek 2
+http://iptvfree1.com:6969/live/Belmira/123456/12721.m3u8
+#EXTINF:-1 group-title="Greece4",Greek Cinema 80s 1
+http://iptvfree1.com:6969/live/Belmira/123456/12714.m3u8
+#EXTINF:-1 group-title="Greece4",Greek Cinema 80s 2
+http://iptvfree1.com:6969/live/Belmira/123456/12713.m3u8
+#EXTINF:-1 group-title="Greece4",Greek Cinema 80s 3
+http://iptvfree1.com:6969/live/Belmira/123456/12712.m3u8
+#EXTINF:-1 group-title="Greece4",Greek Mix
+http://iptvfree1.com:6969/live/Belmira/123456/12711.m3u8
+#EXTINF:-1 group-title="Greece4",Greek Old Movies 1
+http://iptvfree1.com:6969/live/Belmira/123456/12710.m3u8
+#EXTINF:-1 group-title="Greece4",Greek Old Movies 2
+http://iptvfree1.com:6969/live/Belmira/123456/12709.m3u8
+#EXTINF:-1 group-title="Greece4",Greek Old Movies 3
+http://iptvfree1.com:6969/live/Belmira/123456/12708.m3u8
+#EXTINF:-1 group-title="Greece4",Greek Series 1
+http://iptvfree1.com:6969/live/Belmira/123456/12707.m3u8
+#EXTINF:-1 group-title="Greece4",Greek Series 2
+http://iptvfree1.com:6969/live/Belmira/123456/12706.m3u8
+#EXTINF:-1 group-title="Greece4",Kids 1
+http://iptvfree1.com:6969/live/Belmira/123456/12705.m3u8
+#EXTINF:-1 group-title="Greece4",Kids 10
+http://iptvfree1.com:6969/live/Belmira/123456/12697.m3u8
+#EXTINF:-1 group-title="Greece4",Kids 2
+http://iptvfree1.com:6969/live/Belmira/123456/12704.m3u8
+#EXTINF:-1 group-title="Greece4",Kids 3
+http://iptvfree1.com:6969/live/Belmira/123456/12703.m3u8
+#EXTINF:-1 group-title="Greece4",Kids 4
+http://iptvfree1.com:6969/live/Belmira/123456/12702.m3u8
+#EXTINF:-1 group-title="Greece4",Kids 5
+http://iptvfree1.com:6969/live/Belmira/123456/12701.m3u8
+#EXTINF:-1 group-title="Greece4",Kids 6
+http://iptvfree1.com:6969/live/Belmira/123456/12700.m3u8
+#EXTINF:-1 group-title="Greece4",Kids 7
+http://iptvfree1.com:6969/live/Belmira/123456/12699.m3u8
+#EXTINF:-1 group-title="Greece4",Kids 9
+http://iptvfree1.com:6969/live/Belmira/123456/12698.m3u8
+#EXTINF:-1 group-title="Greece4",TV1 Siros
+http://iptvfree1.com:6969/live/Belmira/123456/3327.m3u8
+#EXTINF:-1 group-title="Greece4",Hpeiros TV1
+http://iptvfree1.com:6969/live/Belmira/123456/3356.m3u8
+#EXTINF:-1 group-title="Greece4",Apeiro TV
+http://iptvfree1.com:6969/live/Belmira/123456/3359.m3u8
+#EXTINF:-1 group-title="Greece4",EPIRUS TV1
+http://iptvfree1.com:6969/live/Belmira/123456/3357.m3u8
+#EXTINF:-1 group-title="Greece4",GSTREAMS SYNTAGES MAGEIRIKHS
+http://iptvfree1.com:6969/live/Belmira/123456/11731.m3u8
+#EXTINF:-1 group-title="Greece4",TV Mytilini
+http://iptvfree1.com:6969/live/Belmira/123456/3318.m3u8
 
 
 
@@ -497,35 +768,158 @@ http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/19152.ts
 
 
 
-#EXTINF:2 group-title="Greece5",
+#EXTINF:-1 group-title="Greece5",
 
-#EXTINF:-1 group-title="Greece5" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/manaellada.png" ,==GREECE==
-http://..........
-
-#EXTINF:-1 group-title="Greece5",ALFA TV
-http://tre.masal.pro:2015/live/stalker/zLkb4fMLgd/24635.ts
-#EXTINF:-1 group-title="Greece5",ANTENA 1
-http://tre.masal.pro:2015/live/stalker/zLkb4fMLgd/24634.ts
-#EXTINF:-1 group-title="Greece5",ART
-http://tre.masal.pro:2015/live/stalker/zLkb4fMLgd/24633.ts
-#EXTINF:-1 group-title="Greece5",E TV
-http://tre.masal.pro:2015/live/stalker/zLkb4fMLgd/24632.ts
-#EXTINF:-1 group-title="Greece5",ERT
-http://tre.masal.pro:2015/live/stalker/zLkb4fMLgd/24624.ts
-#EXTINF:-1 group-title="Greece5",ERT 1
-http://tre.masal.pro:2015/live/stalker/zLkb4fMLgd/24627.ts
-#EXTINF:-1 group-title="Greece5",ERT 2
-http://tre.masal.pro:2015/live/stalker/zLkb4fMLgd/24626.ts
+#EXTINF:-1oup-title="Greece5",ERT 2
+http://kingproeu.com:8080/live/niacam/exchange50/21927.m3u8
 #EXTINF:-1 group-title="Greece5",ERT 3
-http://tre.masal.pro:2015/live/stalker/zLkb4fMLgd/24625.ts
-#EXTINF:-1 group-title="Greece5",MACEDONIA TV
-http://tre.masal.pro:2015/live/stalker/zLkb4fMLgd/24631.ts
-#EXTINF:-1 group-title="Greece5",MEGA TV
-http://tre.masal.pro:2015/live/stalker/zLkb4fMLgd/24630.ts
-#EXTINF:-1 group-title="Greece5",SKAI TV
-http://tre.masal.pro:2015/live/stalker/zLkb4fMLgd/24629.ts
-#EXTINF:-1 group-title="Greece5",STAR TV
-http://tre.masal.pro:2015/live/stalker/zLkb4fMLgd/24628.ts
+http://kingproeu.com:8080/live/niacam/exchange50/21928.m3u8
+#EXTINF:-1 group-title="Greece5",4E
+http://kingproeu.com:8080/live/niacam/exchange50/21910.m3u8
+#EXTINF:-1 group-title="Greece5",ALPHA
+http://kingproeu.com:8080/live/niacam/exchange50/21920.m3u8
+#EXTINF:-1 group-title="Greece5",EPT1
+http://kingproeu.com:8080/live/niacam/exchange50/21913.m3u8
+#EXTINF:-1 group-title="Greece5",EPT2
+http://kingproeu.com:8080/live/niacam/exchange50/21914.m3u8
+#EXTINF:-1 group-title="Greece5",ept3
+http://kingproeu.com:8080/live/niacam/exchange50/21911.m3u8
+#EXTINF:-1 group-title="Greece5",KPHTH-TV
+http://kingproeu.com:8080/live/niacam/exchange50/21917.m3u8
+#EXTINF:-1 group-title="Greece5",mad-tv
+http://kingproeu.com:8080/live/niacam/exchange50/21912.m3u8
+#EXTINF:-1 group-title="Greece5",MEGA
+http://kingproeu.com:8080/live/niacam/exchange50/21915.m3u8
+#EXTINF:-1 group-title="Greece5",SKAI
+http://kingproeu.com:8080/live/niacam/exchange50/21918.m3u8
+#EXTINF:-1 group-title="Greece5",STAR
+http://kingproeu.com:8080/live/niacam/exchange50/21919.m3u8
+#EXTINF:-1 group-title="Greece5",vouli
+http://kingproeu.com:8080/live/niacam/exchange50/21916.m3u8
+#EXTINF:-1 group-title="Greece5",4E
+http://kingproeu.com:8080/live/niacam/exchange50/21921.m3u8
+#EXTINF:-1 group-title="Greece5",ALPHA CYP
+http://kingproeu.com:8080/live/niacam/exchange50/21922.m3u8
+#EXTINF:-1 group-title="Greece5",ANT 1 CYP
+http://kingproeu.com:8080/live/niacam/exchange50/21923.m3u8
+#EXTINF:-1 group-title="Greece5",CRETA  TV
+http://kingproeu.com:8080/live/niacam/exchange50/21924.m3u8
+#EXTINF:-1 group-title="Greece5",EBS
+http://kingproeu.com:8080/live/niacam/exchange50/21925.m3u8
+#EXTINF:-1 group-title="Greece5",EBS PLUS
+http://kingproeu.com:8080/live/niacam/exchange50/21926.m3u8
+#EXTINF:-1 group-title="Greece5",EXTRA
+http://kingproeu.com:8080/live/niacam/exchange50/21929.m3u8
+#EXTINF:-1 group-title="Greece5",KPHTH TV
+http://kingproeu.com:8080/live/niacam/exchange50/21930.m3u8
+#EXTINF:-1 group-title="Greece5",KRHTH TV
+http://kingproeu.com:8080/live/niacam/exchange50/21931.m3u8
+#EXTINF:-1 group-title="Greece5",MEGA CYP
+http://kingproeu.com:8080/live/niacam/exchange50/21932.m3u8
+#EXTINF:-1 group-title="Greece5",OTE SPORT1
+http://kingproeu.com:8080/live/niacam/exchange50/21909.m3u8
+#EXTINF:-1 group-title="Greece5",OTE SPORT2
+http://kingproeu.com:8080/live/niacam/exchange50/21908.m3u8
+#EXTINF:-1 group-title="Greece5",OTE SPORT 3
+http://kingproeu.com:8080/live/niacam/exchange50/21907.m3u8
+#EXTINF:-1 group-title="Greece5",OTE SPORT 4
+http://kingproeu.com:8080/live/niacam/exchange50/21906.m3u8
+#EXTINF:-1 group-title="Greece5",OTE SPORT 5
+http://kingproeu.com:8080/live/niacam/exchange50/21905.m3u8
+#EXTINF:-1 group-title="Greece5",OTE SPORT 6
+http://kingproeu.com:8080/live/niacam/exchange50/21904.m3u8
+#EXTINF:-1 group-title="Greece5",OTE SPORT 7
+http://kingproeu.com:8080/live/niacam/exchange50/21903.m3u8
+#EXTINF:-1 group-title="Greece5",OTE SPORT 8
+http://kingproeu.com:8080/live/niacam/exchange50/21902.m3u8
+#EXTINF:-1 group-title="Greece5",OTE Cinema 1 FHD
+http://kingproeu.com:8080/live/niacam/exchange50/22073.m3u8
+#EXTINF:-1 group-title="Greece5",OTE Cinema 2 FHD
+http://kingproeu.com:8080/live/niacam/exchange50/22072.m3u8
+#EXTINF:-1 group-title="Greece5",OTE Cinema 3 HD
+http://kingproeu.com:8080/live/niacam/exchange50/22071.m3u8
+#EXTINF:-1 group-title="Greece5",OTE Cinema 4 HD
+http://kingproeu.com:8080/live/niacam/exchange50/22070.m3u8
+#EXTINF:-1 group-title="Greece5",History HD
+http://kingproeu.com:8080/live/niacam/exchange50/22069.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Greece6",ERT 1
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15176.ts
+#EXTINF:-1 group-title="Greece6",ERT 2
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15175.ts
+#EXTINF:-1 group-title="Greece6",ERT 3
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15174.ts
+#EXTINF:-1 group-title="Greece6",ERT HD
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15172.ts
+#EXTINF:-1 group-title="Greece6",ALERT
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15151.ts
+#EXTINF:-1 group-title="Greece6",ALPH
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15171.ts
+#EXTINF:-1 group-title="Greece6",ANT 1
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15170.ts
+#EXTINF:-1 group-title="Greece6",ATTICA
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15157.ts
+#EXTINF:-1 group-title="Greece6",BLUSKY
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15156.ts
+#EXTINF:-1 group-title="Greece6",CH 9
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15155.ts
+#EXTINF:-1 group-title="Greece6",CHANNEL E
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15168.ts
+#EXTINF:-1 group-title="Greece6",EXTRA
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15179.ts
+#EXTINF:-1 group-title="Greece6",KONTRA
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15178.ts
+#EXTINF:-1 group-title="Greece6",MAD
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15177.ts
+#EXTINF:-1 group-title="Greece6",MAKEDONIA
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15167.ts
+#EXTINF:-1 group-title="Greece6",MEGA
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15166.ts
+#EXTINF:-1 group-title="Greece6",NICKELODEON
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15152.ts
+#EXTINF:-1 group-title="Greece6",RISE
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15154.ts
+#EXTINF:-1 group-title="Greece6",SBC
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15153.ts
+#EXTINF:-1 group-title="Greece6",SKAI
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15165.ts
+#EXTINF:-1 group-title="Greece6",SMILE
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15150.ts
+#EXTINF:-1 group-title="Greece6",VOULI
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15173.ts
+#EXTINF:-1 group-title="Greece6",STAR
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15164.ts
+#EXTINF:-1 group-title="Greece6",AB CHANNEL
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15159.ts
+#EXTINF:-1 group-title="Greece6",ACTION 24
+http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/15158.ts
 
 
 
@@ -810,400 +1204,6 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
 #EXTINF:-1 group-title="USA-CANADA2", 
 
-#EXTINF:-1 group-title="USA-CANADA2",CNBC
-http://209.182.228.22:8000/udp/239.255.12.9:1135
-#EXTINF:-1 group-title="USA-CANADA2",BOOK
-http://209.182.228.22:8000/udp/239.255.12.29:1135
-#EXTINF:-1 group-title="USA-CANADA2",BBC Kids
-http://209.182.228.22:8000/udp/239.255.12.58:1135
-#EXTINF:-1 group-title="USA-CANADA2",MTV 2
-http://209.182.228.22:8000/udp/239.255.12.77:1135
-#EXTINF:-1 group-title="USA-CANADA2",CP24 HD
-http://209.182.228.22:8000/udp/230.50.0.12:8208
-#EXTINF:-1 group-title="USA-CANADA2",TSN 1
-http://209.182.228.22:8000/udp/230.50.0.13:8208
-#EXTINF:-1 group-title="USA-CANADA2",TSN 2
-http://209.182.228.22:8000/udp/230.50.0.14:8208
-#EXTINF:-1 group-title="USA-CANADA2",TSN 4
-http://209.182.228.22:8000/udp/230.50.0.16:8208
-#EXTINF:-1 group-title="USA-CANADA2",TSN 3
-http://209.182.228.22:8000/udp/230.50.0.15:8208
-#EXTINF:-1 group-title="USA-CANADA2",RDS
-http://209.182.228.22:8000/udp/230.50.0.31:8208
-#EXTINF:-1 group-title="USA-CANADA2",Comedy Gold
-http://209.182.228.22:8000/udp/239.255.12.137:1135
-#EXTINF:-1 group-title="USA-CANADA2",DEJA VIEW
-http://209.182.228.22:8000/udp/239.255.12.136:1135
-#EXTINF:-1 group-title="USA-CANADA2",TVA
-http://209.182.228.22:8000/udp/230.50.0.2:8208
-#EXTINF:-1 group-title="USA-CANADA2",CITY
-http://209.182.228.22:8000/udp/230.50.0.32:8208
-#EXTINF:-1 group-title="USA-CANADA2",TV
-http://209.182.228.22:8000/udp/230.50.0.35:8208
-#EXTINF:-1 group-title="USA-CANADA2",TV MUSIC
-http://209.182.228.22:8000/udp/230.50.0.37:8208
-#EXTINF:-1 group-title="USA-CANADA2",MOVIE NETWORK
-http://209.182.228.22:8000/udp/230.50.0.38:8208
-#EXTINF:-1 group-title="USA-CANADA2",TV MOVIES
-http://209.182.228.22:8000/udp/230.50.0.39:8208
-#EXTINF:-1 group-title="USA-CANADA2",TV
-http://209.182.228.22:8000/udp/230.50.0.40:8208
-#EXTINF:-1 group-title="USA-CANADA2",TV MOVIES
-http://209.182.228.22:8000/udp/230.50.0.42:8208
-#EXTINF:-1 group-title="USA-CANADA2",TV
-http://209.182.228.22:8000/udp/230.50.0.43:8208
-#EXTINF:-1 group-title="USA-CANADA2",TV MOVIES
-http://209.182.228.22:8000/udp/230.50.0.44:8208
-#EXTINF:-1 group-title="USA-CANADA2",ICI RDI
-http://209.182.228.22:8000/udp/230.50.0.46:8208
-#EXTINF:-1 group-title="USA-CANADA2",GLOBAL TORONTO
-http://209.182.228.22:8000/udp/230.50.0.48:8208
-#EXTINF:-1 group-title="USA-CANADA2",GLOBAL MONTREAL
-http://209.182.228.22:8000/udp/230.50.0.49:8208
-#EXTINF:-1 group-title="USA-CANADA2",SPORTS NETWORK CENTRAL
-http://209.182.228.22:8000/udp/230.50.0.59:8208
-#EXTINF:-1 group-title="USA-CANADA2",SPORTS
-http://209.182.228.22:8000/udp/230.50.0.60:8208
-#EXTINF:-1 group-title="USA-CANADA2",SPORTS NETWORK
-http://209.182.228.22:8000/udp/230.50.0.61:8208
-#EXTINF:-1 group-title="USA-CANADA2",SPORTS NETWORK
-http://209.182.228.22:8000/udp/230.50.0.62:8208
-#EXTINF:-1 group-title="USA-CANADA2",CBS NEWS NETWORK
-http://209.182.228.22:8000/udp/230.50.0.64:8208
-#EXTINF:-1 group-title="USA-CANADA2",FAMILY
-http://209.182.228.22:8000/udp/230.50.0.113:8208
-#EXTINF:-1 group-title="USA-CANADA2",FAMILY JR
-http://209.182.228.22:8000/udp/230.50.0.127:8208
-#EXTINF:-1 group-title="USA-CANADA2",Tv
-http://209.182.228.22:8000/udp/230.50.0.156:8208
-#EXTINF:-1 group-title="USA-CANADA2",D TRUE CRIME MONDAYS
-http://209.182.228.22:8000/udp/239.255.0.11:1136
-#EXTINF:-1 group-title="USA-CANADA2",THE WEATHER NETWORK
-http://209.182.228.22:8000/udp/239.255.2.219:1136
-#EXTINF:-1 group-title="USA-CANADA2",DIY NETWORK
-http://209.182.228.22:8000/udp/239.255.4.191:1136
-#EXTINF:-1 group-title="USA-CANADA2",CMT
-http://209.182.228.22:8000/udp/239.255.51.177:1136
-#EXTINF:-1 group-title="USA-CANADA2",GUSTO
-http://209.182.228.22:8000/udp/239.255.51.236:1136
-#EXTINF:-1 group-title="USA-CANADA2",TV
-http://209.182.228.22:8000/udp/239.255.53.63:8208
-#EXTINF:-1 group-title="USA-CANADA2",MOVIE TIME
-http://209.182.228.22:8000/udp/239.255.56.130:1136
-#EXTINF:-1 group-title="USA-CANADA2",COTTAGE LIFE
-http://209.182.228.22:8000/udp/239.255.56.141:1136
-#EXTINF:-1 group-title="USA-CANADA2",TV CHILDREN
-http://209.182.228.22:8000/udp/230.50.0.45:8208
-#EXTINF:-1 group-title="USA-CANADA2",TV
-http://209.182.228.22:8000/udp/230.50.0.51:8208
-#EXTINF:-1 group-title="USA-CANADA2",GOODS CBC TORONTO
-http://209.182.228.22:8000/udp/230.50.0.52:8208
-#EXTINF:-1 group-title="USA-CANADA2",CBC
-http://209.182.228.22:8000/udp/230.50.0.53:8208
-#EXTINF:-1 group-title="USA-CANADA2",CBC
-http://209.182.228.22:8000/udp/230.50.0.55:8208
-#EXTINF:-1 group-title="USA-CANADA2",W
-http://209.182.228.22:8000/udp/230.50.0.58:8208
-#EXTINF:-1 group-title="USA-CANADA2",CTV TWO
-http://209.182.228.22:8000/udp/230.50.0.68:8208
-#EXTINF:-1 group-title="USA-CANADA2",YTV
-http://209.182.228.22:8000/udp/230.50.0.69:8208
-#EXTINF:-1 group-title="USA-CANADA2",FOX 29
-http://209.182.228.22:8000/udp/230.50.0.70:8208
-#EXTINF:-1 group-title="USA-CANADA2",HISTORY
-http://209.182.228.22:8000/udp/230.50.0.72:8208
-#EXTINF:-1 group-title="USA-CANADA2",NBC NEWS
-http://209.182.228.22:8000/udp/230.50.0.73:8208
-#EXTINF:-1 group-title="USA-CANADA2",CHILD TV FR AUDIO
-http://209.182.228.22:8000/udp/230.50.0.75:8208
-#EXTINF:-1 group-title="USA-CANADA2",CTV
-http://209.182.228.22:8000/udp/230.50.0.5:8208
-#EXTINF:-1 group-title="USA-CANADA2",ICI TELE
-http://209.182.228.22:8000/udp/230.50.0.23:8208
-#EXTINF:-1 group-title="USA-CANADA2",abc news
-http://209.182.228.22:8000/udp/230.50.0.30:8208
-#EXTINF:-1 group-title="USA-CANADA2",sity
-http://209.182.228.22:8000/udp/230.50.0.33:8208
-#EXTINF:-1 group-title="USA-CANADA2",4 WARN WEATHER
-http://209.182.228.22:8000/udp/230.50.0.56:8208
-#EXTINF:-1 group-title="USA-CANADA2",N/A
-http://209.182.228.22:8000/udp/230.50.0.63:8208
-#EXTINF:-1 group-title="USA-CANADA2",7 abc
-http://209.182.228.22:8000/udp/230.50.0.77:8208
-#EXTINF:-1 group-title="USA-CANADA2",D
-http://209.182.228.22:8000/udp/230.50.0.79:8208
-#EXTINF:-1 group-title="USA-CANADA2",N/A
-http://209.182.228.22:8000/udp/230.50.0.80:8208
-#EXTINF:-1 group-title="USA-CANADA2",ctv NEWS
-http://209.182.228.22:8000/udp/230.50.0.84:8208
-#EXTINF:-1 group-title="USA-CANADA2",teletoon
-http://209.182.228.22:8000/udp/230.50.0.83:8208
-#EXTINF:-1 group-title="USA-CANADA2",SERIES
-http://209.182.228.22:8000/udp/230.50.0.85:8208
-#EXTINF:-1 group-title="USA-CANADA2",food
-http://209.182.228.22:8000/udp/230.50.0.86:8208
-#EXTINF:-1 group-title="USA-CANADA2",tvo kids
-http://209.182.228.22:8000/udp/230.50.0.87:8208
-#EXTINF:-1 group-title="USA-CANADA2",SHOW CASE
-http://209.182.228.22:8000/udp/230.50.0.88:8208
-#EXTINF:-1 group-title="USA-CANADA2",vie
-http://209.182.228.22:8000/udp/230.50.0.89:8208
-#EXTINF:-1 group-title="USA-CANADA2",TV5
-http://209.182.228.22:8000/udp/230.50.0.91:8208
-#EXTINF:-1 group-title="USA-CANADA2",Discovery
-http://209.182.228.22:8000/udp/230.50.0.92:8208
-#EXTINF:-1 group-title="USA-CANADA2",COMEDY
-http://209.182.228.22:8000/udp/230.50.0.93:8208
-#EXTINF:-1 group-title="USA-CANADA2",TVA SPORTS
-http://209.182.228.22:8000/udp/230.50.0.95:8208
-#EXTINF:-1 group-title="USA-CANADA2",TV14
-http://209.182.228.22:8000/udp/230.50.0.97:8208
-#EXTINF:-1 group-title="USA-CANADA2",METEOMEDIA
-http://209.182.228.22:8000/udp/230.50.0.102:8208
-#EXTINF:-1 group-title="USA-CANADA2",bravo
-http://209.182.228.22:8000/udp/230.50.0.104:8208
-#EXTINF:-1 group-title="USA-CANADA2",Disney
-http://209.182.228.22:8000/udp/230.50.0.106:8208
-#EXTINF:-1 group-title="USA-CANADA2",E
-http://209.182.228.22:8000/udp/230.50.0.107:8208
-#EXTINF:-1 group-title="USA-CANADA2",YOOPA
-http://209.182.228.22:8000/udp/230.50.0.108:8208
-#EXTINF:-1 group-title="USA-CANADA2",DISNEY JUNIOR
-http://209.182.228.22:8000/udp/230.50.0.110:8208
-#EXTINF:-1 group-title="USA-CANADA2",ANIMAL PLANET
-http://209.182.228.22:8000/udp/230.50.0.111:8208
-#EXTINF:-1 group-title="USA-CANADA2",CАSА
-http://209.182.228.22:8000/udp/230.50.0.112:8208
-#EXTINF:-1 group-title="USA-CANADA2",Discovery Velocity
-http://209.182.228.22:8000/udp/230.50.0.114:8208
-#EXTINF:-1 group-title="USA-CANADA2",addik
-http://209.182.228.22:8000/udp/230.50.0.115:8208
-#EXTINF:-1 group-title="USA-CANADA2",N/A
-http://209.182.228.22:8000/udp/230.50.0.117:8208
-#EXTINF:-1 group-title="USA-CANADA2",TELE TOON HD
-http://209.182.228.22:8000/udp/230.50.0.118:8208
-#EXTINF:-1 group-title="USA-CANADA2",TNT
-http://209.182.228.22:8000/udp/230.50.0.119:8208
-#EXTINF:-1 group-title="USA-CANADA2",MUCH
-http://209.182.228.22:8000/udp/230.50.0.120:8208
-#EXTINF:-1 group-title="USA-CANADA2",SPASE
-http://209.182.228.22:8000/udp/230.50.0.121:8208
-#EXTINF:-1 group-title="USA-CANADA2",N/A
-http://209.182.228.22:8000/udp/230.50.0.122:8208
-#EXTINF:-1 group-title="USA-CANADA2",N/A
-http://209.182.228.22:8000/udp/230.50.0.123:8208
-#EXTINF:-1 group-title="USA-CANADA2",W
-http://209.182.228.22:8000/udp/230.50.0.125:8208
-#EXTINF:-1 group-title="USA-CANADA2",ID
-http://209.182.228.22:8000/udp/230.50.0.129:8208
-#EXTINF:-1 group-title="USA-CANADA2",BNN
-http://209.182.228.22:8000/udp/230.50.0.128:8208
-#EXTINF:-1 group-title="USA-CANADA2",my 38
-http://209.182.228.22:8000/udp/230.50.0.131:8208
-#EXTINF:-1 group-title="USA-CANADA2",PGA TOUR
-http://209.182.228.22:8000/udp/230.50.0.143:8208
-#EXTINF:-1 group-title="USA-CANADA2",CTV HD
-http://209.182.228.22:8000/udp/230.50.0.144:8208
-#EXTINF:-1 group-title="USA-CANADA2",HISTORIA
-http://209.182.228.22:8000/udp/230.50.0.148:8208
-#EXTINF:-1 group-title="USA-CANADA2",N/A
-http://209.182.228.22:8000/udp/230.50.0.150:8208
-#EXTINF:-1 group-title="USA-CANADA2",ICI TELE HD
-http://209.182.228.22:8000/udp/230.50.0.151:8208
-#EXTINF:-1 group-title="USA-CANADA2",TVA HD
-http://209.182.228.22:8000/udp/230.50.0.152:8208
-#EXTINF:-1 group-title="USA-CANADA2",V HD
-http://209.182.228.22:8000/udp/230.50.0.155:8208
-#EXTINF:-1 group-title="USA-CANADA2",FOX HD
-http://209.182.228.22:8000/udp/230.50.0.163:8208
-#EXTINF:-1 group-title="USA-CANADA2",abc HD
-http://209.182.228.22:8000/udp/230.50.0.165:8208
-#EXTINF:-1 group-title="USA-CANADA2",COOCKING channell
-http://209.182.228.22:8000/udp/230.50.0.167:8208
-#EXTINF:-1 group-title="USA-CANADA2",N/A
-http://209.182.228.22:8000/udp/230.50.0.178:8208
-#EXTINF:-1 group-title="USA-CANADA2",N/A
-http://209.182.228.22:8000/udp/230.50.0.179:8208
-#EXTINF:-1 group-title="USA-CANADA2",TVA HD
-http://209.182.228.22:8000/udp/230.50.0.180:8208
-#EXTINF:-1 group-title="USA-CANADA2",N/A
-http://209.182.228.22:8000/udp/230.50.0.187:8208
-#EXTINF:-1 group-title="USA-CANADA2",ICEJ CANADA
-http://209.182.228.22:8000/udp/230.50.0.188:8208
-#EXTINF:-1 group-title="USA-CANADA2",CHCH HD
-http://209.182.228.22:8000/udp/230.50.0.192:8208
-#EXTINF:-1 group-title="USA-CANADA2",OMNI
-http://209.182.228.22:8000/udp/230.50.0.223:8208
-#EXTINF:-1 group-title="USA-CANADA2",ACTION
-http://209.182.228.22:8000/udp/230.50.0.228:8208
-#EXTINF:-1 group-title="USA-CANADA2",N/A
-http://209.182.228.22:8000/udp/230.50.0.229:8208
-#EXTINF:-1 group-title="USA-CANADA2",COSMO TV
-http://209.182.228.22:8000/udp/230.50.0.230:8208
-#EXTINF:-1 group-title="USA-CANADA2",T E HD
-http://209.182.228.22:8000/udp/239.255.0.9:1136
-#EXTINF:-1 group-title="USA-CANADA2",ICI EXPLORA HD
-http://209.182.228.22:8000/udp/239.255.0.15:1136
-#EXTINF:-1 group-title="USA-CANADA2",H2 HD
-http://209.182.228.22:8000/udp/239.255.0.35:1136
-#EXTINF:-1 group-title="USA-CANADA2",TV25 HD
-http://209.182.228.22:8000/udp/239.255.0.51:1136
-#EXTINF:-1 group-title="USA-CANADA2",LIFETIME HD
-http://209.182.228.22:8000/udp/239.255.0.53:1136
-#EXTINF:-1 group-title="USA-CANADA2",CN HD
-http://209.182.228.22:8000/udp/239.255.0.55:1136
-#EXTINF:-1 group-title="USA-CANADA2",MTV HD
-http://209.182.228.22:8000/udp/239.255.0.71:1136
-#EXTINF:-1 group-title="USA-CANADA2",SAVOIP HD
-http://209.182.228.22:8000/udp/239.255.0.75:1136
-#EXTINF:-1 group-title="USA-CANADA2",SLICE HD
-http://209.182.228.22:8000/udp/239.255.0.85:1136
-#EXTINF:-1 group-title="USA-CANADA2",OLN HD
-http://209.182.228.22:8000/udp/239.255.0.127:1136
-#EXTINF:-1 group-title="USA-CANADA2",FI HD
-http://209.182.228.22:8000/udp/239.255.0.169:1136
-#EXTINF:-1 group-title="USA-CANADA2",STANLEY HD
-http://209.182.228.22:8000/udp/239.255.0.213:1136
-#EXTINF:-1 group-title="USA-CANADA2",FX HD
-http://209.182.228.22:8000/udp/239.255.2.160:1136
-#EXTINF:-1 group-title="USA-CANADA2",FXX HD
-http://209.182.228.22:8000/udp/239.255.2.165:1136
-#EXTINF:-1 group-title="USA-CANADA2",TVA HD
-http://209.182.228.22:8000/udp/230.50.0.1:8208
-#EXTINF:-1 group-title="USA-CANADA2",ICI RDI HD
-http://209.182.228.22:8000/udp/230.50.0.26:8208
-#EXTINF:-1 group-title="USA-CANADA2",EURONEWS FR
-http://209.182.228.22:8000/udp/239.255.1.150:1135
-#EXTINF:-1 group-title="USA-CANADA2",SD
-http://209.182.228.22:8000/udp/239.255.11.80:1135
-#EXTINF:-1 group-title="USA-CANADA2",ESPN CLASSIC SD
-http://209.182.228.22:8000/udp/239.255.11.159:1135
-#EXTINF:-1 group-title="USA-CANADA2",EVASION HD
-http://209.182.228.22:8000/udp/239.255.54.134:1136
-#EXTINF:-1 group-title="USA-CANADA2",ICI ARTV HD
-http://209.182.228.22:8000/udp/239.255.54.143:1136
-#EXTINF:-1 group-title="USA-CANADA2",ZESTE HD
-http://209.182.228.22:8000/udp/239.255.54.190:1136
-#EXTINF:-1 group-title="USA-CANADA2",MOI ET COMPANIE HD
-http://209.182.228.22:8000/udp/239.255.54.194:1136
-#EXTINF:-1 group-title="USA-CANADA2",ICI TELE HD
-http://209.182.228.22:8000/udp/239.255.54.241:1136
-#EXTINF:-1 group-title="USA-CANADA2",APTN HD
-http://209.182.228.22:8000/udp/239.255.55.19:1136
-#EXTINF:-1 group-title="USA-CANADA2",PBS VERMONT HD
-http://209.182.228.22:8000/udp/239.255.55.24:1136
-#EXTINF:-1 group-title="USA-CANADA2",NBC GOLF HD
-http://209.182.228.22:8000/udp/239.255.55.166:1136
-#EXTINF:-1 group-title="USA-CANADA2",SPORTSNET WL HD
-http://209.182.228.22:8000/udp/239.255.55.170:1136
-#EXTINF:-1 group-title="USA-CANADA2",MSNBC HD
-http://209.182.228.22:8000/udp/239.255.56.6:1136
-#EXTINF:-1 group-title="USA-CANADA2",OWN CANADA HD
-http://209.182.228.22:8000/udp/239.255.56.26:1136
-#EXTINF:-1 group-title="USA-CANADA2",ABC SPARK HD
-http://209.182.228.22:8000/udp/239.255.56.64:1136
-#EXTINF:-1 group-title="USA-CANADA2",?
-http://209.182.228.22:8000/udp/239.255.56.62:1136
-#EXTINF:-1 group-title="USA-CANADA2",cpac
-http://209.182.228.22:8000/udp/239.255.12.12:1135
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 1
-http://209.182.228.22:8000/udp/239.255.54.1:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 2
-http://209.182.228.22:8000/udp/239.255.54.3:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 3
-http://209.182.228.22:8000/udp/239.255.54.2:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 4
-http://209.182.228.22:8000/udp/239.255.54.4:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 5
-http://209.182.228.22:8000/udp/239.255.54.5:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 6
-http://209.182.228.22:8000/udp/239.255.54.6:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 7
-http://209.182.228.22:8000/udp/239.255.54.7:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 8
-http://209.182.228.22:8000/udp/239.255.54.8:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 9
-http://209.182.228.22:8000/udp/239.255.54.9:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 10
-http://209.182.228.22:8000/udp/239.255.54.11:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 11
-http://209.182.228.22:8000/udp/239.255.54.10:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 12
-http://209.182.228.22:8000/udp/239.255.54.12:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 13
-http://209.182.228.22:8000/udp/239.255.54.13:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 14
-http://209.182.228.22:8000/udp/239.255.54.14:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 15
-http://209.182.228.22:8000/udp/239.255.54.15:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 16
-http://209.182.228.22:8000/udp/239.255.54.16:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 17
-http://209.182.228.22:8000/udp/239.255.54.17:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 18
-http://209.182.228.22:8000/udp/239.255.54.18:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 19
-http://209.182.228.22:8000/udp/239.255.54.19:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 20
-http://209.182.228.22:8000/udp/239.255.54.20:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 21
-http://209.182.228.22:8000/udp/239.255.54.21:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 23
-http://209.182.228.22:8000/udp/239.255.54.22:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 22
-http://209.182.228.22:8000/udp/239.255.54.23:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 24
-http://209.182.228.22:8000/udp/239.255.54.24:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 25
-http://209.182.228.22:8000/udp/239.255.54.25:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 26
-http://209.182.228.22:8000/udp/239.255.54.26:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 27
-http://209.182.228.22:8000/udp/239.255.54.27:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 28
-http://209.182.228.22:8000/udp/239.255.54.28:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 29
-http://209.182.228.22:8000/udp/239.255.54.29:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 30
-http://209.182.228.22:8000/udp/239.255.54.30:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 31
-http://209.182.228.22:8000/udp/239.255.54.31:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 32
-http://209.182.228.22:8000/udp/239.255.54.32:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 33
-http://209.182.228.22:8000/udp/239.255.54.33:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 34
-http://209.182.228.22:8000/udp/239.255.54.34:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 35
-http://209.182.228.22:8000/udp/239.255.54.35:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 36
-http://209.182.228.22:8000/udp/239.255.54.36:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 37
-http://209.182.228.22:8000/udp/239.255.54.37:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 38
-http://209.182.228.22:8000/udp/239.255.54.38:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 39
-http://209.182.228.22:8000/udp/239.255.54.39:1136
-#EXTINF:-1 group-title="USA-CANADA2",radio stream 40
-http://209.182.228.22:8000/udp/239.255.54.40:1136
-#EXTINF:-1 group-title="USA-CANADA2",TFO
-http://209.182.228.22:8000/udp/239.255.54.137:1136
-#EXTINF:-1 group-title="USA-CANADA2",Channel
-http://209.182.228.22:8000/udp/239.255.12.105:1135
-#EXTINF:-1 group-title="USA-CANADA2",Channel
-http://209.182.228.22:8000/udp/239.255.12.135:1135
-#EXTINF:-1 group-title="USA-CANADA2",Channel
-http://209.182.228.22:8000/udp/239.255.12.217:1135
-#EXTINF:-1 group-title="USA-CANADA2",Channel
-http://209.182.228.22:8000/udp/239.255.12.218:1135
-#EXTINF:-1 group-title="USA-CANADA2",Channel
-http://209.182.228.22:8000/udp/239.255.12.219:1135
-#EXTINF:-1 group-title="USA-CANADA2",Channel
-http://209.182.228.22:8000/udp/239.255.55.45:1136
-#EXTINF:-1 group-title="USA-CANADA2",Channel
-http://209.182.228.22:8000/udp/239.255.56.5:1136
-#EXTINF:-1 group-title="USA-CANADA2",Global TV
-http://209.182.228.22:8000/udp/230.50.1.78:8208
 
 
 
@@ -4043,90 +4043,35 @@ http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/971/inde
 
 #EXTINF:-1 group-title="Italy3"
 
-#EXTINF:-1 group-title="Italy3",Rai Gulp
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20540.ts
-#EXTINF:-1 group-title="Italy3",Rai Movie
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20505.ts
-#EXTINF:-1 group-title="Italy3",Rai Premium
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20504.ts
-#EXTINF:-1 group-title="Italy3",Rai Sport1
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20503.ts
-#EXTINF:-1 group-title="Italy3",Rai Sport2
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20502.ts
-#EXTINF:-1 group-title="Italy3",Rai Yoyo
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20563.ts
-#EXTINF:-1 group-title="Italy3",Rai1 HD
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20501.ts
-#EXTINF:-1 group-title="Italy3",Rai2 HD
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20500.ts
-#EXTINF:-1 group-title="Italy3",Rai3 HD
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20499.ts
-#EXTINF:-1 group-title="Italy3",Rai4 HD
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20498.ts
-#EXTINF:-1 group-title="Italy3",Rai5
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20497.ts
-#EXTINF:-1 group-title="Italy3",Real Time
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20539.ts
-#EXTINF:-1 group-title="Italy3",Rete4 HD
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20496.ts
-#EXTINF:-1 group-title="Italy3",RSI La1 HD
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20495.ts
-#EXTINF:-1 group-title="Italy3",RSI La2 HD
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20494.ts
-#EXTINF:-1 group-title="Italy3",Sky Calcio 1
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20562.ts
-#EXTINF:-1 group-title="Italy3",Alice
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20525.ts
-#EXTINF:-1 group-title="Italy3",Animal Planet
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20593.ts
-#EXTINF:-1 group-title="Italy3",Boing
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20592.ts
-#EXTINF:-1 group-title="Italy3",Canal 5 HD
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20591.ts
-#EXTINF:-1 group-title="Italy3",Canale5 HD
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20524.ts
-#EXTINF:-1 group-title="Italy3",CARTOON  NETWORK
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20544.ts
-#EXTINF:-1 group-title="Italy3",Cartoonito
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20590.ts
-#EXTINF:-1 group-title="Italy3",Cielo
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20589.ts
-#EXTINF:-1 group-title="Italy3",Discovery Focus
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20543.ts
-#EXTINF:-1 group-title="Italy3",Discovery HD
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20588.ts
-#EXTINF:-1 group-title="Italy3",Discovery Science HD
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20587.ts
-#EXTINF:-1 group-title="Italy3",Discovery Travel&Living HD
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20586.ts
-#EXTINF:-1 group-title="Italy3",Dmax HD
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20585.ts
-#EXTINF:-1 group-title="Italy3",Eurosport 1 HD
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20523.ts
-#EXTINF:-1 group-title="Italy3",Eurosport 2 HD
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20522.ts
-#EXTINF:-1 group-title="Italy3",FISHING TV
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20584.ts
-#EXTINF:-1 group-title="Italy3",Fox Animation
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20583.ts
-#EXTINF:-1 group-title="Italy3",Fox Comedy HD
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20521.ts
-#EXTINF:-1 group-title="Italy3",Fox Crime HD
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20582.ts
-#EXTINF:-1 group-title="Italy3",FOX HD
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20581.ts
-#EXTINF:-1 group-title="Italy3",Fox Life HD
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20580.ts
-#EXTINF:-1 group-title="Italy3",FOX Sport HD
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20579.ts
-#EXTINF:-1 group-title="Italy3",History
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20578.ts
-#EXTINF:-1 group-title="Italy3",Inter Channel
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20577.ts
-#EXTINF:-1 group-title="Italy3",Italia 2
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20520.ts
-#EXTINF:-1 group-title="Italy3",italia1 HD
-http://beout.b-iptv.com:80/live/dealsat/Tw8MIQlqez/20519.ts
+#EXTINF:-1 group-title="Italy3",Premium Sport HD
+http://164.132.200.17:8080/live/elcin67/elcin67/1312.ts
+#EXTINF:-1 group-title="Italy3",Sky Supercalcio HD
+http://164.132.200.17:8080/live/elcin67/elcin67/1305.ts
+#EXTINF:-1 group-title="Italy3",Premium Sport 1 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/1856.ts
+#EXTINF:-1 group-title="Italy3",Premium Sport 2 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/1313.ts
+#EXTINF:-1 group-title="Italy3",Sky Calcio 1 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/1314.ts
+#EXTINF:-1 group-title="Italy3",Sky Calcio 2 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/1306.ts
+#EXTINF:-1 group-title="Italy3",Sky Calcio 3 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/1307.ts
+#EXTINF:-1 group-title="Italy3",Sky Calcio 4 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/1308.ts
+#EXTINF:-1 group-title="Italy3",Sky Calcio 5 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/1309.ts
+#EXTINF:-1 group-title="Italy3",Sky Calcio 6 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/1310.ts
+#EXTINF:-1 group-title="Italy3",Sky Calcio 7 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/1311.ts
+#EXTINF:-1 group-title="Italy3",SKY SPORT 1 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/633.ts
+#EXTINF:-1 group-title="Italy3",SKY SPORT 2 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/634.ts
+#EXTINF:-1 group-title="Italy3",SKY SPORT 3 HD
+http://164.132.200.17:8080/live/elcin67/elcin67/635.ts
+
 
 
 
@@ -5729,497 +5674,497 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Germany2-PREMIUM",
 
-
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="" tvg-name="1-2-3.TV" tvg-logo="http://necro.to/images/channels/123tv.png",1-2-3.TV
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="" tvg-name="1-2-3.TV" tvg-logo="http://necro.to/images/channels/123tv.png",1-2-3.TV
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6968.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="3sat.de" tvg-name="3Sat HD" tvg-logo="http://necro.to/images/channels/3sat.png",3Sat HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="3sat.de" tvg-name="3Sat HD" tvg-logo="http://necro.to/images/channels/3sat.png",3Sat HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2882.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="13thstreet.de" tvg-name="13th Street FHD" tvg-logo="http://necro.to/images/channels/13th-Street-HD.png",13th Street FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="13thstreet.de" tvg-name="13th Street FHD" tvg-logo="http://necro.to/images/channels/13th-Street-HD.png",13th Street FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3150.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="13thstreet.de" tvg-name="13th Street HD" tvg-logo="http://necro.to/images/channels/13th-Street-HD.png",13th Street HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="13thstreet.de" tvg-name="13th Street HD" tvg-logo="http://necro.to/images/channels/13th-Street-HD.png",13th Street HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7166.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="aande.de" tvg-name="A&E FHD" tvg-logo="http://necro.to/images/channels/A&E.png",A&E FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="aande.de" tvg-name="A&E FHD" tvg-logo="http://necro.to/images/channels/A&E.png",A&E FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3112.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="aande.de" tvg-name="A&E" tvg-logo="http://necro.to/images/channels/A&E.png",A&E
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="aande.de" tvg-name="A&E" tvg-logo="http://necro.to/images/channels/A&E.png",A&E
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7165.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="animalplanet.de" tvg-name="Animal Planet HD" tvg-logo="http://necro.to/images/channels/Animalplanet.png",Animal Planet HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="animalplanet.de" tvg-name="Animal Planet HD" tvg-logo="http://necro.to/images/channels/Animalplanet.png",Animal Planet HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3124.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="anixe.de" tvg-name="Anixe" tvg-logo="http://necro.to/images/channels/AnixeSD.png",Anixe
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="anixe.de" tvg-name="Anixe" tvg-logo="http://necro.to/images/channels/AnixeSD.png",Anixe
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6251.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="" tvg-name="Anixe Serie FHD" tvg-logo="http://necro.to/images/channels/anixehdserie.png",Anixe Serie FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="" tvg-name="Anixe Serie FHD" tvg-logo="http://necro.to/images/channels/anixehdserie.png",Anixe Serie FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6969.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="ard.de" tvg-name="ARD HD" tvg-logo="http://necro.to/images/channels/ard.png",ARD HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="ard.de" tvg-name="ARD HD" tvg-logo="http://necro.to/images/channels/ard.png",ARD HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6272.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="arte.de" tvg-name="Arte FHD" tvg-logo="http://necro.to/images/channels/arte_hd.png",Arte FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="arte.de" tvg-name="Arte FHD" tvg-logo="http://necro.to/images/channels/arte_hd.png",Arte FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2878.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="arte.de" tvg-name="Arte HD" tvg-logo="http://necro.to/images/channels/arte_hd.png",Arte HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="arte.de" tvg-name="Arte HD" tvg-logo="http://necro.to/images/channels/arte_hd.png",Arte HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7164.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="atv.de" tvg-name="ATV HD" tvg-logo="http://necro.to/images/channels/ATV.png",ATV HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="atv.de" tvg-name="ATV HD" tvg-logo="http://necro.to/images/channels/ATV.png",ATV HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6271.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="automotorundsportchannel.de" tvg-name="Auto Motor Sport FHD" tvg-logo="http://necro.to/images/channels/automotorsport.png",Auto Motor Sport FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="automotorundsportchannel.de" tvg-name="Auto Motor Sport FHD" tvg-logo="http://necro.to/images/channels/automotorsport.png",Auto Motor Sport FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2877.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="automotorundsportchannel.de" tvg-name="Auto Motor Sport HD" tvg-logo="http://necro.to/images/channels/automotorsport.png",Auto Motor Sport HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="automotorundsportchannel.de" tvg-name="Auto Motor Sport HD" tvg-logo="http://necro.to/images/channels/automotorsport.png",Auto Motor Sport HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7163.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="axn.de" tvg-name="AXN FHD" tvg-logo="http://necro.to/images/channels/axn.png",AXN FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="axn.de" tvg-name="AXN FHD" tvg-logo="http://necro.to/images/channels/axn.png",AXN FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3145.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="" tvg-name="Baby TV" tvg-logo="http://necro.to/images/channels/Baby_TV.png",Baby TV
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="" tvg-name="Baby TV" tvg-logo="http://necro.to/images/channels/Baby_TV.png",Baby TV
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6270.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="" tvg-name="Bayern TV FHD" tvg-logo="http://necro.to/images/channels/BayernTV.png",Bayern TV FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="" tvg-name="Bayern TV FHD" tvg-logo="http://necro.to/images/channels/BayernTV.png",Bayern TV FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6269.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="bongusto.de" tvg-name="Bon Gusto FHD" tvg-logo="http://necro.to/images/channels/BonGusto.png",Bon Gusto FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="bongusto.de" tvg-name="Bon Gusto FHD" tvg-logo="http://necro.to/images/channels/BonGusto.png",Bon Gusto FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6374.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="br.de" tvg-name="BR" tvg-logo="http://necro.to/images/channels/BR.png",BR
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="br.de" tvg-name="BR" tvg-logo="http://necro.to/images/channels/BR.png",BR
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6268.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="boomerang.de" tvg-name="Boomerang" tvg-logo="http://necro.to/images/channels/Boomerang.png",Boomerang
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="boomerang.de" tvg-name="Boomerang" tvg-logo="http://necro.to/images/channels/Boomerang.png",Boomerang
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3109.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="cartoonnetwork.de" tvg-name="Cartoon Network HD" tvg-logo="http://necro.to/images/channels/CartoonNetwork.png",Cartoon Network HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="cartoonnetwork.de" tvg-name="Cartoon Network HD" tvg-logo="http://necro.to/images/channels/CartoonNetwork.png",Cartoon Network HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6267.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="classica.de" tvg-name="Classica" tvg-logo="http://necro.to/images/channels/Classica.png",Classica
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="classica.de" tvg-name="Classica" tvg-logo="http://necro.to/images/channels/Classica.png",Classica
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6278.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="ard.de" tvg-name="Das Erste FHD" tvg-logo="http://necro.to/images/channels/DasErste.png",Das Erste FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="ard.de" tvg-name="Das Erste FHD" tvg-logo="http://necro.to/images/channels/DasErste.png",Das Erste FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2904.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="ard.de" tvg-name="Das Erste HD" tvg-logo="http://necro.to/images/channels/DasErste.png",Das Erste HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="ard.de" tvg-name="Das Erste HD" tvg-logo="http://necro.to/images/channels/DasErste.png",Das Erste HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7162.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="deluxemusic.de" tvg-name="Deluxe Music FHD" tvg-logo="http://necro.to/images/channels/DeluxeMusicHD.png",Deluxe Music FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="deluxemusic.de" tvg-name="Deluxe Music FHD" tvg-logo="http://necro.to/images/channels/DeluxeMusicHD.png",Deluxe Music FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6277.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="deluxemusic.de" tvg-name="Deluxe Music" tvg-logo="http://necro.to/images/channels/DeluxeMusicHD.png",Deluxe Music
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="deluxemusic.de" tvg-name="Deluxe Music" tvg-logo="http://necro.to/images/channels/DeluxeMusicHD.png",Deluxe Music
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7161.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="deutschesmusikfernsehen.de" tvg-name="Deutsches Musik Fernsehen" tvg-logo="http://necro.to/images/channels/DeutschesMusikFernsehenHD.png",Deutsches Musik Fernsehen
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="deutschesmusikfernsehen.de" tvg-name="Deutsches Musik Fernsehen" tvg-logo="http://necro.to/images/channels/DeutschesMusikFernsehenHD.png",Deutsches Musik Fernsehen
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6967.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="discoverychannel.de" tvg-name="Discovery Channel FHD" tvg-logo="http://necro.to/images/channels/Discoverychannelhd.png",Discovery Channel FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="discoverychannel.de" tvg-name="Discovery Channel FHD" tvg-logo="http://necro.to/images/channels/Discoverychannelhd.png",Discovery Channel FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3125.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="discoverychannel.de" tvg-name="Discovery Channel HD" tvg-logo="http://necro.to/images/channels/Discoverychannelhd.png",Discovery Channel HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="discoverychannel.de" tvg-name="Discovery Channel HD" tvg-logo="http://necro.to/images/channels/Discoverychannelhd.png",Discovery Channel HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7160.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="disneychannel.de" tvg-name="Disney Channel FHD" tvg-logo="http://necro.to/images/channels/DisneyChannelhd.png",Disney Channel FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="disneychannel.de" tvg-name="Disney Channel FHD" tvg-logo="http://necro.to/images/channels/DisneyChannelhd.png",Disney Channel FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3114.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="disneychannel.de" tvg-name="Disney Channel HD" tvg-logo="http://necro.to/images/channels/DisneyChannelhd.png",Disney Channel HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="disneychannel.de" tvg-name="Disney Channel HD" tvg-logo="http://necro.to/images/channels/DisneyChannelhd.png",Disney Channel HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7159.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="disneycinemagic.de" tvg-name="Disney Cinemagic FHD" tvg-logo="http://necro.to/images/channels/DisneyCinemagic.png",Disney Cinemagic FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="disneycinemagic.de" tvg-name="Disney Cinemagic FHD" tvg-logo="http://necro.to/images/channels/DisneyCinemagic.png",Disney Cinemagic FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3115.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="disneycinemagic.de" tvg-name="Disney CineMagic" tvg-logo="http://necro.to/images/channels/DisneyCinemagic.png",Disney CineMagic
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="disneycinemagic.de" tvg-name="Disney CineMagic" tvg-logo="http://necro.to/images/channels/DisneyCinemagic.png",Disney CineMagic
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7158.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="disneyjunior.de" tvg-name="Disney Junior FHD" tvg-logo="http://necro.to/images/channels/DisneyJuniorhd.png",Disney Junior FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="disneyjunior.de" tvg-name="Disney Junior FHD" tvg-logo="http://necro.to/images/channels/DisneyJuniorhd.png",Disney Junior FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3113.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="disneyjunior.de" tvg-name="Disney Junior" tvg-logo="http://necro.to/images/channels/DisneyJuniorhd.png",Disney Junior
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="disneyjunior.de" tvg-name="Disney Junior" tvg-logo="http://necro.to/images/channels/DisneyJuniorhd.png",Disney Junior
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7157.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="disneyxd.de" tvg-name="Disney XD" tvg-logo="http://necro.to/images/channels/DisneyXD.png",Disney XD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="disneyxd.de" tvg-name="Disney XD" tvg-logo="http://necro.to/images/channels/DisneyXD.png",Disney XD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3116.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="dmax.de" tvg-name="Dmax FHD" tvg-logo="http://necro.to/images/channels/Dmaxhd.png",Dmax FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="dmax.de" tvg-name="Dmax FHD" tvg-logo="http://necro.to/images/channels/Dmaxhd.png",Dmax FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3130.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="dmax.de" tvg-name="Dmax HD" tvg-logo="http://necro.to/images/channels/Dmaxhd.png",Dmax HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="dmax.de" tvg-name="Dmax HD" tvg-logo="http://necro.to/images/channels/Dmaxhd.png",Dmax HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7156.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="eentertainment.de" tvg-name="E! Entertainment FHD" tvg-logo="http://necro.to/images/channels/Entertainment.png",E! Entertainment FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="eentertainment.de" tvg-name="E! Entertainment FHD" tvg-logo="http://necro.to/images/channels/Entertainment.png",E! Entertainment FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3128.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="eentertainment.de" tvg-name="E! Entertainment HD" tvg-logo="http://necro.to/images/channels/Entertainment.png",E! Entertainment HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="eentertainment.de" tvg-name="E! Entertainment HD" tvg-logo="http://necro.to/images/channels/Entertainment.png",E! Entertainment HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7155.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="riceotv.de" tvg-name="eoTV" tvg-logo="http://necro.to/images/channels/eoTV.png",eoTV
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="riceotv.de" tvg-name="eoTV" tvg-logo="http://necro.to/images/channels/eoTV.png",eoTV
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6966.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="euronews.de" tvg-name="Euronews" tvg-logo="http://necro.to/images/channels/Euronews.png",Euronews
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="euronews.de" tvg-name="Euronews" tvg-logo="http://necro.to/images/channels/Euronews.png",Euronews
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2883.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="eurosport1.de" tvg-name="Eurosport 1 FHD" tvg-logo="http://necro.to/images/channels/Eurosport1hd.png",Eurosport 1 FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="eurosport1.de" tvg-name="Eurosport 1 FHD" tvg-logo="http://necro.to/images/channels/Eurosport1hd.png",Eurosport 1 FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3036.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="eurosport1.de" tvg-name="EuroSport 1 HD" tvg-logo="http://necro.to/images/channels/Eurosport1hd.png",EuroSport 1 HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="eurosport1.de" tvg-name="EuroSport 1 HD" tvg-logo="http://necro.to/images/channels/Eurosport1hd.png",EuroSport 1 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7154.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="eurosport2.de" tvg-name="Eurosport 2 FHD" tvg-logo="http://necro.to/images/channels/Eurosport2hd.png",Eurosport 2 FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="eurosport2.de" tvg-name="Eurosport 2 FHD" tvg-logo="http://necro.to/images/channels/Eurosport2hd.png",Eurosport 2 FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3035.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="eurosport2.de" tvg-name="EuroSport 2 HD" tvg-logo="http://necro.to/images/channels/Eurosport2hd.png",EuroSport 2 HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="eurosport2.de" tvg-name="EuroSport 2 HD" tvg-logo="http://necro.to/images/channels/Eurosport2hd.png",EuroSport 2 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7153.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="eurosport2xtra.de" tvg-name="EuroSport 2Xtra FHD" tvg-logo="http://necro.to/images/channels/Eurosport2HDXTRA.png",EuroSport 2Xtra FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="eurosport2xtra.de" tvg-name="EuroSport 2Xtra FHD" tvg-logo="http://necro.to/images/channels/Eurosport2HDXTRA.png",EuroSport 2Xtra FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/4177.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="eurosport2xtra.de" tvg-name="EuroSport 2 Xtra HD" tvg-logo="http://necro.to/images/channels/Eurosport2HDXTRA.png",EuroSport 2 Xtra HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="eurosport2xtra.de" tvg-name="EuroSport 2 Xtra HD" tvg-logo="http://necro.to/images/channels/Eurosport2HDXTRA.png",EuroSport 2 Xtra HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7152.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="" tvg-name="EuroSport360 1 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Eurosport360hd.png",EuroSport360 1 FHD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="" tvg-name="EuroSport360 1 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Eurosport360hd.png",EuroSport360 1 FHD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6999.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="" tvg-name="EuroSport360 3 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Eurosport360hd.png",EuroSport360 3 FHD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="" tvg-name="EuroSport360 3 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Eurosport360hd.png",EuroSport360 3 FHD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6998.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="" tvg-name="EuroSport360 4 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Eurosport360hd.png",EuroSport360 4 FHD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="" tvg-name="EuroSport360 4 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Eurosport360hd.png",EuroSport360 4 FHD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6997.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="familytv.de" tvg-name="Family TV" tvg-logo="http://necro.to/images/channels/familytv.png",Family TV
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="familytv.de" tvg-name="Family TV" tvg-logo="http://necro.to/images/channels/familytv.png",Family TV
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6965.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="fixandfoxi.de" tvg-name="Fix & Foxi" tvg-logo="http://necro.to/images/channels/FixFoxitv.png",Fix & Foxi
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="fixandfoxi.de" tvg-name="Fix & Foxi" tvg-logo="http://necro.to/images/channels/FixFoxitv.png",Fix & Foxi
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6964.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="fox.de" tvg-name="Fox FHD" tvg-logo="http://necro.to/images/channels/Foxhd.png",Fox FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="fox.de" tvg-name="Fox FHD" tvg-logo="http://necro.to/images/channels/Foxhd.png",Fox FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3146.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="fox.de" tvg-name="Fox HD" tvg-logo="http://necro.to/images/channels/Foxhd.png",Fox HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="fox.de" tvg-name="Fox HD" tvg-logo="http://necro.to/images/channels/Foxhd.png",Fox HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7151.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="" tvg-name="Genius Plus" tvg-logo="http://necro.to/images/channels/Geniusplustv.png",Genius Plus
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="" tvg-name="Genius Plus" tvg-logo="http://necro.to/images/channels/Geniusplustv.png",Genius Plus
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6970.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="heimatkanal.de" tvg-name="Heimat Kanal" tvg-logo="http://necro.to/images/channels/Heimatkanal.png",Heimat Kanal
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="heimatkanal.de" tvg-name="Heimat Kanal" tvg-logo="http://necro.to/images/channels/Heimatkanal.png",Heimat Kanal
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3133.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="history.de" tvg-name="History FHD" tvg-logo="http://necro.to/images/channels/Historyhd.png",History FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="history.de" tvg-name="History FHD" tvg-logo="http://necro.to/images/channels/Historyhd.png",History FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3120.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="hr.de" tvg-name="HR" tvg-logo="http://necro.to/images/channels/Hr.png",HR
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="hr.de" tvg-name="HR" tvg-logo="http://necro.to/images/channels/Hr.png",HR
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6266.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="hse24.de" tvg-name="HSE24 FHD" tvg-logo="http://necro.to/images/channels/Hse24hd.png",HSE24 FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="hse24.de" tvg-name="HSE24 FHD" tvg-logo="http://necro.to/images/channels/Hse24hd.png",HSE24 FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6971.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="" tvg-name="HSE24 Extra FHD" tvg-logo="http://necro.to/images/channels/Hse24extrahd.png",HSE24 Extra FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="" tvg-name="HSE24 Extra FHD" tvg-logo="http://necro.to/images/channels/Hse24extrahd.png",HSE24 Extra FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6972.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="jukebox.de" tvg-name="JukeBox" tvg-logo="http://necro.to/images/channels/Jukebox.png",JukeBox
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="jukebox.de" tvg-name="JukeBox" tvg-logo="http://necro.to/images/channels/Jukebox.png",JukeBox
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6265.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="junior.de" tvg-name="Junior" tvg-logo="http://necro.to/images/channels/Junior.png",Junior
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="junior.de" tvg-name="Junior" tvg-logo="http://necro.to/images/channels/Junior.png",Junior
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6281.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="" tvg-name="Juwelo FHD" tvg-logo="http://necro.to/images/channels/Juwelo.png",Juwelo FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="" tvg-name="Juwelo FHD" tvg-logo="http://necro.to/images/channels/Juwelo.png",Juwelo FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6973.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="kabeleinsdoku.de" tvg-name="Kabel Eins Doku" tvg-logo="http://necro.to/images/channels/KabelEinsDoku.png",Kabel Eins Doku
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="kabeleinsdoku.de" tvg-name="Kabel Eins Doku" tvg-logo="http://necro.to/images/channels/KabelEinsDoku.png",Kabel Eins Doku
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2889.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="kabel1.de" tvg-name="Kabel Eins FHD" tvg-logo="http://necro.to/images/channels/KabelEinsHD.png",Kabel Eins FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="kabel1.de" tvg-name="Kabel Eins FHD" tvg-logo="http://necro.to/images/channels/KabelEinsHD.png",Kabel Eins FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2890.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="kabel1.de" tvg-name="Kabel Eins HD" tvg-logo="http://necro.to/images/channels/KabelEinsHD.png",Kabel Eins HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="kabel1.de" tvg-name="Kabel Eins HD" tvg-logo="http://necro.to/images/channels/KabelEinsHD.png",Kabel Eins HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7150.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="kabeleinsclassic.de" tvg-name="Kabel Eins Classics HD" tvg-logo="http://necro.to/images/channels/KabeleinsClassicHD.png",Kabel Eins Classics HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="kabeleinsclassic.de" tvg-name="Kabel Eins Classics HD" tvg-logo="http://necro.to/images/channels/KabeleinsClassicHD.png",Kabel Eins Classics HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2888.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="kika.de" tvg-name="Kika FHD" tvg-logo="http://necro.to/images/channels/Kikahd.png",Kika FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="kika.de" tvg-name="Kika FHD" tvg-logo="http://necro.to/images/channels/Kikahd.png",Kika FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3111.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="kika.de" tvg-name="Kika" tvg-logo="http://necro.to/images/channels/Kikahd.png",Kika
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="kika.de" tvg-name="Kika" tvg-logo="http://necro.to/images/channels/Kikahd.png",Kika
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7149.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="kinowelt.de" tvg-name="Kinowelt HD" tvg-logo="http://necro.to/images/channels/KinoweltTVHD.png",Kinowelt HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="kinowelt.de" tvg-name="Kinowelt HD" tvg-logo="http://necro.to/images/channels/KinoweltTVHD.png",Kinowelt HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3152.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="mtvgermany.de" tvg-name="MTV FHD" tvg-logo="http://necro.to/images/channels/MTV.png",MTV FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="mtvgermany.de" tvg-name="MTV FHD" tvg-logo="http://necro.to/images/channels/MTV.png",MTV FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6963.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="mtvgermany.de" tvg-name="MTV HD" tvg-logo="http://necro.to/images/channels/MTV.png",MTV HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="mtvgermany.de" tvg-name="MTV HD" tvg-logo="http://necro.to/images/channels/MTV.png",MTV HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7148.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="" tvg-name="MTV Brand New" tvg-logo="http://necro.to/images/channels/MTVBrandNew.png",MTV Brand New
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="" tvg-name="MTV Brand New" tvg-logo="http://necro.to/images/channels/MTVBrandNew.png",MTV Brand New
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6264.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="" tvg-name="MTV Classic" tvg-logo="http://necro.to/images/channels/MTVClassic.png",MTV Classic
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="" tvg-name="MTV Classic" tvg-logo="http://necro.to/images/channels/MTVClassic.png",MTV Classic
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6263.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="mtvdance.de" tvg-name="MTV Dance" tvg-logo="http://necro.to/images/channels/MTVDance.png",MTV Dance
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="mtvdance.de" tvg-name="MTV Dance" tvg-logo="http://necro.to/images/channels/MTVDance.png",MTV Dance
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6262.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="" tvg-name="MTV Europe" tvg-logo="http://necro.to/images/channels/MTV.png",MTV Europe
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="" tvg-name="MTV Europe" tvg-logo="http://necro.to/images/channels/MTV.png",MTV Europe
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6261.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="mtvhits.de" tvg-name="MTV Hits" tvg-logo="http://necro.to/images/channels/MTVHits.png",MTV Hits
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="mtvhits.de" tvg-name="MTV Hits" tvg-logo="http://necro.to/images/channels/MTVHits.png",MTV Hits
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6260.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="mtvlive.de" tvg-name="MTV Live HD" tvg-logo="http://necro.to/images/channels/MTVLiveHD.png",MTV Live HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="mtvlive.de" tvg-name="MTV Live HD" tvg-logo="http://necro.to/images/channels/MTVLiveHD.png",MTV Live HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6259.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="" tvg-name="MTV Rocks" tvg-logo="http://necro.to/images/channels/MTVRocks.png",MTV Rocks
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="" tvg-name="MTV Rocks" tvg-logo="http://necro.to/images/channels/MTVRocks.png",MTV Rocks
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6258.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="motorvision.de" tvg-name="Motorvision FHD" tvg-logo="http://necro.to/images/channels/motorvision.png",Motorvision FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="motorvision.de" tvg-name="Motorvision FHD" tvg-logo="http://necro.to/images/channels/motorvision.png",Motorvision FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3118.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="motorvision.de" tvg-name="Motorvision" tvg-logo="http://necro.to/images/channels/motorvision.png",Motorvision
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="motorvision.de" tvg-name="Motorvision" tvg-logo="http://necro.to/images/channels/motorvision.png",Motorvision
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7147.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="ntv.de" tvg-name="N-TV FHD" tvg-logo="http://necro.to/images/channels/Ntvhd.png",N-TV FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="ntv.de" tvg-name="N-TV FHD" tvg-logo="http://necro.to/images/channels/Ntvhd.png",N-TV FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3310.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="ntv.de" tvg-name="N-TV HD" tvg-logo="http://necro.to/images/channels/Ntvhd.png",N-TV HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="ntv.de" tvg-name="N-TV HD" tvg-logo="http://necro.to/images/channels/Ntvhd.png",N-TV HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7146.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="n24doku.de" tvg-name="N24 Doku" tvg-logo="http://necro.to/images/channels/N24Doku.png",N24 Doku
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="n24doku.de" tvg-name="N24 Doku" tvg-logo="http://necro.to/images/channels/N24Doku.png",N24 Doku
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6280.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="natgeo.de" tvg-name="Nat Geo FHD" tvg-logo="http://necro.to/images/channels/NatGeochannelhd.png",Nat Geo FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="natgeo.de" tvg-name="Nat Geo FHD" tvg-logo="http://necro.to/images/channels/NatGeochannelhd.png",Nat Geo FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3122.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="natgeo.de" tvg-name="Nat Geo HD" tvg-logo="http://necro.to/images/channels/NatGeochannelhd.png",Nat Geo HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="natgeo.de" tvg-name="Nat Geo HD" tvg-logo="http://necro.to/images/channels/NatGeochannelhd.png",Nat Geo HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7145.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="natgeowild.de" tvg-name="Nat Geo Wild FHD" tvg-logo="http://necro.to/images/channels/NatGeoWildhd.png",Nat Geo Wild FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="natgeowild.de" tvg-name="Nat Geo Wild FHD" tvg-logo="http://necro.to/images/channels/NatGeoWildhd.png",Nat Geo Wild FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3123.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="natgeowild.de" tvg-name="Nat Geo Wild HD" tvg-logo="http://necro.to/images/channels/NatGeoWildhd.png",Nat Geo Wild HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="natgeowild.de" tvg-name="Nat Geo Wild HD" tvg-logo="http://necro.to/images/channels/NatGeoWildhd.png",Nat Geo Wild HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7144.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="ndr.de" tvg-name="NDR HD" tvg-logo="http://necro.to/images/channels/NDRhd.png",NDR HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="ndr.de" tvg-name="NDR HD" tvg-logo="http://necro.to/images/channels/NDRhd.png",NDR HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2880.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="nickelodeon.de" tvg-name="Nick FHD" tvg-logo="http://necro.to/images/channels/NickHD.png",Nick FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="nickelodeon.de" tvg-name="Nick FHD" tvg-logo="http://necro.to/images/channels/NickHD.png",Nick FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6962.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="nickelodeon.de" tvg-name="Nickelodeon HD" tvg-logo="http://necro.to/images/channels/Nickelodeon.png",Nickelodeon HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="nickelodeon.de" tvg-name="Nickelodeon HD" tvg-logo="http://necro.to/images/channels/Nickelodeon.png",Nickelodeon HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6257.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="one.de" tvg-name="One FHD" tvg-logo="http://necro.to/images/channels/OneTvhd.png",One FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="one.de" tvg-name="One FHD" tvg-logo="http://necro.to/images/channels/OneTvhd.png",One FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6256.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="one.de" tvg-name="One HD" tvg-logo="http://necro.to/images/channels/OneTvhd.png",One HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="one.de" tvg-name="One HD" tvg-logo="http://necro.to/images/channels/OneTvhd.png",One HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7143.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="" tvg-name="ORF 1 HD" tvg-logo="http://necro.to/images/channels/ORF1hd.png",ORF 1 HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="" tvg-name="ORF 1 HD" tvg-logo="http://necro.to/images/channels/ORF1hd.png",ORF 1 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3315.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="" tvg-name="ORF 2 HD" tvg-logo="http://necro.to/images/channels/ORF2hd.png",ORF 2 HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="" tvg-name="ORF 2 HD" tvg-logo="http://necro.to/images/channels/ORF2hd.png",ORF 2 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3314.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="" tvg-name="ORF Sport +HD" tvg-logo="http://necro.to/images/channels/ORFSport+hd.png",ORF Sport +HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="" tvg-name="ORF Sport +HD" tvg-logo="http://necro.to/images/channels/ORFSport+hd.png",ORF Sport +HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6375.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="phoenix.de" tvg-name="Phoenix HD" tvg-logo="http://necro.to/images/channels/Phoenix.png",Phoenix HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="phoenix.de" tvg-name="Phoenix HD" tvg-logo="http://necro.to/images/channels/Phoenix.png",Phoenix HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2879.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="planet.de" tvg-name="Planet HD" tvg-logo="http://necro.to/images/channels/Planethd.png",Planet HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="planet.de" tvg-name="Planet HD" tvg-logo="http://necro.to/images/channels/Planethd.png",Planet HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3117.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="prosiebenfun.de" tvg-name="Pro 7 Fun FHD" tvg-logo="http://necro.to/images/channels/Pro7Funhd.png",Pro 7 Fun FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="prosiebenfun.de" tvg-name="Pro 7 Fun FHD" tvg-logo="http://necro.to/images/channels/Pro7Funhd.png",Pro 7 Fun FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2894.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="pro7.de" tvg-name="Pro 7 FHD" tvg-logo="http://necro.to/images/channels/Pro7HD.png",Pro 7 FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="pro7.de" tvg-name="Pro 7 FHD" tvg-logo="http://necro.to/images/channels/Pro7HD.png",Pro 7 FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2896.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="pro7.de" tvg-name="Pro 7 HD" tvg-logo="http://necro.to/images/channels/Pro7HD.png",Pro 7 HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="pro7.de" tvg-name="Pro 7 HD" tvg-logo="http://necro.to/images/channels/Pro7HD.png",Pro 7 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7142.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="prosiebenmaxx.de" tvg-name="Pro 7 MAXX FHD" tvg-logo="http://necro.to/images/channels/Pro7MAXXhd.png",Pro 7 MAXX FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="prosiebenmaxx.de" tvg-name="Pro 7 MAXX FHD" tvg-logo="http://necro.to/images/channels/Pro7MAXXhd.png",Pro 7 MAXX FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2895.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="prosiebenmaxx.de" tvg-name="Pro 7 Maxx HD" tvg-logo="http://necro.to/images/channels/Pro7MAXXhd.png",Pro 7 Maxx HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="prosiebenmaxx.de" tvg-name="Pro 7 Maxx HD" tvg-logo="http://necro.to/images/channels/Pro7MAXXhd.png",Pro 7 Maxx HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7141.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="romance.de" tvg-name="Romance TV HD" tvg-logo="http://necro.to/images/channels/Romancetv.png",Romance TV HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="romance.de" tvg-name="Romance TV HD" tvg-logo="http://necro.to/images/channels/Romancetv.png",Romance TV HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3134.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="rtl.de" tvg-name="RTL FHD" tvg-logo="http://necro.to/images/channels/RTLhd.png",RTL FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="rtl.de" tvg-name="RTL FHD" tvg-logo="http://necro.to/images/channels/RTLhd.png",RTL FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2902.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="rtl.de" tvg-name="RTL HD" tvg-logo="http://necro.to/images/channels/RTLhd.png",RTL HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="rtl.de" tvg-name="RTL HD" tvg-logo="http://necro.to/images/channels/RTLhd.png",RTL HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7140.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="rtl2.de" tvg-name="RTL 2 FHD" tvg-logo="http://necro.to/images/channels/RTL2hd.png",RTL 2 FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="rtl2.de" tvg-name="RTL 2 FHD" tvg-logo="http://necro.to/images/channels/RTL2hd.png",RTL 2 FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2900.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="rtl2.de" tvg-name="RTL 2 HD" tvg-logo="http://necro.to/images/channels/RTL2hd.png",RTL 2 HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="rtl2.de" tvg-name="RTL 2 HD" tvg-logo="http://necro.to/images/channels/RTL2hd.png",RTL 2 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7139.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="rtlcrime.de" tvg-name="RTL Crime FHD" tvg-logo="http://necro.to/images/channels/RTLCrime.png",RTL Crime FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="rtlcrime.de" tvg-name="RTL Crime FHD" tvg-logo="http://necro.to/images/channels/RTLCrime.png",RTL Crime FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3136.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="rtlcrime.de" tvg-name="RTL Crime" tvg-logo="http://necro.to/images/channels/RTLCrime.png",RTL Crime
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="rtlcrime.de" tvg-name="RTL Crime" tvg-logo="http://necro.to/images/channels/RTLCrime.png",RTL Crime
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7138.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="rtlliving.de" tvg-name="RTL Living FHD" tvg-logo="http://necro.to/images/channels/RTLLiving.png",RTL Living FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="rtlliving.de" tvg-name="RTL Living FHD" tvg-logo="http://necro.to/images/channels/RTLLiving.png",RTL Living FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2898.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="rtlliving.de" tvg-name="RTL Living HD" tvg-logo="http://necro.to/images/channels/RTLLiving.png",RTL Living HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="rtlliving.de" tvg-name="RTL Living HD" tvg-logo="http://necro.to/images/channels/RTLLiving.png",RTL Living HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7137.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="rtlnitro.de" tvg-name="RTL Nitro FHD" tvg-logo="http://necro.to/images/channels/RTLNitrohd.png",RTL Nitro FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="rtlnitro.de" tvg-name="RTL Nitro FHD" tvg-logo="http://necro.to/images/channels/RTLNitrohd.png",RTL Nitro FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2899.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="rtlnitro.de" tvg-name="RTL Nitro HD" tvg-logo="http://necro.to/images/channels/RTLNitrohd.png",RTL Nitro HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="rtlnitro.de" tvg-name="RTL Nitro HD" tvg-logo="http://necro.to/images/channels/RTLNitrohd.png",RTL Nitro HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7136.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="rtlpassion.de" tvg-name="RTL Passion FHD" tvg-logo="http://necro.to/images/channels/RTLPassion.png",RTL Passion FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="rtlpassion.de" tvg-name="RTL Passion FHD" tvg-logo="http://necro.to/images/channels/RTLPassion.png",RTL Passion FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3135.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="rtlpassion.de" tvg-name="RTL Passion HD" tvg-logo="http://necro.to/images/channels/RTLPassion.png",RTL Passion HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="rtlpassion.de" tvg-name="RTL Passion HD" tvg-logo="http://necro.to/images/channels/RTLPassion.png",RTL Passion HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7135.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="rtlplus.de" tvg-name="RTL Plus" tvg-logo="http://necro.to/images/channels/RTLPlus.png",RTL Plus
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="rtlplus.de" tvg-name="RTL Plus" tvg-logo="http://necro.to/images/channels/RTLPlus.png",RTL Plus
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2901.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="sat1emotions.de" tvg-name="Sat1 Emotions" tvg-logo="http://necro.to/images/channels/Sat_1Emotions.png",Sat1 Emotions
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="sat1emotions.de" tvg-name="Sat1 Emotions" tvg-logo="http://necro.to/images/channels/Sat_1Emotions.png",Sat1 Emotions
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6255.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="sat1.de" tvg-name="Sat.1 FHD" tvg-logo="http://necro.to/images/channels/Sat_1hd.png",Sat.1 FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="sat1.de" tvg-name="Sat.1 FHD" tvg-logo="http://necro.to/images/channels/Sat_1hd.png",Sat.1 FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2893.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="sat1.de" tvg-name="Sat.1" tvg-logo="http://necro.to/images/channels/Sat_1hd.png",Sat.1
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="sat1.de" tvg-name="Sat.1" tvg-logo="http://necro.to/images/channels/Sat_1hd.png",Sat.1
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7134.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="sat1gold.de" tvg-name="Sat.1 Gold FHD" tvg-logo="http://necro.to/images/channels/Sat1_Goldhd.png",Sat.1 Gold FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="sat1gold.de" tvg-name="Sat.1 Gold FHD" tvg-logo="http://necro.to/images/channels/Sat1_Goldhd.png",Sat.1 Gold FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2891.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="sat1gold.de" tvg-name="Sat.1 Gold" tvg-logo="http://necro.to/images/channels/Sat1_Goldhd.png",Sat.1 Gold
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="sat1gold.de" tvg-name="Sat.1 Gold" tvg-logo="http://necro.to/images/channels/Sat1_Goldhd.png",Sat.1 Gold
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7133.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="sixx.de" tvg-name="Sixx FHD" tvg-logo="http://necro.to/images/channels/SixxHD.png",Sixx FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="sixx.de" tvg-name="Sixx FHD" tvg-logo="http://necro.to/images/channels/SixxHD.png",Sixx FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3147.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="sixx.de" tvg-name="Sixx HD" tvg-logo="http://necro.to/images/channels/SixxHD.png",Sixx HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="sixx.de" tvg-name="Sixx HD" tvg-logo="http://necro.to/images/channels/SixxHD.png",Sixx HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7132.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="sky1.de" tvg-name="Sky 1 HD" tvg-logo="http://necro.to/images/channels/Sky1HDGermany.png",Sky 1 HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="sky1.de" tvg-name="Sky 1 HD" tvg-logo="http://necro.to/images/channels/Sky1HDGermany.png",Sky 1 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3132.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skycinema.de" tvg-name="Sky Cinema FHD" tvg-logo="http://necro.to/images/channels/SkyCinemaGermany.png",Sky Cinema FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skycinema.de" tvg-name="Sky Cinema FHD" tvg-logo="http://necro.to/images/channels/SkyCinemaGermany.png",Sky Cinema FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3171.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skycinema.de" tvg-name="Sky Cinema HD" tvg-logo="http://necro.to/images/channels/SkyCinemaGermany.png",Sky Cinema HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skycinema.de" tvg-name="Sky Cinema HD" tvg-logo="http://necro.to/images/channels/SkyCinemaGermany.png",Sky Cinema HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7130.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skyarts.de" tvg-name="Sky Arts FHD" tvg-logo="http://necro.to/images/channels/SkyartsHDGermany.png",Sky Arts FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skyarts.de" tvg-name="Sky Arts FHD" tvg-logo="http://necro.to/images/channels/SkyartsHDGermany.png",Sky Arts FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3131.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skyarts.de" tvg-name="Sky Arts HD" tvg-logo="http://necro.to/images/channels/SkyartsHDGermany.png",Sky Arts HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skyarts.de" tvg-name="Sky Arts HD" tvg-logo="http://necro.to/images/channels/SkyartsHDGermany.png",Sky Arts HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7129.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skyatlantic.de" tvg-name="Sky Atlantic FHD" tvg-logo="http://necro.to/images/channels/SkyAtlanticHDGermany.png",Sky Atlantic FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skyatlantic.de" tvg-name="Sky Atlantic FHD" tvg-logo="http://necro.to/images/channels/SkyAtlanticHDGermany.png",Sky Atlantic FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3162.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skyatlantic.de" tvg-name="Sky Atlantic" tvg-logo="http://necro.to/images/channels/SkyAtlanticHDGermany.png",Sky Atlantic
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skyatlantic.de" tvg-name="Sky Atlantic" tvg-logo="http://necro.to/images/channels/SkyAtlanticHDGermany.png",Sky Atlantic
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7131.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skycinemaplus1.de" tvg-name="Sky Cinema +1 FHD" tvg-logo="http://necro.to/images/channels/SkyCinema+1Germany.png",Sky Cinema +1 FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skycinemaplus1.de" tvg-name="Sky Cinema +1 FHD" tvg-logo="http://necro.to/images/channels/SkyCinema+1Germany.png",Sky Cinema +1 FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3169.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skycinemaplus1.de" tvg-name="Sky Cinema +1 HD" tvg-logo="http://necro.to/images/channels/SkyCinema+1Germany.png",Sky Cinema +1 HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skycinemaplus1.de" tvg-name="Sky Cinema +1 HD" tvg-logo="http://necro.to/images/channels/SkyCinema+1Germany.png",Sky Cinema +1 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7128.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skycinemaplus24.de" tvg-name="Sky Cinema +24 FHD" tvg-logo="http://necro.to/images/channels/SkyCinema+24Germany.png",Sky Cinema +24 FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skycinemaplus24.de" tvg-name="Sky Cinema +24 FHD" tvg-logo="http://necro.to/images/channels/SkyCinema+24Germany.png",Sky Cinema +24 FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3167.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skycinemaplus24.de" tvg-name="Sky Cinema +24 HD" tvg-logo="http://necro.to/images/channels/SkyCinema+24Germany.png",Sky Cinema +24 HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skycinemaplus24.de" tvg-name="Sky Cinema +24 HD" tvg-logo="http://necro.to/images/channels/SkyCinema+24Germany.png",Sky Cinema +24 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7127.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skycinemaaction.de" tvg-name="Sky Cinema Action FHD" tvg-logo="http://necro.to/images/channels/SkyCinemaActionGermany.png",Sky Cinema Action FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skycinemaaction.de" tvg-name="Sky Cinema Action FHD" tvg-logo="http://necro.to/images/channels/SkyCinemaActionGermany.png",Sky Cinema Action FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3158.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skycinemaaction.de" tvg-name="Sky Cinema Action HD" tvg-logo="http://necro.to/images/channels/SkyCinemaActionGermany.png",Sky Cinema Action HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skycinemaaction.de" tvg-name="Sky Cinema Action HD" tvg-logo="http://necro.to/images/channels/SkyCinemaActionGermany.png",Sky Cinema Action HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7126.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skyfamily.de" tvg-name="Sky Cinema Family FHD" tvg-logo="http://necro.to/images/channels/SkyCinemaFamilyGermany.png",Sky Cinema Family FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skyfamily.de" tvg-name="Sky Cinema Family FHD" tvg-logo="http://necro.to/images/channels/SkyCinemaFamilyGermany.png",Sky Cinema Family FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3154.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skyfamily.de" tvg-name="Sky Cinema Family HD" tvg-logo="http://necro.to/images/channels/SkyCinemaFamilyGermany.png",Sky Cinema Family HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skyfamily.de" tvg-name="Sky Cinema Family HD" tvg-logo="http://necro.to/images/channels/SkyCinemaFamilyGermany.png",Sky Cinema Family HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7125.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skyhits.de" tvg-name="Sky Cinema Hits HD" tvg-logo="http://necro.to/images/channels/SkyCinemaHitsGermany.png",Sky Cinema Hits HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skyhits.de" tvg-name="Sky Cinema Hits HD" tvg-logo="http://necro.to/images/channels/SkyCinemaHitsGermany.png",Sky Cinema Hits HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3165.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skyhits.de" tvg-name="Sky Cinema Hits" tvg-logo="http://necro.to/images/channels/SkyCinemaHitsGermany.png",Sky Cinema Hits
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skyhits.de" tvg-name="Sky Cinema Hits" tvg-logo="http://necro.to/images/channels/SkyCinemaHitsGermany.png",Sky Cinema Hits
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7124.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skycomedy.de" tvg-name="Sky Cinema Comedy" tvg-logo="http://necro.to/images/channels/SkyCinemaComedyGermany.png",Sky Cinema Comedy
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skycomedy.de" tvg-name="Sky Cinema Comedy" tvg-logo="http://necro.to/images/channels/SkyCinemaComedyGermany.png",Sky Cinema Comedy
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3163.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skyemotion.de" tvg-name="Sky Cinema Emotion" tvg-logo="http://necro.to/images/channels/SkyCinemaEmotionGermany.png",Sky Cinema Emotion
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skyemotion.de" tvg-name="Sky Cinema Emotion" tvg-logo="http://necro.to/images/channels/SkyCinemaEmotionGermany.png",Sky Cinema Emotion
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3156.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="" tvg-name="Sky Cinema Luc Besson FHD" tvg-logo="http://necro.to/images/channels/SkyCinemaLucBesson.png",Sky Cinema Luc Besson FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="" tvg-name="Sky Cinema Luc Besson FHD" tvg-logo="http://necro.to/images/channels/SkyCinemaLucBesson.png",Sky Cinema Luc Besson FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7000.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skynostalgie.de" tvg-name="Sky Cinema Nostalgie" tvg-logo="http://necro.to/images/channels/SkyCinemaNostalgieGermany.png",Sky Cinema Nostalgie
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skynostalgie.de" tvg-name="Sky Cinema Nostalgie" tvg-logo="http://necro.to/images/channels/SkyCinemaNostalgieGermany.png",Sky Cinema Nostalgie
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3155.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skyselect1.de" tvg-name="Sky Select 1 HD" tvg-logo="http://necro.to/images/channels/SkySelect1.png",Sky Select 1 HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skyselect1.de" tvg-name="Sky Select 1 HD" tvg-logo="http://necro.to/images/channels/SkySelect1.png",Sky Select 1 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3107.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skyselect2.de" tvg-name="Sky Select 2 HD" tvg-logo="http://necro.to/images/channels/SkySelect2.png",Sky Select 2 HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skyselect2.de" tvg-name="Sky Select 2 HD" tvg-logo="http://necro.to/images/channels/SkySelect2.png",Sky Select 2 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3106.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skyselect3.de" tvg-name="Sky Select 3 HD" tvg-logo="http://necro.to/images/channels/SkySelect3.png",Sky Select 3 HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skyselect3.de" tvg-name="Sky Select 3 HD" tvg-logo="http://necro.to/images/channels/SkySelect3.png",Sky Select 3 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3105.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skyselect4.de" tvg-name="Sky Select 4 HD" tvg-logo="http://necro.to/images/channels/SkySelect4.png",Sky Select 4 HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skyselect4.de" tvg-name="Sky Select 4 HD" tvg-logo="http://necro.to/images/channels/SkySelect4.png",Sky Select 4 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3104.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skyselect5.de" tvg-name="Sky Select 5 HD" tvg-logo="http://necro.to/images/channels/SkySelect5.png",Sky Select 5 HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skyselect5.de" tvg-name="Sky Select 5 HD" tvg-logo="http://necro.to/images/channels/SkySelect5.png",Sky Select 5 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3103.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skyselect6.de" tvg-name="Sky Select 6 HD" tvg-logo="http://necro.to/images/channels/SkySelect6.png",Sky Select 6 HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skyselect6.de" tvg-name="Sky Select 6 HD" tvg-logo="http://necro.to/images/channels/SkySelect6.png",Sky Select 6 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3102.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skyselect7.de" tvg-name="Sky Select 7 HD" tvg-logo="http://necro.to/images/channels/SkySelect7.png",Sky Select 7 HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skyselect7.de" tvg-name="Sky Select 7 HD" tvg-logo="http://necro.to/images/channels/SkySelect7.png",Sky Select 7 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3101.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skyselect8.de" tvg-name="Sky Select 8 HD" tvg-logo="http://necro.to/images/channels/SkySelect8.png",Sky Select 8 HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skyselect8.de" tvg-name="Sky Select 8 HD" tvg-logo="http://necro.to/images/channels/SkySelect8.png",Sky Select 8 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3100.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skykrimi.de" tvg-name="Sky Krimi" tvg-logo="http://necro.to/images/channels/SkyKrimi.png",Sky Krimi
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skykrimi.de" tvg-name="Sky Krimi" tvg-logo="http://necro.to/images/channels/SkyKrimi.png",Sky Krimi
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3144.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysport1.de" tvg-name="Sky Sport 1 FHD" tvg-logo="http://necro.to/images/channels/Skysporthd1.png",Sky Sport 1 FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysport1.de" tvg-name="Sky Sport 1 FHD" tvg-logo="http://necro.to/images/channels/Skysporthd1.png",Sky Sport 1 FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3084.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysport1.de" tvg-name="Sky Sport 1 HD" tvg-logo="http://necro.to/images/channels/Skysporthd1.png",Sky Sport 1 HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysport1.de" tvg-name="Sky Sport 1 HD" tvg-logo="http://necro.to/images/channels/Skysporthd1.png",Sky Sport 1 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6996.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysport2.de" tvg-name="Sky Sport 2 FHD" tvg-logo="http://necro.to/images/channels/Skysporthd2.png",Sky Sport 2 FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysport2.de" tvg-name="Sky Sport 2 FHD" tvg-logo="http://necro.to/images/channels/Skysporthd2.png",Sky Sport 2 FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3082.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysport2.de" tvg-name="Sky Sport 2 HD" tvg-logo="http://necro.to/images/channels/Skysporthd2.png",Sky Sport 2 HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysport2.de" tvg-name="Sky Sport 2 HD" tvg-logo="http://necro.to/images/channels/Skysporthd2.png",Sky Sport 2 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6995.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysport3.de" tvg-name="Sky Sport 3 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd3.png",Sky Sport 3 FHD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysport3.de" tvg-name="Sky Sport 3 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd3.png",Sky Sport 3 FHD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3080.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysport3.de" tvg-name="Sky Sport 3 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd3.png",Sky Sport 3 HD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysport3.de" tvg-name="Sky Sport 3 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd3.png",Sky Sport 3 HD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6994.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysport4.de" tvg-name="Sky Sport 4 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd4.png",Sky Sport 4 FHD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysport4.de" tvg-name="Sky Sport 4 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd4.png",Sky Sport 4 FHD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3078.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysport4.de" tvg-name="Sky Sport 4 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd4.png",Sky Sport 4 HD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysport4.de" tvg-name="Sky Sport 4 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd4.png",Sky Sport 4 HD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6993.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysport5.de" tvg-name="Sky Sport 5 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd5.png",Sky Sport 5 FHD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysport5.de" tvg-name="Sky Sport 5 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd5.png",Sky Sport 5 FHD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3076.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysport5.de" tvg-name="Sky Sport 5 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd5.png",Sky Sport 5 HD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysport5.de" tvg-name="Sky Sport 5 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd5.png",Sky Sport 5 HD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6992.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysport6.de" tvg-name="Sky Sport 6 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd6.png",Sky Sport 6 FHD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysport6.de" tvg-name="Sky Sport 6 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd6.png",Sky Sport 6 FHD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3074.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysport6.de" tvg-name="Sky Sport 6 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd6.png",Sky Sport 6 HD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysport6.de" tvg-name="Sky Sport 6 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd6.png",Sky Sport 6 HD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6991.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysport7.de" tvg-name="Sky Sport 7 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd7.png",Sky Sport 7 FHD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysport7.de" tvg-name="Sky Sport 7 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd7.png",Sky Sport 7 FHD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3072.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysport7.de" tvg-name="Sky Sport 7 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd7.png",Sky Sport 7 HD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysport7.de" tvg-name="Sky Sport 7 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd7.png",Sky Sport 7 HD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6990.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysport8.de" tvg-name="Sky Sport 8 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd8.png",Sky Sport 8 FHD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysport8.de" tvg-name="Sky Sport 8 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd8.png",Sky Sport 8 FHD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3070.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysport8.de" tvg-name="Sky Sport 8 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd8.png",Sky Sport 8 HD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysport8.de" tvg-name="Sky Sport 8 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd8.png",Sky Sport 8 HD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6989.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysport9.de" tvg-name="Sky Sport 9 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd9.png",Sky Sport 9 FHD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysport9.de" tvg-name="Sky Sport 9 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd9.png",Sky Sport 9 FHD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3068.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysport9.de" tvg-name="Sky Sport 9 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd9.png",Sky Sport 9 HD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysport9.de" tvg-name="Sky Sport 9 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd9.png",Sky Sport 9 HD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6988.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysport10.de" tvg-name="Sky Sport 10 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd10.png",Sky Sport 10 FHD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysport10.de" tvg-name="Sky Sport 10 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd10.png",Sky Sport 10 FHD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3066.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysport10.de" tvg-name="Sky Sport 10 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd10.png",Sky Sport 10 HD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysport10.de" tvg-name="Sky Sport 10 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd10.png",Sky Sport 10 HD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6987.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysport11.de" tvg-name="Sky Sport 11 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd11.png",Sky Sport 11 FHD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysport11.de" tvg-name="Sky Sport 11 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd11.png",Sky Sport 11 FHD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3064.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysport11.de" tvg-name="Sky Sport 11 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd11.png",Sky Sport 11 HD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysport11.de" tvg-name="Sky Sport 11 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skysporthd11.png",Sky Sport 11 HD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6986.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="" tvg-name="Sky Sport Austria FHD" tvg-logo="http://necro.to/images/channels/SkysporthdAustria.png",Sky Sport Austria FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="" tvg-name="Sky Sport Austria FHD" tvg-logo="http://necro.to/images/channels/SkysporthdAustria.png",Sky Sport Austria FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3041.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 FHD" tvg-logo="http://necro.to/images/channels/Skybundesligahd1.png",Sky Sport Bundesliga 1 FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 FHD" tvg-logo="http://necro.to/images/channels/Skybundesligahd1.png",Sky Sport Bundesliga 1 FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3061.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo="http://necro.to/images/channels/Skybundesligahd1.png",Sky Sport Bundesliga 1 HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo="http://necro.to/images/channels/Skybundesligahd1.png",Sky Sport Bundesliga 1 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6985.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skybundesliga2.de" tvg-name="Sky Sport Bundesliga 2 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd2.png",Sky Sport Bundesliga 2 FHD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skybundesliga2.de" tvg-name="Sky Sport Bundesliga 2 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd2.png",Sky Sport Bundesliga 2 FHD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3059.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skybundesliga2.de" tvg-name="Sky Sport Bundesliga 2 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd2.png",Sky Sport Bundesliga 2 HD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skybundesliga2.de" tvg-name="Sky Sport Bundesliga 2 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd2.png",Sky Sport Bundesliga 2 HD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6984.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skybundesliga3.de" tvg-name="Sky Sport Bundesliga 3 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd3.png",Sky Sport Bundesliga 3 FHD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skybundesliga3.de" tvg-name="Sky Sport Bundesliga 3 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd3.png",Sky Sport Bundesliga 3 FHD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3057.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skybundesliga3.de" tvg-name="Sky Sport Bundesliga 3 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd3.png",Sky Sport Bundesliga 3 HD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skybundesliga3.de" tvg-name="Sky Sport Bundesliga 3 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd3.png",Sky Sport Bundesliga 3 HD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6983.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skybundesliga4.de" tvg-name="Sky Sport Bundesliga 4 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd4.png",Sky Sport Bundesliga 4 FHD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skybundesliga4.de" tvg-name="Sky Sport Bundesliga 4 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd4.png",Sky Sport Bundesliga 4 FHD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3055.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skybundesliga4.de" tvg-name="Sky Sport Bundesliga 4 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd4.png",Sky Sport Bundesliga 4 HD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skybundesliga4.de" tvg-name="Sky Sport Bundesliga 4 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd4.png",Sky Sport Bundesliga 4 HD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6982.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skybundesliga5.de" tvg-name="Sky Sport Bundesliga 5 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd5.png",Sky Sport Bundesliga 5 FHD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skybundesliga5.de" tvg-name="Sky Sport Bundesliga 5 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd5.png",Sky Sport Bundesliga 5 FHD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3053.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skybundesliga5.de" tvg-name="Sky Sport Bundesliga 5 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd5.png",Sky Sport Bundesliga 5 HD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skybundesliga5.de" tvg-name="Sky Sport Bundesliga 5 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd5.png",Sky Sport Bundesliga 5 HD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6981.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skybundesliga6.de" tvg-name="Sky Sport Bundesliga 6 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd6.png",Sky Sport Bundesliga 6 FHD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skybundesliga6.de" tvg-name="Sky Sport Bundesliga 6 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd6.png",Sky Sport Bundesliga 6 FHD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3051.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skybundesliga6.de" tvg-name="Sky Sport Bundesliga 6 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd6.png",Sky Sport Bundesliga 6 HD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skybundesliga6.de" tvg-name="Sky Sport Bundesliga 6 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd6.png",Sky Sport Bundesliga 6 HD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6980.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skybundesliga7.de" tvg-name="Sky Sport Bundesliga 7 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd7.png",Sky Sport Bundesliga 7 FHD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skybundesliga7.de" tvg-name="Sky Sport Bundesliga 7 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd7.png",Sky Sport Bundesliga 7 FHD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3049.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skybundesliga7.de" tvg-name="Sky Sport Bundesliga 7 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd7.png",Sky Sport Bundesliga 7 HD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skybundesliga7.de" tvg-name="Sky Sport Bundesliga 7 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd7.png",Sky Sport Bundesliga 7 HD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6979.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skybundesliga8.de" tvg-name="Sky Sport Bundesliga 8 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd8.png",Sky Sport Bundesliga 8 FHD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skybundesliga8.de" tvg-name="Sky Sport Bundesliga 8 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd8.png",Sky Sport Bundesliga 8 FHD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3047.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skybundesliga8.de" tvg-name="Sky Sport Bundesliga 8 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd8.png",Sky Sport Bundesliga 8 HD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skybundesliga8.de" tvg-name="Sky Sport Bundesliga 8 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd8.png",Sky Sport Bundesliga 8 HD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6978.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skybundesliga9.de" tvg-name="Sky Sport Bundesliga 9 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd9.png",Sky Sport Bundesliga 9 FHD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skybundesliga9.de" tvg-name="Sky Sport Bundesliga 9 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd9.png",Sky Sport Bundesliga 9 FHD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3045.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skybundesliga9.de" tvg-name="Sky Sport Bundesliga 9 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd9.png",Sky Sport Bundesliga 9 HD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skybundesliga9.de" tvg-name="Sky Sport Bundesliga 9 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd9.png",Sky Sport Bundesliga 9 HD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6977.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skybundesliga10.de" tvg-name="Sky Sport Bundesliga 10 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd10.png",Sky Sport Bundesliga 10 FHD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skybundesliga10.de" tvg-name="Sky Sport Bundesliga 10 FHD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd10.png",Sky Sport Bundesliga 10 FHD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3043.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skybundesliga10.de" tvg-name="Sky Sport Bundesliga 10 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd10.png",Sky Sport Bundesliga 10 HD (Live During Events Only)
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skybundesliga10.de" tvg-name="Sky Sport Bundesliga 10 HD (Live During Events Only)" tvg-logo="http://necro.to/images/channels/Skybundesligahd10.png",Sky Sport Bundesliga 10 HD (Live During Events Only)
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6976.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysportnews.de" tvg-name="Sky Sport News FHD" tvg-logo="http://necro.to/images/channels/Skysportnewshd.png",Sky Sport News FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysportnews.de" tvg-name="Sky Sport News FHD" tvg-logo="http://necro.to/images/channels/Skysportnewshd.png",Sky Sport News FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3086.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="skysportnews.de" tvg-name="Sky Sport News HD" tvg-logo="http://necro.to/images/channels/Skysportnewshd.png",Sky Sport News HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="skysportnews.de" tvg-name="Sky Sport News HD" tvg-logo="http://necro.to/images/channels/Skysportnewshd.png",Sky Sport News HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6975.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="sonyentertainmenttv.de" tvg-name="Sony Entertainment HD" tvg-logo="http://necro.to/images/channels/SonyChannel.png",Sony Entertainment HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="sonyentertainmenttv.de" tvg-name="Sony Entertainment HD" tvg-logo="http://necro.to/images/channels/SonyChannel.png",Sony Entertainment HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3138.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="sonnenklar.de" tvg-name="SonnenKlar. TV FHD" tvg-logo="http://necro.to/images/channels/SonnenklarTV.png",SonnenKlar. TV FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="sonnenklar.de" tvg-name="SonnenKlar. TV FHD" tvg-logo="http://necro.to/images/channels/SonnenklarTV.png",SonnenKlar. TV FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6250.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="" tvg-name="Sophia TV" tvg-logo="http://necro.to/images/channels/sophiatv.png",Sophia TV
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="" tvg-name="Sophia TV" tvg-logo="http://necro.to/images/channels/sophiatv.png",Sophia TV
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6974.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="spiegelgeschichte.de" tvg-name="Spiegel Geschichte FHD" tvg-logo="http://necro.to/images/channels/Spiegelgeschichtehd.png",Spiegel Geschichte FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="spiegelgeschichte.de" tvg-name="Spiegel Geschichte FHD" tvg-logo="http://necro.to/images/channels/Spiegelgeschichtehd.png",Spiegel Geschichte FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3127.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="spiegelgeschichte.de" tvg-name="Spiegel Geschichte" tvg-logo="http://necro.to/images/channels/Spiegelgeschichtehd.png",Spiegel Geschichte
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="spiegelgeschichte.de" tvg-name="Spiegel Geschichte" tvg-logo="http://necro.to/images/channels/Spiegelgeschichtehd.png",Spiegel Geschichte
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7123.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="spiegeltvwissen.de" tvg-name="Spiegel TV Wissen HD" tvg-logo="http://necro.to/images/channels/SpiegelTVWissenHD.png",Spiegel TV Wissen HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="spiegeltvwissen.de" tvg-name="Spiegel TV Wissen HD" tvg-logo="http://necro.to/images/channels/SpiegelTVWissenHD.png",Spiegel TV Wissen HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3126.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="sportdigital.de" tvg-name="SportDigital FHD" tvg-logo="http://necro.to/images/channels/Sportdigital.png",SportDigital FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="sportdigital.de" tvg-name="SportDigital FHD" tvg-logo="http://necro.to/images/channels/Sportdigital.png",SportDigital FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3039.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="sportdigital.de" tvg-name="Sportdigital HD" tvg-logo="http://necro.to/images/channels/Sportdigital.png",Sportdigital HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="sportdigital.de" tvg-name="Sportdigital HD" tvg-logo="http://necro.to/images/channels/Sportdigital.png",Sportdigital HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7122.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="sport1us.de" tvg-name="Sport 1 US FHD" tvg-logo="http://necro.to/images/channels/Sport1USHD.png",Sport 1 US FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="sport1us.de" tvg-name="Sport 1 US FHD" tvg-logo="http://necro.to/images/channels/Sport1USHD.png",Sport 1 US FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3040.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="sport1.de" tvg-name="Sport 1 FHD" tvg-logo="http://necro.to/images/channels/Sport1hd.png",Sport 1 FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="sport1.de" tvg-name="Sport 1 FHD" tvg-logo="http://necro.to/images/channels/Sport1hd.png",Sport 1 FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3038.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="sport1.de" tvg-name="Sport 1 HD" tvg-logo="http://necro.to/images/channels/Sport1hd.png",Sport 1 HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="sport1.de" tvg-name="Sport 1 HD" tvg-logo="http://necro.to/images/channels/Sport1hd.png",Sport 1 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7121.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="sport1plus.de" tvg-name="Sport1+ FHD" tvg-logo="http://necro.to/images/channels/Sport1plushd.png",Sport1+ FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="sport1plus.de" tvg-name="Sport1+ FHD" tvg-logo="http://necro.to/images/channels/Sport1plushd.png",Sport1+ FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3037.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="sport1plus.de" tvg-name="Sport1+  HD" tvg-logo="http://necro.to/images/channels/Sport1plushd.png",Sport1+  HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="sport1plus.de" tvg-name="Sport1+  HD" tvg-logo="http://necro.to/images/channels/Sport1plushd.png",Sport1+  HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7120.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="superrtl.de" tvg-name="Super RTL FHD" tvg-logo="http://necro.to/images/channels/SuperRTLHD.png",Super RTL FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="superrtl.de" tvg-name="Super RTL FHD" tvg-logo="http://necro.to/images/channels/SuperRTLHD.png",Super RTL FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2897.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="superrtl.de" tvg-name="Super RTL HD" tvg-logo="http://necro.to/images/channels/SuperRTLHD.png",Super RTL HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="superrtl.de" tvg-name="Super RTL HD" tvg-logo="http://necro.to/images/channels/SuperRTLHD.png",Super RTL HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7119.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="swrsr.de" tvg-name="SWR BW FHD" tvg-logo="http://necro.to/images/channels/SWRhd.png",SWR BW FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="swrsr.de" tvg-name="SWR BW FHD" tvg-logo="http://necro.to/images/channels/SWRhd.png",SWR BW FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6254.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="swrsr.de" tvg-name="SWR HD" tvg-logo="http://necro.to/images/channels/SWRhd.png",SWR HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="swrsr.de" tvg-name="SWR HD" tvg-logo="http://necro.to/images/channels/SWRhd.png",SWR HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7118.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="syfy.de" tvg-name="Syfy FHD" tvg-logo="http://necro.to/images/channels/Syfyhd.png",Syfy FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="syfy.de" tvg-name="Syfy FHD" tvg-logo="http://necro.to/images/channels/Syfyhd.png",Syfy FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3149.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="tagesschau24.de" tvg-name="Tagesschau24 FHD" tvg-logo="http://necro.to/images/channels/Tagesschau24HD.png",Tagesschau24 FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="tagesschau24.de" tvg-name="Tagesschau24 FHD" tvg-logo="http://necro.to/images/channels/Tagesschau24HD.png",Tagesschau24 FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2884.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="tagesschau24.de" tvg-name="Tagesschau24" tvg-logo="http://necro.to/images/channels/Tagesschau24HD.png",Tagesschau24
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="tagesschau24.de" tvg-name="Tagesschau24" tvg-logo="http://necro.to/images/channels/Tagesschau24HD.png",Tagesschau24
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7117.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="tele5.de" tvg-name="Tele 5 HD" tvg-logo="http://necro.to/images/channels/Tele5hd.png",Tele 5 HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="tele5.de" tvg-name="Tele 5 HD" tvg-logo="http://necro.to/images/channels/Tele5hd.png",Tele 5 HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3140.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="tlc.de" tvg-name="TLC FHD" tvg-logo="http://necro.to/images/channels/TLChd.png",TLC FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="tlc.de" tvg-name="TLC FHD" tvg-logo="http://necro.to/images/channels/TLChd.png",TLC FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6273.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="tntcomedy.de" tvg-name="TNT Comedy FHD" tvg-logo="http://necro.to/images/channels/TNTComedyhd.png",TNT Comedy FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="tntcomedy.de" tvg-name="TNT Comedy FHD" tvg-logo="http://necro.to/images/channels/TNTComedyhd.png",TNT Comedy FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3141.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="tntcomedy.de" tvg-name="TNT Comedy HD" tvg-logo="http://necro.to/images/channels/TNTComedyhd.png",TNT Comedy HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="tntcomedy.de" tvg-name="TNT Comedy HD" tvg-logo="http://necro.to/images/channels/TNTComedyhd.png",TNT Comedy HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7116.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="tntfilm.de" tvg-name="TNT Film FHD" tvg-logo="http://necro.to/images/channels/TNTFilmhd.png",TNT Film FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="tntfilm.de" tvg-name="TNT Film FHD" tvg-logo="http://necro.to/images/channels/TNTFilmhd.png",TNT Film FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3143.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="tntfilm.de" tvg-name="TNT Film HD" tvg-logo="http://necro.to/images/channels/TNTFilmhd.png",TNT Film HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="tntfilm.de" tvg-name="TNT Film HD" tvg-logo="http://necro.to/images/channels/TNTFilmhd.png",TNT Film HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7115.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="tntserie.de" tvg-name="TNT Serie FHD" tvg-logo="http://necro.to/images/channels/TNTSeriehd.png",TNT Serie FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="tntserie.de" tvg-name="TNT Serie FHD" tvg-logo="http://necro.to/images/channels/TNTSeriehd.png",TNT Serie FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3142.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="tntserie.de" tvg-name="TNT Serie HD" tvg-logo="http://necro.to/images/channels/TNTSeriehd.png",TNT Serie HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="tntserie.de" tvg-name="TNT Serie HD" tvg-logo="http://necro.to/images/channels/TNTSeriehd.png",TNT Serie HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7114.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="toggoplus.de" tvg-name="Toggo Plus" tvg-logo="http://necro.to/images/channels/Toggoplus.png",Toggo Plus
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="toggoplus.de" tvg-name="Toggo Plus" tvg-logo="http://necro.to/images/channels/Toggoplus.png",Toggo Plus
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3110.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="universal.de" tvg-name="Universal Channel FHD" tvg-logo="http://necro.to/images/channels/Universalchannelhd.png",Universal Channel FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="universal.de" tvg-name="Universal Channel FHD" tvg-logo="http://necro.to/images/channels/Universalchannelhd.png",Universal Channel FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3139.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="universal.de" tvg-name="Universal Channel HD" tvg-logo="http://necro.to/images/channels/Universalchannelhd.png",Universal Channel HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="universal.de" tvg-name="Universal Channel HD" tvg-logo="http://necro.to/images/channels/Universalchannelhd.png",Universal Channel HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7113.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="viva.de" tvg-name="Viva / Comedy Central" tvg-logo="http://necro.to/images/channels/viva-comedy-central.png",Viva / Comedy Central
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="viva.de" tvg-name="Viva / Comedy Central" tvg-logo="http://necro.to/images/channels/viva-comedy-central.png",Viva / Comedy Central
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3108.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="vox.de" tvg-name="VOX FHD" tvg-logo="http://necro.to/images/channels/VOXhd.png",VOX FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="vox.de" tvg-name="VOX FHD" tvg-logo="http://necro.to/images/channels/VOXhd.png",VOX FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2892.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="vox.de" tvg-name="VOX  HD" tvg-logo="http://necro.to/images/channels/VOXhd.png",VOX  HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="vox.de" tvg-name="VOX  HD" tvg-logo="http://necro.to/images/channels/VOXhd.png",VOX  HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7112.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="welt.de" tvg-name="Welt FHD" tvg-logo="http://necro.to/images/channels/Welthd.png",Welt FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="welt.de" tvg-name="Welt FHD" tvg-logo="http://necro.to/images/channels/Welthd.png",Welt FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2885.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="welt.de" tvg-name="Welt" tvg-logo="http://necro.to/images/channels/Welthd.png",Welt
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="welt.de" tvg-name="Welt" tvg-logo="http://necro.to/images/channels/Welthd.png",Welt
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7111.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="zdf.de" tvg-name="ZDF FHD" tvg-logo="http://necro.to/images/channels/ZDFhd.png",ZDF FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="zdf.de" tvg-name="ZDF FHD" tvg-logo="http://necro.to/images/channels/ZDFhd.png",ZDF FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2903.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="zdf.de" tvg-name="ZDF HD" tvg-logo="http://necro.to/images/channels/ZDFhd.png",ZDF HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="zdf.de" tvg-name="ZDF HD" tvg-logo="http://necro.to/images/channels/ZDFhd.png",ZDF HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7110.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="zdfinfo.de" tvg-name="ZDF Info FHD" tvg-logo="http://necro.to/images/channels/ZDFinfohd.png",ZDF Info FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="zdfinfo.de" tvg-name="ZDF Info FHD" tvg-logo="http://necro.to/images/channels/ZDFinfohd.png",ZDF Info FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/2881.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="zdfinfo.de" tvg-name="ZDF Info HD" tvg-logo="http://necro.to/images/channels/ZDFinfohd.png",ZDF Info HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="zdfinfo.de" tvg-name="ZDF Info HD" tvg-logo="http://necro.to/images/channels/ZDFinfohd.png",ZDF Info HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7109.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="zdfneo.de" tvg-name="ZDF Neo FHD" tvg-logo="http://necro.to/images/channels/Zdfneohd.png",ZDF Neo FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="zdfneo.de" tvg-name="ZDF Neo FHD" tvg-logo="http://necro.to/images/channels/Zdfneohd.png",ZDF Neo FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/6252.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="zdfneo.de" tvg-name="ZDF Neo HD" tvg-logo="http://necro.to/images/channels/Zdfneohd.png",ZDF Neo HD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="zdfneo.de" tvg-name="ZDF Neo HD" tvg-logo="http://necro.to/images/channels/Zdfneohd.png",ZDF Neo HD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7108.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="zeeone.de" tvg-name="Zee One FHD" tvg-logo="http://necro.to/images/channels/Zeeone.png",Zee One FHD
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="zeeone.de" tvg-name="Zee One FHD" tvg-logo="http://necro.to/images/channels/Zeeone.png",Zee One FHD
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/3129.ts
-#EXTINF:-1 group-title="Germany2-PREMIUM", tvg-id="zeeone.de" tvg-name="Zee One" tvg-logo="http://necro.to/images/channels/Zeeone.png",Zee One
+#EXTINF:-1 group-title="Germany2-PREMIUM" tvg-id="zeeone.de" tvg-name="Zee One" tvg-logo="http://necro.to/images/channels/Zeeone.png",Zee One
 http://necro.to:80/live/mojmimasja@hotmail.com/Msp3gS05w7/7107.ts
+
 
 
 
@@ -7815,106 +7760,299 @@ https://www.youtube.com/watch?v=7sIsiHbDi_0
 #EXTINF:-1 group-title="Portugal4"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
 http://.....
 
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" ,TVI 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4088.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png" ,CM TV 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4352.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBO.png" ,GLOBO 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4091.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICMULHER.png" ,SIC MULHER 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4107.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/24KITCHEN.png" ,24 KITCHEN HD 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/21734.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" ,SPORT TV 4 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4101.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" ,BENFICA TV HD 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4133.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png" ,SPORTING TV 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4099.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORVISION.png" ,MOTORVISION TV 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4121.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png" ,DISNEY CHANNEL 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/21739.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png" ,CARTOON NETWORK 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4151.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKJR.png" ,NICK JR 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/21742.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png" ,NICKELODEON 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4118.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALPANDA.png" ,PANDA 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4130.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PANDABIGGS.png" ,PANDA BIGGS 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4116.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICK.png" ,SIC K 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4108.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/JIMJAM.png" ,JIMJAM 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/21741.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICK.png" ,SIC K 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4108.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIFICCAO.png" ,TVI FICCAO 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4086.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIREALITY.png" ,TVI REALITY 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4085.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png" ,TVCINE 2 HD 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4094.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3.png" ,TVCINE 3 HD 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4093.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png" ,HOLLYWOOD HD 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4122.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CINEMUNDO.png" ,CINEMUNDO 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4127.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXMOVIES.png" ,FOX MOVIES 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4124.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png" ,FOX HD 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/21736.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png" ,FOX LIFE HD 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4081.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCRIME.png" ,FOX CRIME HD 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4082.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCOMEDY.png" ,FOX COMEDY 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4150.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png" ,AXN WHITE HD 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4083.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNBLACK.png" ,AXN BLACK HD 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4135.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" ,SYFY 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4098.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MCM.png" ,MCM POP 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/21743.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AFROMUSIC.png" ,AFRO MUSIC 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4138.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png" ,DISCOVERY 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4126.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOHD.png" ,NATIONAL GEOGRAPHIC HD 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/21737.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png" ,NATIONAL GEOGRAPHIC WILD 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4149.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORIA.png" ,HISTORIA 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4123.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ODISSEIA.png" ,ODISSEIA 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4117.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/A&E.png" ,A&E 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4140.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TLC.png" ,TLC 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4097.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="http://i.imgur.com/5u1u9oO.png?1" ,MTV PORTUGAL 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4119.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="http://i.imgur.com/6agMcKm.png" ,MTV BASE 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/16589.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/MTV_Dance_2017_logo.svg/1200px-MTV_Dance_2017_logo.svg.png" ,MTV DANCE 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/16590.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/MTV_Hits_2017_logo.svg/1024px-MTV_Hits_2017_logo.svg.png" ,MTV HITS 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/16591.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" ,MTV ROCKS 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/16593.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSREALITY.png" ,CBS REALITY 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4128.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBOPREMIUM .png" ,GLOBO PREMIUM 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4147.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="http://bit.ly/2lsP3Gh" ,TV RECORD 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4080.m3u8
-#EXTINF:-1 group-title="Portugal4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVEi.png" ,TVEi 
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4089.m3u8
+
+#EXTINF:-1 group-title="Portugal4",RTP 1
+http://193.70.44.176:8080/live/Afonso/AFONSO/1.m3u8
+#EXTINF:-1 group-title="Portugal4",RTP 2
+http://193.70.44.176:8080/live/Afonso/AFONSO/2.m3u8
+#EXTINF:-1 group-title="Portugal4",SIC
+http://193.70.44.176:8080/live/Afonso/AFONSO/3.m3u8
+#EXTINF:-1 group-title="Portugal4",TVI
+http://193.70.44.176:8080/live/Afonso/AFONSO/4.m3u8
+#EXTINF:-1 group-title="Portugal4",SIC NOTICIAS HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/5.m3u8
+#EXTINF:-1 group-title="Portugal4",TVI 24
+http://193.70.44.176:8080/live/Afonso/AFONSO/6.m3u8
+#EXTINF:-1 group-title="Portugal4",RTP 3
+http://193.70.44.176:8080/live/Afonso/AFONSO/87.m3u8
+#EXTINF:-1 group-title="Portugal4",RTP INTERNACIONAL
+http://193.70.44.176:8080/live/Afonso/AFONSO/1466.m3u8
+#EXTINF:-1 group-title="Portugal4",CMTV HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/10.m3u8
+#EXTINF:-1 group-title="Portugal4",PORTO CANAL HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/12.m3u8
+#EXTINF:-1 group-title="Portugal4",SIC RADICAL HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/9.m3u8
+#EXTINF:-1 group-title="Portugal4",SIC MULHER HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/7.m3u8
+#EXTINF:-1 group-title="Portugal4",SIC CARAS HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/8.m3u8
+#EXTINF:-1 group-title="Portugal4",TVI REALTY
+http://193.70.44.176:8080/live/Afonso/AFONSO/397.m3u8
+#EXTINF:-1 group-title="Portugal4",TVI REALTY MOSAICO
+http://193.70.44.176:8080/live/Afonso/AFONSO/1461.m3u8
+#EXTINF:-1 group-title="Portugal4",TVI REALTY CAMERA 1
+http://193.70.44.176:8080/live/Afonso/AFONSO/1465.m3u8
+#EXTINF:-1 group-title="Portugal4",TVI REALTY CAMERA 2
+http://193.70.44.176:8080/live/Afonso/AFONSO/1464.m3u8
+#EXTINF:-1 group-title="Portugal4",TVI REALTY CAMERA 3
+http://193.70.44.176:8080/live/Afonso/AFONSO/1463.m3u8
+#EXTINF:-1 group-title="Portugal4",TVI REALTY CAMERA 4
+http://193.70.44.176:8080/live/Afonso/AFONSO/1462.m3u8
+#EXTINF:-1 group-title="Portugal4",TVI FICCAO
+http://193.70.44.176:8080/live/Afonso/AFONSO/88.m3u8
+#EXTINF:-1 group-title="Portugal4",RTP AFRICA
+http://193.70.44.176:8080/live/Afonso/AFONSO/220.m3u8
+#EXTINF:-1 group-title="Portugal4",RTP MEMORIA
+http://193.70.44.176:8080/live/Afonso/AFONSO/682.m3u8
+#EXTINF:-1 group-title="Portugal4",RTP Madeira
+http://193.70.44.176:8080/live/Afonso/AFONSO/287.m3u8
+#EXTINF:-1 group-title="Portugal4",RTP Açores
+http://193.70.44.176:8080/live/Afonso/AFONSO/289.m3u8
+#EXTINF:-1 group-title="Portugal4",GLOBO
+http://193.70.44.176:8080/live/Afonso/AFONSO/216.m3u8
+#EXTINF:-1 group-title="Portugal4",GLOBO PREMIUM
+http://193.70.44.176:8080/live/Afonso/AFONSO/215.m3u8
+#EXTINF:-1 group-title="Portugal4",TV RECORD HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/13.m3u8
+#EXTINF:-1 group-title="Portugal4",RECORD NEWS
+http://193.70.44.176:8080/live/Afonso/AFONSO/940.m3u8
+#EXTINF:-1 group-title="Portugal4",CANAL Q
+http://193.70.44.176:8080/live/Afonso/AFONSO/11.m3u8
+#EXTINF:-1 group-title="Portugal4",A BOLA TV
+http://193.70.44.176:8080/live/Afonso/AFONSO/22.m3u8
+#EXTINF:-1 group-title="Portugal4",SPORTV +
+http://193.70.44.176:8080/live/Afonso/AFONSO/1109.m3u8
+#EXTINF:-1 group-title="Portugal4",SPORTV 1 HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/14.m3u8
+#EXTINF:-1 group-title="Portugal4",SPORTV 1
+http://193.70.44.176:8080/live/Afonso/AFONSO/390.m3u8
+#EXTINF:-1 group-title="Portugal4",SPORTV 2 HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/15.m3u8
+#EXTINF:-1 group-title="Portugal4",SPORTV 2
+http://193.70.44.176:8080/live/Afonso/AFONSO/392.m3u8
+#EXTINF:-1 group-title="Portugal4",SPORTV 3 HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/16.m3u8
+#EXTINF:-1 group-title="Portugal4",SPORTV 3
+http://193.70.44.176:8080/live/Afonso/AFONSO/396.m3u8
+#EXTINF:-1 group-title="Portugal4",SPORTV 4 HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/17.m3u8
+#EXTINF:-1 group-title="Portugal4",SPORTV 4
+http://193.70.44.176:8080/live/Afonso/AFONSO/395.m3u8
+#EXTINF:-1 group-title="Portugal4",SPORTV 5 HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/18.m3u8
+#EXTINF:-1 group-title="Portugal4",SPORTV 5
+http://193.70.44.176:8080/live/Afonso/AFONSO/394.m3u8
+#EXTINF:-1 group-title="Portugal4",BTV 1 HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/19.m3u8
+#EXTINF:-1 group-title="Portugal4",BTV 1
+http://193.70.44.176:8080/live/Afonso/AFONSO/391.m3u8
+#EXTINF:-1 group-title="Portugal4",SPORTING TV HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/21.m3u8
+#EXTINF:-1 group-title="Portugal4",EUROSPORT 1 HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/23.m3u8
+#EXTINF:-1 group-title="Portugal4",EUROSPORT 2
+http://193.70.44.176:8080/live/Afonso/AFONSO/24.m3u8
+#EXTINF:-1 group-title="Portugal4",NBA TV HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/2266.m3u8
+#EXTINF:-1 group-title="Portugal4",PFC
+http://193.70.44.176:8080/live/Afonso/AFONSO/25.m3u8
+#EXTINF:-1 group-title="Portugal4",REAL MADRID TV
+http://193.70.44.176:8080/live/Afonso/AFONSO/944.m3u8
+#EXTINF:-1 group-title="Portugal4",BARCA TV
+http://193.70.44.176:8080/live/Afonso/AFONSO/953.m3u8
+#EXTINF:-1 group-title="Portugal4",OUTDOOR HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/770.m3u8
+#EXTINF:-1 group-title="Portugal4",FUEL TV HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/109.m3u8
+#EXTINF:-1 group-title="Portugal4",MCS EXTREME
+http://193.70.44.176:8080/live/Afonso/AFONSO/1467.m3u8
+#EXTINF:-1 group-title="Portugal4",MOTORSPORT.TV HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/89.m3u8
+#EXTINF:-1 group-title="Portugal4",MOTORVISION HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/26.m3u8
+#EXTINF:-1 group-title="Portugal4",CAÇA E PESCA
+http://193.70.44.176:8080/live/Afonso/AFONSO/27.m3u8
+#EXTINF:-1 group-title="Portugal4",CACAVISION
+http://193.70.44.176:8080/live/Afonso/AFONSO/91.m3u8
+#EXTINF:-1 group-title="Portugal4",FIGHT NETWORK HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/687.m3u8
+#EXTINF:-1 group-title="Portugal4",KOMBAT SPORT
+http://193.70.44.176:8080/live/Afonso/AFONSO/985.m3u8
+#EXTINF:-1 group-title="Portugal4",TVCINE 1 HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/28.m3u8
+#EXTINF:-1 group-title="Portugal4",TVCINE 1
+http://193.70.44.176:8080/live/Afonso/AFONSO/3031.m3u8
+#EXTINF:-1 group-title="Portugal4",TVCINE 2 HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/29.m3u8
+#EXTINF:-1 group-title="Portugal4",TVCINE 2
+http://193.70.44.176:8080/live/Afonso/AFONSO/3030.m3u8
+#EXTINF:-1 group-title="Portugal4",TVCINE 3 HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/30.m3u8
+#EXTINF:-1 group-title="Portugal4",TVCINE 3
+http://193.70.44.176:8080/live/Afonso/AFONSO/3029.m3u8
+#EXTINF:-1 group-title="Portugal4",TVCINE 4 HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/31.m3u8
+#EXTINF:-1 group-title="Portugal4",TVCINE 4
+http://193.70.44.176:8080/live/Afonso/AFONSO/3028.m3u8
+#EXTINF:-1 group-title="Portugal4",TV SERIES HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/32.m3u8
+#EXTINF:-1 group-title="Portugal4",HOLLYWOOD HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/34.m3u8
+#EXTINF:-1 group-title="Portugal4",FOX HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/90.m3u8
+#EXTINF:-1 group-title="Portugal4",FOX LIFE HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/35.m3u8
+#EXTINF:-1 group-title="Portugal4",FOX CRIME HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/36.m3u8
+#EXTINF:-1 group-title="Portugal4",FOX MOVIES HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/217.m3u8
+#EXTINF:-1 group-title="Portugal4",FOX COMEDY HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/543.m3u8
+#EXTINF:-1 group-title="Portugal4",AXN HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/92.m3u8
+#EXTINF:-1 group-title="Portugal4",AXN WHITE HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/37.m3u8
+#EXTINF:-1 group-title="Portugal4",AXN BLACK HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/38.m3u8
+#EXTINF:-1 group-title="Portugal4",SYFY HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/33.m3u8
+#EXTINF:-1 group-title="Portugal4",CRIME + INVESTIGATION
+http://193.70.44.176:8080/live/Afonso/AFONSO/1469.m3u8
+#EXTINF:-1 group-title="Portugal4",AMC HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/227.m3u8
+#EXTINF:-1 group-title="Portugal4",CINEMUNDO
+http://193.70.44.176:8080/live/Afonso/AFONSO/223.m3u8
+#EXTINF:-1 group-title="Portugal4",SUNDANCE HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/766.m3u8
+#EXTINF:-1 group-title="Portugal4",DISNEY CHANNEL
+http://193.70.44.176:8080/live/Afonso/AFONSO/102.m3u8
+#EXTINF:-1 group-title="Portugal4",DISNEY JUNIOR
+http://193.70.44.176:8080/live/Afonso/AFONSO/45.m3u8
+#EXTINF:-1 group-title="Portugal4",CARTOON NETWORK
+http://193.70.44.176:8080/live/Afonso/AFONSO/225.m3u8
+#EXTINF:-1 group-title="Portugal4",CANAL PANDA
+http://193.70.44.176:8080/live/Afonso/AFONSO/103.m3u8
+#EXTINF:-1 group-title="Portugal4",PANDA BIGGS
+http://193.70.44.176:8080/live/Afonso/AFONSO/99.m3u8
+#EXTINF:-1 group-title="Portugal4",NICKELODEON
+http://193.70.44.176:8080/live/Afonso/AFONSO/46.m3u8
+#EXTINF:-1 group-title="Portugal4",NICKELODEAN JUNIOR
+http://193.70.44.176:8080/live/Afonso/AFONSO/3333.m3u8
+#EXTINF:-1 group-title="Portugal4",JIM JAM
+http://193.70.44.176:8080/live/Afonso/AFONSO/101.m3u8
+#EXTINF:-1 group-title="Portugal4",TIJI
+http://193.70.44.176:8080/live/Afonso/AFONSO/3091.m3u8
+#EXTINF:-1 group-title="Portugal4",BABY TV
+http://193.70.44.176:8080/live/Afonso/AFONSO/47.m3u8
+#EXTINF:-1 group-title="Portugal4",SIC K
+http://193.70.44.176:8080/live/Afonso/AFONSO/44.m3u8
+#EXTINF:-1 group-title="Portugal4",NAT. GEOGRAPHIC
+http://193.70.44.176:8080/live/Afonso/AFONSO/96.m3u8
+#EXTINF:-1 group-title="Portugal4",NAT GEO WILD
+http://193.70.44.176:8080/live/Afonso/AFONSO/42.m3u8
+#EXTINF:-1 group-title="Portugal4",DISCOVERY CHANNEL
+http://193.70.44.176:8080/live/Afonso/AFONSO/43.m3u8
+#EXTINF:-1 group-title="Portugal4",DISCOVERY SHOWCASE
+http://193.70.44.176:8080/live/Afonso/AFONSO/218.m3u8
+#EXTINF:-1 group-title="Portugal4",CANAL HISTORIA
+http://193.70.44.176:8080/live/Afonso/AFONSO/226.m3u8
+#EXTINF:-1 group-title="Portugal4",ODISSEIA HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/100.m3u8
+#EXTINF:-1 group-title="Portugal4",TRAVEL CHANNEL HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/389.m3u8
+#EXTINF:-1 group-title="Portugal4",E! ENTERTAINMENT
+http://193.70.44.176:8080/live/Afonso/AFONSO/39.m3u8
+#EXTINF:-1 group-title="Portugal4",A & E
+http://193.70.44.176:8080/live/Afonso/AFONSO/104.m3u8
+#EXTINF:-1 group-title="Portugal4",TLC
+http://193.70.44.176:8080/live/Afonso/AFONSO/40.m3u8
+#EXTINF:-1 group-title="Portugal4",CBS REALITY
+http://193.70.44.176:8080/live/Afonso/AFONSO/224.m3u8
+#EXTINF:-1 group-title="Portugal4",LUXE TV HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/769.m3u8
+#EXTINF:-1 group-title="Portugal4",FASHION TV
+http://193.70.44.176:8080/live/Afonso/AFONSO/553.m3u8
+#EXTINF:-1 group-title="Portugal4",FOOD NETWORK HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/552.m3u8
+#EXTINF:-1 group-title="Portugal4",24 KITCHEN HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/41.m3u8
+#EXTINF:-1 group-title="Portugal4",TOROS TV
+http://193.70.44.176:8080/live/Afonso/AFONSO/98.m3u8
+#EXTINF:-1 group-title="Portugal4",DOG TV HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/688.m3u8
+#EXTINF:-1 group-title="Portugal4",MY CUISINE
+http://193.70.44.176:8080/live/Afonso/AFONSO/879.m3u8
+#EXTINF:-1 group-title="Portugal4",KURIAKOS TV
+http://193.70.44.176:8080/live/Afonso/AFONSO/1652.m3u8
+#EXTINF:-1 group-title="Portugal4",CANÇÂO NOVA
+http://193.70.44.176:8080/live/Afonso/AFONSO/544.m3u8
+#EXTINF:-1 group-title="Portugal4",SANTUARIO FATIMA
+http://193.70.44.176:8080/live/Afonso/AFONSO/95.m3u8
+#EXTINF:-1 group-title="Portugal4",LOCALVISAO HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/945.m3u8
+#EXTINF:-1 group-title="Portugal4",REGIOES TV
+http://193.70.44.176:8080/live/Afonso/AFONSO/983.m3u8
+#EXTINF:-1 group-title="Portugal4",ARTV
+http://193.70.44.176:8080/live/Afonso/AFONSO/942.m3u8
+#EXTINF:-1 group-title="Portugal4",TPA INTERNACIONAL
+http://193.70.44.176:8080/live/Afonso/AFONSO/564.m3u8
+#EXTINF:-1 group-title="Portugal4",CUBAVISION INTERNATIONAL
+http://193.70.44.176:8080/live/Afonso/AFONSO/1468.m3u8
+#EXTINF:-1 group-title="Portugal4",TCV INTERNATIONAL
+http://193.70.44.176:8080/live/Afonso/AFONSO/3092.m3u8
+#EXTINF:-1 group-title="Portugal4",TVE INTERNATIONAL
+http://193.70.44.176:8080/live/Afonso/AFONSO/3090.m3u8
+#EXTINF:-1 group-title="Portugal4",TV GALICIA
+http://193.70.44.176:8080/live/Afonso/AFONSO/1108.m3u8
+#EXTINF:-1 group-title="Portugal4",M6
+http://193.70.44.176:8080/live/Afonso/AFONSO/513.m3u8
+#EXTINF:-1 group-title="Portugal4",FRANCE 24
+http://193.70.44.176:8080/live/Afonso/AFONSO/771.m3u8
+#EXTINF:-1 group-title="Portugal4",TV5 MONDE
+http://193.70.44.176:8080/live/Afonso/AFONSO/954.m3u8
+#EXTINF:-1 group-title="Portugal4",EURONEWS
+http://193.70.44.176:8080/live/Afonso/AFONSO/947.m3u8
+#EXTINF:-1 group-title="Portugal4",CNN
+http://193.70.44.176:8080/live/Afonso/AFONSO/949.m3u8
+#EXTINF:-1 group-title="Portugal4",BBC WORLD NEWS
+http://193.70.44.176:8080/live/Afonso/AFONSO/952.m3u8
+#EXTINF:-1 group-title="Portugal4",ZEE TV
+http://193.70.44.176:8080/live/Afonso/AFONSO/955.m3u8
+#EXTINF:-1 group-title="Portugal4",TRACE URBAN HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/956.m3u8
+#EXTINF:-1 group-title="Portugal4",MAX
+http://193.70.44.176:8080/live/Afonso/AFONSO/957.m3u8
+#EXTINF:-1 group-title="Portugal4",FINE LIVING HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/958.m3u8
+#EXTINF:-1 group-title="Portugal4",BLOOMBERG
+http://193.70.44.176:8080/live/Afonso/AFONSO/951.m3u8
+#EXTINF:-1 group-title="Portugal4",DEUTSCHE WELLE
+http://193.70.44.176:8080/live/Afonso/AFONSO/948.m3u8
+#EXTINF:-1 group-title="Portugal4",MTV PORTUGAL
+http://193.70.44.176:8080/live/Afonso/AFONSO/542.m3u8
+#EXTINF:-1 group-title="Portugal4",MTV ROCKS
+http://193.70.44.176:8080/live/Afonso/AFONSO/1003.m3u8
+#EXTINF:-1 group-title="Portugal4",MTV MUSIC
+http://193.70.44.176:8080/live/Afonso/AFONSO/1004.m3u8
+#EXTINF:-1 group-title="Portugal4",MTV DANCE
+http://193.70.44.176:8080/live/Afonso/AFONSO/1005.m3u8
+#EXTINF:-1 group-title="Portugal4",MCM POP
+http://193.70.44.176:8080/live/Afonso/AFONSO/774.m3u8
+#EXTINF:-1 group-title="Portugal4",VH1
+http://193.70.44.176:8080/live/Afonso/AFONSO/97.m3u8
+#EXTINF:-1 group-title="Portugal4",VH1 CLASSIC
+http://193.70.44.176:8080/live/Afonso/AFONSO/1107.m3u8
+#EXTINF:-1 group-title="Portugal4",iCONCERTS HD
+http://193.70.44.176:8080/live/Afonso/AFONSO/686.m3u8
+#EXTINF:-1 group-title="Portugal4",VIRGIN TV
+http://193.70.44.176:8080/live/Afonso/AFONSO/1563.m3u8
+#EXTINF:-1 group-title="Portugal4",TRACE TV
+http://193.70.44.176:8080/live/Afonso/AFONSO/773.m3u8
+#EXTINF:-1 group-title="Portugal4",AFRO TV
+http://193.70.44.176:8080/live/Afonso/AFONSO/219.m3u8
+#EXTINF:-1 group-title="Portugal4",MEZZO
+http://193.70.44.176:8080/live/Afonso/AFONSO/767.m3u8
 
 
 
@@ -7942,112 +8080,6 @@ http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4089.m3u8
 
 
 #EXTINF:4 group-title="Portugal5",
-
-#EXTINF:-1 group-title="Portugal5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png" ,==Portugal==
-http://..........
-#EXTINF:-1 group-title="Portugal5"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Portugal5"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Portugal5"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Portugal5"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Portugal5"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Portugal5"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Portugal5"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
-http://.....
-
-#EXTM3U
-#EXTINF:-1 group-title="Portugal5" group-title="Portugal5",Baby TV
-http://94.63.223.60:10000/stream/channelid/2070125749?ticket=B3D1BBF3759B3ED5F705C69A8ACD459300C62AC7&profile=pass
-#EXTINF:-1 group-title="Portugal5",Canal de Teste
-http://94.63.223.60:10000/stream/channelid/1660885301?ticket=BE95A0C85B182233153C3C1CBEE38F1C0BA06DE5&profile=pass
-#EXTINF:-1 group-title="Portugal5",CaÄ¿a e Pesca HD
-http://94.63.223.60:10000/stream/channelid/1710789755?ticket=9E25CD716784079746051B30D15CA89F51906FFC&profile=pass
-#EXTINF:-1 group-title="Portugal5",Crime + Investigation
-http://94.63.223.60:10000/stream/channelid/916795909?ticket=203B39BE5D4EE77EC6A226BE70E968DB15E97CB4&profile=pass
-#EXTINF:-1 group-title="Portugal5",Discovery HD Showcase
-http://94.63.223.60:10000/stream/channelid/351344450?ticket=148315BE91A8D8744B4C697254AC2C73662AA540&profile=pass
-#EXTINF:-1 group-title="Portugal5",E! Entertainment
-http://94.63.223.60:10000/stream/channelid/2047016643?ticket=F3F7017C05D23207FA94F6341AD7648043A305FA&profile=pass
-#EXTINF:-1 group-title="Portugal5",FTV
-http://94.63.223.60:10000/stream/channelid/596509171?ticket=B93C5D7D0BA2E45309E5BCEAFF285CD25093BF2F&profile=pass
-#EXTINF:-1 group-title="Portugal5",Globo Now HD
-http://94.63.223.60:10000/stream/channelid/49351416?ticket=B12CEA27487F1F68287E7EDEEFECE3040A961F2C&profile=pass
-#EXTINF:-1 group-title="Portugal5",Odisseia HD
-http://94.63.223.60:10000/stream/channelid/474290417?ticket=73FC5EBA99C92BD56AA3B1F85591C3493539F0F7&profile=pass
-#EXTINF:-1 group-title="Portugal5",SPORT TV 4K UHD
-http://94.63.223.60:10000/stream/channelid/648633748?ticket=EEFB5E5F6D31A040757BFE89744853D949C82F53&profile=pass
-#EXTINF:-1 group-title="Portugal5",Travel Channel
-http://94.63.223.60:10000/stream/channelid/542763171?ticket=8F2BE84186627C7EE5DEB502938675A8CCB87C94&profile=pass
-#EXTINF:-1 group-title="Portugal5",TVCine 1 HD
-http://94.63.223.60:10000/stream/channelid/133783617?ticket=42233FE67175AFBC660718949CC289DCCABE2AB7&profile=pass
-#EXTINF:-1 group-title="Portugal5",TVCine 4 HD
-http://94.63.223.60:10000/stream/channelid/71240606?ticket=C685C355585C4890760F9DD3BFC9CB8D3A2DE643&profile=pass
-#EXTINF:-1 group-title="Portugal5",TVI Reality - CÃmara 1
-http://94.63.223.60:10000/stream/channelid/1645671028?ticket=FD06E17088BE92DCFAFDB81406DD5A0BE6B49105&profile=pass
-#EXTINF:-1 group-title="Portugal5",TVI Reality - CÃmara 2
-http://94.63.223.60:10000/stream/channelid/1590734131?ticket=0B24CB0C1A474609BC20C25B1E998F5E58B1CB0E&profile=pass
-#EXTINF:-1 group-title="Portugal5",TVI Reality - CÃmara 3
-http://94.63.223.60:10000/stream/channelid/1314241406?ticket=A6235E457730B1F56A6B0E1F79D2E18BCD94CE3D&profile=pass
-#EXTINF:-1 group-title="Portugal5",TVI Reality - CÃmara 4
-http://94.63.223.60:10000/stream/channelid/1034090566?ticket=238FA2276A0A3D17BC9947D6682D212D791701AB&profile=pass
-#EXTINF:-1 group-title="Portugal5",TVI Reality - Mosaico
-http://94.63.223.60:10000/stream/channelid/1433231712?ticket=D9F2A4F28409C2983773476D160BABEEB19B04EA&profile=pass
-#EXTINF:-1 group-title="Portugal5",TVSÃ˜ries
-http://94.63.223.60:10000/stream/channelid/103438642?ticket=15EBF2774D4F81CCD4921BFDD1BB344DF6AC0E4B&profile=pass
-#EXTINF:-1 group-title="Portugal5",VH1 Classic
-http://94.63.223.60:10000/stream/channelid/1920762666?ticket=CFD145F3F5AF733F5C82BA6705D91DA7D2A07ECC&profile=pass
-#EXTINF:-1 group-title="Portugal5",SPORT TV+
-http://94.63.223.60:10000/stream/channelid/1281005182?ticket=5F6033FB341DC4DF9FAAD9248291774562B5A05A&profile=pass
-#EXTINF:-1 group-title="Portugal5",Porto Canal
-http://94.63.223.60:10000/stream/channelid/1357211509?ticket=620C15D4E308242BFDFCDBC9FC710CC1AEFA7B26&profile=pass
-#EXTINF:-1 group-title="Portugal5",SIC Radical
-http://94.63.223.60:10000/stream/channelid/1879670615?ticket=1A4B4C9269CC35C690072C45276802E871C0C874&profile=pass
-#EXTINF:-1 group-title="Portugal5",SPORT TV+ HD
-http://94.63.223.60:10000/stream/channelid/2004961?ticket=EF8D5F4B741403E613009C5ED4CB1D216F662FD7&profile=pass
-#EXTINF:-1 group-title="Portugal5",Porto Canal HD
-http://94.63.223.60:10000/stream/channelid/437734102?ticket=EBB8182C239E269D2355E398479F5360AB78A186&profile=pass
-#EXTINF:-1 group-title="Portugal5",Disney Junior
-http://94.63.223.60:10000/stream/channelid/2099521818?ticket=B8234393A08180646C30E98E8718AFC1856D43B9&profile=pass
-#EXTINF:-1 group-title="Portugal5",BBC Entertainment
-http://94.63.223.60:10000/stream/channelid/811120854?ticket=06649ACDAA1C7DA1FFEFE264C023B9146D1CE0AA&profile=pass
-#EXTINF:-1 group-title="Portugal5",AMC HD
-http://94.63.223.60:10000/stream/channelid/1304747235?ticket=7042227B6962606CA63215EC63B386C83482E3E3&profile=pass
-#EXTINF:-1 group-title="Portugal5",Blaze
-http://94.63.223.60:10000/stream/channelid/939220117?ticket=15ED2BF86EF3246DEAFE26B87B32C9D66BBAF71D&profile=pass
-#EXTINF:-1 group-title="Portugal5",VH1
-http://94.63.223.60:10000/stream/channelid/486693647?ticket=7887A700A2BF6A0CE5AE51DBBDC6C93C17B36FF6&profile=pass
-#EXTINF:-1 group-title="Portugal5",MCM Top
-http://94.63.223.60:10000/stream/channelid/1674715442?ticket=0E69D8D036D4B90E557191815EFC8485DF274C23&profile=pass
-#EXTINF:-1 group-title="Portugal5",Canal UM Europa
-http://94.63.223.60:10000/stream/channelid/1295905869?ticket=2926FE3832FC0CEB0723D8A876BE82D1A9AE131D&profile=pass
-#EXTINF:-1 group-title="Portugal5",TV FÃ†tima
-http://94.63.223.60:10000/stream/channelid/1839307009?ticket=1B29CCC9D9B92A8F632B5B45BB4B2761BCD2ED3D&profile=pass
-#EXTINF:-1 group-title="Portugal5",Kuriakos TV
-http://94.63.223.60:10000/stream/channelid/529499524?ticket=D914D30B743CB4FBD29804CE3921F06341B5BC9E&profile=pass
-#EXTINF:-1 group-title="Portugal5",CanÄ¿Âªo Nova
-http://94.63.223.60:10000/stream/channelid/1998360438?ticket=2ACB06A32972AE7438175928C10714C1A720CE33&profile=pass
-#EXTINF:-1 group-title="Portugal5",Angelus TV
-http://94.63.223.60:10000/stream/channelid/810256049?ticket=6FE83A22455C105770021591DF88AF53F5F138B3&profile=pass
-#EXTINF:-1 group-title="Portugal5",STV NotÅ¦cias
-http://94.63.223.60:10000/stream/channelid/1481132598?ticket=EBA92B1CE374FBF398EA0C42C756FB4653A93ACC&profile=pass
-#EXTINF:-1 group-title="Portugal5",Bloomberg
-http://94.63.223.60:10000/stream/channelid/275389283?ticket=4B0353866083498F5E1EF9EB01D11ADCF6330783&profile=pass
-#EXTINF:-1 group-title="Portugal5",TeleSUR
-http://94.63.223.60:10000/stream/channelid/1743363339?ticket=52964CDF7EDD877AFA5483C9D6953D5097C9D6C6&profile=pass
-#EXTINF:-1 group-title="Portugal5",1+1
-http://94.63.223.60:10000/stream/channelid/2002096021?ticket=EA4C2D16B8CB9C8B2DD6AD972CB5F7EC15CA1C8E&profile=pass
-#EXTINF:-1 group-title="Portugal5",SIC NotÅ¦cias HD
-http://94.63.223.60:10000/stream/channelid/276469688?ticket=91628FBF0E7EE6B8BE6F7B4A5D5B2FBFFF6B199A&profile=pass
-#EXTINF:-1 group-title="Portugal5",CMTV HD
-http://94.63.223.60:10000/stream/channelid/54497532?ticket=46215EE4D2B0A0EE28F0960A7AD65DDA4F76E384&profile=pass
-
-
-
 
 
 
@@ -11847,9 +11879,28 @@ httphost://$http-raw=http://unblocked.lol/beinsports13$http-refferer=https://unb
 
 
 
-#EXTINF:9 group-title="United.Arab.Emirates4",
+#EXTINF:-1 group-title="United.Arab.Emirates4",
 
-
+#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 1 hevc
+http://nl.setv.ma:8000/live/moukhtar/123456/94845.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 2 hevc
+http://nl.setv.ma:8000/live/moukhtar/123456/94844.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 3 hevc
+http://nl.setv.ma:8000/live/moukhtar/123456/94843.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 4 hevc
+http://nl.setv.ma:8000/live/moukhtar/123456/94842.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 5 hevc
+http://nl.setv.ma:8000/live/moukhtar/123456/94841.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 6 hevc
+http://nl.setv.ma:8000/live/moukhtar/123456/94840.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 7 hevc
+http://nl.setv.ma:8000/live/moukhtar/123456/94839.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 8 hevc
+http://nl.setv.ma:8000/live/moukhtar/123456/94838.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 9 hevc
+http://nl.setv.ma:8000/live/moukhtar/123456/94837.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 10 hevc
+http://nl.setv.ma:8000/live/moukhtar/123456/94836.ts
 
 
 
@@ -11882,9 +11933,6 @@ http://selevision9883-i.akamaihd.net/hls/live/219205/98831/1.m3u8
 http://selevision9895-i.akamaihd.net/hls/live/219368/98951/1.m3u8
 #EXTINF:-1 group-title="United.Arab.Emirates1_PREMIUM",Dream 1 AR
 http://selevision9883-i.akamaihd.net/hls/live/219253/98837/1.m3u8
-
-
-
 
 
 
