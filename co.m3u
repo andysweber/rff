@@ -384,7 +384,7 @@ https://cdn.tzampa.tv/live/KPHTH-TV.m3u8|referer=https://tzampa.tv/home&user-age
 https://cdn.tzampa.tv/live/CrimeInvestigation.m3u8|referer=https://tzampa.tv/home&user-agent=
 #EXTINF:-1 group-title="Greece3" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery
 https://cdn.tzampa.tv/live/Discovery.m3u8|referer=https://tzampa.tv/home&user-agent=
-#EXTINF:-1 group-title="Greece3" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2016/08/Investigation-Discovery.jpg,DiscoveryID
+#EXTINF:-1 group-title="Greece3" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2016/08/Investigation-Discovery.jpg",DiscoveryID
 https://cdn.tzampa.tv/live/DiscoveryID.m3u8|referer=https://tzampa.tv/home&user-agent=
 #EXTINF:-1 group-title="Greece3" tvg-logo="http://4.bp.blogspot.com/-KFrx1NgKR9A/TZuiubLiRrI/AAAAAAAAA3I/faOXkdD5JvU/s320/Science+morph+logo+2011.jpg",DiscoveryScienceHD
 https://cdn.tzampa.tv/live/DiscoveryScienceHD.m3u8|referer=https://tzampa.tv/home&user-agent=
