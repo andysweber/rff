@@ -217,10 +217,8 @@ http://gr.euronews.com/live|webdown
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/6xRxPun.png" ,TV GOLD
 mms://tvgold.webcast.mediacdn.com/tvgold
-#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/8yuWb9" ,TV Mytilini
-rtmp://cp77174.live.edgefcs.net/live/123456@19937
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/oJ9YrY" ,THRAKI NET
-rtmp://hls.onestreaming.com:1935/live/thrakinettv
+http://video.onestreaming.com:8081/thraki/thrakinettv/playlist.m3u8v
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/pgniZC" ,LYXNOC
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:-1 group-title="Greece"  tvg-logo="https://pbs.twimg.com/profile_images/378800000593535057/94fcdaedcfaa89dfc2e8907a2c1c3a10.jpeg" ,Movie Play
@@ -230,7 +228,7 @@ http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/RmY1lD" ,MESSINIA WEB TV
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/7tKqOl" ,THLE MOUSIKH
-mmsh://wpso.com:200/music
+http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 group-title="Greece",Magic TV
 http://94.23.218.186:1935/magictv/magictv/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://4.bp.blogspot.com/-BjVgNNmExgo/WhMYN1dmDHI/AAAAAAAAXTY/TmPb086-0acq-FzrTVn7eNqLDF9BU7VvwCLcBGAs/s1600/xalastra%2Btv.jpg" ,Xalastra TV
