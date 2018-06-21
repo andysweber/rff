@@ -127,6 +127,8 @@ https://www.youtube.com/watch?v=Zx98moCvkpU
 https://www.youtube.com/watch?v=0XYWTzFlEyo
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ2" epg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2 WorldWide WebTV (Youtube)
 https://www.youtube.com/watch?v=qBxbnSwOrxE
+#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ2" epg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2
+http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-nrg-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ2" epg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2 (USE GREECE VPN) (Youtube)
 https://www.youtube.com/watch?v=AOVVjaLbGEk
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ3" epg-id="EPT3.gr" tvg-logo="https://goo.gl/FOIiN8" ,ERT3 Worldwide WebTV (Youtube)
