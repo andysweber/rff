@@ -292,3 +292,5 @@ acestream://66604bbfffc9c2b2623b9bbdb6c0c741d17a89ba
 acestream://c4241183cafe41aadb5d7f86a3fb821383e1d9d2
 #EXTINF:-1 group-title="P2P TV2",Русская ночь
 acestream://5a9715fe5e6cb34502defb83e1aa3eaa48834bce
+#EXTINF:-1 group-title="P2P TV2",Dorcel HD
+acestream://42410e570ff0e43b42b7c7322ebc468a5825fd25
