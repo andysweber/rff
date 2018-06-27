@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,26/06/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,27/06/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -311,9 +311,336 @@ http://wpso.com:1936/hls/wzra.m3u8
 
 
 
-#EXTINF:2 group-title="Greece2",
+#EXTINF:-1 group-title="Greece2",
 
-
+#EXTINF:-1 group-title="Greece2",Mega
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1.m3u8
+#EXTINF:-1 group-title="Greece2",Ant1
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2.m3u8
+#EXTINF:-1 group-title="Greece2",star
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4.m3u8
+#EXTINF:-1 group-title="Greece2",Alpha
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/3.m3u8
+#EXTINF:-1 group-title="Greece2",skai
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/5.m3u8
+#EXTINF:-1 group-title="Greece2",Makedonia
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/6.m3u8
+#EXTINF:-1 group-title="Greece2",Ert 1
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/12.m3u8
+#EXTINF:-1 group-title="Greece2",Ert 2
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/55.m3u8
+#EXTINF:-1 group-title="Greece2",ERT 3
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/10.m3u8
+#EXTINF:-1 group-title="Greece2",ErtHD
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1106.m3u8
+#EXTINF:-1 group-title="Greece2",Art
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/534.m3u8
+#EXTINF:-1 group-title="Greece2",Etv
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/9.m3u8
+#EXTINF:-1 group-title="Greece2",Makeleio
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2405.m3u8
+#EXTINF:-1 group-title="Greece2",AB channel
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1107.m3u8
+#EXTINF:-1 group-title="Greece2",Kontra
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/11.m3u8
+#EXTINF:-1 group-title="Greece2",Hlektra TV
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4685.m3u8
+#EXTINF:-1 group-title="Greece2",IONIAN TV
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2109.m3u8
+#EXTINF:-1 group-title="Greece2",KritiTV
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/8.m3u8
+#EXTINF:-1 group-title="Greece2",cretatv
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1011.m3u8
+#EXTINF:-1 group-title="Greece2",Nea tileorasi kritis
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4541.m3u8
+#EXTINF:-1 group-title="Greece2",Extra 3
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/596.m3u8
+#EXTINF:-1 group-title="Greece2",action24
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/458.m3u8
+#EXTINF:-1 group-title="Greece2",thessalia
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1648.m3u8
+#EXTINF:-1 group-title="Greece2",pontos
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4758.m3u8
+#EXTINF:-1 group-title="Greece2",4E
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4759.m3u8
+#EXTINF:-1 group-title="Greece2",Alert
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1468.m3u8
+#EXTINF:-1 group-title="Greece2",Trt
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4762.m3u8
+#EXTINF:-1 group-title="Greece2",Arta
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4760.m3u8
+#EXTINF:-1 group-title="Greece2",high tv
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2312.m3u8
+#EXTINF:-1 group-title="Greece2",sbc
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1467.m3u8
+#EXTINF:-1 group-title="Greece2",zougla
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/544.m3u8
+#EXTINF:-1 group-title="Greece2",delta tv
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1995.m3u8
+#EXTINF:-1 group-title="Greece2",atticatv
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2311.m3u8
+#EXTINF:-1 group-title="Greece2",thraki net tv
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1108.m3u8
+#EXTINF:-1 group-title="Greece2",blue sky
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/927.m3u8
+#EXTINF:-1 group-title="Greece2",channel 9
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1142.m3u8
+#EXTINF:-1 group-title="Greece2",acheloos tv
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1237.m3u8
+#EXTINF:-1 group-title="Greece2",Vouli
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/594.m3u8
+#EXTINF:-1 group-title="Greece2",ATLAS TV / thessaloniki
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/5037.m3u8
+#EXTINF:-1 group-title="Greece2",BERGINA / thessaloniki
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/5036.m3u8
+#EXTINF:-1 group-title="Greece2",DION TV / thessaloniki
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/5035.m3u8
+#EXTINF:-1 group-title="Greece2",EURO / thessaloniki
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/5034.m3u8
+#EXTINF:-1 group-title="Greece2",EUROPE ONE / thessaloniki
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/5033.m3u8
+#EXTINF:-1 group-title="Greece2",EXTRA THESS / thessaloniki
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/5032.m3u8
+#EXTINF:-1 group-title="Greece2",GNOMI / thessaloniki
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/5031.m3u8
+#EXTINF:-1 group-title="Greece2",KANALI 9 / thessaloniki
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/5030.m3u8
+#EXTINF:-1 group-title="Greece2",NICKELODEON PLUS / thessaloniki
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/5029.m3u8
+#EXTINF:-1 group-title="Greece2",SUPER / thessaloniki
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/5028.m3u8
+#EXTINF:-1 group-title="Greece2",EpirusTV
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/7.m3u8
+#EXTINF:-1 group-title="Greece2",MAGIC TV
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2305.m3u8
+#EXTINF:-1 group-title="Greece2",RELOAD BIZZ
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2304.m3u8
+#EXTINF:-1 group-title="Greece2",TRT VOLOS
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/934.m3u8
+#EXTINF:-1 group-title="Greece2",fashion one
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2347.m3u8
+#EXTINF:-1 group-title="Greece2",fashion tv
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1058.m3u8
+#EXTINF:-1 group-title="Greece2",tv5
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2313.m3u8
+#EXTINF:-1 group-title="Greece2",Dw
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1200.m3u8
+#EXTINF:-1 group-title="Greece2",BBC Word News
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1199.m3u8
+#EXTINF:-1 group-title="Greece2",euronews
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/933.m3u8
+#EXTINF:-1 group-title="Greece2",OteCinema 1
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/111.m3u8
+#EXTINF:-1 group-title="Greece2",OTECINEMA 2
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/112.m3u8
+#EXTINF:-1 group-title="Greece2",OteCinema 3
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/113.m3u8
+#EXTINF:-1 group-title="Greece2",Ote Cinema 4
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1193.m3u8
+#EXTINF:-1 group-title="Greece2",Fox
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/17.m3u8
+#EXTINF:-1 group-title="Greece2",FoxLife
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/18.m3u8
+#EXTINF:-1 group-title="Greece2",E!
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/536.m3u8
+#EXTINF:-1 group-title="Greece2",CBSReality
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/5008.m3u8
+#EXTINF:-1 group-title="Greece2",tlc
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1601.m3u8
+#EXTINF:-1 group-title="Greece2",Sundance
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1226.m3u8
+#EXTINF:-1 group-title="Greece2",Village Cinema
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/16.m3u8
+#EXTINF:-1 group-title="Greece2",Nova Cinema 1
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/13.m3u8
+#EXTINF:-1 group-title="Greece2",Nova Cinema 2
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/14.m3u8
+#EXTINF:-1 group-title="Greece2",Nova Cinema 3
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/15.m3u8
+#EXTINF:-1 group-title="Greece2",nova cinema 4
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2354.m3u8
+#EXTINF:-1 group-title="Greece2",Cinema1
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/19.m3u8
+#EXTINF:-1 group-title="Greece2",Cinema 2
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/20.m3u8
+#EXTINF:-1 group-title="Greece2",Cinema 3
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/21.m3u8
+#EXTINF:-1 group-title="Greece2",Cinema 4
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/22.m3u8
+#EXTINF:-1 group-title="Greece2",cinema 5
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/940.m3u8
+#EXTINF:-1 group-title="Greece2",cinema 6
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/941.m3u8
+#EXTINF:-1 group-title="Greece2",cinema 7
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/942.m3u8
+#EXTINF:-1 group-title="Greece2",cinema 8
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/943.m3u8
+#EXTINF:-1 group-title="Greece2",cinema 007
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1095.m3u8
+#EXTINF:-1 group-title="Greece2",premier movies
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/982.m3u8
+#EXTINF:-1 group-title="Greece2",oscar movies
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/983.m3u8
+#EXTINF:-1 group-title="Greece2",Cinema 80s
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/26.m3u8
+#EXTINF:-1 group-title="Greece2",greek 60s-70s
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2033.m3u8
+#EXTINF:-1 group-title="Greece2",Cinema Greek
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/25.m3u8
+#EXTINF:-1 group-title="Greece2",Cinema Comedy
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/23.m3u8
+#EXTINF:-1 group-title="Greece2",Cinema Horror
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/24.m3u8
+#EXTINF:-1 group-title="Greece2",Western
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4761.m3u8
+#EXTINF:-1 group-title="Greece2",Discovery
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/27.m3u8
+#EXTINF:-1 group-title="Greece2",dtx
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2598.m3u8
+#EXTINF:-1 group-title="Greece2",Discovery IDX
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/29.m3u8
+#EXTINF:-1 group-title="Greece2",Discovery-ID
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1600.m3u8
+#EXTINF:-1 group-title="Greece2",Discovery Science
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/28.m3u8
+#EXTINF:-1 group-title="Greece2",Discovery showcase Hd
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1436.m3u8
+#EXTINF:-1 group-title="Greece2",Animal Planet
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/33.m3u8
+#EXTINF:-1 group-title="Greece2",History HD
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/32.m3u8
+#EXTINF:-1 group-title="Greece2",ote history
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1299.m3u8
+#EXTINF:-1 group-title="Greece2",viasat history
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1646.m3u8
+#EXTINF:-1 group-title="Greece2",National Geographic
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/30.m3u8
+#EXTINF:-1 group-title="Greece2",National Geographic Wild
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/31.m3u8
+#EXTINF:-1 group-title="Greece2",Ψαρεμα
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4649.m3u8
+#EXTINF:-1 group-title="Greece2",Travel Channel
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/34.m3u8
+#EXTINF:-1 group-title="Greece2",BBC-EARTH
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4918.m3u8
+#EXTINF:-1 group-title="Greece2",VIASAT EXPLORE
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4756.m3u8
+#EXTINF:-1 group-title="Greece2",OUTDOOR CHANNEL
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4752.m3u8
+#EXTINF:-1 group-title="Greece2",VIASAT NATURE
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4753.m3u8
+#EXTINF:-1 group-title="Greece2",CRIME and Investigation
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4757.m3u8
+#EXTINF:-1 group-title="Greece2",FOOD NETWORK
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4754.m3u8
+#EXTINF:-1 group-title="Greece2",FINE LIVING
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4755.m3u8
+#EXTINF:-1 group-title="Greece2",Nickelodeon
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/35.m3u8
+#EXTINF:-1 group-title="Greece2",Boomerang
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/36.m3u8
+#EXTINF:-1 group-title="Greece2",Disney XD
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/38.m3u8
+#EXTINF:-1 group-title="Greece2",Disney Channel
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/37.m3u8
+#EXTINF:-1 group-title="Greece2",disneyjr
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/926.m3u8
+#EXTINF:-1 group-title="Greece2",Baby tv
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1006.m3u8
+#EXTINF:-1 group-title="Greece2",smile
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/929.m3u8
+#EXTINF:-1 group-title="Greece2",Cartoon1
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/547.m3u8
+#EXTINF:-1 group-title="Greece2",Cartoon2
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/39.m3u8
+#EXTINF:-1 group-title="Greece2",Cartoon 3
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/40.m3u8
+#EXTINF:-1 group-title="Greece2",Mtv
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/583.m3u8
+#EXTINF:-1 group-title="Greece2",Mad tv
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/543.m3u8
+#EXTINF:-1 group-title="Greece2",Mad Greekz
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/42.m3u8
+#EXTINF:-1 group-title="Greece2",Mad Hits
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/41.m3u8
+#EXTINF:-1 group-title="Greece2",ak radio
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1166.m3u8
+#EXTINF:-1 group-title="Greece2",alpha kyprou
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4678.m3u8
+#EXTINF:-1 group-title="Greece2",MEGA ONE
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4679.m3u8
+#EXTINF:-1 group-title="Greece2",ant1cy
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/80.m3u8
+#EXTINF:-1 group-title="Greece2",pluscy
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/103.m3u8
+#EXTINF:-1 group-title="Greece2",rik1cy
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/104.m3u8
+#EXTINF:-1 group-title="Greece2",rik2cy
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/105.m3u8
+#EXTINF:-1 group-title="Greece2",rik sat
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4677.m3u8
+#EXTINF:-1 group-title="Greece2",EXTRA TV CY
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/101.m3u8
+#EXTINF:-1 group-title="Greece2",CAPITAL-TV
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4681.m3u8
+#EXTINF:-1 group-title="Greece2",sigmacy
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/106.m3u8
+#EXTINF:-1 group-title="Greece2",OteSport 1
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/45.m3u8
+#EXTINF:-1 group-title="Greece2",OteSport 2
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/46.m3u8
+#EXTINF:-1 group-title="Greece2",OteSport 3
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/47.m3u8
+#EXTINF:-1 group-title="Greece2",OteSport 4
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/48.m3u8
+#EXTINF:-1 group-title="Greece2",OteSport 5
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/49.m3u8
+#EXTINF:-1 group-title="Greece2",Ote Sport 6
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/312.m3u8
+#EXTINF:-1 group-title="Greece2",OteSport 7
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/993.m3u8
+#EXTINF:-1 group-title="Greece2",OteSport 8
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/994.m3u8
+#EXTINF:-1 group-title="Greece2",Ote Highlights
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/535.m3u8
+#EXTINF:-1 group-title="Greece2",EdgeSports
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4964.m3u8
+#EXTINF:-1 group-title="Greece2",NauticalChannel
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/5009.m3u8
+#EXTINF:-1 group-title="Greece2",motorvision
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/459.m3u8
+#EXTINF:-1 group-title="Greece2",NovaSport1
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/50.m3u8
+#EXTINF:-1 group-title="Greece2",nvsp1-vip
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4991.m3u8
+#EXTINF:-1 group-title="Greece2",NovaSports 2
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/51.m3u8
+#EXTINF:-1 group-title="Greece2",nvsp2-vip
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4990.m3u8
+#EXTINF:-1 group-title="Greece2",NovaSports 3
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/52.m3u8
+#EXTINF:-1 group-title="Greece2",nvsp3-vip
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4989.m3u8
+#EXTINF:-1 group-title="Greece2",NovaSports 4
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/53.m3u8
+#EXTINF:-1 group-title="Greece2",nvsp4-vip
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4988.m3u8
+#EXTINF:-1 group-title="Greece2",nova sport 5 hd
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/2604.m3u8
+#EXTINF:-1 group-title="Greece2",nvsp5-vip
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/4987.m3u8
+#EXTINF:-1 group-title="Greece2",NovaSports 24
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/54.m3u8
+#EXTINF:-1 group-title="Greece2",nova stories
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/5264.m3u8
+#EXTINF:-1 group-title="Greece2",nova sports extra 1
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/5265.m3u8
+#EXTINF:-1 group-title="Greece2",eurosport1
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1585.m3u8
+#EXTINF:-1 group-title="Greece2",eurosport2
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1599.m3u8
+#EXTINF:-1 group-title="Greece2",super tennis
+http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1965.m3u8
 
 
 
@@ -422,7 +749,30 @@ https://cdn.tzampa.tv/live/Village.m3u8|referer=https://tzampa.tv/home&user-agen
 
 #EXTINF:-1 group-title="Greece4",
 
-
+#EXTINF:-1 group-title="Greece4",ALFA TV
+http://vip.iptv35.com:1958/live/914921redline/129419redline/4247.m3u8
+#EXTINF:-1 group-title="Greece4",ANTENA 1
+http://vip.iptv35.com:1958/live/914921redline/129419redline/4246.m3u8
+#EXTINF:-1 group-title="Greece4",ART
+http://vip.iptv35.com:1958/live/914921redline/129419redline/4245.m3u8
+#EXTINF:-1 group-title="Greece4",E TV
+http://vip.iptv35.com:1958/live/914921redline/129419redline/4244.m3u8
+#EXTINF:-1 group-title="Greece4",ERT
+http://vip.iptv35.com:1958/live/914921redline/129419redline/4243.m3u8
+#EXTINF:-1 group-title="Greece4",ERT 1
+http://vip.iptv35.com:1958/live/914921redline/129419redline/4242.m3u8
+#EXTINF:-1 group-title="Greece4",ERT 2
+http://vip.iptv35.com:1958/live/914921redline/129419redline/4241.m3u8
+#EXTINF:-1 group-title="Greece4",ERT 3
+http://vip.iptv35.com:1958/live/914921redline/129419redline/4240.m3u8
+#EXTINF:-1 group-title="Greece4",MACEDONIA TV
+http://vip.iptv35.com:1958/live/914921redline/129419redline/4239.m3u8
+#EXTINF:-1 group-title="Greece4",MEGA TV
+http://vip.iptv35.com:1958/live/914921redline/129419redline/4238.m3u8
+#EXTINF:-1 group-title="Greece4",SKAI TV
+http://vip.iptv35.com:1958/live/914921redline/129419redline/4237.m3u8
+#EXTINF:-1 group-title="Greece4",STAR TV
+http://vip.iptv35.com:1958/live/914921redline/129419redline/4236.m3u8
 
 
 
@@ -6366,50 +6716,34 @@ http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g9/SportTV5
 
 #EXTINF:-1 group-title="Portugal3",
 
-#EXTINF:-1 group-title="Portugal3",SPORTV +
-http://dossantos.dyndns.info:8000/live/home/home1/629.ts
-#EXTINF:-1 group-title="Portugal3",SPORTV + FHD
-http://dossantos.dyndns.info:8000/live/home/home1/911.ts
-#EXTINF:-1 group-title="Portugal3",SPORTV 1
-http://dossantos.dyndns.info:8000/live/home/home1/66.ts
-#EXTINF:-1 group-title="Portugal3",SPORTV 1 ( NET FRACA )
-http://dossantos.dyndns.info:8000/live/home/home1/7996.ts
-#EXTINF:-1 group-title="Portugal3",SPORTV 1 HD ( NET MUITO FRACA )
-http://dossantos.dyndns.info:8000/live/home/home1/3113.ts
-#EXTINF:-1 group-title="Portugal3",SPORTV 1 HD ( NET FRACA )
-http://dossantos.dyndns.info:8000/live/home/home1/3114.ts
-#EXTINF:-1 group-title="Portugal3",SPORTV 1 HD
-http://dossantos.dyndns.info:8000/live/home/home1/160.ts
-#EXTINF:-1 group-title="Portugal3",SPORTV 1 HD EXTRA 01
-http://dossantos.dyndns.info:8000/live/home/home1/9424.ts
-#EXTINF:-1 group-title="Portugal3",SPORTV 1 FULL HD
-http://dossantos.dyndns.info:8000/live/home/home1/67.ts
-#EXTINF:-1 group-title="Portugal3",SPORTV 1 FULL HD EXTRA 01
-http://dossantos.dyndns.info:8000/live/home/home1/9423.ts
-#EXTINF:-1 group-title="Portugal3",SPORTV 2
-http://dossantos.dyndns.info:8000/live/home/home1/64.ts
-#EXTINF:-1 group-title="Portugal3",SPORTV 2 HD ( NET FRACA )
-http://dossantos.dyndns.info:8000/live/home/home1/3230.ts
-#EXTINF:-1 group-title="Portugal3",SPORTV 2 HD
-http://dossantos.dyndns.info:8000/live/home/home1/161.ts
-#EXTINF:-1 group-title="Portugal3",SPORTV 3
-http://dossantos.dyndns.info:8000/live/home/home1/63.ts
-#EXTINF:-1 group-title="Portugal3",SPORTV 3 HD ( NET FRACA )
-http://dossantos.dyndns.info:8000/live/home/home1/3229.ts
-#EXTINF:-1 group-title="Portugal3",SPORTV 3 HD
-http://dossantos.dyndns.info:8000/live/home/home1/162.ts
-#EXTINF:-1 group-title="Portugal3",SPORTV 4
-http://dossantos.dyndns.info:8000/live/home/home1/62.ts
-#EXTINF:-1 group-title="Portugal3",SPORTV 4 HD ( NET FRACA )
-http://dossantos.dyndns.info:8000/live/home/home1/3228.ts
-#EXTINF:-1 group-title="Portugal3",SPORTV 4 HD
-http://dossantos.dyndns.info:8000/live/home/home1/163.ts
-#EXTINF:-1 group-title="Portugal3",SPORTV 5
-http://dossantos.dyndns.info:8000/live/home/home1/60.ts
-#EXTINF:-1 group-title="Portugal3",SPORTV 5 HD ( NET FRACA )
-http://dossantos.dyndns.info:8000/live/home/home1/3227.ts
-#EXTINF:-1 group-title="Portugal3",SPORTV 5 HD
-http://dossantos.dyndns.info:8000/live/home/home1/91.ts
+#EXTINF:-1 group-title="Portugal3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/MTV_Dance_2017_logo.svg/1200px-MTV_Dance_2017_logo.svg.png" ,MTV DANCE
+http://87.103.194.30:6689/stream?cid=3793
+#EXTINF:-1 group-title="Portugal3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/MTV_Hits_2017_logo.svg/1024px-MTV_Hits_2017_logo.svg.png" ,MTV HITS
+http://87.103.194.30:6689/stream?cid=3820
+#EXTINF:-1 group-title="Portugal3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/MTV_Live_Logo.png" ,MTV LIVE HD
+http://87.103.194.30:6689/stream?cid=3868
+#EXTINF:-1 group-title="Portugal3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" ,MTV ROCKS
+http://87.103.194.30:6689/stream?cid=3890
+#EXTINF:-1 group-title="Portugal3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png" ,VH1 EUROPE
+http://81.200.50.4/hls/VH1_nejtv_portable_low.m3u8
+#EXTINF:-1 group-title="Portugal3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMUSIC.png" ,C MUSIC
+http://87.103.194.30:6689/stream?cid=4779
+#EXTINF:-1 group-title="Portugal3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEZZO.png" ,MEZZO
+http://87.103.194.30:6689/stream?cid=3911
+#EXTINF:-1 group-title="Portugal3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEZZOLIVEHD.png" ,MEZZO LIVE HD
+http://87.103.194.30:6689/stream?cid=3840
+#EXTINF:-1 group-title="Portugal3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRACEURBAN.png" ,TRACE TV
+http://87.103.194.30:6689/stream?cid=4752
+#EXTINF:-1 group-title="Portugal3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNN.png" ,CNN
+http://87.103.194.30:6689/stream?cid=3865
+#EXTINF:-1 group-title="Portugal3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCWORLDNEWS.png" ,BBC WORLD NEWS
+http://87.103.194.30:6689/stream?cid=3894
+#EXTINF:-1 group-title="Portugal3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VOX.png" ,VOX
+http://87.103.194.30:6689/stream?cid=5769
+#EXTINF:-1 group-title="Portugal3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL.png" ,RTL
+http://87.103.194.30:6689/stream?cid=5766
+#EXTINF:-1 group-title="Portugal3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHELSEATV.png" ,CHELSEA TV
+http://87.103.194.30:6689/stream?cid=5428
 
 
 
