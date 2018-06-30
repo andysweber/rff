@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,29/06/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,30/06/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -730,13 +730,6 @@ http://forgetme.dyndns.tv:5050/live/0nDBVlsnwN/DrtoFm99IM/1965.m3u8
 
 #EXTINF:-1 group-title="Greece5",
 
-#EXTINF:-1 group-title="Greece5",OTE Sport 1 
-http://clientportal.link:80/live/Petko/123456/18240.ts
-#EXTINF:-1 group-title="Greece5",OTE Sport 2
-http://clientportal.link:80/live/Petko/123456/18241.ts
-#EXTINF:-1 group-title="Greece5",OTE Sport 3 
-http://clientportal.link:80/live/Petko/123456/18242.ts
-
 
 
 
@@ -1043,9 +1036,26 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
 
 
-#EXTINF:-1 group-title="USA-CANADA2", 
+#EXTINF:-1 group-title="USA2", 
 
-
+#EXTINF:-1 group-title="USA2",HBO FAMILY HD
+http://gameriptv.com:80/chan/sd54fs21ds654/hbofam.php
+#EXTINF:-1 group-title="USA2",HBO PLUS HD
+http://gameriptv.com:80/chan/sd54fs21ds654/hboplus.php
+#EXTINF:-1 group-title="USA2",HBO SIGNATURE HD
+http://gameriptv.com:80/chan/sd54fs21ds654/hbosign.php
+#EXTINF:-1 group-title="USA2",FOX CINEMA HD
+http://gameriptv.com:80/chan/sd54fs21ds654/foxcinema.php
+#EXTINF:-1 group-title="USA2",FOX ACTION MX
+http://gameriptv.com:80/chan/sd54fs21ds654/foxactionmx.php
+#EXTINF:-1 group-title="USA2",FOX ACTION HD
+http://gameriptv.com:80/chan/sd54fs21ds654/foxaction.php
+#EXTINF:-1 group-title="USA2",FOX MOVIES HD
+http://gameriptv.com:80/chan/sd54fs21ds654/foxmovies.php
+#EXTINF:-1 group-title="USA2",FOX CLASSICS HD
+http://gameriptv.com:80/chan/sd54fs21ds654/foxclass.php
+#EXTINF:-1 group-title="USA2",FOX COMEDY HD
+http://gameriptv.com:80/chan/sd54fs21ds654/foxcomedy.php
 
 
 
@@ -6367,7 +6377,416 @@ http://iptv.freecamtv.com:8000/live/959595/959595/716.m3u8
 
 #EXTINF:-1 group-title="Germany3-PREMIUM",
 
-
+#EXTINF:-1 group-title="Germany3-PREMIUM",ORF1
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/207.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",ORF2
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/206.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",VOX
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/469.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Super RTL DE
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/470.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",ProSieben
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/467.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",ZDF
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/468.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",RTL
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/464.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",RTL 2 Deutschland
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/465.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",RTL Deutschland
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/463.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SAT1
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/475.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Kabel1
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/466.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",ARD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/205.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Disney HD DE
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/198.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Discovery Channel Germany
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/199.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Discovery Channel
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/201.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Kika
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/472.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Comedy Central
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/471.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky TNT Serie HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/185.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Select HD 1
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/190.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SKY NatGeo Wild
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/200.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SKY Natgeo
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/194.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky MGM HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/191.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SKY Emotion
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/183.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SKY Comedy
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/195.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SKY CInema  24
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/197.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SKY Cinema  1
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/196.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SKY Cinema
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/184.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SKY Atlantic HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/204.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Atlantic DE
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/192.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SKY Action
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/202.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky 13 Street HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/193.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",DE Sky Krimi
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/203.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",#EXTINF:-1 group-title="Germany3-PREMIUM"Sky Select HD 2
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/189.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",#EXTINF:-1 group-title="Germany3-PREMIUM"Sky Select HD 3
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/188.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",#EXTINF:-1 group-title="Germany3-PREMIUM"Sky Select HD 4
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/187.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",#EXTINF:-1 group-title="Germany3-PREMIUM"Sky Select HD 5
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/186.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",13 Street
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7698.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",13th Street HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7624.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",3SAT
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7524.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",3SAT HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7625.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",A-E
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7528.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",A&E HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7622.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",ANIXE
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7623.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",ANIXE HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7626.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",ARD 1
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7627.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",ARD HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7580.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Arte HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7628.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",ATLANTIC HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7663.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",AXN HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7701.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Boomerang
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7629.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Boomerang HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7559.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Cartoon Network
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7558.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Cartoon Network HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7557.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Classica
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7650.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Das Erste
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7523.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Das Erste HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7556.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Deluxe Music
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7694.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Deluxe Music HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7674.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Deutsche Welle
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7702.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",DISCOVERY HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7675.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Disney Channel HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7555.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Disney Cinemagic HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7612.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Disney Junior
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7651.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Disney Junior HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7613.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Disney XD HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7676.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",DMAX
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7602.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",DMAX HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7677.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",E! Entertainement HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7554.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",EURO NEWS
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7703.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Family TV
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7551.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",FILM CLUB HD 1
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7510.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",FILM CLUB HD 2
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7509.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",FILM CLUB HD 3
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7508.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",FILM CLUB HD 4
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7507.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",FILM CLUB HD 5
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7506.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",FOX
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7653.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",FOX HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7581.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Goldstar TV
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7550.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Heimatkanal
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7549.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",History HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7614.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",KABEL 1 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7582.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Kabel eins Classics HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7548.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",KIKA HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7583.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Kinowelt TV HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7654.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",MDR HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7630.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",MGM HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7615.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Motorvision
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7547.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Motorvision TV
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7631.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",MTV HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7546.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",MUNCHEN TV
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7584.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",N-TV HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7680.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",N24
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7585.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Nat Geo People HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7545.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Nat Geo Wild HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7655.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Nat Wild HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7695.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",NATIONAL GEOGRAPHIC
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7632.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",NATIONAL GEOGRAPHIC HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7679.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Ndr HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7633.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Nick Junior HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7656.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",One HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7522.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Orf 1
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7696.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",ORF 1 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7634.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",ORF 2 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7635.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",ORF Sport
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7704.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Phoenix
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7603.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Planet HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7681.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",POPCORN SELECT 1
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7521.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",POPCORN SELECT 6
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7520.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",PRO 7 MAXX
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7705.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",PRO7
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7636.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Prosieben FUN HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7544.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Prosieben HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7669.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",ProSieben MAXX HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7543.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Romance TV
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7657.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Romance TV HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7542.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Rtl
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7697.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",RTL 2
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7604.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",RTL 2 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7670.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",RTL 2 YOU HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7706.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",RTL Crime
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7658.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",RTL Crime HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7616.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",RTL HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7577.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",RTL Living HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7682.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",RTL Nitro HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7683.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",RTL Passion
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7617.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",RTL Passion HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7541.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",RTL2 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7578.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sat 1 Emotions HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7540.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SAT 1 GOLD HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7707.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sat 1 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7684.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SELECT POPCORN 2
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7519.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SELECT POPCORN 3
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7518.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SELECT POPCORN 4
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7517.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SELECT POPCORN 5
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7516.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Servus TV HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7637.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Silverline Movie Channel
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7685.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sixx HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7638.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky 1 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7525.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky 3D
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7515.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SKY ATLANTIC
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7590.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SKY Atlantic  1 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7686.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Atlantic HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7664.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky AXN HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7665.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Cienema Hits HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7587.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SKY CINEMA   24 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7708.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Cinema 1
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7605.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Cinema 1 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7640.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SKY Cinema 24
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7687.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Cinema 24 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7539.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Cinema Action
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7607.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Cinema Action HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7579.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Cinema Comedy HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7514.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Cinema Emotion
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7513.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SKY Cinema Family HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7538.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SKY CINEMA HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7586.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Cinema Hits HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7512.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SKY Comedy
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7537.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Comedy HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7606.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Disney Channel HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7641.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SKY EMOTION
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7591.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Krimi
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7659.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Nostalgie
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7618.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Select 1
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7601.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Select 2
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7600.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Select 3
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7668.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Select 4
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7599.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Select 5
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7598.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Select 6
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7597.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Select 7
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7672.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Select 8
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7673.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sky Select 9
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7619.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sonnenklar TV
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7689.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sony Entertainment TV HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7534.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Sony TV
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7690.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Spiegel Geschichte
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7620.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Spiegel Geschichte HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7644.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Spiegel TV Wissen HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7533.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SRF 1 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7588.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SRF 2 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7589.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SRF Info HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7532.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SRF1 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7531.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Super RTL HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7594.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",SWR HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7511.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Syfy
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7660.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Syfy HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7621.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Tagesschau 24
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7692.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",TELE 5 HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7527.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",TLC HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7661.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",TNT COMEDY HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7711.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",TNT Film
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7526.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Tnt Film HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7700.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",TNT Serie
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7662.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",TNT SERIE HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7645.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",TOGGO plus
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7530.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Universal Channel HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7646.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",VOX
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7595.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",VOX HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7671.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",WDR HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7666.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Welt der Wunder
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7710.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",WR HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7647.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",ZDF
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7596.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",ZDF HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7667.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",ZDF info
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7648.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",ZDF NEO HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7649.ts
+#EXTINF:-1 group-title="Germany3-PREMIUM",Zee One HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7529.ts
 
 
 
@@ -6708,9 +7127,26 @@ http://media3.crtvg.es/live/_definst_/infantilCires/playlist.m3u8
 
 
 
-#EXTINF:8 group-title="Spain2",
+#EXTINF:-1 group-title="Spain2",
 
-
+#EXTINF:-1 group-title="Spain2",HBO FAMILY HD
+http://gameriptv.com:80/chan/sd54fs21ds654/hbofam.php
+#EXTINF:-1 group-title="Spain2",HBO PLUS HD
+http://gameriptv.com:80/chan/sd54fs21ds654/hboplus.php
+#EXTINF:-1 group-title="Spain2",HBO SIGNATURE HD
+http://gameriptv.com:80/chan/sd54fs21ds654/hbosign.php
+#EXTINF:-1 group-title="Spain2",FOX CINEMA HD
+http://gameriptv.com:80/chan/sd54fs21ds654/foxcinema.php
+#EXTINF:-1 group-title="Spain2",FOX ACTION MX
+http://gameriptv.com:80/chan/sd54fs21ds654/foxactionmx.php
+#EXTINF:-1 group-title="Spain2",FOX ACTION HD
+http://gameriptv.com:80/chan/sd54fs21ds654/foxaction.php
+#EXTINF:-1 group-title="Spain2",FOX MOVIES HD
+http://gameriptv.com:80/chan/sd54fs21ds654/foxmovies.php
+#EXTINF:-1 group-title="Spain2",FOX CLASSICS HD
+http://gameriptv.com:80/chan/sd54fs21ds654/foxclass.php
+#EXTINF:-1 group-title="Spain2",FOX COMEDY HD
+http://gameriptv.com:80/chan/sd54fs21ds654/foxcomedy.php
 
 
 
@@ -8373,113 +8809,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/961.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Portugal2-PREMIUM",
 
-#EXTINF:-1 group-title="Portugal2-PREMIUM", Sport TV 5 HD
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2413.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",24 Kitchen HD
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2490.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",AE
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2505.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",AMC
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2504.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",AXN HD
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2497.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",BABYTV
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2483.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",BENFICATV 1 HD
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2476.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",CANAL HISTORIA
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2486.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",CANAL Q
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2494.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",CARTOON NETWORK
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2478.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",CASA E PESCA
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2489.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",CINEMUNDO
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2493.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",CMTV
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2503.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",DISCOVERY CHANNEL
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2485.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",DISCOVERY SHOWCASE HD
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2484.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",DISNEY CHANNEL
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2481.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",DISNEY JUNIOR
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2482.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",E ENTERTAINMENT
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2492.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",EUROSPORT 1 HD
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2470.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",EUROSPORT 2
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2469.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",FOX  HD
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2502.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",FOX CRIME HD
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2499.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",FOX LIFE HD
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2500.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",FOX MOVIES
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2501.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",HOLLYWOD
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2495.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",MOTORS TV
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2467.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",NAT GEO WILD
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2487.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",NATIONAL GEOGRAPHIC HD
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2488.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",NICKELODEON
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2480.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",ODISSEIA
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2491.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",PANDA
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2479.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",PORTO CANAL
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2473.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",REAL MADRID
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2472.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",RTP 1
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2407.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",RTP 2
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2408.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",RTP INTERNACIONAL
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2519.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",SIC
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2514.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",SIC CARAS
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2512.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",SIC NOTICIAS
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2513.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",Sport TV 1 HD
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2409.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",Sport TV 2 HD
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2410.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",Sport TV 3 HD
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2411.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",Sport TV 4 HD
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2412.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",SPORTINGTV
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2474.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",SYFY
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2496.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",TOROSTV
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2468.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",TVCINE 1 HD
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2510.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",TVCINE 2 HD
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2509.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",TVCINE 3 HD
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2508.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",TVCINE 4 HD
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2507.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",TVI
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2515.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",TVI 24
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2516.m3u8
-#EXTINF:-1 group-title="Portugal2-PREMIUM",TVSERIES HD
-http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/2506.m3u8
-
 
 
 
@@ -9976,6 +10305,144 @@ http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/S
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="China3"
+
+#EXTINF:-1 group-title="China3",CCTV-NEWS
+http://223.110.241.204:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS
+#EXTINF:-1 group-title="China3",CETV-1标清
+http://223.110.241.204:6610/gitv/live1/G_CETV-1/G_CETV-1
+#EXTINF:-1 group-title="China3",CETV-2标清
+http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2
+#EXTINF:-1 group-title="China3",CETV-3标清
+http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3
+#EXTINF:-1 group-title="China3",CETV-4标清
+http://223.110.241.204:6610/gitv/live1/G_CETV-4/G_CETV-4
+#EXTINF:-1 group-title="China3",湖南卫视超清-8M
+http://223.110.241.204:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ
+#EXTINF:-1 group-title="China3",江苏卫视超清
+http://223.110.241.204:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ
+#EXTINF:-1 group-title="China3",北京卫视超清-8M
+http://223.110.241.204:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ
+#EXTINF:-1 group-title="China3",浙江卫视超清
+http://223.110.241.204:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ
+#EXTINF:-1 group-title="China3",东方卫视超清-8M
+http://223.110.241.204:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ
+#EXTINF:-1 group-title="China3",安徽卫视
+http://223.110.241.204:6610/gitv/live1/AHWS/AHWS
+#EXTINF:-1 group-title="China3",辽宁卫视
+http://223.110.241.204:6610/gitv/live1/LNWS/LNWS
+#EXTINF:-1 group-title="China3",山东卫视
+http://223.110.241.204:6610/gitv/live1/SDWS/SDWS
+#EXTINF:-1 group-title="China3",广西卫视
+http://223.110.241.204:6610/gitv/live1/GXWS/GXWS
+#EXTINF:-1 group-title="China3",旅游卫视
+http://223.110.241.204:6610/gitv/live1/LYWS/LYWS
+#EXTINF:-1 group-title="China3",重庆卫视
+http://223.110.241.204:6610/gitv/live1/G_CHONGQING/G_CHONGQING
+#EXTINF:-1 group-title="China3",四川卫视
+http://223.110.241.204:6610/gitv/live1/SCWS/SCWS
+#EXTINF:-1 group-title="China3",河南卫视
+http://223.110.241.204:6610/gitv/live1/HENAN/HENAN
+#EXTINF:-1 group-title="China3",东南卫视
+http://223.110.241.204:6610/gitv/live1/DNWS/DNWS
+#EXTINF:-1 group-title="China3",天津卫视
+http://223.110.241.204:6610/gitv/live1/TJWS/TJWS
+#EXTINF:-1 group-title="China3",江西卫视
+http://223.110.241.204:6610/gitv/live1/JXWS/JXWS
+#EXTINF:-1 group-title="China3",湖北卫视
+http://223.110.241.204:6610/gitv/live1/G_HUBEI/G_HUBEI
+#EXTINF:-1 group-title="China3",吉林卫视
+http://223.110.241.204:6610/gitv/live1/G_JILIN/G_JILIN
+#EXTINF:-1 group-title="China3",山西卫视
+http://223.110.241.204:6610/gitv/live1/SXWS/SXWS
+#EXTINF:-1 group-title="China3",贵州卫视
+http://223.110.241.204:6610/gitv/live1/G_GUIZHOU/G_GUIZHOU
+#EXTINF:-1 group-title="China3",青海卫视
+http://223.110.241.204:6610/gitv/live1/G_QINGHAI/G_QINGHAI
+#EXTINF:-1 group-title="China3",内蒙古卫视
+http://223.110.241.204:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU
+#EXTINF:-1 group-title="China3",云南卫视
+http://223.110.241.204:6610/gitv/live1/G_YUNNAN/G_YUNNAN
+#EXTINF:-1 group-title="China3",河北卫视
+http://223.110.241.204:6610/gitv/live1/G_HEBEI/G_HEBEI
+#EXTINF:-1 group-title="China3",宁夏卫视
+http://223.110.241.204:6610/gitv/live1/G_NINGXIA/G_NINGXIA
+#EXTINF:-1 group-title="China3",新疆卫视
+http://223.110.241.204:6610/gitv/live1/G_XINJIANG/G_XINJIANG
+#EXTINF:-1 group-title="China3",甘肃卫视
+http://223.110.241.204:6610/gitv/live1/G_GANSU/G_GANSU
+#EXTINF:-1 group-title="China3",优漫卡通
+http://223.110.241.204:6610/gitv/live1/G_YOUMAN/G_YOUMAN
+#EXTINF:-1 group-title="China3",广东卫视
+http://223.110.241.204:6610/gitv/live1/G_GUANGDONG/G_GUANGDONG
+#EXTINF:-1 group-title="China3",深圳卫视
+http://223.110.241.204:6610/gitv/live1/G_SHENZHEN/G_SHENZHEN
+#EXTINF:-1 group-title="China3",黑龙江卫视
+http://223.110.241.204:6610/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG
+#EXTINF:-1 group-title="China3",南方卫视（广东）
+http://223.110.241.204:6610/gitv/live1/G_NANFANG/G_NANFANG
+#EXTINF:-1 group-title="China3",厦门卫视
+http://223.110.241.204:6610/gitv/live1/G_XIAMEN/G_XIAMEN
+#EXTINF:-1 group-title="China3",山东卫视超清
+http://223.110.241.204:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ
+#EXTINF:-1 group-title="China3",嘉佳卡通
+http://223.110.241.204:6610/gitv/live1/G_JIAJIA/G_JIAJIA
+#EXTINF:-1 group-title="China3",农林卫视
+http://223.110.241.204:6610/gitv/live1/G_NONGLIN/G_NONGLIN
+#EXTINF:-1 group-title="China3",老故事
+http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI
+#EXTINF:-1 group-title="China3",中国交通频道
+http://223.110.241.204:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT
+#EXTINF:-1 group-title="China3",国学频道
+http://223.110.241.204:6610/gitv/live1/G_GUOXUE/G_GUOXUE
+#EXTINF:-1 group-title="China3",篮球
+http://223.110.241.204:6610/gitv/live1/G_LANQIU/G_LANQIU
+#EXTINF:-1 group-title="China3",卡酷少儿
+http://223.110.241.204:6610/gitv/live1/G_KAKU/G_KAKU
+#EXTINF:-1 group-title="China3",金鹰卡通
+http://223.110.241.204:6610/gitv/live1/G_JINYING/G_JINYING
+#EXTINF:-1 group-title="China3",炫动卡通
+http://223.110.241.204:6610/gitv/live1/G_XUANDONG/G_XUANDONG
+#EXTINF:-1 group-title="China3",湖南卫视
+http://223.110.241.204:6610/gitv/live1/G_HUNAN/G_HUNAN
+#EXTINF:-1 group-title="China3",北京卫视
+http://223.110.241.204:6610/gitv/live1/G_BEIJING/G_BEIJING
+#EXTINF:-1 group-title="China3",浙江卫视
+http://223.110.241.204:6610/gitv/live1/G_ZHEJIANG/G_ZHEJIANG
+#EXTINF:-1 group-title="China3",东方卫视
+http://223.110.241.204:6610/gitv/live1/G_DONGFANG/G_DONGFANG
+#EXTINF:-1 group-title="China3",陕西卫视
+http://223.110.241.204:6610/gitv/live1/G_SHANXI/G_SHANXI
+#EXTINF:-1 group-title="China3",CCTV-1
+http://223.110.241.204:6610/gitv/live1/G_CCTV-1/G_CCTV-1
+#EXTINF:-1 group-title="China3",CCTV-2
+http://223.110.241.204:6610/gitv/live1/G_CCTV-2/G_CCTV-2
+#EXTINF:-1 group-title="China3",CCTV-3
+http://223.110.241.204:6610/gitv/live1/G_CCTV-3-HD/G_CCTV-3-HD
+#EXTINF:-1 group-title="China3",CCTV-5
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HD/G_CCTV-5-HD
+#EXTINF:-1 group-title="China3",CCTV-8
+http://223.110.241.204:6610/gitv/live1/G_CCTV-8/G_CCTV-8
 
 
 
@@ -14404,6 +14871,1332 @@ http://pwq.v-sat.org:25461/live/qy4xcbFuER/wagbKwu0Do/9826.ts|user-agent=BoX@das
 #EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",
 
 
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="beIN_Max1_512" tvg-logo="http://2111.space:25461/max/1.png" ,beIN_Max1_512
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/683.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="beIN_Max2_512" tvg-logo="http://2111.space:25461/max/2.png" ,beIN_Max2_512
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/682.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeIN_Sport_MAX 1_World_Cup(1MB)" tvg-logo="http://2111.space:25461/max/1.png" ,BeIN_Sport_MAX 1_World_Cup(1MB)
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1769.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeIN_Sport_MAX 2_World_Cup(1MB)" tvg-logo="http://2111.space:25461/max/2.png" ,BeIN_Sport_MAX 2_World_Cup(1MB)
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1770.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeIN_Sport_MAX 1_World_Cup (2M)" tvg-logo="http://2111.space:25461/max/1.png",BeIN_Sport_MAX 1_World_Cup (2M)
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1761.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeIN_Sport_MAX 2_World_Cup (2M)" tvg-logo="http://2111.space:25461/max/2.png",BeIN_Sport_MAX 2_World_Cup (2M)
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1762.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein1 1M" ,Bein1 1M
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1286.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein2 1M" ,Bein2 1M
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1285.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein3 1M" ,Bein3 1M
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1284.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein4 1M" ,Bein4 1M
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1283.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein5 1M" ,Bein5 1M
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1282.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein6 1M" ,Bein6 1M
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1281.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein7 1M" ,Bein7 1M
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1280.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein8 1M" ,Bein8 1M
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1279.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein9 1M" ,Bein9 1M
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1278.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein10 1M" ,Bein10 1M
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1277.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein1 2M" ,Bein1 2M
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1296.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein2 2M" ,Bein2 2M
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1295.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein3 2M" ,Bein3 2M
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1294.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein4 2M" ,Bein4 2M
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1293.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein5 2M" ,Bein5 2M
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1292.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein6 2M" ,Bein6 2M
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1291.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein7 2M" ,Bein7 2M
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1290.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein8 2M" ,Bein8 2M
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1289.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein9 2M" ,Bein9 2M
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1288.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein10 2M" ,Bein10 2M
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1287.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport1 512 KBB" ,BeinSport1 512 KBB
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1336.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport2 512 KBB" ,BeinSport2 512 KBB
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1335.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport3 512 KBB" ,BeinSport3 512 KBB
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1334.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport4 512 KBB" ,BeinSport4 512 KBB
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1333.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport5 512 KBB" ,BeinSport5 512 KBB
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1332.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport6 512 KBB" ,BeinSport6 512 KBB
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1331.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport7 512 KBB" ,BeinSport7 512 KBB
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1330.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport8 512 KBB" ,BeinSport8 512 KBB
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1329.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport9 512 KBB" ,BeinSport9 512 KBB
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1328.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport10 512 KBB" ,BeinSport10 512 KBB
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1327.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport1_VERY_LOW" ,BeinSport1_VERY_LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1356.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport 2 VERY LOW" ,BeinSport 2 VERY LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1355.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport 3 VERY LOW" ,BeinSport 3 VERY LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1354.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport 4 VERY LOW" ,BeinSport 4 VERY LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1353.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport 5 VERY LOW" ,BeinSport 5 VERY LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1352.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport 6 VERY LOW" ,BeinSport 6 VERY LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1351.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport_7_VERY_LOW" ,BeinSport_7_VERY_LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1350.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport 8 VERY LOW" ,BeinSport 8 VERY LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1349.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport 9 VERY LOW" ,BeinSport 9 VERY LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1348.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport 10 VERY LOW" ,BeinSport 10 VERY LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1347.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport1 512 KB LOW" ,BeinSport1 512 KB LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1326.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport2 512KB LOW" ,BeinSport2 512KB LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1325.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport3 512KB LOW" ,BeinSport3 512KB LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1324.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport4 512KB LOW" ,BeinSport4 512KB LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1323.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport5 512KB LOW" ,BeinSport5 512KB LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1322.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport6 512KB LOW" ,BeinSport6 512KB LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1321.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport7 512KB LOW" ,BeinSport7 512KB LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1320.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport8 512KB LOW" ,BeinSport8 512KB LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1319.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport9 512KB LOW" ,BeinSport9 512KB LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1318.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport10 512KB LOW" ,BeinSport10 512KB LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1317.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport1 1MB LOW" ,BeinSport1 1MB LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1346.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport 2 1MB LOW" ,BeinSport 2 1MB LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1345.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport 3 1MB LOW" ,BeinSport 3 1MB LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1344.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport 4 1MB LOW" ,BeinSport 4 1MB LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1343.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport5 1MB LOW" ,BeinSport5 1MB LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1342.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport6 1MB LOW" ,BeinSport6 1MB LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1341.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport7_1MB_LOW" ,BeinSport7_1MB_LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1340.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport8 1MB LOW" ,BeinSport8 1MB LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1339.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport9 1MB LOW" ,BeinSport9 1MB LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1338.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport10 1MB LOW" ,BeinSport10 1MB LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1337.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport1 FULL HD" ,BeinSport1 FULL HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1316.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport2 FULL HD" ,BeinSport2 FULL HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1315.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport3 FULL HD" ,BeinSport3 FULL HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1314.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport4 FULL HD" ,BeinSport4 FULL HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1313.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport5 FULL HD" ,BeinSport5 FULL HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1312.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport6 FULL HD" ,BeinSport6 FULL HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1311.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport7 FULL HD" ,BeinSport7 FULL HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1310.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport8 FULL HD" ,BeinSport8 FULL HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1309.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport9 FULL HD" ,BeinSport9 FULL HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1308.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport10 FULL HD" ,BeinSport10 FULL HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1307.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport1 4KB PLUSE" ,BeinSport1 4KB PLUSE
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1306.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport2 4KB PLUSE" ,BeinSport2 4KB PLUSE
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1305.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport3 4KB PLUSE" ,BeinSport3 4KB PLUSE
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1304.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport4 4KB PLUSE" ,BeinSport4 4KB PLUSE
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1303.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport5 4KB PLUSE" ,BeinSport5 4KB PLUSE
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1302.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport6 4KB PLUSE" ,BeinSport6 4KB PLUSE
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1301.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport7 4KB PLUSE" ,BeinSport7 4KB PLUSE
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1300.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport8 4KB PLUSE" ,BeinSport8 4KB PLUSE
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1299.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport9 4KB PLUSE" ,BeinSport9 4KB PLUSE
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1298.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeinSport10 4KB PLUSE" ,BeinSport10 4KB PLUSE
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1297.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN_SPORT_High_Definition_1" ,BEIN_SPORT_High_Definition_1
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1748.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN_SPORT_High_Definition_2" ,BEIN_SPORT_High_Definition_2
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1749.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN_SPORT_High_Definition_3" ,BEIN_SPORT_High_Definition_3
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1750.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN_SPORT_High_Definition_4" ,BEIN_SPORT_High_Definition_4
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1751.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN_SPORT_High_Definition_5" ,BEIN_SPORT_High_Definition_5
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1752.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN_SPORT_High_Definition_6" ,BEIN_SPORT_High_Definition_6
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1753.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN_SPORT_High_Definition_7" ,BEIN_SPORT_High_Definition_7
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1754.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN_SPORT_High_Definition_8" ,BEIN_SPORT_High_Definition_8
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1755.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN_SPORT_High_Definition_9" ,BEIN_SPORT_High_Definition_9
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1756.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN_SPORT_High_Definition_10" ,BEIN_SPORT_High_Definition_10
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1757.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN_SPORT_1_SD_VERY_FAST" ,BEIN_SPORT_1_SD_VERY_FAST
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1738.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN_SPORT_2_SD_VERY_FAST" ,BEIN_SPORT_2_SD_VERY_FAST
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1739.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEINN_SPORTS_3_SD_VERY_FAST" ,BEINN_SPORTS_3_SD_VERY_FAST
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1740.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN_SPORTS_4_SD_VERY_FAST" ,BEIN_SPORTS_4_SD_VERY_FAST
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1741.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN_SPORTS_5_SD_VERY_FAST" ,BEIN_SPORTS_5_SD_VERY_FAST
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1742.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN_SPORTS_6_SD_VERY_FAST" ,BEIN_SPORTS_6_SD_VERY_FAST
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1743.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN_SPORTS_7_SD_VERY_FAST" ,BEIN_SPORTS_7_SD_VERY_FAST
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1744.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN_SPORTS_8_SD_VERY_FAST" ,BEIN_SPORTS_8_SD_VERY_FAST
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1745.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN_SPORTS_9_SD_VERY_FAST" ,BEIN_SPORTS_9_SD_VERY_FAST
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1746.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN_SPORTS_10_SD_VERY_FAST" ,BEIN_SPORTS_10_SD_VERY_FAST
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1747.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein Sports1 EX" ,Bein Sports1 EX
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1276.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein Sports2 EX" ,Bein Sports2 EX
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1275.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein Sports3 EX" ,Bein Sports3 EX
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1274.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein Sports4 EX" ,Bein Sports4 EX
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1273.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein Sports5 EX" ,Bein Sports5 EX
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1272.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein Sports6 EX" ,Bein Sports6 EX
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1271.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein Sports7 EX" ,Bein Sports7 EX
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1270.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein Sports8 EX" ,Bein Sports8 EX
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1269.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein Sports9 EX" ,Bein Sports9 EX
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1268.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein Sports10 EX" ,Bein Sports10 EX
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1267.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ART:AFLAM1" ,ART:AFLAM1
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1264.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ART:AFLAM2" ,ART:AFLAM2
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1263.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ART:CINEMA" ,ART:CINEMA
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1262.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ART:Hekayat1" ,ART:Hekayat1
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1266.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ART:Hekayat2" ,ART:Hekayat2
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1265.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein:Movies-1-HD" ,Bein:Movies-1-HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/524.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein:Movies-2-HD" ,Bein:Movies-2-HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/523.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein:Movies-3-HD" ,Bein:Movies-3-HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/522.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein:Movies-4-HD" ,Bein:Movies-4-HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/521.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeIN:BARAEM" ,BeIN:BARAEM
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1638.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN:Be.Junior" ,BEIN:Be.Junior
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1637.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeIN:BOX  MY HD" ,BeIN:BOX  MY HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1636.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN:D_life" ,BEIN:D_life
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1635.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN:FILMBOX" ,BEIN:FILMBOX
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1634.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN:FIX.FOXI" ,BEIN:FIX.FOXI
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1633.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeIN:Fox Family" ,BeIN:Fox Family
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1632.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN:FOX MOVIES HD" ,BEIN:FOX MOVIES HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1631.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BEIN:FX HD" ,BEIN:FX HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1630.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeIN:JimJim" ,BeIN:JimJim
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1629.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeIN:JUNIOR_HD" ,BeIN:JUNIOR_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1628.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="###### MBC ######" ,###### MBC ######
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/520.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MBC_1" tvg-logo="http://2111.space:25461/apk/MBC/Mbc1.png" ,MBC_1
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/519.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MBC_2_HD" ,MBC_2_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/518.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MBC_3_HD" ,MBC_3_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/517.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MBC_4_HD" ,MBC_4_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/516.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MBC_MAX_HD" ,MBC_MAX_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/511.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MBC_ACTION_HD" ,MBC_ACTION_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/510.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MBC_Bollywood_HD" ,MBC_Bollywood_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/508.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MBC_Variety_HD" ,MBC_Variety_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/509.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MBC _Drama _HD" ,MBC _Drama _HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/514.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MBC_Drama _HD" ,MBC_Drama _HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/515.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MBC_Masr" ,MBC_Masr
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/513.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MBC_Masr_2" ,MBC_Masr_2
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/512.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MBC_SPORTS_1" ,MBC_SPORTS_1
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/507.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MBC_SPORTS_2" ,MBC_SPORTS_2
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/506.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MBC_SPORTS_3" ,MBC_SPORTS_3
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/505.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="###### OSN ######" ,###### OSN ######
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/504.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Movies HD" ,OSN_Movies HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/503.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Movies 2h" ,OSN_Movies 2h
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/502.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Movies Firest" ,OSN_Movies Firest
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/500.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Movies_Action" ,OSN_Movies_Action
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/499.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Movies_Comedy" ,OSN_Movies_Comedy
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/498.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_First HBO" ,OSN_First HBO
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/501.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_MOVIES_FESTIVAL_HD" ,OSN_MOVIES_FESTIVAL_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/497.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Movies_Thriller" ,OSN_Movies_Thriller
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/496.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Box-OFFICE-1" ,OSN_Box-OFFICE-1
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/492.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_BOX-OFFICE-2" ,OSN_BOX-OFFICE-2
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/491.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_BOX-OFFICE-3" ,OSN_BOX-OFFICE-3
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/490.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Series HD" ,OSN_Series HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/495.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Star_Movis" ,OSN_Star_Movis
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/494.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Star_World" ,OSN_Star_World
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/493.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_ALYAWM HD" ,OSN_ALYAWM HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/461.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_ANIMAL-PLANET" ,OSN_ANIMAL-PLANET
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/487.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_B4U-Aflam" ,OSN_B4U-Aflam
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/486.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_BBC First HD" ,OSN_BBC First HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/485.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Comedy Central HD" ,OSN_Comedy Central HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/489.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Discovery Family HD" ,OSN_Discovery Family HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/484.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Discovery IDX HD" ,OSN_Discovery IDX HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/483.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Discovery_Channel" ,OSN_Discovery_Channel
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/482.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_DISCOVERY_SCIENCE" ,OSN_DISCOVERY_SCIENCE
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/481.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Disney Channel HD" ,OSN_Disney Channel HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/480.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Disney Junior" ,OSN_Disney Junior
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/479.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Disney XD" ,OSN_Disney XD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/478.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Fight Box HD" ,OSN_Fight Box HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/475.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Movies Kids HD" ,OSN_Movies Kids HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/488.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Nat Geo" ,OSN_Nat Geo
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/472.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_NAT_GEO_WILD" ,OSN_NAT_GEO_WILD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/470.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Nickelodeon HD" ,OSN_Nickelodeon HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/469.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_CENIMA1" ,OSN_CENIMA1
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/464.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_CENIMA2" ,OSN_CENIMA2
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/463.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Yahala HD" ,OSN_Yahala HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/468.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Yahala Alaula" ,OSN_Yahala Alaula
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/467.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Yahala Cinema" ,OSN_Yahala Cinema
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/465.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_MUSALSALAT" ,OSN_MUSALSALAT
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/466.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_MUSIC_NOW" ,OSN_MUSIC_NOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/462.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_Syfy" ,OSN_Syfy
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/459.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN_WWE" ,OSN_WWE
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/454.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="####### EGYPT #######" ,####### EGYPT #######
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/452.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Nile_SPORT" ,EGY:Nile_SPORT
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1261.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:ON_SPORT" ,EGY:ON_SPORT
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1260.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Dmc_Sports" ,EGY:Dmc_Sports
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1259.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:AlAhly" ,EGY:AlAhly
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1258.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:DMC_HD" ,EGY:DMC_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1253.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:DMC_DREAMA" ,EGY:DMC_DREAMA
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1254.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:ON_DRAMA" ,EGY:ON_DRAMA
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1257.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:ON E HD" ,EGY:ON E HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1256.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:ON_TV" ,EGY:ON_TV
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1255.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Nile News" ,EGY:Nile News
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1248.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Nile_Cinema" ,EGY:Nile_Cinema
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1251.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Nile_Comedy" ,EGY:Nile_Comedy
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1250.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:NILE_Drama" ,EGY:NILE_Drama
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1252.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Nile_Family" ,EGY:Nile_Family
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1249.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Rotana_Classic" ,EGY:Rotana_Classic
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1234.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:ROTANA_CLIP" ,EGY:ROTANA_CLIP
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1233.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Rotana_drama" ,EGY:Rotana_drama
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1232.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Rotana_Khalijia" ,EGY:Rotana_Khalijia
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1231.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:ROTANA_MASRIA" ,EGY:ROTANA_MASRIA
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1230.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:rotana_music" ,EGY:rotana_music
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1229.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Rotana-Aflem" ,EGY:Rotana-Aflem
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1236.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:rotana-cinema" ,EGY:rotana-cinema
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1235.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:AlHayat" ,EGY:AlHayat
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1228.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:AlHayat2" ,EGY:AlHayat2
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1227.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Alkahera Wa Alnas 2" ,EGY:Alkahera Wa Alnas 2
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1243.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:AlKAHERA_WALNAS" ,EGY:AlKAHERA_WALNAS
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1244.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Mekameleen" ,EGY:Mekameleen
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1245.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Almehwar" ,EGY:Almehwar
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1247.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Sada Drama" ,EGY:Sada Drama
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1242.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:SADA_EL_BALAD" ,EGY:SADA_EL_BALAD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1200.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Al-Nahar-Drama" ,EGY:Al-Nahar-Drama
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1218.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:AlNahar" ,EGY:AlNahar
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1210.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:AlNahar-drama" ,EGY:AlNahar-drama
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1209.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:alrai" ,EGY:alrai
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1208.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:alsharka" ,EGY:alsharka
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1207.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:B4U_Aflam" ,EGY:B4U_Aflam
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1215.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:B4U_PLUS" ,EGY:B4U_PLUS
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1214.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:CAIRO_AFLAM" ,EGY:CAIRO_AFLAM
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1213.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:cairo_drama" ,EGY:cairo_drama
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1204.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:CBC" ,EGY:CBC
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1241.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:CBC_DRAMA" ,EGY:CBC_DRAMA
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1239.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:CBC_EXTRA" ,EGY:CBC_EXTRA
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1238.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:CBC_SOFRA" ,EGY:CBC_SOFRA
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1237.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:darbaka_aflam" ,EGY:darbaka_aflam
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1203.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:DREAM" ,EGY:DREAM
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1226.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:dream 2" ,EGY:dream 2
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1202.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:elsharq" ,EGY:elsharq
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1246.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:alforsan" ,EGY:alforsan
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1212.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Mazzika" ,EGY:Mazzika
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1217.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Melody_CINEMA" ,EGY:Melody_CINEMA
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1225.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:MELODY_CLASSIC" ,EGY:MELODY_CLASSIC
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1224.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Melody_Drama" ,EGY:Melody_Drama
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1223.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Moga_Comedy" ,EGY:Moga_Comedy
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1201.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Panorama Food" ,EGY:Panorama Food
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1222.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:panorama_film" ,EGY:panorama_film
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1219.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Panorama-Drama1" ,EGY:Panorama-Drama1
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1221.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Panorama-Drama2" ,EGY:Panorama-Drama2
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1220.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:toktok_cinema" ,EGY:toktok_cinema
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1199.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:ZEE_ALWAN" ,EGY:ZEE_ALWAN
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1197.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MAR_2M_MARoc" ,MAR_2M_MARoc
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1614.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MAR_Al_Oula_MMARoc" ,MAR_Al_Oula_MMARoc
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1613.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MAR_ARrabiaa" ,MAR_ARrabiaa
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1612.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MAR_Arryadia" ,MAR_Arryadia
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1611.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MAR_Assadissa" ,MAR_Assadissa
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1610.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MAR_GM Agricole TV" ,MAR_GM Agricole TV
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1609.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MAR_GM Katakit TV" ,MAR_GM Katakit TV
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1608.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MAR_TAMAZIGHT_MMAROC" ,MAR_TAMAZIGHT_MMAROC
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1607.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MAR_Téle maroc" ,MAR_Téle maroc
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1606.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saudi_24 SPORT" ,Saudi_24 SPORT
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1602.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saudi_Ajyal" ,Saudi_Ajyal
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1601.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saudi_Almajd Edu" ,Saudi_Almajd Edu
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1600.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saudi_Almajd_hadeeth" ,Saudi_Almajd_hadeeth
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1599.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saudi_NEWS" ,Saudi_NEWS
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1598.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saudi_Quran" ,Saudi_Quran
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1597.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saudi_SAUDI_24" ,Saudi_SAUDI_24
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1593.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saudi_SAUDI1" ,Saudi_SAUDI1
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1596.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saudi_SAUDI2" ,Saudi_SAUDI2
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1595.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saudi_Saudia" ,Saudi_Saudia
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1594.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saudi_Sport" ,Saudi_Sport
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1592.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saudi_SUNNA" ,Saudi_SUNNA
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1591.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saudi_Thakafya" ,Saudi_Thakafya
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1605.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saudi_Tv1" ,Saudi_Tv1
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1604.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saudi_Tv2" ,Saudi_Tv2
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1603.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="LEBANON_ALJADEED" ,LEBANON_ALJADEED
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1623.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="LEBANON_ALMANAR" ,LEBANON_ALMANAR
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1622.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="LEBANON_FUTURE" ,LEBANON_FUTURE
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1621.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="LEBANON_LBC" ,LEBANON_LBC
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1620.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="LEBANON_LDC" ,LEBANON_LDC
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1619.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="LEBANON_Lebanon TV" ,LEBANON_Lebanon TV
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1618.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="LEBANON_MTV" ,LEBANON_MTV
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1617.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="LEBANON_NBN" ,LEBANON_NBN
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1616.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="LEBANON_OTV" ,LEBANON_OTV
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1615.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ALG_Algeria 5" ,ALG_Algeria 5
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1627.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ALG_algerie" ,ALG_algerie
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1626.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ALG_BAHIA" ,ALG_BAHIA
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1625.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ALG_DZAIR_TV" ,ALG_DZAIR_TV
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1624.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="TUN_Aljanoubia" ,TUN_Aljanoubia
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1588.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="TUN_Attessia" ,TUN_Attessia
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1590.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="TUN_M-Tunisia" ,TUN_M-Tunisia
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1589.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="TUN_Nessma" ,TUN_Nessma
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1585.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="TUN_Tunisna" ,TUN_Tunisna
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1587.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="TUN_Zaytouna" ,TUN_Zaytouna
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1586.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ALG_A3" ,ALG_A3
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1693.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ALG_AL NAHAR" ,ALG_AL NAHAR
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1692.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ALG_AL_JAZAIRIA" ,ALG_AL_JAZAIRIA
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1691.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ALG_Benna" ,ALG_Benna
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1690.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ALG_Berbère Jeunesse" ,ALG_Berbère Jeunesse
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1689.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ALG_Berbère Télévision" ,ALG_Berbère Télévision
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1688.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ALG_BEUR_TV" ,ALG_BEUR_TV
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1687.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ALG_Canal-Algerie" ,ALG_Canal-Algerie
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1686.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ALG_CHOUROUK" ,ALG_CHOUROUK
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1685.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ALG_D-zair-news" ,ALG_D-zair-news
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1684.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ALG_EL_FADJR TV" ,ALG_EL_FADJR TV
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1682.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ALG_EL-BILAD-TV" ,ALG_EL-BILAD-TV
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1683.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ALG_rai music1" ,ALG_rai music1
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1681.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ALG_SAMIRA TV" ,ALG_SAMIRA TV
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1680.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="ALGEREIA AFLAM 1" ,ALGEREIA AFLAM 1
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1679.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Emarat" ,Emarat
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1678.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Emarat_Abu_Dubai_1" ,Emarat_Abu_Dubai_1
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1677.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Emarat_Dubai" ,Emarat_Dubai
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1676.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Emarat_Dubai_Sports-3" ,Emarat_Dubai_Sports-3
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1672.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Emarat_Dubai_Sports-4" ,Emarat_Dubai_Sports-4
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1671.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EMARAt_DUBAI-SPORT" ,EMARAt_DUBAI-SPORT
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1675.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Emarat_Dubai-Sport_1.HD" ,Emarat_Dubai-Sport_1.HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1674.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Emarat_DubaiSport2_HD" ,Emarat_DubaiSport2_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1673.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Emarat_Nat.Geo-Abudhabi" ,Emarat_Nat.Geo-Abudhabi
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1670.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Emarat_Noor.Dubai" ,Emarat_Noor.Dubai
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1669.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Emarat_One.Dubai" ,Emarat_One.Dubai
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1668.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Emarat_Sama.Dubai" ,Emarat_Sama.Dubai
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1667.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Emarat_Zaman.Dubai" ,Emarat_Zaman.Dubai
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1666.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Kuwait_:ALRay" ,Kuwait_:ALRay
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1665.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Kuwait_Alaraby" ,Kuwait_Alaraby
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1664.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Kuwait_Almajlis" ,Kuwait_Almajlis
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1663.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Kuwait_AlQurain" ,Kuwait_AlQurain
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1662.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Kuwait_Ethraa" ,Kuwait_Ethraa
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1661.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Kuwait_Kuwait 1" ,Kuwait_Kuwait 1
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1660.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Kuwait_Kuwait2" ,Kuwait_Kuwait2
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1659.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Kuwait_Plus" ,Kuwait_Plus
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1658.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Kuwait_Sport" ,Kuwait_Sport
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1657.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Kuwait_Sport-Plus" ,Kuwait_Sport-Plus
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1656.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="SYRIA_DRAMA" ,SYRIA_DRAMA
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1648.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="SYRIA_HALAB_TODAY" ,SYRIA_HALAB_TODAY
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1647.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="SYRIA_Medical" ,SYRIA_Medical
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1646.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="SYRIA_News" ,SYRIA_News
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1645.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="SYRIA_NUUR_Acham_SYRIA" ,SYRIA_NUUR_Acham_SYRIA
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1644.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="SYRIA_Orient" ,SYRIA_Orient
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1643.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="SYRIA_Sama" ,SYRIA_Sama
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1642.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="SYRIA_Syria_TV" ,SYRIA_Syria_TV
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1641.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="TUN_ALMUSTAKILLAH" ,TUN_ALMUSTAKILLAH
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1655.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="TUN_Hannibal" ,TUN_Hannibal
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1654.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="TUN_TELVAZA TV" ,TUN_TELVAZA TV
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1653.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="TUN_Tunisia-NAT_1" ,TUN_Tunisia-NAT_1
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1652.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="TUN_Tunisia-NAT_2" ,TUN_Tunisia-NAT_2
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1651.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="TUN_Zaytouna_Hidaya" ,TUN_Zaytouna_Hidaya
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1650.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="TUN_Zitouna-TV" ,TUN_Zitouna-TV
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1649.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="###### NEWS_ARABIC ######" ,###### NEWS_ARABIC ######
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1554.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="NEWS_AlJazeera" ,NEWS_AlJazeera
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1553.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="NEWS_Aljazeera mubasher" ,NEWS_Aljazeera mubasher
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1552.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="NEWS_AlJazeera_Documentary" ,NEWS_AlJazeera_Documentary
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1551.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="NEWS_ANN" ,NEWS_ANN
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1547.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="NEWS_AlArabiya" ,NEWS_AlArabiya
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1550.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="NEWS_Alhiwar" ,NEWS_Alhiwar
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1549.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="NEWS_Al MANAR TV" ,NEWS_Al MANAR TV
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1546.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="NEWS_alhadath" ,NEWS_alhadath
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1548.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="NEWS_BBC_Arabia" ,NEWS_BBC_Arabia
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1545.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="NEWS_DW_ Alarabiya" ,NEWS_DW_ Alarabiya
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1544.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="NEWS_FRANCE_24_(AR)" ,NEWS_FRANCE_24_(AR)
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1543.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="NEWS_SKY_NEWS_ARABIA" ,NEWS_SKY_NEWS_ARABIA
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1542.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="NEWS_TRT Arabic" ,NEWS_TRT Arabic
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1541.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="##### IPSAT #######" ,##### IPSAT #######
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/788.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein_1 LOW" ,Bein_1 LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/943.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein_2 LOW" ,Bein_2 LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/942.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein_3 LOW" ,Bein_3 LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/941.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein_4 LOW" ,Bein_4 LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/940.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein_5 LOW" ,Bein_5 LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/939.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein_6 LOW" ,Bein_6 LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/938.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein_7 LOW" ,Bein_7 LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/937.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein_8 LOW" ,Bein_8 LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/936.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein_9 LOW" ,Bein_9 LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/935.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein_10 LOW" ,Bein_10 LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/934.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="beIN-Max1" ,beIN-Max1
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1053.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="beIN-Max2" ,beIN-Max2
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1052.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein-Movies-1-HD" ,Bein-Movies-1-HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/524.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein-Movies-2-HD" ,Bein-Movies-2-HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/523.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein-Movies-3-HD" ,Bein-Movies-3-HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/522.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein-Movies-4-HD" ,Bein-Movies-4-HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/521.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Movies HD" ,OSN-Movies HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1047.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Movies 2h" ,OSN-Movies 2h
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1046.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Movies Firest" ,OSN-Movies Firest
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1045.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Movies Kids HD" ,OSN-Movies Kids HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1017.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Movies-Action" ,OSN-Movies-Action
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1044.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Movies-Comedy" ,OSN-Movies-Comedy
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1043.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-MOVIES-FESTIVAL-HD" ,OSN-MOVIES-FESTIVAL-HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1041.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Movies-Thriller" ,OSN-Movies-Thriller
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1040.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-MUSALSALAT" ,OSN-MUSALSALAT
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1002.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-MUSIC-NOW" ,OSN-MUSIC-NOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1001.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Star-Movis" ,OSN-Star-Movis
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1035.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Star-World" ,OSN-Star-World
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1034.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Yahala Alaula" ,OSN-Yahala Alaula
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1004.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Yahala Cinema" ,OSN-Yahala Cinema
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1003.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Yahala HD" ,OSN-Yahala HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1005.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-CENIMA1" ,OSN-CENIMA1
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1007.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-CENIMA2" ,OSN-CENIMA2
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1006.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-ALYAWM HD" ,OSN-ALYAWM HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1032.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-ANIMAL-PLANET" ,OSN-ANIMAL-PLANET
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1031.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-B4U-Aflam" ,OSN-B4U-Aflam
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1030.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-BBC First HD" ,OSN-BBC First HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1029.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Box-OFFICE-1" ,OSN-Box-OFFICE-1
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1039.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-BOX-OFFICE-2" ,OSN-BOX-OFFICE-2
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1038.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-BOX-OFFICE-3" ,OSN-BOX-OFFICE-3
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1037.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Comedy Central HD" ,OSN-Comedy Central HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1028.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Discovery Family HD" ,OSN-Discovery Family HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1027.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Discovery IDX HD" ,OSN-Discovery IDX HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1026.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Discovery-Channel" ,OSN-Discovery-Channel
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1025.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-DISCOVERY-SCIENCE" ,OSN-DISCOVERY-SCIENCE
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1024.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Disney Channel HD" ,OSN-Disney Channel HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1023.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Disney Junior" ,OSN-Disney Junior
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1022.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Disney XD" ,OSN-Disney XD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1021.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Fight Box HD" ,OSN-Fight Box HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1019.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-First HBO" ,OSN-First HBO
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1042.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Nat Geo" ,OSN-Nat Geo
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1015.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-NAT-GEO-WILD" ,OSN-NAT-GEO-WILD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1013.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Nickelodeon HD" ,OSN-Nickelodeon HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1012.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Series HD" ,OSN-Series HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1036.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-Syfy" ,OSN-Syfy
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1000.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OSN-WWE" ,OSN-WWE
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/999.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="###### Movies Action ######" ,###### Movies Action ######
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/534.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EGY:Zee-Aflam" ,EGY:Zee-Aflam
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1198.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="cenima 1" ,cenima 1
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1362.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="###### Movies Comedy ######" ,###### Movies Comedy ######
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/608.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msrah-Masr 1" ,Msrah-Masr 1
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1445.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msrah-Masr 2" ,Msrah-Masr 2
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1446.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msrah-Masr 3" ,Msrah-Masr 3
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1447.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msrah-Masr 4" ,Msrah-Masr 4
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1448.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msrah_Masr_5" ,Msrah_Masr_5
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1449.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msrah_Masr_6" ,Msrah_Masr_6
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1450.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msrah_Masr_7" ,Msrah_Masr_7
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1451.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msrah-Masr 8" ,Msrah-Masr 8
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1452.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msrah-Masr 9" ,Msrah-Masr 9
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1453.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msrah-Masr 10" ,Msrah-Masr 10
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1454.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msrah-Masr 11" ,Msrah-Masr 11
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1455.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msrah-Masr 12" ,Msrah-Masr 12
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1456.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msrah-Masr 13" ,Msrah-Masr 13
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1457.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msrah-Masr 14" ,Msrah-Masr 14
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1458.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msrah-Masr 15" ,Msrah-Masr 15
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1459.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msrah-Masr 16" ,Msrah-Masr 16
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1460.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msrah-Masr 17" ,Msrah-Masr 17
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1461.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msrah-Masr 18" ,Msrah-Masr 18
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1462.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 1"  ,Ragel Wa 6 Setat 1
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1369.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 2"  ,Ragel Wa 6 Setat 2
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1370.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 3"  ,Ragel Wa 6 Setat 3
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1371.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 4"  ,Ragel Wa 6 Setat 4
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1372.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 5"  ,Ragel Wa 6 Setat 5
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1373.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 6"  ,Ragel Wa 6 Setat 6
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1374.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 7"  ,Ragel Wa 6 Setat 7
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1375.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 8"  ,Ragel Wa 6 Setat 8
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1376.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 9"  ,Ragel Wa 6 Setat 9
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1377.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 10"  ,Ragel Wa 6 Setat 10
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1378.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 11"  ,Ragel Wa 6 Setat 11
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1379.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 12"  ,Ragel Wa 6 Setat 12
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1380.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 13"  ,Ragel Wa 6 Setat 13
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1381.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 14"  ,Ragel Wa 6 Setat 14
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1382.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 15"  ,Ragel Wa 6 Setat 15
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1383.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 16"  ,Ragel Wa 6 Setat 16
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1384.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 17"  ,Ragel Wa 6 Setat 17
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1385.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 18"  ,Ragel Wa 6 Setat 18
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1386.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 19"  ,Ragel Wa 6 Setat 19
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1387.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 20"  ,Ragel Wa 6 Setat 20
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1388.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 21"  ,Ragel Wa 6 Setat 21
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1389.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 22"  ,Ragel Wa 6 Setat 22
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1390.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 23"  ,Ragel Wa 6 Setat 23
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1391.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 24"  ,Ragel Wa 6 Setat 24
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1392.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 25"  ,Ragel Wa 6 Setat 25
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1393.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 26"  ,Ragel Wa 6 Setat 26
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1394.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 27"  ,Ragel Wa 6 Setat 27
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1395.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 28"  ,Ragel Wa 6 Setat 28
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1396.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 29"  ,Ragel Wa 6 Setat 29
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1397.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 30"  ,Ragel Wa 6 Setat 30
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1398.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 31"  ,Ragel Wa 6 Setat 31
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1399.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ragel Wa 6 Setat 32"  ,Ragel Wa 6 Setat 32
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1400.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="##### Majestic #####" ,##### Majestic #####
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1088.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Majestic 1"  ,Majestic 1
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1091.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Majestic 2"  ,Majestic 2
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1359.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Finding-Dori"  ,Finding-Dori
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1433.mkv
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="EKRAR_HADTHA2"  ,EKRAR_HADTHA2
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1435.avi
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Elmarhoma"  ,Elmarhoma
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1436.mkv
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="K-G-2"  ,K-G-2
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1437.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="KHINA-ZAWGIA"  ,KHINA-ZAWGIA
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1434.avi
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan_azoz2"  ,Koptan_azoz2
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1440.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan_azoz3"  ,Koptan_azoz3
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1441.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan_azoz4"  ,Koptan_azoz4
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1442.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="KOPTNA_AZOZ1"  ,KOPTNA_AZOZ1
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1439.mkv
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan_azoz5"  ,Koptan_azoz5
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1443.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan_azoz6"  ,Koptan_azoz6
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1444.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Masra7_MAsr19"  ,Masra7_MAsr19
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1463.mkv
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Masra7_masr20"  ,Masra7_masr20
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1464.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-Azoz10"  ,Koptan-Azoz10
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1468.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-azoz11"  ,Koptan-azoz11
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1469.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-azoz12"  ,Koptan-azoz12
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1470.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-Azoz13"  ,Koptan-Azoz13
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1471.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-azoz14"  ,Koptan-azoz14
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1472.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-Azoz15"  ,Koptan-Azoz15
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1474.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-Azoz16"  ,Koptan-Azoz16
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1475.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-Azoz17"  ,Koptan-Azoz17
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1476.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-azoz18"  ,Koptan-azoz18
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1473.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-azoz19"  ,Koptan-azoz19
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1477.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-Azoz20"  ,Koptan-Azoz20
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1478.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-azoz21"  ,Koptan-azoz21
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1479.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-azoz22"  ,Koptan-azoz22
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1480.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-azoz23"  ,Koptan-azoz23
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1481.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-azoz24"  ,Koptan-azoz24
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1482.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-azoz25"  ,Koptan-azoz25
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1483.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-azoz26"  ,Koptan-azoz26
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1484.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-azoz27"  ,Koptan-azoz27
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1485.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-azoz28"  ,Koptan-azoz28
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1486.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-azoz29"  ,Koptan-azoz29
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1487.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-azoz30"  ,Koptan-azoz30
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1488.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-Azoz7"  ,Koptan-Azoz7
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1465.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-azoz8"  ,Koptan-azoz8
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1466.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Koptan-azoz9"  ,Koptan-azoz9
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1467.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Afro-Samurai"  ,Afro-Samurai
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1489.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bleeding-Steel"  ,Bleeding-Steel
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1490.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Daphne And Velma"  ,Daphne And Velma
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1491.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Dark Crimes"  ,Dark Crimes
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1492.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Dead_List"  ,Dead_List
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1493.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Higher Power"  ,Higher Power
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1494.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Incoming"  ,Incoming
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1495.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Operation Red Sea"  ,Operation Red Sea
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1496.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="The Bourne Supremacy"  ,The Bourne Supremacy
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1497.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="The Death Cure"  ,The Death Cure
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1498.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Wraith"  ,Wraith
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1499.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Cars 3"  ,Cars 3
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1512.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Despicable Me-3 "  ,Despicable Me-3 
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1513.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Frozen Fever"  ,Frozen Fever
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1514.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Moana"  ,Moana
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1515.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Mulan 1"  ,Mulan 1
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1510.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Mulan 2"  ,Mulan 2
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1511.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="S N L Bel Arabi S04 EP02"  ,S N L Bel Arabi S04 EP02
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1501.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="S N L Bel Arabi S04 EP03 "  ,S N L Bel Arabi S04 EP03 
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1502.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saturday Night Live Bilarabi S04 EP05"  ,Saturday Night Live Bilarabi S04 EP05
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1503.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saturday Night Live Bilarabi S04 EP06"  ,Saturday Night Live Bilarabi S04 EP06
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1504.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saturday Night Live Bilarabi S04 EP07"  ,Saturday Night Live Bilarabi S04 EP07
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1505.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saturday Night Live Bilarabi S04 EP08"  ,Saturday Night Live Bilarabi S04 EP08
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1506.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saturday Night Live Bilarabi S04 EP09"  ,Saturday Night Live Bilarabi S04 EP09
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1508.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saturday Night Live Bilarabi S04 EP10"  ,Saturday Night Live Bilarabi S04 EP10
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1507.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saturday Night Live Bilarabi S04 EP11"  ,Saturday Night Live Bilarabi S04 EP11
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1509.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saturday Night Live S04 EP01"  ,Saturday Night Live S04 EP01
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1500.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Smurfs The Lost Village"  ,Smurfs The Lost Village
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1516.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Tinker-Bell 3 And The Great Fairy Rescue"  ,Tinker-Bell 3 And The Great Fairy Rescue
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1517.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Akher Deek Fi Masr"  ,Akher Deek Fi Masr
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1518.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Shadd Agzaa"  ,Shadd Agzaa
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1519.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Shaket-dabous"  ,Shaket-dabous
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1520.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ellimby2"  ,Ellimby2
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1522.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Hwa-Fe-keda"  ,Hwa-Fe-keda
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1523.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Lemby"  ,Lemby
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1524.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MR-And_mrs-Eiwas"  ,MR-And_mrs-Eiwas
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1525.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="OMr_Elazrk"  ,OMr_Elazrk
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1526.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Saber-google"  ,Saber-google
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1521.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Satw-methalth"  ,Satw-methalth
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1527.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Talek-Senay"  ,Talek-Senay
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1529.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Wala_men_shaf_wela_men_dery"  ,Wala_men_shaf_wela_men_dery
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1528.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="the_Debt_Collector"  ,the_Debt_Collector
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1532.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Black_Panther"  ,Black_Panther
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1530.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Masr7-Masr/Masrah Masr S3 E04"  ,Masr7-Masr/Masrah Masr S3 E04
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1533.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Masr7-Masr/Masrah Masr S3 E05"  ,Masr7-Masr/Masrah Masr S3 E05
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1534.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Masr7-Masr/Masrah Masr S3 E06 "  ,Masr7-Masr/Masrah Masr S3 E06 
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1535.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="The-Lurking-Man"  ,The-Lurking-Man
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1531.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Finding-Nemo"  ,Finding-Nemo
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1536.mkv
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Ballerina-2016"  ,Ballerina-2016
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1538.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Barbie-in-The-Pink-Shoes"  ,Barbie-in-The-Pink-Shoes
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1537.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP01"  ,Min Kessas Al-Quran EP01
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1555.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP02"  ,Min Kessas Al-Quran EP02
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1556.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP03"  ,Min Kessas Al-Quran EP03
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1557.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP04"  ,Min Kessas Al-Quran EP04
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1558.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP05"  ,Min Kessas Al-Quran EP05
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1559.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP06"  ,Min Kessas Al-Quran EP06
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1560.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP07"  ,Min Kessas Al-Quran EP07
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1561.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP08"  ,Min Kessas Al-Quran EP08
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1562.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP09"  ,Min Kessas Al-Quran EP09
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1563.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP10"  ,Min Kessas Al-Quran EP10
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1564.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP11"  ,Min Kessas Al-Quran EP11
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1565.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP12"  ,Min Kessas Al-Quran EP12
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1566.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP13"  ,Min Kessas Al-Quran EP13
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1567.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP14"  ,Min Kessas Al-Quran EP14
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1568.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP15"  ,Min Kessas Al-Quran EP15
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1569.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP16"  ,Min Kessas Al-Quran EP16
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1570.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP17"  ,Min Kessas Al-Quran EP17
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1571.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP18"  ,Min Kessas Al-Quran EP18
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1572.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP19"  ,Min Kessas Al-Quran EP19
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1573.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP20"  ,Min Kessas Al-Quran EP20
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1574.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP21"  ,Min Kessas Al-Quran EP21
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1575.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP22"  ,Min Kessas Al-Quran EP22
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1576.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP23"  ,Min Kessas Al-Quran EP23
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1577.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP24"  ,Min Kessas Al-Quran EP24
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1578.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP25"  ,Min Kessas Al-Quran EP25
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1579.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP26"  ,Min Kessas Al-Quran EP26
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1580.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP27"  ,Min Kessas Al-Quran EP27
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1581.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP28"  ,Min Kessas Al-Quran EP28
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1582.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP29"  ,Min Kessas Al-Quran EP29
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1583.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Min Kessas Al-Quran EP30"  ,Min Kessas Al-Quran EP30
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1584.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Mjestic_Cenima1" ,Mjestic_Cenima1
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1640.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Al-hadath-Elyoum" ,Al-hadath-Elyoum
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1697.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="El-masar" ,El-masar
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1695.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="El-salam" ,El-salam
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1696.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Elarabia-news" ,Elarabia-news
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1698.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="M-Cenima" ,M-Cenima
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1694.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="AGHAPYTV" ,AGHAPYTV
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1704.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Al_Zaitona" ,Al_Zaitona
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1714.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="AlKarama" ,AlKarama
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1702.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="AlMalakoot" ,AlMalakoot
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1705.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Aloula_Mghrebia" ,Aloula_Mghrebia
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1700.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="CinemaPro" ,CinemaPro
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1701.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="CNN_NEWS" ,CNN_NEWS
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1699.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="CopticTV" ,CopticTV
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1703.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="El-fady" ,El-fady
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1711.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="El-horya" ,El-horya
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1710.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Elqodas" ,Elqodas
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1709.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="LOGOS2" ,LOGOS2
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1707.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="LOGOS_TV" ,LOGOS_TV
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1712.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="MISR_ELBALD" ,MISR_ELBALD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1708.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="nour_elshark" ,nour_elshark
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1713.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="NourKoddass" ,NourKoddass
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1706.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Movies_1_Premiere_HD" tvg-logo="http://2111.space:25461/bein/3.png" ,Movies_1_Premiere_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1720.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Series_1_HD" tvg-logo="http://2111.space:25461/bein/5.png" ,Series_1_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1726.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="beIN:Movies_2_Action_HD" tvg-logo="http://2111.space:25461/bein/4.png" ,beIN:Movies_2_Action_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1719.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="beIN:Movies_3_Drama_HD" ,beIN:Movies_3_Drama_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1718.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Movies_4_Family_HD" ,Movies_4_Family_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1717.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Gourmet_HD" ,Gourmet_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1727.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Fatafeat_HD" ,Fatafeat_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1729.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Baraeem_HD" ,Baraeem_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1725.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Be_Junior" ,Be_Junior
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1730.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Baby" ,Baby
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1735.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="FOX_Action_Movies_HD" tvg-logo="http://2111.space:25461/bein/4.png" ,FOX_Action_Movies_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1722.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="FOX_Family_Movies_HD" ,FOX_Family_Movies_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1721.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="FOX_HD" ,FOX_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1731.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="FOX_Movies_HD" ,FOX_Movies_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1723.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="FX_HD" ,FX_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1733.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Boomerang_HD" ,Boomerang_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1724.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="DMAX" ,DMAX
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1734.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="DreamWorks" ,DreamWorks
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1728.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="DTX" ,DTX
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1737.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Gulli_Bil_Arabie" ,Gulli_Bil_Arabie
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1716.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="My_Cinema_HD" ,My_Cinema_HD
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1715.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Outdoor" ,Outdoor
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1732.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msr7_Masr_1" ,Msr7_Masr_1
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/574.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msr7_Masr_10" ,Msr7_Masr_10
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/582.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msr7_Masr_11" ,Msr7_Masr_11
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/583.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msr7_Masr_12" ,Msr7_Masr_12
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/584.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msr7_Masr_13" ,Msr7_Masr_13
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/585.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msr7_Masr_14" ,Msr7_Masr_14
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/586.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msr7_Masr_15" ,Msr7_Masr_15
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/587.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msr7_Masr_16" ,Msr7_Masr_16
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/589.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msr7_Masr_17" ,Msr7_Masr_17
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/590.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msr7_Masr_18" ,Msr7_Masr_18
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/591.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msr7_Masr_2" ,Msr7_Masr_2
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/575.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msr7_Masr_3" ,Msr7_Masr_3
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/576.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msr7_Masr_4" ,Msr7_Masr_4
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/577.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msr7_Masr_5" ,Msr7_Masr_5
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/578.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msr7_Masr_6" ,Msr7_Masr_6
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/579.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msr7_Masr_7" ,Msr7_Masr_7
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/580.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msr7_Masr_8" ,Msr7_Masr_8
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/581.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Msr7_Masr_9" ,Msr7_Masr_9
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/588.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="The_BFG_2017" ,The_BFG_2017
+http://2111.space:25461/movie/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1758.mp4
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeIN_Sport_MAX 1_World_Cup" tvg-logo="http://2111.space:25461/max/1.png" ,BeIN_Sport_MAX 1_World_Cup
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1771.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeIN_Sport_MAX 2_World_Cup" tvg-logo="http://2111.space:25461/max/2.png" ,BeIN_Sport_MAX 2_World_Cup
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1772.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="beIN_Max1_512(HIGH)" tvg-logo="http://2111.space:25461/max/1.png" ,beIN_Max1_512(HIGH)
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1776.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="beIN_Max1_512LOW" tvg-logo="http://2111.space:25461/max/1.png" ,beIN_Max1_512LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1773.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="beIN_Max2_512HIGH" tvg-logo="http://2111.space:25461/max/2.png" ,beIN_Max2_512HIGH
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1775.ts
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="beIN_Max2_512LOW" tvg-logo="http://2111.space:25461/max/2.png" ,beIN_Max2_512LOW
+http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1774.ts
 
 
 
