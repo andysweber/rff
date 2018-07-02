@@ -1155,7 +1155,370 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1117.m3u8$http-refferer
 
 #EXTINF:-1 group-title="USA2-PREMIUM",
 
-
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: ABC HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5848.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: CBS HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/8975.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: NBC HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/8976.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Fox HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15092.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Fox 5 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/8974.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: MSNBC HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15097.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: MSNBC FHD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/7846.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: CW HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16781.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: PBS HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16787.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Sundance HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16788.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: National Geographic HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16785.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Discovery Channel HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15296.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Discovery Velocity HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15289.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Discovery Science HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3750.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Discovery Family HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15267.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Investigation Discovery HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3748.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Crime & Investigation HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15213.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Food Network HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15135.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Cooking Channel HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11081.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Animal Planet HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15298.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: A&E HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15282.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: History Channel HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5317.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Destination America HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15307.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Travel Channel HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/2625.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Comedy Central HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16782.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Freeform HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15303.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Hallmark Movies & Mysteries HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19693.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: MTV HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15309.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: VH1 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15315.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: E! HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15301.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: FX HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15291.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: FXX HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3646.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: DIY Network HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15403.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: CBN HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15271.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: AMC HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15299.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: USA Network HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15272.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: HGTV HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15287.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Bet HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15284.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Outdoor HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15268.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Bravo HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15460.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: OWN HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15294.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Spike/Paramount HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15310.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: TLC HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15311.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: TRU TV HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15305.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: TV Land HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15312.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Lifetime HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15295.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Reelz HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15270.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: TBS HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15292.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Disney HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15288.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Nick HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16786.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Nick Jr HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15317.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Cartoon Network HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15300.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: BBC America HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15406.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Big Ten Network HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15290.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Starz East HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15314.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Epix HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15280.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Epix 2 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15281.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: SYFY HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15293.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: TNT HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15304.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: HBO HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15086.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: HBO 2 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15091.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: HBO Signature HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15087.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: HBO Zone HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15089.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: HBO Comedy HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15088.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: HBO Family HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15090.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: CineMax HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15302.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: MoreMax HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15297.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: ThrillerMax HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15306.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Showtime HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15404.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Showtime 2 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15405.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: AFN Pulse
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11499.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: AFN Spectrum
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11498.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: AFN Prime Pacific
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11497.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: AFN Prime Atlantic
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11496.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: AFN Movie
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11495.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Fox News HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/10954.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Fox 50
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/17995.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Fox Business Network HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15308.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: CNN HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15407.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: CNBC HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16780.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Disney Junior HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/18432.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: ABC7 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/18431.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: The Weather Channel HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15285.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: AFN News
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16361.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: California Music Channel
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28255.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: ABC NY HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28483.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: AFN MOVIE
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4144.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Fox HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5879.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: USA Network
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5309.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: CBS NY HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/8595.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: CBS FHD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5351.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: FX HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3662.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: O.W.N HD (oprah winfrey network)
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5330.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Hallmark
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5324.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: HGTV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5318.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: TBS HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5333.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: AMC HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/7645.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Freeform HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3747.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: TLC
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4530.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Diy Network HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3649.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Bravo HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3664.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: The Blaze
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11045.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Fuel HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3945.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: HBO HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5323.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: HBO Siignature
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5320.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: HBO ZONE
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5319.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: HBO Comedy
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5321.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: HBO Family
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5322.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Showtime HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3533.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Showtime 2
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/10733.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Showtime West
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5337.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Starz Edge
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5338.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Starz Cinema HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5335.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Starz Comedy
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/10738.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Cinemax Moremax
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3629.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Cinemax Action Max
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3658.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Cinemax HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5336.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Spike HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5332.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: LIFETIME HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5316.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: TV Land
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/9585.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: HIFI
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4564.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: TNT HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5352.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: SyFy HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5334.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Comedy Central HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3660.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Nicketoons HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5331.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Discovery Velocity
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11075.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: H2
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5325.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: National Geographic HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3634.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Food Network
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5312.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: A & E
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5310.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Animal Planet
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4529.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: E!
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3663.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: VH1 Classic
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/17340.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Cinemax East
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3628.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: World Fashion HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3592.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Amazing Facts TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3647.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Big Ten Network
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3652.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: TSC
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3528.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Disney XD HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3661.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: The Florida Channel
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3530.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Nasa TV HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/2830.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Miami TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3529.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Bet
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3659.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: PBS America
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3603.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: CBN
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12832.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: C-Span1
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3602.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: AMG TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3601.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Smile Of A Child
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3745.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Oxygen
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3654.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Cpac
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3632.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: HSN 1
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3526.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: HSN 2
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3527.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: NBC HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3174.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: CNN HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3159.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: ABC News HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3473.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: CBSN HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5349.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Cozi TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5339.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Fox 59 News
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3651.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: CNBC
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/2624.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: CBN News
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12831.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Bloomberg
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/2833.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: RT Documentary
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/2836.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: RT America HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3644.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: News 12
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5348.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: KTVZ News Channel 21
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3631.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US HD: WGN News Chicago HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3600.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Weather Nation
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/2883.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",US: Pop & Country
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/13977.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",——- Canada ——–
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/10712.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: CHCH
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28247.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: CBC HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15412.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: CBS HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15413.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: CITY HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15414.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: CP 24 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15421.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: CTV HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15415.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: CW HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15416.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: GLOBAL HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15417.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: HBO HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15425.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: HBO 2
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15424.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: HLN HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15426.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: ME TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15418.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: Peach Tree HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15419.m3u8
 
 
 
