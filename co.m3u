@@ -89,7 +89,7 @@ http://master.cystreams.com:25461/live/greek/zagoria/119.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
 http://www.lakatamia.tv/app/chans/cy/smilecy.html|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Youtube)
-https://www.youtube.com/watch?v=ll3n5FCA6jY
+https://www.youtube.com/watch?v=3WL4pySnB8A
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS
 http://gr.euronews.com/live|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://cdn.mypanel.tv/picon/cy/CBCTvMall.cy.png" ,TV Mall
@@ -214,8 +214,8 @@ http://live.astratv.gr:8090/hls/livestream.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/baRnZKA.png",SUPERSTAR
 http://v2.ciclano.io:1935/startv/startv/playlist.m3u
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Youtube)
-https://www.youtube.com/watch?v=ll3n5FCA6jY
-#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Version 1.23)
+https://www.youtube.com/watch?v=3WL4pySnB8A
+#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS
 http://gr.euronews.com/live|webdown
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/aVVUtg" ,TV1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
@@ -315,7 +315,354 @@ http://wpso.com:1936/hls/wzra.m3u8
 
 #EXTINF:-1 group-title="Greece2",
 
-
+#EXTINF:-1 group-title="Greece2" tvg-ID="vouli.gr" tvg-name="GR: Vouli TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vouli_tileorasi_gr.jpg" ,GR: Vouli TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1555.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="EPT1.gr" tvg-name="GR: ERT 1" tvg-logo="https://i.imgur.com/L7uwiCN.jpg" ,GR: ERT 1
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/2844.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="EPT2.gr" tvg-name="GR: ERT 2" tvg-logo="https://i.imgur.com/EOOdgyK.jpg" ,GR: ERT 2
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/2843.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="EPT3.gr" tvg-name="GR: ERT 3" tvg-logo="https://i.imgur.com/JdtlQy6.jpg" ,GR: ERT 3
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15056.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="EPT-HD.gr" tvg-name="GR: ERT HD" tvg-logo="https://i.imgur.com/FAjPxJF.jpg" ,GR: ERT HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4254.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="mega.gr" tvg-name="GR: Mega Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mega_greece.jpg" ,GR: Mega Channel
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3402.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="ANT1.gr" tvg-name="GR: Ant1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/antenna1_gr.jpg" ,GR: Ant1 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16801.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="ANT1.gr" tvg-name="GR: Ant1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/antenna1_gr.jpg" ,GR: Ant1
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1534.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="star.gr" tvg-name="GR: Star HD" tvg-logo="https://i.imgur.com/h5dZVzF.jpg" ,GR: Star HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16797.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="star.gr" tvg-name="GR: Star Channel" tvg-logo="https://i.imgur.com/h5dZVzF.jpg" ,GR: Star Channel
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3680.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="alpha.gr" tvg-name="GR: Alpha HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/alpha_tv.jpg" ,GR: Alpha HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16802.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="alpha.gr" tvg-name="GR: Alpha TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/alpha_tv.jpg" ,GR: Alpha TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1530.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="Skai.gr" tvg-name="GR: Skai HD" tvg-logo="https://i.imgur.com/o5hqruw.jpg" ,GR: Skai HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16798.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="Skai.gr" tvg-name="GR: Skai" tvg-logo="https://i.imgur.com/o5hqruw.jpg" ,GR: Skai
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3681.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="ETV.gr" tvg-name="GR: Epsilon HD" tvg-logo="https://i.imgur.com/gZyYPrt.jpg" ,GR: Epsilon HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16800.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="ETV.gr" tvg-name="GR: Epsilon TV" tvg-logo="https://i.imgur.com/gZyYPrt.jpg" ,GR: Epsilon TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1538.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="Macedonia.gr" tvg-name="GR: Makedonia TV HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/makedonia_tv.jpg" ,GR: Makedonia TV HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16799.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="Macedonia.gr" tvg-name="GR: Makedonia TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/makedonia_tv.jpg" ,GR: Makedonia TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1547.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Art" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/art_tv_gr.jpg" ,GR: Art
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/22633.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Corfu"  ,GR: Corfu
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/75802.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Delta"  ,GR: Delta
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/75803.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Diktio" tvg-logo="https://i.imgur.com/6ct0JRu.jpg" ,GR: Diktio
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/22635.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Ipiros"  ,GR: Ipiros
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/75804.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="Euronews.nws" tvg-name="GR: Euronews HD" tvg-logo="https://i.imgur.com/zzRV1bc.jpg" ,GR: Euronews HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/21033.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="Action24.gr" tvg-name="GR: Action 24" tvg-logo="https://i.imgur.com/JaPe6wX.jpg" ,GR: Action 24
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4247.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="------- Cyprus Channels --------"  ,------- Cyprus Channels --------
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19606.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="RikSat.gr" tvg-name="CY: Rik 1"  ,CY: Rik 1
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15064.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="Rik2" tvg-name="CY: Rik 2"  ,CY: Rik 2
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15065.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="RikSat.gr" tvg-name="CY: Rik Sat"  ,CY: Rik Sat
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15063.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="Megaone" tvg-name="CY: TV One"  ,CY: TV One
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/18420.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="Ant1" tvg-name="CY: Ant1"  ,CY: Ant1
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1533.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="Sigma" tvg-name="CY: Sigma"  ,CY: Sigma
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1550.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="Capital Tv" tvg-name="CY: Capital"  ,CY: Capital
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/18422.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="Cncp" tvg-name="CY: Plus"  ,CY: Plus
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/18421.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="Extra" tvg-name="CY: Extra"  ,CY: Extra
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/18423.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="Madcy" tvg-name="CY: Mad"  ,CY: Mad
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4244.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="CY: Alpha"  ,CY: Alpha
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/29233.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="SmileTV.gr" tvg-name="CY: Smile TV"  ,CY: Smile TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/25614.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="CY: Hunter TV"  ,CY: Hunter TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/18424.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="CY: Cinemania"  ,CY: Cinemania
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28790.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="CY: DNA"  ,CY: DNA
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28788.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="CY: Faros TV"  ,CY: Faros TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28797.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="CY: NRG"  ,CY: NRG
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28795.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="CY: Play TV"  ,CY: Play TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28783.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="CY: Reload Bizz"  ,CY: Reload Bizz
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28787.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="CY: Reload Play"  ,CY: Reload Play
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28786.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="CY: Reload Radio"  ,CY: Reload Radio
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28784.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="CY: RU24"  ,CY: RU24
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28782.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="CY: Spicy"  ,CY: Spicy
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28789.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="CY: TV Mall"  ,CY: TV Mall
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28798.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="CY: 4 Wheels"  ,CY: 4 Wheels
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28785.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="CY: 7 Sports TV"  ,CY: 7 Sports TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28796.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="------- Greek Religious --------"  ,------- Greek Religious --------
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/22632.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="4E.gr" tvg-name="GR: 4E TV" tvg-logo="https://i.imgur.com/cS70eLJ.jpg" ,GR: 4E TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3682.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Lyxnoc" tvg-logo="https://i.imgur.com/HuHrH3J.jpg" ,GR: Lyxnoc
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1545.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="------- Greek Entertainment --------"  ,------- Greek Entertainment --------
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15073.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="natgeoHD.gr" tvg-name="GR: National Geographic HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_gr.jpg" ,GR: National Geographic HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15218.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="NatGeoWild.gr" tvg-name="GR: Nat Geo Wild HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_emea_hd.jpg" ,GR: Nat Geo Wild HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15665.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="Eentertainment.gr" tvg-name="GR: E! Entertainment HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/e_eu.jpg" ,GR: E! Entertainment HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12827.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="FashionTV.gr" tvg-name="GR: Fashion TV HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg" ,GR: Fashion TV HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19710.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="FoodNetwork.gr" tvg-name="GR: Food Network FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/food_network_ca_hd.jpg" ,GR: Food Network FHD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/20382.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="Fineliving.gr" tvg-name="GR: Fine Living FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fine_living_network_emea.jpg" ,GR: Fine Living FHD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/20383.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Luxe TV FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/luxe_tv.jpg" ,GR: Luxe TV FHD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/25267.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="SundanceChannel.gr" tvg-name="GR: Sundance TV HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sundance_channel_us_hd.jpg" ,GR: Sundance TV HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16796.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Greek Series 1" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Greek Series 1
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19671.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Greek Series 2" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Greek Series 2
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19672.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="FOX.gr" tvg-name="GR: Fox HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_gr.jpg" ,GR: Fox HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12824.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="Foxlife.gr" tvg-name="GR: Fox Life HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_gr.jpg" ,GR: Fox Life HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12825.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="discovery.gr" tvg-name="GR: Discovery Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_fr.jpg" ,GR: Discovery Channel
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/10285.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="DiscoveryScience.gr" tvg-name="GR: Discovery Science HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_science_uk.jpg" ,GR: Discovery Science HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15082.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Discovery Showcase HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_hd_showcase_us.jpg" ,GR: Discovery Showcase HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/22411.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="DiscoveryTurboXtra.gr" tvg-name="GR: Discovery Turbo Xtra HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_turbo_xtra_us.jpg" ,GR: Discovery Turbo Xtra HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/10279.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="DiscoveryID.gr" tvg-name="GR: Investigation Discovery HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/investigation_discovery_europe.jpg" ,GR: Investigation Discovery HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/10284.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: ID Xtra HD" tvg-logo="https://i.imgur.com/W9JS8m1.jpg" ,GR: ID Xtra HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/10283.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Greek Documentaries" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Greek Documentaries
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/25695.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="TLC.gr" tvg-name="GR: TLC" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tlc_us.jpg" ,GR: TLC
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/10281.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="CrimeInvestigation.gr" tvg-name="GR: Crime & Investigation HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/crime_investigation_network_uk_hd.jpg" ,GR: Crime & Investigation HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/20327.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OutdoorChannel.gr" tvg-name="GR: Outdoor Channel HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/outdoor_channel_hd.jpg" ,GR: Outdoor Channel HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/21026.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="travel.gr" tvg-name="GR: Travel Channel HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/travel_channel_europe.jpg" ,GR: Travel Channel HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12826.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="ViasatExplore.gr" tvg-name="GR: Viasat Explore" tvg-logo="https://i.imgur.com/GecGIZT.jpg" ,GR: Viasat Explore
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/20384.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="ViasatNature.gr" tvg-name="GR: Viasat Nature" tvg-logo="https://i.imgur.com/HqQidQc.jpg" ,GR: Viasat Nature
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/20326.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="animalplanet.gr" tvg-name="GR: Animal Planet HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_europe.jpg" ,GR: Animal Planet HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/10286.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="BBCEarth.gr" tvg-name="GR: BBC Earth HD" tvg-logo="https://i.imgur.com/V6F9qnI.jpg" ,GR: BBC Earth HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/20325.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="CBSReality.gr" tvg-name="GR: CBS Reality HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cbs_reality.jpg" ,GR: CBS Reality HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19708.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="NauticalChannel.gr" tvg-name="GR: Nautical Channel HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nautical_channel.jpg" ,GR: Nautical Channel HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/21025.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Fishing Channel" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Fishing Channel
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19670.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Hunting Channel" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Hunting Channel
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19698.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Cooking Channel" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Cooking Channel
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/25285.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="BodyInBalance.gr" tvg-name="GR: Body in Balance" tvg-logo="https://i.imgur.com/mkfJWQk.jpg" ,GR: Body in Balance
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/21027.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTEHistory.gr" tvg-name="GR: Cosmote History HD" tvg-logo="https://i.imgur.com/R7BzwdP.jpg" ,GR: Cosmote History HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19610.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="TheHistoryChannel.gr" tvg-name="GR: History Channel HD"  ,GR: History Channel HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/75805.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="ViasatHistory.gr" tvg-name="GR: Viasat History" tvg-logo="https://i.imgur.com/vENBSG0.jpg" ,GR: Viasat History
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19609.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="------- Greek Music --------"  ,------- Greek Music --------
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19712.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="MADGreekz.gr" tvg-name="GR: Nova Mad Greekz" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mad_greekz.jpg" ,GR: Nova Mad Greekz
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/68442.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Greek Music Mix 1" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Greek Music Mix 1
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19674.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Greek Music Mix 2" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Greek Music Mix 2
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19711.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Cannali Music" tvg-logo="https://i.imgur.com/1OBgPZj.jpg" ,GR: Cannali Music
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19607.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="MADTV.gr" tvg-name="GR: Mad TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mad.jpg" ,GR: Mad TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1546.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="MadHits.gr" tvg-name="GR: Mad Hits" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mad_hits.jpg" ,GR: Mad Hits
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27637.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="------- Greek Kids --------"  ,------- Greek Kids --------
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15072.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Kids 1" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Kids 1
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/13950.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Kids 2" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Kids 2
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19654.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Kids 3" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Kids 3
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19655.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Kids 4" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Kids 4
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19656.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Kids 5" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Kids 5
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19657.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="Boomerang.gr" tvg-name="GR: Boomerang" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boomerang_uk.jpg" ,GR: Boomerang
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/68441.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="DisneyChannel.gr" tvg-name="GR: Disney Channel" tvg-logo="https://i.imgur.com/9MfC9du.jpg" ,GR: Disney Channel
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12576.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="DisneyJunior.gr" tvg-name="GR: Disney Junior" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_junior_sur.jpg" ,GR: Disney Junior
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19608.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="DisneyXD.gr" tvg-name="GR: Disney XD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_xd_sur.jpg" ,GR: Disney XD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12575.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="Nickelodeon.gr" tvg-name="GR: Nickelodeon HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_au.jpg" ,GR: Nickelodeon HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5839.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="SmileTV.gr" tvg-name="GR: Smile TV" tvg-logo="https://i.imgur.com/RjPsLnl.jpg" ,GR: Smile TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4253.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="BabyTV.gr" tvg-name="GR: Baby TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baby_tv.jpg" ,GR: Baby TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12578.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Kids" tvg-logo="https://i.imgur.com/EI1Sbes.jpg" ,GR: Kids
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/20328.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="------- Greek Cinema --------"  ,------- Greek Cinema --------
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15071.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="NovaCinema1.gr" tvg-name="VIP GR: Nova Cinema 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nova_cinema1.jpg" ,VIP GR: Nova Cinema 1 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19699.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="NovaCinema2.gr" tvg-name="VIP GR: Nova Cinema 2 HD" tvg-logo="https://i.imgur.com/VNBDmU2.jpg" ,VIP GR: Nova Cinema 2 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27539.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="NovaCinema3.gr" tvg-name="VIP GR: Nova Cinema 3 HD" tvg-logo="https://i.imgur.com/Jm72R5S.jpg" ,VIP GR: Nova Cinema 3 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27540.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="NovaCinema4.gr" tvg-name="VIP GR: Nova Cinema 4 HD" tvg-logo="https://i.imgur.com/MDgol2W.jpg" ,VIP GR: Nova Cinema 4 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27541.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTECinema1.gr" tvg-name="VIP GR: Cosmote Cinema 1 HD" tvg-logo="https://i.imgur.com/HTQQIC3.jpg" ,VIP GR: Cosmote Cinema 1 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11246.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTECinema2.gr" tvg-name="VIP GR: Cosmote Cinema 2 HD" tvg-logo="https://i.imgur.com/DpLHGQF.jpg" ,VIP GR: Cosmote Cinema 2 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11245.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTECinema3.gr" tvg-name="VIP GR: Cosmote Cinema 3 HD" tvg-logo="https://i.imgur.com/lsEQFSN.jpg" ,VIP GR: Cosmote Cinema 3 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11244.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTECinema4.gr" tvg-name="VIP GR: Cosmote Cinema 4 HD" tvg-logo="https://i.imgur.com/plCJanB.jpg" ,VIP GR: Cosmote Cinema 4 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11243.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="VillageCinema.gr" tvg-name="VIP GR: Village Cinema HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/village_cinemas_gr_hd.jpg" ,VIP GR: Village Cinema HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11242.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: NetvTorronto" tvg-logo="https://i.imgur.com/95A19cV.jpg" ,GR: NetvTorronto
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/21032.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Greek Movies 1" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Greek Movies 1
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19719.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Greek Movies 2" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Greek Movies 2
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19720.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Cinema 1 HD" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Cinema 1 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/13944.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Cinema 2 HD" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Cinema 2 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/13949.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Cinema 3 HD" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Cinema 3 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/13945.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Cinema 4 HD" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Cinema 4 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/13948.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Cinema 5 HD" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Cinema 5 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/13943.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="------- Greek Regional --------"  ,------- Greek Regional --------
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15074.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Omega TV" tvg-logo="https://i.imgur.com/akfCVmV.jpg" ,GR: Omega TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4528.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="Kontra.gr" tvg-name="GR: Kontra Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kontra_channel.jpg" ,GR: Kontra Channel
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1543.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Aigaio TV" tvg-logo="https://i.imgur.com/yUu1du5.jpg" ,GR: Aigaio TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1531.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="KritiTV.gr" tvg-name="GR: Krhth Tv" tvg-logo="https://i.imgur.com/tJEjQUD.jpg" ,GR: Krhth Tv
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1544.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: High TV" tvg-logo="https://i.imgur.com/uLs1W4F.jpg" ,GR: High TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4250.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: AB Channel" tvg-logo="https://i.imgur.com/3bSA58E.jpg" ,GR: AB Channel
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4246.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Channel 9" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/channel9_gr.jpg" ,GR: Channel 9
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5831.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Messinia TV" tvg-logo="https://i.imgur.com/j2d87XG.jpg" ,GR: Messinia TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5842.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Start TV" tvg-logo="https://i.imgur.com/mCT9NDt.jpg" ,GR: Start TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5840.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Nea TV"  ,GR: Nea TV
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/32035.m3u8
+#EXTINF:-1 group-title="Greece2"  tvg-name="-------- Greece Sports --------"  ,-------- Greece Sports --------
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4520.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTESportsHighlights.gr" tvg-name="VIP GR: Cosmote Sport Highlights HD"  ,VIP GR: Cosmote Sport Highlights HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27520.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTESportsHighlights.gr" tvg-name="VIP GR: Cosmote Sport Highlights" tvg-logo="https://i.imgur.com/ZhpyCX6.jpg" ,VIP GR: Cosmote Sport Highlights
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11233.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport1.gr" tvg-name="VIP GR: Cosmote Sport 1 HD"  ,VIP GR: Cosmote Sport 1 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27521.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport1.gr" tvg-name="VIP GR: Cosmote Sport 1" tvg-logo="https://i.imgur.com/iwJKiCW.jpg" ,VIP GR: Cosmote Sport 1
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11241.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport2.gr" tvg-name="VIP GR: Cosmote Sport 2 HD"  ,VIP GR: Cosmote Sport 2 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27522.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport2.gr" tvg-name="VIP GR: Cosmote Sport 2" tvg-logo="https://i.imgur.com/SUcVdQ0.jpg" ,VIP GR: Cosmote Sport 2
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11240.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport3.gr" tvg-name="VIP GR: Cosmote Sport 3 HD"  ,VIP GR: Cosmote Sport 3 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27523.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport3.gr" tvg-name="VIP GR: Cosmote Sport 3" tvg-logo="https://i.imgur.com/LWTkP1m.jpg" ,VIP GR: Cosmote Sport 3
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11239.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport4.gr" tvg-name="VIP GR: Cosmote Sport 4 HD"  ,VIP GR: Cosmote Sport 4 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27524.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport4.gr" tvg-name="VIP GR: Cosmote Sport 4" tvg-logo="https://i.imgur.com/PcRKuuM.jpg" ,VIP GR: Cosmote Sport 4
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11238.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport5.gr" tvg-name="VIP GR: Cosmote Sport 5 HD"  ,VIP GR: Cosmote Sport 5 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27525.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport5.gr" tvg-name="VIP GR: Cosmote Sport 5" tvg-logo="https://i.imgur.com/LCJhJum.jpg" ,VIP GR: Cosmote Sport 5
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11237.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport6.gr" tvg-name="VIP GR: Cosmote Sport 6 HD"  ,VIP GR: Cosmote Sport 6 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27536.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport6.gr" tvg-name="VIP GR: Cosmote Sport 6" tvg-logo="https://i.imgur.com/burXyEO.jpg" ,VIP GR: Cosmote Sport 6
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11236.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport7.gr" tvg-name="VIP GR: Cosmote Sport 7 HD"  ,VIP GR: Cosmote Sport 7 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27537.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport7.gr" tvg-name="VIP GR: Cosmote Sport 7" tvg-logo="https://i.imgur.com/mCxHea8.jpg" ,VIP GR: Cosmote Sport 7
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11235.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport8.gr" tvg-name="VIP GR: Cosmote Sport 8 HD"  ,VIP GR: Cosmote Sport 8 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27538.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport8.gr" tvg-name="VIP GR: Cosmote Sport 8" tvg-logo="https://i.imgur.com/0tYl7YA.jpg" ,VIP GR: Cosmote Sport 8
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11234.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="NovaSports1.gr" tvg-name="VIP GR: Nova Sports 1 HD" tvg-logo="https://i.imgur.com/M8O7Llz.jpg" ,VIP GR: Nova Sports 1 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12379.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="NovaSports2.gr" tvg-name="VIP GR: Nova Sports 2 HD" tvg-logo="https://i.imgur.com/j5VHjbv.jpg" ,VIP GR: Nova Sports 2 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12380.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="NovaSports3.gr" tvg-name="VIP GR: Nova Sports 3 HD (Live Only)" tvg-logo="https://i.imgur.com/OBVUz5M.jpg" ,VIP GR: Nova Sports 3 HD (Live Only)
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12381.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="NovaSports4.gr" tvg-name="VIP GR: Nova Sports 4 HD (Live Only)" tvg-logo="https://i.imgur.com/JCz2iuE.jpg" ,VIP GR: Nova Sports 4 HD (Live Only)
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12382.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="NovaSports5.gr" tvg-name="VIP GR: Nova Sports 5 HD (Live Only)" tvg-logo="https://i.imgur.com/O0pGU4s.jpg" ,VIP GR: Nova Sports 5 HD (Live Only)
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/17339.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="NovaSports1.gr" tvg-name="VIP GR: Nova Sports 1 HD (B)"  ,VIP GR: Nova Sports 1 HD (B)
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/21893.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="NovaSports2.gr" tvg-name="VIP GR: Nova Sports 2 HD (B)"  ,VIP GR: Nova Sports 2 HD (B)
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/21894.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="NovaSports3.gr" tvg-name="VIP GR: Nova Sports 3 HD (B)"  ,VIP GR: Nova Sports 3 HD (B)
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/21895.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="FoxSports.gr" tvg-name="VIP GR: Fox Sports HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" ,VIP GR: Fox Sports HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27636.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="EDGEsport.gr" tvg-name="VIP GR: Edge Sport FHD" tvg-logo="https://i.imgur.com/hATXypl.jpg" ,VIP GR: Edge Sport FHD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19673.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="MotorvisionChannel.gr" tvg-name="VIP GR: Motorvision Channel HD" tvg-logo="https://i.imgur.com/y8izNvb.jpg" ,VIP GR: Motorvision Channel HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/20305.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="EuroSport1.gr" tvg-name="VIP GR: Eurosport 1 HD" tvg-logo="https://i.imgur.com/npDNJ3Q.jpg" ,VIP GR: Eurosport 1 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/13940.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-ID="EuroSport2.gr" tvg-name="VIP GR: Eurosport 2 HD" tvg-logo="https://i.imgur.com/ewV6MBK.jpg" ,VIP GR: Eurosport 2 HD
+http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/13939.m3u8
 
 
 
@@ -2183,20 +2530,6 @@ http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g6/btsporte
 
 #EXTINF:3 group-title="UK4", 
 
-#EXTINF:-1 group-title="UK4" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
-http://..........
-
-
-
-#EXTINF:-1 group-title="UK4",BBC ONE HD 
-http://185.59.221.136:9981/stream/channelid/650783408
-#EXTINF:-1 group-title="UK4",BBC TWO HD 
-http://185.59.221.136:9981/stream/channelid/382198530
-#EXTINF:-1 group-title="UK4",ITV HD
-http://185.59.221.136:9981/stream/channelid/1998784340
-#EXTINF:-1 group-title="UK4",ITV 2 HD 
-http://185.59.221.136:9981/stream/channelid/2139720971
-
 
 
 
@@ -2265,558 +2598,6 @@ http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
 
 
 #EXTINF:-1 group-title="UK6", 
-
-
-#EXTINF:-1 group-title="UK6",4Music-FV
-http://31.132.0.66:8000/play/a05v/index.m3u8
-#EXTINF:-1 group-title="UK6",4seven-FV
-http://31.132.0.66:8000/play/a061/index.m3u8
-#EXTINF:-1 group-title="UK6",5 USA-FV
-http://31.132.0.66:8000/play/a06d/index.m3u8
-#EXTINF:-1 group-title="UK6",5 USA-FV
-http://31.132.0.66:8000/play/a05e/index.m3u8
-#EXTINF:-1 group-title="UK6",5SELECT-FV
-http://31.132.0.66:8000/play/a06p/index.m3u8
-#EXTINF:-1 group-title="UK6",5SELECT-FV
-http://31.132.0.66:8000/play/a05n/index.m3u8
-#EXTINF:-1 group-title="UK6",5STAR-FV
-http://31.132.0.66:8000/play/a06c/index.m3u8
-#EXTINF:-1 group-title="UK6",5STAR-FV
-http://31.132.0.66:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title="UK6",5Spike-FV
-http://31.132.0.66:8000/play/a05x/index.m3u8
-#EXTINF:-1 group-title="UK6",AMC from BT
-http://31.132.0.66:8000/play/a0e1/index.m3u8
-#EXTINF:-1 group-title="UK6",ARY Family
-http://31.132.0.66:8000/play/a0fl/index.m3u8
-#EXTINF:-1 group-title="UK6",Animal Planet
-http://31.132.0.66:8000/play/a09m/index.m3u8
-#EXTINF:-1 group-title="UK6",Animal Plnt+1
-http://31.132.0.66:8000/play/a0eh/index.m3u8
-#EXTINF:-1 group-title="UK6",At The Races BU
-http://31.132.0.66:8000/play/a0i9/index.m3u8
-#EXTINF:-1 group-title="UK6",At The Races Ireland
-http://31.132.0.66:8000/play/a0ax/index.m3u8
-#EXTINF:-1 group-title="UK6",At The Races UK
-http://31.132.0.66:8000/play/a0ib/index.m3u8
-#EXTINF:-1 group-title="UK6",B4U Movies
-http://31.132.0.66:8000/play/a0hi/index.m3u8
-#EXTINF:-1 group-title="UK6",B4U Music
-http://31.132.0.66:8000/play/a0hc/index.m3u8
-#EXTINF:-1 group-title="UK6",BBC Four FHD
-http://31.132.0.66:8000/play/a0dr/index.m3u8
-#EXTINF:-1 group-title="UK6",BBC Four FHD BU
-http://31.132.0.66:8000/play/a0ds/index.m3u8
-#EXTINF:-1 group-title="UK6",BBC NEWS FHD
-http://31.132.0.66:8000/play/a091/index.m3u8
-#EXTINF:-1 group-title="UK6",BBC NEWS-FV
-http://31.132.0.66:8000/play/a06t/index.m3u8
-#EXTINF:-1 group-title="UK6",BBC ONE HD-FV
-http://31.132.0.66:8000/play/a07r/index.m3u8
-#EXTINF:-1 group-title="UK6",BBC ONE W Mid-FV
-http://31.132.0.66:8000/play/a06r/index.m3u8
-#EXTINF:-1 group-title="UK6",BBC One Scot FHD
-http://31.132.0.66:8000/play/a08z/index.m3u8
-#EXTINF:-1 group-title="UK6",BBC One Wal HD
-http://31.132.0.66:8000/play/a090/index.m3u8
-#EXTINF:-1 group-title="UK6",BBC Parliament-FV
-http://31.132.0.66:8000/play/a06w/index.m3u8
-#EXTINF:-1 group-title="UK6",BBC TWO HD-FV
-http://31.132.0.66:8000/play/a07q/index.m3u8
-#EXTINF:-1 group-title="UK6",BBC TWO-FV
-http://31.132.0.66:8000/play/a06s/index.m3u8
-#EXTINF:-1 group-title="UK6",BT Sport 1
-http://31.132.0.66:8000/play/a0ea/index.m3u8
-#EXTINF:-1 group-title="UK6",BT Sport 1 BU
-http://31.132.0.66:8000/play/a0e0/index.m3u8
-#EXTINF:-1 group-title="UK6",BT Sport 2 SD
-http://31.132.0.66:8000/play/a0b5/index.m3u8
-#EXTINF:-1 group-title="UK6",BT Sport 2 SD BU
-http://31.132.0.66:8000/play/a0b4/index.m3u8
-#EXTINF:-1 group-title="UK6",BT Sport 3
-http://31.132.0.66:8000/play/a0eb/index.m3u8
-#EXTINF:-1 group-title="UK6",BT Sport 3 BU
-http://31.132.0.66:8000/play/a0e3/index.m3u8
-#EXTINF:-1 group-title="UK6",BT Sport ESPN SD
-http://31.132.0.66:8000/play/a0b6/index.m3u8
-#EXTINF:-1 group-title="UK6",BT Sport Extra 1
-http://31.132.0.66:8000/play/a0e6/index.m3u8
-#EXTINF:-1 group-title="UK6",BT Sport Extra 2
-http://31.132.0.66:8000/play/a0az/index.m3u8
-#EXTINF:-1 group-title="UK6",BT Sport Extra 3
-http://31.132.0.66:8000/play/a0b0/index.m3u8
-#EXTINF:-1 group-title="UK6",BT Sport Extra 4
-http://31.132.0.66:8000/play/a0b1/index.m3u8
-#EXTINF:-1 group-title="UK6",BT Sport Extra 5
-http://31.132.0.66:8000/play/a0b2/index.m3u8
-#EXTINF:-1 group-title="UK6",BT Sport Extra 6
-http://31.132.0.66:8000/play/a0b3/index.m3u8
-#EXTINF:-1 group-title="UK6",BT Sport Mosaic 1
-http://31.132.0.66:8000/play/a0b8/index.m3u8
-#EXTINF:-1 group-title="UK6",BT Sport//ESPN SD BU
-http://31.132.0.66:8000/play/a0b7/index.m3u8
-#EXTINF:-1 group-title="UK6",Babenation
-http://31.132.0.66:8000/play/a0ab/index.m3u8
-#EXTINF:-1 group-title="UK6",Believe TV
-http://31.132.0.66:8000/play/a0fk/index.m3u8
-#EXTINF:-1 group-title="UK6",Blaze-FV
-http://31.132.0.66:8000/play/a06g/index.m3u8
-#EXTINF:-1 group-title="UK6",Blaze-FV
-http://31.132.0.66:8000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="UK6",BoxNation
-http://31.132.0.66:8000/play/a0aw/index.m3u8
-#EXTINF:-1 group-title="UK6",Brit Asia TV
-http://31.132.0.66:8000/play/a0fj/index.m3u8
-#EXTINF:-1 group-title="UK6",CBBC HD-FV
-http://31.132.0.66:8000/play/a07v/index.m3u8
-#EXTINF:-1 group-title="UK6",CBBC-FV
-http://31.132.0.66:8000/play/a06u/index.m3u8
-#EXTINF:-1 group-title="UK6",CBS Action
-http://31.132.0.66:8000/play/a0e2/index.m3u8
-#EXTINF:-1 group-title="UK6",CBS Action-FV
-http://31.132.0.66:8000/play/a065/index.m3u8
-#EXTINF:-1 group-title="UK6",CBS Drama
-http://31.132.0.66:8000/play/a0dx/index.m3u8
-#EXTINF:-1 group-title="UK6",CBS Reality
-http://31.132.0.66:8000/play/a0e5/index.m3u8
-#EXTINF:-1 group-title="UK6",CBS Reality
-http://31.132.0.66:8000/play/a06i/index.m3u8
-#EXTINF:-1 group-title="UK6",CBS Reality+1
-http://31.132.0.66:8000/play/a0e7/index.m3u8
-#EXTINF:-1 group-title="UK6",CBS Reality-FV
-http://31.132.0.66:8000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="UK6",CBeebies HD
-http://31.132.0.66:8000/play/a092/index.m3u8
-#EXTINF:-1 group-title="UK6",CBeebies HD BU
-http://31.132.0.66:8000/play/a093/index.m3u8
-#EXTINF:-1 group-title="UK6",CNBC
-http://31.132.0.66:8000/play/a0h5/index.m3u8
-#EXTINF:-1 group-title="UK6",COLORS
-http://31.132.0.66:8000/play/a0a5/index.m3u8
-#EXTINF:-1 group-title="UK6",Channel 4 HD-FV
-http://31.132.0.66:8000/play/a07t/index.m3u8
-#EXTINF:-1 group-title="UK6",Channel 4+1-FV
-http://31.132.0.66:8000/play/a07n/index.m3u8
-#EXTINF:-1 group-title="UK6",Channel 4-FV
-http://31.132.0.66:8000/play/a07j/index.m3u8
-#EXTINF:-1 group-title="UK6",Channel 5 HD-FV
-http://31.132.0.66:8000/play/a07u/index.m3u8
-#EXTINF:-1 group-title="UK6",Channel 5+1-FV
-http://31.132.0.66:8000/play/a06e/index.m3u8
-#EXTINF:-1 group-title="UK6",Channel 5+1-FV
-http://31.132.0.66:8000/play/a05f/index.m3u8
-#EXTINF:-1 group-title="UK6",Channel 5-FV
-http://31.132.0.66:8000/play/a07p/index.m3u8
-#EXTINF:-1 group-title="UK6",Channel i
-http://31.132.0.66:8000/play/a0hd/index.m3u8
-#EXTINF:-1 group-title="UK6",Chart Show TV
-http://31.132.0.66:8000/play/a0gv/index.m3u8
-#EXTINF:-1 group-title="UK6",Chat Box
-http://31.132.0.66:8000/play/a0fn/index.m3u8
-#EXTINF:-1 group-title="UK6",Crime+Inv
-http://31.132.0.66:8000/play/a0eu/index.m3u8
-#EXTINF:-1 group-title="UK6",DMAX
-http://31.132.0.66:8000/play/a09c/index.m3u8
-#EXTINF:-1 group-title="UK6",DMAX+1
-http://31.132.0.66:8000/play/a0ek/index.m3u8
-#EXTINF:-1 group-title="UK6",Dave
-http://31.132.0.66:8000/play/a0an/index.m3u8
-#EXTINF:-1 group-title="UK6",Dave BU
-http://31.132.0.66:8000/play/a0iz/index.m3u8
-#EXTINF:-1 group-title="UK6",Dave ja vu
-http://31.132.0.66:8000/play/a0ao/index.m3u8
-#EXTINF:-1 group-title="UK6",Dave ja vu-FV
-http://31.132.0.66:8000/play/a069/index.m3u8
-#EXTINF:-1 group-title="UK6",Dave-FV
-http://31.132.0.66:8000/play/a070/index.m3u8
-#EXTINF:-1 group-title="UK6",Disc.History
-http://31.132.0.66:8000/play/a09q/index.m3u8
-#EXTINF:-1 group-title="UK6",Disc.History+1
-http://31.132.0.66:8000/play/a0em/index.m3u8
-#EXTINF:-1 group-title="UK6",Disc.Sci+1
-http://31.132.0.66:8000/play/a0ei/index.m3u8
-#EXTINF:-1 group-title="UK6",Disc.Science
-http://31.132.0.66:8000/play/a09p/index.m3u8
-#EXTINF:-1 group-title="UK6",Disc.Turbo
-http://31.132.0.66:8000/play/a09s/index.m3u8
-#EXTINF:-1 group-title="UK6",Disc.Turbo+1
-http://31.132.0.66:8000/play/a09j/index.m3u8
-#EXTINF:-1 group-title="UK6",Discovery
-http://31.132.0.66:8000/play/a09l/index.m3u8
-#EXTINF:-1 group-title="UK6",Discovery BU
-http://31.132.0.66:8000/play/a09t/index.m3u8
-#EXTINF:-1 group-title="UK6",Discovery Shed
-http://31.132.0.66:8000/play/a09g/index.m3u8
-#EXTINF:-1 group-title="UK6",Discovery+1
-http://31.132.0.66:8000/play/a09n/index.m3u8
-#EXTINF:-1 group-title="UK6",Drama
-http://31.132.0.66:8000/play/a0j3/index.m3u8
-#EXTINF:-1 group-title="UK6",Drama BU
-http://31.132.0.66:8000/play/a0j5/index.m3u8
-#EXTINF:-1 group-title="UK6",Drama-FV
-http://31.132.0.66:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="UK6",Drama-FV
-http://31.132.0.66:8000/play/a06q/index.m3u8
-#EXTINF:-1 group-title="UK6",Dunya News
-http://31.132.0.66:8000/play/a0fo/index.m3u8
-#EXTINF:-1 group-title="UK6",E!
-http://31.132.0.66:8000/play/a0g7/index.m3u8
-#EXTINF:-1 group-title="UK6",E! BU
-http://31.132.0.66:8000/play/a0g8/index.m3u8
-#EXTINF:-1 group-title="UK6",E4+1-FV
-http://31.132.0.66:8000/play/a071/index.m3u8
-#EXTINF:-1 group-title="UK6",E4-FV
-http://31.132.0.66:8000/play/a07m/index.m3u8
-#EXTINF:-1 group-title="UK6",Eden
-http://31.132.0.66:8000/play/a0iw/index.m3u8
-#EXTINF:-1 group-title="UK6",Eden+1
-http://31.132.0.66:8000/play/a0al/index.m3u8
-#EXTINF:-1 group-title="UK6",Eman Channel
-http://31.132.0.66:8000/play/a0ad/index.m3u8
-#EXTINF:-1 group-title="UK6",Faith UK
-http://31.132.0.66:8000/play/a0fh/index.m3u8
-#EXTINF:-1 group-title="UK6",Film4+1-FV
-http://31.132.0.66:8000/play/a07w/index.m3u8
-#EXTINF:-1 group-title="UK6",Film4-FV
-http://31.132.0.66:8000/play/a07k/index.m3u8
-#EXTINF:-1 group-title="UK6",Food Network-FV
-http://31.132.0.66:8000/play/a073/index.m3u8
-#EXTINF:-1 group-title="UK6",FrontRunner
-http://31.132.0.66:8000/play/a0aa/index.m3u8
-#EXTINF:-1 group-title="UK6",GEO News
-http://31.132.0.66:8000/play/a0f9/index.m3u8
-#EXTINF:-1 group-title="UK6",GOLD
-http://31.132.0.66:8000/play/a0as/index.m3u8
-#EXTINF:-1 group-title="UK6",GOLD BU
-http://31.132.0.66:8000/play/a0ix/index.m3u8
-#EXTINF:-1 group-title="UK6",GOLD+1
-http://31.132.0.66:8000/play/a0ak/index.m3u8
-#EXTINF:-1 group-title="UK6",Get Lucky TV
-http://31.132.0.66:8000/play/a0ay/index.m3u8
-#EXTINF:-1 group-title="UK6",Good Food
-http://31.132.0.66:8000/play/a0j0/index.m3u8
-#EXTINF:-1 group-title="UK6",Good Food+1
-http://31.132.0.66:8000/play/a0ap/index.m3u8
-#EXTINF:-1 group-title="UK6",H2
-http://31.132.0.66:8000/play/a0f2/index.m3u8
-#EXTINF:-1 group-title="UK6",Hidayat TV
-http://31.132.0.66:8000/play/a0h8/index.m3u8
-#EXTINF:-1 group-title="UK6",High Street TV 3
-http://31.132.0.66:8000/play/a0e4/index.m3u8
-#EXTINF:-1 group-title="UK6",History
-http://31.132.0.66:8000/play/a0et/index.m3u8
-#EXTINF:-1 group-title="UK6",History+1
-http://31.132.0.66:8000/play/a0f1/index.m3u8
-#EXTINF:-1 group-title="UK6",Home
-http://31.132.0.66:8000/play/a0iv/index.m3u8
-#EXTINF:-1 group-title="UK6",Home & Health
-http://31.132.0.66:8000/play/a09r/index.m3u8
-#EXTINF:-1 group-title="UK6",Home+1
-http://31.132.0.66:8000/play/a0aj/index.m3u8
-#EXTINF:-1 group-title="UK6",Home-FV
-http://31.132.0.66:8000/play/a068/index.m3u8
-#EXTINF:-1 group-title="UK6",HomeHealth+1
-http://31.132.0.66:8000/play/a09i/index.m3u8
-#EXTINF:-1 group-title="UK6",Horror Channel-FV
-http://31.132.0.66:8000/play/a05k/index.m3u8
-#EXTINF:-1 group-title="UK6",Horror Channel-FV
-http://31.132.0.66:8000/play/a06j/index.m3u8
-#EXTINF:-1 group-title="UK6",ID
-http://31.132.0.66:8000/play/a099/index.m3u8
-#EXTINF:-1 group-title="UK6",ID BU
-http://31.132.0.66:8000/play/a0jf/index.m3u8
-#EXTINF:-1 group-title="UK6",ID+1
-http://31.132.0.66:8000/play/a09e/index.m3u8
-#EXTINF:-1 group-title="UK6",IQRA BANGLA
-http://31.132.0.66:8000/play/a0h9/index.m3u8
-#EXTINF:-1 group-title="UK6",IQRA TV
-http://31.132.0.66:8000/play/a0hf/index.m3u8
-#EXTINF:-1 group-title="UK6",ITV +1-FV
-http://31.132.0.66:8000/play/a07i/index.m3u8
-#EXTINF:-1 group-title="UK6",ITV 1 Central West HD
-http://31.132.0.66:8000/play/a095/index.m3u8
-#EXTINF:-1 group-title="UK6",ITV 1 London HD
-http://31.132.0.66:8000/play/a097/index.m3u8
-#EXTINF:-1 group-title="UK6",ITV 1 Meridian South HD
-http://31.132.0.66:8000/play/a096/index.m3u8
-#EXTINF:-1 group-title="UK6",ITV Anglia EÂ HDÂ 
-http://31.132.0.66:8000/play/a08x/index.m3u8
-#EXTINF:-1 group-title="UK6",ITV Border EnglandÂ HDÂ 
-http://31.132.0.66:8000/play/a08y/index.m3u8
-#EXTINF:-1 group-title="UK6",ITV Granada HD 
-http://31.132.0.66:8000/play/a08l/index.m3u8
-#EXTINF:-1 group-title="UK6",ITV HD-FV
-http://31.132.0.66:8000/play/a07s/index.m3u8
-#EXTINF:-1 group-title="UK6",ITV South West HD
-http://31.132.0.66:8000/play/a08n/index.m3u8
-#EXTINF:-1 group-title="UK6",ITV Tyne Tees HD   
-http://31.132.0.66:8000/play/a08m/index.m3u8
-#EXTINF:-1 group-title="UK6",ITV Wales HD
-http://31.132.0.66:8000/play/a08k/index.m3u8
-#EXTINF:-1 group-title="UK6",ITV West HD
-http://31.132.0.66:8000/play/a08o/index.m3u8
-#EXTINF:-1 group-title="UK6",ITV Yorks WÂ HDÂ  
-http://31.132.0.66:8000/play/a094/index.m3u8
-#EXTINF:-1 group-title="UK6",ITV-FV
-http://31.132.0.66:8000/play/a07e/index.m3u8
-#EXTINF:-1 group-title="UK6",ITV2 +1-FV
-http://31.132.0.66:8000/play/a06n/index.m3u8
-#EXTINF:-1 group-title="UK6",ITV2 +1-FV
-http://31.132.0.66:8000/play/a05m/index.m3u8
-#EXTINF:-1 group-title="UK6",ITV2 HD
-http://31.132.0.66:8000/play/a08j/index.m3u8
-#EXTINF:-1 group-title="UK6",ITV2-FV
-http://31.132.0.66:8000/play/a07g/index.m3u8
-#EXTINF:-1 group-title="UK6",ITV3 HD
-http://31.132.0.66:8000/play/a08u/index.m3u8
-#EXTINF:-1 group-title="UK6",ITV3-FV
-http://31.132.0.66:8000/play/a07f/index.m3u8
-#EXTINF:-1 group-title="UK6",ITV4 HD
-http://31.132.0.66:8000/play/a08v/index.m3u8
-#EXTINF:-1 group-title="UK6",ITV4-FV
-http://31.132.0.66:8000/play/a07h/index.m3u8
-#EXTINF:-1 group-title="UK6",ITVBe-FV
-http://31.132.0.66:8000/play/a06m/index.m3u8
-#EXTINF:-1 group-title="UK6",Islam Channel
-http://31.132.0.66:8000/play/a0fb/index.m3u8
-#EXTINF:-1 group-title="UK6",Kanshi TV
-http://31.132.0.66:8000/play/a0a6/index.m3u8
-#EXTINF:-1 group-title="UK6",Kerrang!-FV
-http://31.132.0.66:8000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="UK6",Living Foodz
-http://31.132.0.66:8000/play/a0ev/index.m3u8
-#EXTINF:-1 group-title="UK6",London Live
-http://31.132.0.66:8000/play/a0he/index.m3u8
-#EXTINF:-1 group-title="UK6",Lucky Star
-http://31.132.0.66:8000/play/a0dz/index.m3u8
-#EXTINF:-1 group-title="UK6",MATV National
-http://31.132.0.66:8000/play/a0fp/index.m3u8
-#EXTINF:-1 group-title="UK6",MUTV
-http://31.132.0.66:8000/play/a0f0/index.m3u8
-#EXTINF:-1 group-title="UK6",Madani Chnl
-http://31.132.0.66:8000/play/a0ha/index.m3u8
-#EXTINF:-1 group-title="UK6",Massive R&B
-http://31.132.0.66:8000/play/a0a7/index.m3u8
-#EXTINF:-1 group-title="UK6",More 4-FV
-http://31.132.0.66:8000/play/a07l/index.m3u8
-#EXTINF:-1 group-title="UK6",Motorsport TV
-http://31.132.0.66:8000/play/a0gf/index.m3u8
-#EXTINF:-1 group-title="UK6",Movies 24
-http://31.132.0.66:8000/play/a0gc/index.m3u8
-#EXTINF:-1 group-title="UK6",Movies 24+
-http://31.132.0.66:8000/play/a0gd/index.m3u8
-#EXTINF:-1 group-title="UK6",Nat Geo
-http://31.132.0.66:8000/play/a0ex/index.m3u8
-#EXTINF:-1 group-title="UK6",Nat Geo Wild
-http://31.132.0.66:8000/play/a0ez/index.m3u8
-#EXTINF:-1 group-title="UK6",Nat Geo+1
-http://31.132.0.66:8000/play/a0ey/index.m3u8
-#EXTINF:-1 group-title="UK6",New Vision TV
-http://31.132.0.66:8000/play/a0fq/index.m3u8
-#EXTINF:-1 group-title="UK6",News18
-http://31.132.0.66:8000/play/a0fi/index.m3u8
-#EXTINF:-1 group-title="UK6",Olive TV
-http://31.132.0.66:8000/play/a0a4/index.m3u8
-#EXTINF:-1 group-title="UK6",POP
-http://31.132.0.66:8000/play/a0gq/index.m3u8
-#EXTINF:-1 group-title="UK6",POP Max
-http://31.132.0.66:8000/play/a0gs/index.m3u8
-#EXTINF:-1 group-title="UK6",POP Max+1
-http://31.132.0.66:8000/play/a0gu/index.m3u8
-#EXTINF:-1 group-title="UK6",POP+1
-http://31.132.0.66:8000/play/a0gw/index.m3u8
-#EXTINF:-1 group-title="UK6",POP-FV
-http://31.132.0.66:8000/play/a062/index.m3u8
-#EXTINF:-1 group-title="UK6",PTV Global
-http://31.132.0.66:8000/play/a0h6/index.m3u8
-#EXTINF:-1 group-title="UK6",Pick-FV
-http://31.132.0.66:8000/play/a06y/index.m3u8
-#EXTINF:-1 group-title="UK6",Property Show
-http://31.132.0.66:8000/play/a0a9/index.m3u8
-#EXTINF:-1 group-title="UK6",Psychic Today
-http://31.132.0.66:8000/play/a0e9/index.m3u8
-#EXTINF:-1 group-title="UK6",QUEST
-http://31.132.0.66:8000/play/a09w/index.m3u8
-#EXTINF:-1 group-title="UK6",QUEST+1
-http://31.132.0.66:8000/play/a09y/index.m3u8
-#EXTINF:-1 group-title="UK6",QUEST-FV
-http://31.132.0.66:8000/play/a06k/index.m3u8
-#EXTINF:-1 group-title="UK6",QUEST-FV
-http://31.132.0.66:8000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="UK6",QVC-FV
-http://31.132.0.66:8000/play/a06f/index.m3u8
-#EXTINF:-1 group-title="UK6",QVC-FV
-http://31.132.0.66:8000/play/a05g/index.m3u8
-#EXTINF:-1 group-title="UK6",Quest Red
-http://31.132.0.66:8000/play/a09x/index.m3u8
-#EXTINF:-1 group-title="UK6",Quest Red+1
-http://31.132.0.66:8000/play/a09u/index.m3u8
-#EXTINF:-1 group-title="UK6",Quest Red-FV
-http://31.132.0.66:8000/play/a078/index.m3u8
-#EXTINF:-1 group-title="UK6",RT-FV
-http://31.132.0.66:8000/play/a063/index.m3u8
-#EXTINF:-1 group-title="UK6",Real Lives
-http://31.132.0.66:8000/play/a0f3/index.m3u8
-#EXTINF:-1 group-title="UK6",Really
-http://31.132.0.66:8000/play/a0j4/index.m3u8
-#EXTINF:-1 group-title="UK6",Really
-http://31.132.0.66:8000/play/a0j6/index.m3u8
-#EXTINF:-1 group-title="UK6",Really-FV
-http://31.132.0.66:8000/play/a077/index.m3u8
-#EXTINF:-1 group-title="UK6",Rishtey
-http://31.132.0.66:8000/play/a0a3/index.m3u8
-#EXTINF:-1 group-title="UK6",RishteyCine
-http://31.132.0.66:8000/play/a0ag/index.m3u8
-#EXTINF:-1 group-title="UK6",S4C
-http://31.132.0.66:8000/play/a0ed/index.m3u8
-#EXTINF:-1 group-title="UK6",S4C FHD
-http://31.132.0.66:8000/play/a0gg/index.m3u8
-#EXTINF:-1 group-title="UK6",SONY MAX
-http://31.132.0.66:8000/play/a0a1/index.m3u8
-#EXTINF:-1 group-title="UK6",STV HD
-http://31.132.0.66:8000/play/a083/index.m3u8
-#EXTINF:-1 group-title="UK6",STV2
-http://31.132.0.66:8000/play/a0hg/index.m3u8
-#EXTINF:-1 group-title="UK6",SYFY
-http://31.132.0.66:8000/play/a0g9/index.m3u8
-#EXTINF:-1 group-title="UK6",SYFY+1
-http://31.132.0.66:8000/play/a0ge/index.m3u8
-#EXTINF:-1 group-title="UK6",Safeer TV
-http://31.132.0.66:8000/play/a0ae/index.m3u8
-#EXTINF:-1 group-title="UK6",Samaa
-http://31.132.0.66:8000/play/a0fe/index.m3u8
-#EXTINF:-1 group-title="UK6",Sanskar
-http://31.132.0.66:8000/play/a0fm/index.m3u8
-#EXTINF:-1 group-title="UK6",Scuzz
-http://31.132.0.66:8000/play/a0gk/index.m3u8
-#EXTINF:-1 group-title="UK6",Sewing Quarter-FV
-http://31.132.0.66:8000/play/a07o/index.m3u8
-#EXTINF:-1 group-title="UK6",Sky News-FV
-http://31.132.0.66:8000/play/a06x/index.m3u8
-#EXTINF:-1 group-title="UK6",Sony Crime
-http://31.132.0.66:8000/play/a0gz/index.m3u8
-#EXTINF:-1 group-title="UK6",Sony Crime 2
-http://31.132.0.66:8000/play/a0h1/index.m3u8
-#EXTINF:-1 group-title="UK6",Sony Crime Channel-FV
-http://31.132.0.66:8000/play/a079/index.m3u8
-#EXTINF:-1 group-title="UK6",Sony Crime+1
-http://31.132.0.66:8000/play/a0h0/index.m3u8
-#EXTINF:-1 group-title="UK6",Sony Movie Ch-FV
-http://31.132.0.66:8000/play/a07b/index.m3u8
-#EXTINF:-1 group-title="UK6",Star Bharat
-http://31.132.0.66:8000/play/a0ah/index.m3u8
-#EXTINF:-1 group-title="UK6",Star GOLD
-http://31.132.0.66:8000/play/a0ac/index.m3u8
-#EXTINF:-1 group-title="UK6",Star Plus
-http://31.132.0.66:8000/play/a0a8/index.m3u8
-#EXTINF:-1 group-title="UK6",Starz TV
-http://31.132.0.66:8000/play/a0gp/index.m3u8
-#EXTINF:-1 group-title="UK6",Studio 66
-http://31.132.0.66:8000/play/a0av/index.m3u8
-#EXTINF:-1 group-title="UK6",Studio 66 2
-http://31.132.0.66:8000/play/a0ff/index.m3u8
-#EXTINF:-1 group-title="UK6",Studio 66 3
-http://31.132.0.66:8000/play/a0fg/index.m3u8
-#EXTINF:-1 group-title="UK6",Summer Hits
-http://31.132.0.66:8000/play/a0gl/index.m3u8
-#EXTINF:-1 group-title="UK6",TBN UK-FV
-http://31.132.0.66:8000/play/a075/index.m3u8
-#EXTINF:-1 group-title="UK6",TCM+1
-http://31.132.0.66:8000/play/a0af/index.m3u8
-#EXTINF:-1 group-title="UK6",TJC-FV
-http://31.132.0.66:8000/play/a074/index.m3u8
-#EXTINF:-1 group-title="UK6",TLC
-http://31.132.0.66:8000/play/a09o/index.m3u8
-#EXTINF:-1 group-title="UK6",TLC BU
-http://31.132.0.66:8000/play/a09z/index.m3u8
-#EXTINF:-1 group-title="UK6",TLC+1
-http://31.132.0.66:8000/play/a09h/index.m3u8
-#EXTINF:-1 group-title="UK6",TRT World
-http://31.132.0.66:8000/play/a0h4/index.m3u8
-#EXTINF:-1 group-title="UK6",TVC News
-http://31.132.0.66:8000/play/a0hh/index.m3u8
-#EXTINF:-1 group-title="UK6",TalkingPictures TV-FV
-http://31.132.0.66:8000/play/a06a/index.m3u8
-#EXTINF:-1 group-title="UK6",The Vault
-http://31.132.0.66:8000/play/a0gt/index.m3u8
-#EXTINF:-1 group-title="UK6",Times Now
-http://31.132.0.66:8000/play/a0f8/index.m3u8
-#EXTINF:-1 group-title="UK6",Tiny Pop
-http://31.132.0.66:8000/play/a0go/index.m3u8
-#EXTINF:-1 group-title="UK6",Tiny Pop+1
-http://31.132.0.66:8000/play/a0gr/index.m3u8
-#EXTINF:-1 group-title="UK6",Travel Channel-FV
-http://31.132.0.66:8000/play/a064/index.m3u8
-#EXTINF:-1 group-title="UK6",True Ent
-http://31.132.0.66:8000/play/a0gx/index.m3u8
-#EXTINF:-1 group-title="UK6",True Ent+1
-http://31.132.0.66:8000/play/a0gy/index.m3u8
-#EXTINF:-1 group-title="UK6",True Entertainment-FV
-http://31.132.0.66:8000/play/a06l/index.m3u8
-#EXTINF:-1 group-title="UK6",True Movies BU
-http://31.132.0.66:8000/play/a0gm/index.m3u8
-#EXTINF:-1 group-title="UK6",True Movies+1
-http://31.132.0.66:8000/play/a0gn/index.m3u8
-#EXTINF:-1 group-title="UK6",True Movies-FV
-http://31.132.0.66:8000/play/a067/index.m3u8
-#EXTINF:-1 group-title="UK6",UTV HD
-http://31.132.0.66:8000/play/a084/index.m3u8
-#EXTINF:-1 group-title="UK6",Universal
-http://31.132.0.66:8000/play/a0i7/index.m3u8
-#EXTINF:-1 group-title="UK6",Universal Ireland
-http://31.132.0.66:8000/play/a0i5/index.m3u8
-#EXTINF:-1 group-title="UK6",Universal+1
-http://31.132.0.66:8000/play/a0i4/index.m3u8
-#EXTINF:-1 group-title="UK6",Urdu1 Europe
-http://31.132.0.66:8000/play/a0fa/index.m3u8
-#EXTINF:-1 group-title="UK6",V Channel
-http://31.132.0.66:8000/play/a0fc/index.m3u8
-#EXTINF:-1 group-title="UK6",VTV
-http://31.132.0.66:8000/play/a0fd/index.m3u8
-#EXTINF:-1 group-title="UK6",Venus TV
-http://31.132.0.66:8000/play/a0h7/index.m3u8
-#EXTINF:-1 group-title="UK6",Vox Africa
-http://31.132.0.66:8000/play/a0hb/index.m3u8
-#EXTINF:-1 group-title="UK6",W
-http://31.132.0.66:8000/play/a0au/index.m3u8
-#EXTINF:-1 group-title="UK6",W BU
-http://31.132.0.66:8000/play/a0j1/index.m3u8
-#EXTINF:-1 group-title="UK6",W+1
-http://31.132.0.66:8000/play/a0am/index.m3u8
-#EXTINF:-1 group-title="UK6",YESTERDAY
-http://31.132.0.66:8000/play/a0iy/index.m3u8
-#EXTINF:-1 group-title="UK6",YESTERDAY+1
-http://31.132.0.66:8000/play/a0ar/index.m3u8
-#EXTINF:-1 group-title="UK6",Yesterday-FV
-http://31.132.0.66:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="UK6",YourTV
-http://31.132.0.66:8000/play/a0ec/index.m3u8
-#EXTINF:-1 group-title="UK6",YourTV-FV
-http://31.132.0.66:8000/play/a076/index.m3u8
-#EXTINF:-1 group-title="UK6",Zee Cinema
-http://31.132.0.66:8000/play/a0f5/index.m3u8
-#EXTINF:-1 group-title="UK6",Zing
-http://31.132.0.66:8000/play/a0f4/index.m3u8
-#EXTINF:-1 group-title="UK6",alibi
-http://31.132.0.66:8000/play/2093/index.m3u8
-#EXTINF:-1 group-title="UK6",alibi BU
-http://31.132.0.66:8000/play/a0j2/index.m3u8
-#EXTINF:-1 group-title="UK6",alibi+1
-http://31.132.0.66:8000/play/a0aq/index.m3u8
-#EXTINF:-1 group-title="UK6",horror ch+1
-http://31.132.0.66:8000/play/a0e8/index.m3u8
-#EXTINF:-1 group-title="UK6",horror channel
-http://31.132.0.66:8000/play/a0dy/index.m3u8
-#EXTINF:-1 group-title="UK6",movies4men-FV
-http://31.132.0.66:8000/play/a07a/index.m3u8
-#EXTINF:-1 group-title="UK6",propeller
-http://31.132.0.66:8000/play/a0a2/index.m3u8
-#EXTINF:-1 group-title="UK6",tru TV
-http://31.132.0.66:8000/play/a0gj/index.m3u8
-#EXTINF:-1 group-title="UK6",truTV+1
-http://31.132.0.66:8000/play/a0gi/index.m3u8
-
-
 
 
 
