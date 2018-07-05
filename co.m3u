@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,04/07/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,05/07/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -315,356 +315,210 @@ http://wpso.com:1936/hls/wzra.m3u8
 
 #EXTINF:-1 group-title="Greece2",
 
-#EXTINF:-1 group-title="Greece2" tvg-ID="vouli.gr" tvg-name="GR: Vouli TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vouli_tileorasi_gr.jpg" ,GR: Vouli TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1555.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="EPT1.gr" tvg-name="GR: ERT 1" tvg-logo="https://i.imgur.com/L7uwiCN.jpg" ,GR: ERT 1
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/2844.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="EPT2.gr" tvg-name="GR: ERT 2" tvg-logo="https://i.imgur.com/EOOdgyK.jpg" ,GR: ERT 2
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/2843.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="EPT3.gr" tvg-name="GR: ERT 3" tvg-logo="https://i.imgur.com/JdtlQy6.jpg" ,GR: ERT 3
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15056.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="EPT-HD.gr" tvg-name="GR: ERT HD" tvg-logo="https://i.imgur.com/FAjPxJF.jpg" ,GR: ERT HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4254.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="mega.gr" tvg-name="GR: Mega Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mega_greece.jpg" ,GR: Mega Channel
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3402.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="ANT1.gr" tvg-name="GR: Ant1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/antenna1_gr.jpg" ,GR: Ant1 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16801.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="ANT1.gr" tvg-name="GR: Ant1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/antenna1_gr.jpg" ,GR: Ant1
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1534.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="star.gr" tvg-name="GR: Star HD" tvg-logo="https://i.imgur.com/h5dZVzF.jpg" ,GR: Star HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16797.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="star.gr" tvg-name="GR: Star Channel" tvg-logo="https://i.imgur.com/h5dZVzF.jpg" ,GR: Star Channel
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3680.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="alpha.gr" tvg-name="GR: Alpha HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/alpha_tv.jpg" ,GR: Alpha HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16802.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="alpha.gr" tvg-name="GR: Alpha TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/alpha_tv.jpg" ,GR: Alpha TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1530.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="Skai.gr" tvg-name="GR: Skai HD" tvg-logo="https://i.imgur.com/o5hqruw.jpg" ,GR: Skai HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16798.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="Skai.gr" tvg-name="GR: Skai" tvg-logo="https://i.imgur.com/o5hqruw.jpg" ,GR: Skai
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3681.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="ETV.gr" tvg-name="GR: Epsilon HD" tvg-logo="https://i.imgur.com/gZyYPrt.jpg" ,GR: Epsilon HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16800.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="ETV.gr" tvg-name="GR: Epsilon TV" tvg-logo="https://i.imgur.com/gZyYPrt.jpg" ,GR: Epsilon TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1538.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="Macedonia.gr" tvg-name="GR: Makedonia TV HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/makedonia_tv.jpg" ,GR: Makedonia TV HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16799.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="Macedonia.gr" tvg-name="GR: Makedonia TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/makedonia_tv.jpg" ,GR: Makedonia TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1547.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Art" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/art_tv_gr.jpg" ,GR: Art
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/22633.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Corfu"  ,GR: Corfu
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/75802.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Delta"  ,GR: Delta
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/75803.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Diktio" tvg-logo="https://i.imgur.com/6ct0JRu.jpg" ,GR: Diktio
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/22635.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Ipiros"  ,GR: Ipiros
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/75804.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="Euronews.nws" tvg-name="GR: Euronews HD" tvg-logo="https://i.imgur.com/zzRV1bc.jpg" ,GR: Euronews HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/21033.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="Action24.gr" tvg-name="GR: Action 24" tvg-logo="https://i.imgur.com/JaPe6wX.jpg" ,GR: Action 24
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4247.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="------- Cyprus Channels --------"  ,------- Cyprus Channels --------
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19606.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="RikSat.gr" tvg-name="CY: Rik 1"  ,CY: Rik 1
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15064.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="Rik2" tvg-name="CY: Rik 2"  ,CY: Rik 2
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15065.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="RikSat.gr" tvg-name="CY: Rik Sat"  ,CY: Rik Sat
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15063.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="Megaone" tvg-name="CY: TV One"  ,CY: TV One
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/18420.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="Ant1" tvg-name="CY: Ant1"  ,CY: Ant1
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1533.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="Sigma" tvg-name="CY: Sigma"  ,CY: Sigma
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1550.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="Capital Tv" tvg-name="CY: Capital"  ,CY: Capital
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/18422.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="Cncp" tvg-name="CY: Plus"  ,CY: Plus
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/18421.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="Extra" tvg-name="CY: Extra"  ,CY: Extra
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/18423.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="Madcy" tvg-name="CY: Mad"  ,CY: Mad
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4244.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="CY: Alpha"  ,CY: Alpha
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/29233.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="SmileTV.gr" tvg-name="CY: Smile TV"  ,CY: Smile TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/25614.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="CY: Hunter TV"  ,CY: Hunter TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/18424.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="CY: Cinemania"  ,CY: Cinemania
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28790.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="CY: DNA"  ,CY: DNA
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28788.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="CY: Faros TV"  ,CY: Faros TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28797.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="CY: NRG"  ,CY: NRG
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28795.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="CY: Play TV"  ,CY: Play TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28783.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="CY: Reload Bizz"  ,CY: Reload Bizz
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28787.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="CY: Reload Play"  ,CY: Reload Play
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28786.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="CY: Reload Radio"  ,CY: Reload Radio
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28784.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="CY: RU24"  ,CY: RU24
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28782.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="CY: Spicy"  ,CY: Spicy
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28789.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="CY: TV Mall"  ,CY: TV Mall
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28798.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="CY: 4 Wheels"  ,CY: 4 Wheels
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28785.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="CY: 7 Sports TV"  ,CY: 7 Sports TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28796.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="------- Greek Religious --------"  ,------- Greek Religious --------
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/22632.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="4E.gr" tvg-name="GR: 4E TV" tvg-logo="https://i.imgur.com/cS70eLJ.jpg" ,GR: 4E TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3682.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Lyxnoc" tvg-logo="https://i.imgur.com/HuHrH3J.jpg" ,GR: Lyxnoc
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1545.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="------- Greek Entertainment --------"  ,------- Greek Entertainment --------
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15073.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="natgeoHD.gr" tvg-name="GR: National Geographic HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_gr.jpg" ,GR: National Geographic HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15218.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="NatGeoWild.gr" tvg-name="GR: Nat Geo Wild HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_emea_hd.jpg" ,GR: Nat Geo Wild HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15665.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="Eentertainment.gr" tvg-name="GR: E! Entertainment HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/e_eu.jpg" ,GR: E! Entertainment HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12827.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="FashionTV.gr" tvg-name="GR: Fashion TV HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg" ,GR: Fashion TV HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19710.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="FoodNetwork.gr" tvg-name="GR: Food Network FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/food_network_ca_hd.jpg" ,GR: Food Network FHD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/20382.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="Fineliving.gr" tvg-name="GR: Fine Living FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fine_living_network_emea.jpg" ,GR: Fine Living FHD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/20383.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Luxe TV FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/luxe_tv.jpg" ,GR: Luxe TV FHD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/25267.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="SundanceChannel.gr" tvg-name="GR: Sundance TV HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sundance_channel_us_hd.jpg" ,GR: Sundance TV HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16796.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Greek Series 1" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Greek Series 1
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19671.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Greek Series 2" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Greek Series 2
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19672.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="FOX.gr" tvg-name="GR: Fox HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_gr.jpg" ,GR: Fox HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12824.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="Foxlife.gr" tvg-name="GR: Fox Life HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_gr.jpg" ,GR: Fox Life HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12825.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="discovery.gr" tvg-name="GR: Discovery Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_fr.jpg" ,GR: Discovery Channel
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/10285.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="DiscoveryScience.gr" tvg-name="GR: Discovery Science HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_science_uk.jpg" ,GR: Discovery Science HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15082.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Discovery Showcase HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_hd_showcase_us.jpg" ,GR: Discovery Showcase HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/22411.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="DiscoveryTurboXtra.gr" tvg-name="GR: Discovery Turbo Xtra HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_turbo_xtra_us.jpg" ,GR: Discovery Turbo Xtra HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/10279.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="DiscoveryID.gr" tvg-name="GR: Investigation Discovery HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/investigation_discovery_europe.jpg" ,GR: Investigation Discovery HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/10284.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: ID Xtra HD" tvg-logo="https://i.imgur.com/W9JS8m1.jpg" ,GR: ID Xtra HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/10283.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Greek Documentaries" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Greek Documentaries
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/25695.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="TLC.gr" tvg-name="GR: TLC" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tlc_us.jpg" ,GR: TLC
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/10281.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="CrimeInvestigation.gr" tvg-name="GR: Crime & Investigation HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/crime_investigation_network_uk_hd.jpg" ,GR: Crime & Investigation HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/20327.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OutdoorChannel.gr" tvg-name="GR: Outdoor Channel HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/outdoor_channel_hd.jpg" ,GR: Outdoor Channel HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/21026.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="travel.gr" tvg-name="GR: Travel Channel HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/travel_channel_europe.jpg" ,GR: Travel Channel HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12826.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="ViasatExplore.gr" tvg-name="GR: Viasat Explore" tvg-logo="https://i.imgur.com/GecGIZT.jpg" ,GR: Viasat Explore
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/20384.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="ViasatNature.gr" tvg-name="GR: Viasat Nature" tvg-logo="https://i.imgur.com/HqQidQc.jpg" ,GR: Viasat Nature
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/20326.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="animalplanet.gr" tvg-name="GR: Animal Planet HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_europe.jpg" ,GR: Animal Planet HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/10286.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="BBCEarth.gr" tvg-name="GR: BBC Earth HD" tvg-logo="https://i.imgur.com/V6F9qnI.jpg" ,GR: BBC Earth HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/20325.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="CBSReality.gr" tvg-name="GR: CBS Reality HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cbs_reality.jpg" ,GR: CBS Reality HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19708.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="NauticalChannel.gr" tvg-name="GR: Nautical Channel HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nautical_channel.jpg" ,GR: Nautical Channel HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/21025.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Fishing Channel" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Fishing Channel
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19670.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Hunting Channel" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Hunting Channel
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19698.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Cooking Channel" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Cooking Channel
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/25285.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="BodyInBalance.gr" tvg-name="GR: Body in Balance" tvg-logo="https://i.imgur.com/mkfJWQk.jpg" ,GR: Body in Balance
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/21027.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTEHistory.gr" tvg-name="GR: Cosmote History HD" tvg-logo="https://i.imgur.com/R7BzwdP.jpg" ,GR: Cosmote History HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19610.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="TheHistoryChannel.gr" tvg-name="GR: History Channel HD"  ,GR: History Channel HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/75805.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="ViasatHistory.gr" tvg-name="GR: Viasat History" tvg-logo="https://i.imgur.com/vENBSG0.jpg" ,GR: Viasat History
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19609.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="------- Greek Music --------"  ,------- Greek Music --------
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19712.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="MADGreekz.gr" tvg-name="GR: Nova Mad Greekz" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mad_greekz.jpg" ,GR: Nova Mad Greekz
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/68442.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Greek Music Mix 1" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Greek Music Mix 1
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19674.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Greek Music Mix 2" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Greek Music Mix 2
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19711.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Cannali Music" tvg-logo="https://i.imgur.com/1OBgPZj.jpg" ,GR: Cannali Music
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19607.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="MADTV.gr" tvg-name="GR: Mad TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mad.jpg" ,GR: Mad TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1546.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="MadHits.gr" tvg-name="GR: Mad Hits" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mad_hits.jpg" ,GR: Mad Hits
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27637.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="------- Greek Kids --------"  ,------- Greek Kids --------
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15072.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Kids 1" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Kids 1
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/13950.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Kids 2" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Kids 2
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19654.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Kids 3" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Kids 3
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19655.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Kids 4" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Kids 4
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19656.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Kids 5" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Kids 5
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19657.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="Boomerang.gr" tvg-name="GR: Boomerang" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boomerang_uk.jpg" ,GR: Boomerang
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/68441.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="DisneyChannel.gr" tvg-name="GR: Disney Channel" tvg-logo="https://i.imgur.com/9MfC9du.jpg" ,GR: Disney Channel
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12576.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="DisneyJunior.gr" tvg-name="GR: Disney Junior" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_junior_sur.jpg" ,GR: Disney Junior
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19608.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="DisneyXD.gr" tvg-name="GR: Disney XD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_xd_sur.jpg" ,GR: Disney XD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12575.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="Nickelodeon.gr" tvg-name="GR: Nickelodeon HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_au.jpg" ,GR: Nickelodeon HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5839.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="SmileTV.gr" tvg-name="GR: Smile TV" tvg-logo="https://i.imgur.com/RjPsLnl.jpg" ,GR: Smile TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4253.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="BabyTV.gr" tvg-name="GR: Baby TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baby_tv.jpg" ,GR: Baby TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12578.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Kids" tvg-logo="https://i.imgur.com/EI1Sbes.jpg" ,GR: Kids
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/20328.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="------- Greek Cinema --------"  ,------- Greek Cinema --------
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15071.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="NovaCinema1.gr" tvg-name="VIP GR: Nova Cinema 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nova_cinema1.jpg" ,VIP GR: Nova Cinema 1 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19699.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="NovaCinema2.gr" tvg-name="VIP GR: Nova Cinema 2 HD" tvg-logo="https://i.imgur.com/VNBDmU2.jpg" ,VIP GR: Nova Cinema 2 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27539.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="NovaCinema3.gr" tvg-name="VIP GR: Nova Cinema 3 HD" tvg-logo="https://i.imgur.com/Jm72R5S.jpg" ,VIP GR: Nova Cinema 3 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27540.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="NovaCinema4.gr" tvg-name="VIP GR: Nova Cinema 4 HD" tvg-logo="https://i.imgur.com/MDgol2W.jpg" ,VIP GR: Nova Cinema 4 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27541.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTECinema1.gr" tvg-name="VIP GR: Cosmote Cinema 1 HD" tvg-logo="https://i.imgur.com/HTQQIC3.jpg" ,VIP GR: Cosmote Cinema 1 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11246.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTECinema2.gr" tvg-name="VIP GR: Cosmote Cinema 2 HD" tvg-logo="https://i.imgur.com/DpLHGQF.jpg" ,VIP GR: Cosmote Cinema 2 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11245.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTECinema3.gr" tvg-name="VIP GR: Cosmote Cinema 3 HD" tvg-logo="https://i.imgur.com/lsEQFSN.jpg" ,VIP GR: Cosmote Cinema 3 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11244.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTECinema4.gr" tvg-name="VIP GR: Cosmote Cinema 4 HD" tvg-logo="https://i.imgur.com/plCJanB.jpg" ,VIP GR: Cosmote Cinema 4 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11243.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="VillageCinema.gr" tvg-name="VIP GR: Village Cinema HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/village_cinemas_gr_hd.jpg" ,VIP GR: Village Cinema HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11242.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: NetvTorronto" tvg-logo="https://i.imgur.com/95A19cV.jpg" ,GR: NetvTorronto
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/21032.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Greek Movies 1" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Greek Movies 1
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19719.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Greek Movies 2" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Greek Movies 2
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19720.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Cinema 1 HD" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Cinema 1 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/13944.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Cinema 2 HD" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Cinema 2 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/13949.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Cinema 3 HD" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Cinema 3 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/13945.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Cinema 4 HD" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Cinema 4 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/13948.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Moviebox Cinema 5 HD" tvg-logo="https://i.imgur.com/8Cs2Crx.jpg" ,GR: Moviebox Cinema 5 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/13943.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="------- Greek Regional --------"  ,------- Greek Regional --------
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15074.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Omega TV" tvg-logo="https://i.imgur.com/akfCVmV.jpg" ,GR: Omega TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4528.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="Kontra.gr" tvg-name="GR: Kontra Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kontra_channel.jpg" ,GR: Kontra Channel
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1543.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Aigaio TV" tvg-logo="https://i.imgur.com/yUu1du5.jpg" ,GR: Aigaio TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1531.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="KritiTV.gr" tvg-name="GR: Krhth Tv" tvg-logo="https://i.imgur.com/tJEjQUD.jpg" ,GR: Krhth Tv
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/1544.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: High TV" tvg-logo="https://i.imgur.com/uLs1W4F.jpg" ,GR: High TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4250.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: AB Channel" tvg-logo="https://i.imgur.com/3bSA58E.jpg" ,GR: AB Channel
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4246.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Channel 9" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/channel9_gr.jpg" ,GR: Channel 9
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5831.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Messinia TV" tvg-logo="https://i.imgur.com/j2d87XG.jpg" ,GR: Messinia TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5842.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Start TV" tvg-logo="https://i.imgur.com/mCT9NDt.jpg" ,GR: Start TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5840.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="GR: Nea TV"  ,GR: Nea TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/32035.m3u8
-#EXTINF:-1 group-title="Greece2"  tvg-name="-------- Greece Sports --------"  ,-------- Greece Sports --------
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4520.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTESportsHighlights.gr" tvg-name="VIP GR: Cosmote Sport Highlights HD"  ,VIP GR: Cosmote Sport Highlights HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27520.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTESportsHighlights.gr" tvg-name="VIP GR: Cosmote Sport Highlights" tvg-logo="https://i.imgur.com/ZhpyCX6.jpg" ,VIP GR: Cosmote Sport Highlights
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11233.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport1.gr" tvg-name="VIP GR: Cosmote Sport 1 HD"  ,VIP GR: Cosmote Sport 1 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27521.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport1.gr" tvg-name="VIP GR: Cosmote Sport 1" tvg-logo="https://i.imgur.com/iwJKiCW.jpg" ,VIP GR: Cosmote Sport 1
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11241.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport2.gr" tvg-name="VIP GR: Cosmote Sport 2 HD"  ,VIP GR: Cosmote Sport 2 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27522.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport2.gr" tvg-name="VIP GR: Cosmote Sport 2" tvg-logo="https://i.imgur.com/SUcVdQ0.jpg" ,VIP GR: Cosmote Sport 2
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11240.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport3.gr" tvg-name="VIP GR: Cosmote Sport 3 HD"  ,VIP GR: Cosmote Sport 3 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27523.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport3.gr" tvg-name="VIP GR: Cosmote Sport 3" tvg-logo="https://i.imgur.com/LWTkP1m.jpg" ,VIP GR: Cosmote Sport 3
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11239.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport4.gr" tvg-name="VIP GR: Cosmote Sport 4 HD"  ,VIP GR: Cosmote Sport 4 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27524.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport4.gr" tvg-name="VIP GR: Cosmote Sport 4" tvg-logo="https://i.imgur.com/PcRKuuM.jpg" ,VIP GR: Cosmote Sport 4
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11238.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport5.gr" tvg-name="VIP GR: Cosmote Sport 5 HD"  ,VIP GR: Cosmote Sport 5 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27525.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport5.gr" tvg-name="VIP GR: Cosmote Sport 5" tvg-logo="https://i.imgur.com/LCJhJum.jpg" ,VIP GR: Cosmote Sport 5
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11237.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport6.gr" tvg-name="VIP GR: Cosmote Sport 6 HD"  ,VIP GR: Cosmote Sport 6 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27536.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport6.gr" tvg-name="VIP GR: Cosmote Sport 6" tvg-logo="https://i.imgur.com/burXyEO.jpg" ,VIP GR: Cosmote Sport 6
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11236.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport7.gr" tvg-name="VIP GR: Cosmote Sport 7 HD"  ,VIP GR: Cosmote Sport 7 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27537.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport7.gr" tvg-name="VIP GR: Cosmote Sport 7" tvg-logo="https://i.imgur.com/mCxHea8.jpg" ,VIP GR: Cosmote Sport 7
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11235.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport8.gr" tvg-name="VIP GR: Cosmote Sport 8 HD"  ,VIP GR: Cosmote Sport 8 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27538.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="OTESport8.gr" tvg-name="VIP GR: Cosmote Sport 8" tvg-logo="https://i.imgur.com/0tYl7YA.jpg" ,VIP GR: Cosmote Sport 8
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11234.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="NovaSports1.gr" tvg-name="VIP GR: Nova Sports 1 HD" tvg-logo="https://i.imgur.com/M8O7Llz.jpg" ,VIP GR: Nova Sports 1 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12379.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="NovaSports2.gr" tvg-name="VIP GR: Nova Sports 2 HD" tvg-logo="https://i.imgur.com/j5VHjbv.jpg" ,VIP GR: Nova Sports 2 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12380.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="NovaSports3.gr" tvg-name="VIP GR: Nova Sports 3 HD (Live Only)" tvg-logo="https://i.imgur.com/OBVUz5M.jpg" ,VIP GR: Nova Sports 3 HD (Live Only)
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12381.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="NovaSports4.gr" tvg-name="VIP GR: Nova Sports 4 HD (Live Only)" tvg-logo="https://i.imgur.com/JCz2iuE.jpg" ,VIP GR: Nova Sports 4 HD (Live Only)
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12382.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="NovaSports5.gr" tvg-name="VIP GR: Nova Sports 5 HD (Live Only)" tvg-logo="https://i.imgur.com/O0pGU4s.jpg" ,VIP GR: Nova Sports 5 HD (Live Only)
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/17339.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="NovaSports1.gr" tvg-name="VIP GR: Nova Sports 1 HD (B)"  ,VIP GR: Nova Sports 1 HD (B)
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/21893.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="NovaSports2.gr" tvg-name="VIP GR: Nova Sports 2 HD (B)"  ,VIP GR: Nova Sports 2 HD (B)
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/21894.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="NovaSports3.gr" tvg-name="VIP GR: Nova Sports 3 HD (B)"  ,VIP GR: Nova Sports 3 HD (B)
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/21895.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="FoxSports.gr" tvg-name="VIP GR: Fox Sports HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" ,VIP GR: Fox Sports HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/27636.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="EDGEsport.gr" tvg-name="VIP GR: Edge Sport FHD" tvg-logo="https://i.imgur.com/hATXypl.jpg" ,VIP GR: Edge Sport FHD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19673.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="MotorvisionChannel.gr" tvg-name="VIP GR: Motorvision Channel HD" tvg-logo="https://i.imgur.com/y8izNvb.jpg" ,VIP GR: Motorvision Channel HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/20305.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="EuroSport1.gr" tvg-name="VIP GR: Eurosport 1 HD" tvg-logo="https://i.imgur.com/npDNJ3Q.jpg" ,VIP GR: Eurosport 1 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/13940.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-ID="EuroSport2.gr" tvg-name="VIP GR: Eurosport 2 HD" tvg-logo="https://i.imgur.com/ewV6MBK.jpg" ,VIP GR: Eurosport 2 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/13939.m3u8
-
-
+#EXTINF:-1 group-title="Greece2",OTE Cinma 1 HD
+http://212.8.248.197:8080/live/Majda/Majda/2814.m3u8
+#EXTINF:-1 group-title="Greece2",OTE Cinma 2 HD
+http://212.8.248.197:8080/live/Majda/Majda/2815.m3u8
+#EXTINF:-1 group-title="Greece2",OTE Cinma 3 HD
+http://212.8.248.197:8080/live/Majda/Majda/2816.m3u8
+#EXTINF:-1 group-title="Greece2",OTE Cinma 4 HD
+http://212.8.248.197:8080/live/Majda/Majda/2817.m3u8
+#EXTINF:-1 group-title="Greece2",OTE Sport 1 HD
+http://212.8.248.197:8080/live/Majda/Majda/2806.m3u8
+#EXTINF:-1 group-title="Greece2",OTE Sport 2 HD
+http://212.8.248.197:8080/live/Majda/Majda/2807.m3u8
+#EXTINF:-1 group-title="Greece2",OTE Sport 3 HD
+http://212.8.248.197:8080/live/Majda/Majda/2808.m3u8
+#EXTINF:-1 group-title="Greece2",OTE Sport 4 HD
+http://212.8.248.197:8080/live/Majda/Majda/2809.m3u8
+#EXTINF:-1 group-title="Greece2",OTE Sport 5 HD
+http://212.8.248.197:8080/live/Majda/Majda/2810.m3u8
+#EXTINF:-1 group-title="Greece2",OTE Sport 6 HD
+http://212.8.248.197:8080/live/Majda/Majda/2811.m3u8
+#EXTINF:-1 group-title="Greece2",OTE Sport 7 HD
+http://212.8.248.197:8080/live/Majda/Majda/2812.m3u8
+#EXTINF:-1 group-title="Greece2",OTE Sport 8 HD
+http://212.8.248.197:8080/live/Majda/Majda/2813.m3u8
+#EXTINF:-1 group-title="Greece2",Disney HD
+http://212.8.248.197:8080/live/Majda/Majda/2830.m3u8
+#EXTINF:-1 group-title="Greece2",Disney XD HD
+http://212.8.248.197:8080/live/Majda/Majda/2832.m3u8
+#EXTINF:-1 group-title="Greece2",Discovery HD
+http://212.8.248.197:8080/live/Majda/Majda/2826.m3u8
+#EXTINF:-1 group-title="Greece2",Discovery ID HD
+http://212.8.248.197:8080/live/Majda/Majda/2827.m3u8
+#EXTINF:-1 group-title="Greece2",Discovery Science HD
+http://212.8.248.197:8080/live/Majda/Majda/2828.m3u8
+#EXTINF:-1 group-title="Greece2",Discovery showcas HD
+http://212.8.248.197:8080/live/Majda/Majda/2829.m3u8
+#EXTINF:-1 group-title="Greece2",Nat Geo Wild HD
+http://212.8.248.197:8080/live/Majda/Majda/2824.m3u8
+#EXTINF:-1 group-title="Greece2",National Geographic HD
+http://212.8.248.197:8080/live/Majda/Majda/2823.m3u8
+#EXTINF:-1 group-title="Greece2",History 2 HD
+http://212.8.248.197:8080/live/Majda/Majda/2822.m3u8
+#EXTINF:-1 group-title="Greece2",Beby HD
+http://212.8.248.197:8080/live/Majda/Majda/2834.m3u8
+#EXTINF:-1 group-title="Greece2",Nickelodeon HD
+http://212.8.248.197:8080/live/Majda/Majda/2833.m3u8
+#EXTINF:-1 group-title="Greece2",Muzik Greek
+http://212.8.248.197:8080/live/Majda/Majda/1420.m3u8
+#EXTINF:-1 group-title="Greece2",Mad HD
+http://212.8.248.197:8080/live/Majda/Majda/2839.m3u8
+#EXTINF:-1 group-title="Greece2",Start tv
+http://212.8.248.197:8080/live/Majda/Majda/2825.m3u8
+#EXTINF:-1 group-title="Greece2",Agios Nikolaos
+http://212.8.248.197:8080/live/Majda/Majda/2835.m3u8
+#EXTINF:-1 group-title="Greece2",SPICY Greek Palmos
+http://212.8.248.197:8080/live/Majda/Majda/1409.m3u8
+#EXTINF:-1 group-title="Greece2",NETO Toronto
+http://212.8.248.197:8080/live/Majda/Majda/1410.m3u8
+#EXTINF:-1 group-title="Greece2",TV Creta
+http://212.8.248.197:8080/live/Majda/Majda/2820.m3u8
+#EXTINF:-1 group-title="Greece2",TV DIPSO
+http://212.8.248.197:8080/live/Majda/Majda/1408.m3u8
+#EXTINF:-1 group-title="Greece2",SAMIAKI TV
+http://212.8.248.197:8080/live/Majda/Majda/2841.m3u8
+#EXTINF:-1 group-title="Greece2",Alpha CY
+http://212.8.248.197:8080/live/Majda/Majda/1407.m3u8
+#EXTINF:-1 group-title="Greece2",Euronews
+http://212.8.248.197:8080/live/Majda/Majda/1417.m3u8
+#EXTINF:-1 group-title="Greece2",Rise
+http://212.8.248.197:8080/live/Majda/Majda/870.m3u8
+#EXTINF:-1 group-title="Greece2",Tv1
+http://212.8.248.197:8080/live/Majda/Majda/868.m3u8
+#EXTINF:-1 group-title="Greece2",Epsilon TV
+http://212.8.248.197:8080/live/Majda/Majda/869.m3u8
+#EXTINF:-1 group-title="Greece2",Sigma Tv
+http://212.8.248.197:8080/live/Majda/Majda/867.m3u8
+#EXTINF:-1 group-title="Greece2",Net Vtoronto
+http://212.8.248.197:8080/live/Majda/Majda/1423.m3u8
+#EXTINF:-1 group-title="Greece2",National Geo HD
+http://212.8.248.197:8080/live/Majda/Majda/1422.m3u8
+#EXTINF:-1 group-title="Greece2",TV100
+http://212.8.248.197:8080/live/Majda/Majda/874.m3u8
+#EXTINF:-1 group-title="Greece2",Nea TV
+http://212.8.248.197:8080/live/Majda/Majda/875.m3u8
+#EXTINF:-1 group-title="Greece2",Samiaki
+http://212.8.248.197:8080/live/Majda/Majda/860.m3u8
+#EXTINF:-1 group-title="Greece2",Aigalo TV
+http://212.8.248.197:8080/live/Majda/Majda/1419.m3u8
+#EXTINF:-1 group-title="Greece2",Lampsi TV
+http://212.8.248.197:8080/live/Majda/Majda/1412.m3u8
+#EXTINF:-1 group-title="Greece2",HellasT
+http://212.8.248.197:8080/live/Majda/Majda/1414.m3u8
+#EXTINF:-1 group-title="Greece2",Cartoons
+http://212.8.248.197:8080/live/Majda/Majda/1413.m3u8
+#EXTINF:-1 group-title="Greece2",Action 24
+http://212.8.248.197:8080/live/Majda/Majda/1411.m3u8
+#EXTINF:-1 group-title="Greece2",DTX
+http://212.8.248.197:8080/live/Majda/Majda/876.m3u8
+#EXTINF:-1 group-title="Greece2",EXTRA
+http://212.8.248.197:8080/live/Majda/Majda/873.m3u8
+#EXTINF:-1 group-title="Greece2",EPT HD
+http://212.8.248.197:8080/live/Majda/Majda/872.m3u8
+#EXTINF:-1 group-title="Greece2",EPT 1
+http://212.8.248.197:8080/live/Majda/Majda/871.m3u8
+#EXTINF:-1 group-title="Greece2",EPT 2
+http://212.8.248.197:8080/live/Majda/Majda/866.m3u8
+#EXTINF:-1 group-title="Greece2",EPT 3
+http://212.8.248.197:8080/live/Majda/Majda/865.m3u8
+#EXTINF:-1 group-title="Greece2",Star
+http://212.8.248.197:8080/live/Majda/Majda/848.m3u8
+#EXTINF:-1 group-title="Greece2",Skai
+http://212.8.248.197:8080/live/Majda/Majda/850.m3u8
+#EXTINF:-1 group-title="Greece2",Sigma Live
+http://212.8.248.197:8080/live/Majda/Majda/2855.m3u8
+#EXTINF:-1 group-title="Greece2",Ma tv
+http://212.8.248.197:8080/live/Majda/Majda/849.m3u8
+#EXTINF:-1 group-title="Greece2",Antenna
+http://212.8.248.197:8080/live/Majda/Majda/847.m3u8
+#EXTINF:-1 group-title="Greece2",Kontra TV
+http://212.8.248.197:8080/live/Majda/Majda/853.m3u8
+#EXTINF:-1 group-title="Greece2",MTV Music
+http://212.8.248.197:8080/live/Majda/Majda/864.m3u8
+#EXTINF:-1 group-title="Greece2",Mega Cosmos
+http://212.8.248.197:8080/live/Majda/Majda/863.m3u8
+#EXTINF:-1 group-title="Greece2",Mega TV
+http://212.8.248.197:8080/live/Majda/Majda/862.m3u8
+#EXTINF:-1 group-title="Greece2",Alpha
+http://212.8.248.197:8080/live/Majda/Majda/855.m3u8
+#EXTINF:-1 group-title="Greece2",DTX HD
+http://212.8.248.197:8080/live/Majda/Majda/858.m3u8
+#EXTINF:-1 group-title="Greece2",Nickelodeon
+http://212.8.248.197:8080/live/Majda/Majda/859.m3u8
+#EXTINF:-1 group-title="Greece2",MAK TV
+http://212.8.248.197:8080/live/Majda/Majda/854.m3u8
+#EXTINF:-1 group-title="Greece2",LiFe HD
+http://212.8.248.197:8080/live/Majda/Majda/857.m3u8
+#EXTINF:-1 group-title="Greece2",Radio Virgin TV
+http://212.8.248.197:8080/live/Majda/Majda/2849.m3u8
+#EXTINF:-1 group-title="Greece2",VOULI
+http://212.8.248.197:8080/live/Majda/Majda/2865.m3u8
+#EXTINF:-1 group-title="Greece2",Zougla
+http://212.8.248.197:8080/live/Majda/Majda/2867.m3u8
+#EXTINF:-1 group-title="Greece2",4E
+http://212.8.248.197:8080/live/Majda/Majda/2868.m3u8
+#EXTINF:-1 group-title="Greece2",ANT1 CY
+http://212.8.248.197:8080/live/Majda/Majda/2870.m3u8
+#EXTINF:-1 group-title="Greece2",Cannali HD
+http://212.8.248.197:8080/live/Majda/Majda/2864.m3u8
+#EXTINF:-1 group-title="Greece2",Magic tv
+http://212.8.248.197:8080/live/Majda/Majda/2862.m3u8
+#EXTINF:-1 group-title="Greece2",Max Cinma
+http://212.8.248.197:8080/live/Majda/Majda/2869.m3u8
+#EXTINF:-1 group-title="Greece2",New Generation
+http://212.8.248.197:8080/live/Majda/Majda/2871.m3u8
+#EXTINF:-1 group-title="Greece2",Messinia
+http://212.8.248.197:8080/live/Majda/Majda/2873.m3u8
+#EXTINF:-1 group-title="Greece2",MPAXALO TV
+http://212.8.248.197:8080/live/Majda/Majda/2866.m3u8
+#EXTINF:-1 group-title="Greece2",Play tv
+http://212.8.248.197:8080/live/Majda/Majda/2872.m3u8
+#EXTINF:-1 group-title="Greece2",Visual Radio
+http://212.8.248.197:8080/live/Majda/Majda/2863.m3u8
+#EXTINF:-1 group-title="Greece2",Cannali Musiki
+http://212.8.248.197:8080/live/Majda/Majda/1416.m3u8
+#EXTINF:-1 group-title="Greece2",Xalastra tv
+http://212.8.248.197:8080/live/Majda/Majda/1421.m3u8
+#EXTINF:-1 group-title="Greece2",ANT1
+http://212.8.248.197:8080/live/Majda/Majda/856.m3u8
+#EXTINF:-1 group-title="Greece2",Ant1 Cyprus
+http://212.8.248.197:8080/live/Majda/Majda/851.m3u8
+#EXTINF:-1 group-title="Greece2",Omega
+http://212.8.248.197:8080/live/Majda/Majda/852.m3u8
+#EXTINF:-1 group-title="Greece2",Macedonia TV HD
+http://212.8.248.197:8080/live/Majda/Majda/1418.m3u8
+#EXTINF:-1 group-title="Greece2",IB3
+http://212.8.248.197:8080/live/Majda/Majda/1415.m3u8
+#EXTINF:-1 group-title="Greece2",VOULI 2
+http://212.8.248.197:8080/live/Majda/Majda/2852.m3u8
+#EXTINF:-1 group-title="Greece2",TV filopoli
+http://212.8.248.197:8080/live/Majda/Majda/2842.m3u8
+#EXTINF:-1 group-title="Greece2",Thrakinettv
+http://212.8.248.197:8080/live/Majda/Majda/2851.m3u8
+#EXTINF:-1 group-title="Greece2",NG TV
+http://212.8.248.197:8080/live/Majda/Majda/2848.m3u8
+#EXTINF:-1 group-title="Greece2",Montreal TV
+http://212.8.248.197:8080/live/Majda/Majda/2843.m3u8
+#EXTINF:-1 group-title="Greece2",LYCHNOS
+http://212.8.248.197:8080/live/Majda/Majda/2846.m3u8
+#EXTINF:-1 group-title="Greece2",KPHTH TV
+http://212.8.248.197:8080/live/Majda/Majda/2850.m3u8
+#EXTINF:-1 group-title="Greece2",Hear Best
+http://212.8.248.197:8080/live/Majda/Majda/2847.m3u8
+#EXTINF:-1 group-title="Greece2",EBS PLUS
+http://212.8.248.197:8080/live/Majda/Majda/2854.m3u8
+#EXTINF:-1 group-title="Greece2",EBS
+http://212.8.248.197:8080/live/Majda/Majda/2853.m3u8
+#EXTINF:-1 group-title="Greece2",utvlive
+http://212.8.248.197:8080/live/Majda/Majda/2844.m3u8
+#EXTINF:-1 group-title="Greece2",AXELWOS TV
+http://212.8.248.197:8080/live/Majda/Majda/2845.m3u8
+#EXTINF:-1 group-title="Greece2",BRT 1
+http://212.8.248.197:8080/live/Majda/Majda/2856.m3u8
+#EXTINF:-1 group-title="Greece2",BRT 2
+http://212.8.248.197:8080/live/Majda/Majda/2857.m3u8
 
 
 
@@ -1502,371 +1356,322 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1117.m3u8$http-refferer
 
 #EXTINF:-1 group-title="USA2-PREMIUM",
 
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: ABC HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5848.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: CBS HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/8975.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: NBC HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/8976.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Fox HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15092.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Fox 5 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/8974.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: MSNBC HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15097.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: MSNBC FHD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/7846.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: CW HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16781.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: PBS HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16787.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Sundance HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16788.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: National Geographic HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16785.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Discovery Channel HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15296.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Discovery Velocity HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15289.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Discovery Science HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3750.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Discovery Family HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15267.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Investigation Discovery HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3748.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Crime & Investigation HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15213.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Food Network HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15135.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Cooking Channel HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11081.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Animal Planet HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15298.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: A&E HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15282.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: History Channel HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5317.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Destination America HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15307.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Travel Channel HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/2625.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Comedy Central HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16782.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Freeform HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15303.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Hallmark Movies & Mysteries HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/19693.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: MTV HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15309.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: VH1 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15315.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: E! HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15301.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: FX HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15291.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: FXX HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3646.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: DIY Network HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15403.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: CBN HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15271.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: AMC HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15299.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: USA Network HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15272.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: HGTV HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15287.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Bet HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15284.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Outdoor HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15268.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Bravo HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15460.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: OWN HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15294.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Spike/Paramount HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15310.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: TLC HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15311.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: TRU TV HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15305.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: TV Land HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15312.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Lifetime HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15295.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Reelz HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15270.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: TBS HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15292.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Disney HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15288.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Nick HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16786.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Nick Jr HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15317.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Cartoon Network HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15300.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: BBC America HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15406.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Big Ten Network HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15290.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Starz East HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15314.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Epix HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15280.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Epix 2 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15281.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: SYFY HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15293.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: TNT HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15304.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: HBO HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15086.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: HBO 2 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15091.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: HBO Signature HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15087.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: HBO Zone HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15089.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: HBO Comedy HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15088.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: HBO Family HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15090.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: CineMax HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15302.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: MoreMax HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15297.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: ThrillerMax HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15306.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Showtime HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15404.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Showtime 2 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15405.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: AFN Pulse
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11499.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: AFN Spectrum
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11498.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: AFN Prime Pacific
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11497.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: AFN Prime Atlantic
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11496.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: AFN Movie
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11495.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Fox News HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/10954.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Fox 50
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/17995.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Fox Business Network HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15308.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: CNN HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15407.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: CNBC HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16780.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Disney Junior HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/18432.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: ABC7 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/18431.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: The Weather Channel HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15285.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: AFN News
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/16361.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: California Music Channel
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28255.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: ABC NY HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28483.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: AFN MOVIE
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4144.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Fox HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5879.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: USA Network
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5309.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: CBS NY HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/8595.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: CBS FHD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5351.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: FX HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3662.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: O.W.N HD (oprah winfrey network)
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5330.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Hallmark
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5324.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: HGTV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5318.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: TBS HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5333.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: AMC HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/7645.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Freeform HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3747.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: TLC
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4530.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Diy Network HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3649.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Bravo HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3664.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: The Blaze
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11045.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Fuel HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3945.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: HBO HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5323.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: HBO Siignature
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5320.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: HBO ZONE
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5319.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: HBO Comedy
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5321.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: HBO Family
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5322.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Showtime HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3533.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Showtime 2
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/10733.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Showtime West
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5337.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Starz Edge
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5338.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Starz Cinema HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5335.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Starz Comedy
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/10738.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Cinemax Moremax
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3629.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Cinemax Action Max
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3658.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Cinemax HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5336.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Spike HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5332.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: LIFETIME HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5316.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: TV Land
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/9585.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: HIFI
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4564.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: TNT HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5352.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: SyFy HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5334.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Comedy Central HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3660.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Nicketoons HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5331.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Discovery Velocity
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/11075.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: H2
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5325.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: National Geographic HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3634.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Food Network
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5312.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: A & E
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5310.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Animal Planet
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/4529.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: E!
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3663.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: VH1 Classic
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/17340.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Cinemax East
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3628.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: World Fashion HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3592.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Amazing Facts TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3647.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Big Ten Network
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3652.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: TSC
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3528.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Disney XD HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3661.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: The Florida Channel
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3530.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: Nasa TV HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/2830.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Miami TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3529.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Bet
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3659.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: PBS America
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3603.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: CBN
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12832.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: C-Span1
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3602.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: AMG TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3601.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Smile Of A Child
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3745.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Oxygen
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3654.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Cpac
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3632.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: HSN 1
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3526.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: HSN 2
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3527.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: NBC HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3174.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: CNN HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3159.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: ABC News HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3473.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: CBSN HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5349.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Cozi TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5339.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Fox 59 News
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3651.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: CNBC
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/2624.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: CBN News
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/12831.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Bloomberg
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/2833.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: RT Documentary
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/2836.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: RT America HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3644.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: News 12
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/5348.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: KTVZ News Channel 21
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3631.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US HD: WGN News Chicago HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/3600.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Weather Nation
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/2883.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",US: Pop & Country
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/13977.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",——- Canada ——–
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/10712.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: CHCH
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/28247.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: CBC HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15412.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: CBS HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15413.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: CITY HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15414.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: CP 24 HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15421.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: CTV HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15415.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: CW HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15416.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: GLOBAL HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15417.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: HBO HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15425.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: HBO 2
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15424.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: HLN HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15426.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: ME TV
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15418.m3u8
-#EXTINF:-1 group-title="USA2-PREMIUM",CA HD: Peach Tree HD
-http://king-box.club:80/live/t0rby00V6o/CsjRTvg2Kp/15419.m3u8
-
+#EXTINF:-1 group-title="USA2-PREMIUM",A&E HD
+http://pro.smartgotv.com:8005/live/123456/123456/668.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",ABC HD
+http://pro.smartgotv.com:8005/live/123456/123456/657.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",ABC News HD
+http://pro.smartgotv.com:8005/live/123456/123456/669.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",AMC HD
+http://pro.smartgotv.com:8005/live/123456/123456/622.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",ANIMAL-PLANET HD
+http://pro.smartgotv.com:8005/live/123456/123456/658.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",ASTRO_SUPERSPORT_1
+http://pro.smartgotv.com:8005/live/123456/123456/1937.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",ASTRO_SUPERSPORT_2
+http://pro.smartgotv.com:8005/live/123456/123456/1936.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",ASTRO_SUPERSPORT_3
+http://pro.smartgotv.com:8005/live/123456/123456/1935.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",ASTRO_SUPERSPORT_4
+http://pro.smartgotv.com:8005/live/123456/123456/1934.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",BeIN SPORTS HD
+http://pro.smartgotv.com:8005/live/123456/123456/621.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",BLOOMBERG_HD
+http://pro.smartgotv.com:8005/live/123456/123456/659.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CARTOON NETWORK HD
+http://pro.smartgotv.com:8005/live/123456/123456/660.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CBS HD
+http://pro.smartgotv.com:8005/live/123456/123456/635.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CBS_SPORTS_NET_HD
+http://pro.smartgotv.com:8005/live/123456/123456/645.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CINEMA MOREMAX HD
+http://pro.smartgotv.com:8005/live/123456/123456/608.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Cinemax HD
+http://pro.smartgotv.com:8005/live/123456/123456/620.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CNBC HD
+http://pro.smartgotv.com:8005/live/123456/123456/619.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CNN HD
+http://pro.smartgotv.com:8005/live/123456/123456/634.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",COMEDY CENTRAL HD
+http://pro.smartgotv.com:8005/live/123456/123456/633.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CW HD
+http://pro.smartgotv.com:8005/live/123456/123456/661.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",DISCOVERY HD
+http://pro.smartgotv.com:8005/live/123456/123456/618.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",DISCOVERY SC. HD
+http://pro.smartgotv.com:8005/live/123456/123456/662.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",E! HD
+http://pro.smartgotv.com:8005/live/123456/123456/663.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",ESPN U HD
+http://pro.smartgotv.com:8005/live/123456/123456/650.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",ESPN USA
+http://pro.smartgotv.com:8005/live/123456/123456/652.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",ESPN_DEPORTES
+http://pro.smartgotv.com:8005/live/123456/123456/670.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",ESPN_HD2
+http://pro.smartgotv.com:8005/live/123456/123456/651.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",ESPN_News_HD
+http://pro.smartgotv.com:8005/live/123456/123456/653.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",FIGHT NETWORK
+http://pro.smartgotv.com:8005/live/123456/123456/644.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",FOX HD
+http://pro.smartgotv.com:8005/live/123456/123456/632.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",FOX News HD
+http://pro.smartgotv.com:8005/live/123456/123456/617.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",FOX SPORTS HD 1
+http://pro.smartgotv.com:8005/live/123456/123456/649.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",FOX SPORTS HD 2
+http://pro.smartgotv.com:8005/live/123456/123456/648.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",FOX SPORTS SUN
+http://pro.smartgotv.com:8005/live/123456/123456/624.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",FOX_SPORTS_HD
+http://pro.smartgotv.com:8005/live/123456/123456/604.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",FREEFORM HD
+http://pro.smartgotv.com:8005/live/123456/123456/664.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",FX HD
+http://pro.smartgotv.com:8005/live/123456/123456/616.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",FXX HD
+http://pro.smartgotv.com:8005/live/123456/123456/615.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",GOLF HD
+http://pro.smartgotv.com:8005/live/123456/123456/643.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",HBO  COMEDY
+http://pro.smartgotv.com:8005/live/123456/123456/614.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",HBO HD
+http://pro.smartgotv.com:8005/live/123456/123456/611.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",HBO SIGNATURE
+http://pro.smartgotv.com:8005/live/123456/123456/613.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",HBO ZONE
+http://pro.smartgotv.com:8005/live/123456/123456/612.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",HGTV_HD
+http://pro.smartgotv.com:8005/live/123456/123456/674.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",HISTORY
+http://pro.smartgotv.com:8005/live/123456/123456/610.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",INVESTIGATION Discovery HD
+http://pro.smartgotv.com:8005/live/123456/123456/609.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",ION_TELEVISION
+http://pro.smartgotv.com:8005/live/123456/123456/600.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MAX_EAST_MOVIES_HD
+http://pro.smartgotv.com:8005/live/123456/123456/623.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB NET HD
+http://pro.smartgotv.com:8005/live/123456/123456/601.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NAT GEO HD
+http://pro.smartgotv.com:8005/live/123456/123456/654.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBA HD
+http://pro.smartgotv.com:8005/live/123456/123456/647.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBC SPORT NET HD
+http://pro.smartgotv.com:8005/live/123456/123456/631.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBC Sports Network HD
+http://pro.smartgotv.com:8005/live/123456/123456/642.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBC_SPORTS
+http://pro.smartgotv.com:8005/live/123456/123456/3658.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBC_SPORTS_GOLD_1
+http://pro.smartgotv.com:8005/live/123456/123456/3657.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBC_SPORTS_GOLD_2
+http://pro.smartgotv.com:8005/live/123456/123456/3656.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBC_SPORTS_GOLD_3
+http://pro.smartgotv.com:8005/live/123456/123456/3655.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NFL Channel HD
+http://pro.smartgotv.com:8005/live/123456/123456/646.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NHL Net HD
+http://pro.smartgotv.com:8005/live/123456/123456/641.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NICKLODEON HD
+http://pro.smartgotv.com:8005/live/123456/123456/665.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",PAC-12_ARIZONA_FHD
+http://pro.smartgotv.com:8005/live/123456/123456/599.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",PAC-12_BAY_AREA_FHD
+http://pro.smartgotv.com:8005/live/123456/123456/598.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",PAC-12_LOS_ANGELES_FHD
+http://pro.smartgotv.com:8005/live/123456/123456/597.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",PAC-12_MOUNTAIN_FHD
+http://pro.smartgotv.com:8005/live/123456/123456/596.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",PAC-12_NATIONAL_FHD
+http://pro.smartgotv.com:8005/live/123456/123456/3461.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",PAC-12_OREGON_FHD
+http://pro.smartgotv.com:8005/live/123456/123456/595.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",PAC-12_WASHINGTON_FHD
+http://pro.smartgotv.com:8005/live/123456/123456/594.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",SHOWTIME HD
+http://pro.smartgotv.com:8005/live/123456/123456/606.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",SPIKE HD
+http://pro.smartgotv.com:8005/live/123456/123456/607.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",SPORTS Net 360 HD
+http://pro.smartgotv.com:8005/live/123456/123456/638.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",SPORTS Net One HD
+http://pro.smartgotv.com:8005/live/123456/123456/593.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",SPORTS Net Ontario HD
+http://pro.smartgotv.com:8005/live/123456/123456/637.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",SPORTS Net West HD
+http://pro.smartgotv.com:8005/live/123456/123456/592.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",SPORTS Net World HD
+http://pro.smartgotv.com:8005/live/123456/123456/636.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",SPORTS ONE NET
+http://pro.smartgotv.com:8005/live/123456/123456/630.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",STARZ CINEMA HD
+http://pro.smartgotv.com:8005/live/123456/123456/605.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",STARZ_WEST
+http://pro.smartgotv.com:8005/live/123456/123456/603.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",SYFY HD
+http://pro.smartgotv.com:8005/live/123456/123456/666.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",TBS HD
+http://pro.smartgotv.com:8005/live/123456/123456/655.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",TLC_HD
+http://pro.smartgotv.com:8005/live/123456/123456/671.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",TNT HD
+http://pro.smartgotv.com:8005/live/123456/123456/656.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",TSN HD 1
+http://pro.smartgotv.com:8005/live/123456/123456/629.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",TSN HD 2
+http://pro.smartgotv.com:8005/live/123456/123456/628.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",TSN HD 3
+http://pro.smartgotv.com:8005/live/123456/123456/627.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",TSN HD 4
+http://pro.smartgotv.com:8005/live/123456/123456/626.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",TSN HD 5
+http://pro.smartgotv.com:8005/live/123456/123456/625.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",UNIVISION_DEPORTES
+http://pro.smartgotv.com:8005/live/123456/123456/672.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA NETWORK
+http://pro.smartgotv.com:8005/live/123456/123456/602.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",VICELAND
+http://pro.smartgotv.com:8005/live/123456/123456/673.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",WILLOW_Cricket_HD
+http://pro.smartgotv.com:8005/live/123456/123456/667.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",WWE NET HD
+http://pro.smartgotv.com:8005/live/123456/123456/639.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_720
+http://pro.smartgotv.com:8005/live/123456/123456/3701.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_721
+http://pro.smartgotv.com:8005/live/123456/123456/3700.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_722
+http://pro.smartgotv.com:8005/live/123456/123456/3699.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_723
+http://pro.smartgotv.com:8005/live/123456/123456/3698.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_724
+http://pro.smartgotv.com:8005/live/123456/123456/3697.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_725
+http://pro.smartgotv.com:8005/live/123456/123456/3696.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_726
+http://pro.smartgotv.com:8005/live/123456/123456/3695.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_727
+http://pro.smartgotv.com:8005/live/123456/123456/3694.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_728
+http://pro.smartgotv.com:8005/live/123456/123456/3693.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_729
+http://pro.smartgotv.com:8005/live/123456/123456/3692.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_730
+http://pro.smartgotv.com:8005/live/123456/123456/3691.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_731
+http://pro.smartgotv.com:8005/live/123456/123456/3690.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_732
+http://pro.smartgotv.com:8005/live/123456/123456/3689.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_733
+http://pro.smartgotv.com:8005/live/123456/123456/3688.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_734
+http://pro.smartgotv.com:8005/live/123456/123456/3687.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_735
+http://pro.smartgotv.com:8005/live/123456/123456/3686.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_736
+http://pro.smartgotv.com:8005/live/123456/123456/3685.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_737
+http://pro.smartgotv.com:8005/live/123456/123456/3684.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_738
+http://pro.smartgotv.com:8005/live/123456/123456/3683.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_739
+http://pro.smartgotv.com:8005/live/123456/123456/3682.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_740
+http://pro.smartgotv.com:8005/live/123456/123456/3681.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_741
+http://pro.smartgotv.com:8005/live/123456/123456/3680.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_742
+http://pro.smartgotv.com:8005/live/123456/123456/3679.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_743
+http://pro.smartgotv.com:8005/live/123456/123456/3678.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_744
+http://pro.smartgotv.com:8005/live/123456/123456/3677.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_745
+http://pro.smartgotv.com:8005/live/123456/123456/3676.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_746
+http://pro.smartgotv.com:8005/live/123456/123456/3675.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_747
+http://pro.smartgotv.com:8005/live/123456/123456/3674.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_748
+http://pro.smartgotv.com:8005/live/123456/123456/3673.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",MLB_Extra_Innings_749
+http://pro.smartgotv.com:8005/live/123456/123456/3672.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBA_LEAGUE_PASS_LIVE_1_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3671.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBA_LEAGUE_PASS_LIVE_10_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3670.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBA_LEAGUE_PASS_LIVE_14_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3669.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBA_LEAGUE_PASS_LIVE_15_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3668.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBA_LEAGUE_PASS_LIVE_2_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3667.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBA_LEAGUE_PASS_LIVE_3_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3666.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBA_LEAGUE_PASS_LIVE_4_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3665.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBA_LEAGUE_PASS_LIVE_5_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3664.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBA_LEAGUE_PASS_LIVE_6_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3663.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBA_LEAGUE_PASS_LIVE_7_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3662.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBA_LEAGUE_PASS_LIVE_8_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3661.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBA_LEAGUE_PASS_LIVE_9_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3660.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NFL SUNDAY TICKET 11 HD
+http://pro.smartgotv.com:8005/live/123456/123456/4018.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NFL SUNDAY TICKET 12 HD
+http://pro.smartgotv.com:8005/live/123456/123456/4017.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NFL SUNDAY TICKET 13 HD
+http://pro.smartgotv.com:8005/live/123456/123456/4016.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NFL_SUNDAY_TICKET_1_HD
+http://pro.smartgotv.com:8005/live/123456/123456/4007.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NFL_SUNDAY_TICKET_2_HD
+http://pro.smartgotv.com:8005/live/123456/123456/4015.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NFL_SUNDAY_TICKET_3_HD
+http://pro.smartgotv.com:8005/live/123456/123456/4014.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NFL_SUNDAY_TICKET_4_HD
+http://pro.smartgotv.com:8005/live/123456/123456/4013.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NFL_SUNDAY_TICKET_5_HD
+http://pro.smartgotv.com:8005/live/123456/123456/4012.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NFL_SUNDAY_TICKET_6_HD
+http://pro.smartgotv.com:8005/live/123456/123456/4011.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NFL_SUNDAY_TICKET_7_HD
+http://pro.smartgotv.com:8005/live/123456/123456/4010.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NFL_SUNDAY_TICKET_8_HD
+http://pro.smartgotv.com:8005/live/123456/123456/4009.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NFL_SUNDAY_TICKET_9_HD
+http://pro.smartgotv.com:8005/live/123456/123456/4008.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NHL_1_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3998.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NHL_2_HD
+http://pro.smartgotv.com:8005/live/123456/123456/4006.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NHL_3_HD
+http://pro.smartgotv.com:8005/live/123456/123456/4005.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NHL_4_HD
+http://pro.smartgotv.com:8005/live/123456/123456/4004.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NHL_5_HD
+http://pro.smartgotv.com:8005/live/123456/123456/4003.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NHL_6_HD
+http://pro.smartgotv.com:8005/live/123456/123456/4002.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NHL_7_HD
+http://pro.smartgotv.com:8005/live/123456/123456/4001.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NHL_8_HD
+http://pro.smartgotv.com:8005/live/123456/123456/4000.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NHL_9_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3999.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NHL_10_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3997.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NHL_11_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3996.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NHL_12_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3995.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NHL_13_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3994.m3u8
 
 
 
@@ -7870,7 +7675,190 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/961.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Portugal2-PREMIUM",
 
-
+#EXTINF:-1 group-title="Portugal2-PREMIUM",24_KITCHEN_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3169.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",A_BOLA_TV
+http://pro.smartgotv.com:8005/live/123456/123456/3105.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",A&E
+http://pro.smartgotv.com:8005/live/123456/123456/3149.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",AFRO_MUSIC_CHANNEL
+http://pro.smartgotv.com:8005/live/123456/123456/3170.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",AMC_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3123.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",AXN_BLACK_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3133.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",AXN_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3135.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",AXN_WHITE
+http://pro.smartgotv.com:8005/live/123456/123456/3134.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",AXN_WHITE_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3132.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",BABY_TV
+http://pro.smartgotv.com:8005/live/123456/123456/3177.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",BENFICA_TV
+http://pro.smartgotv.com:8005/live/123456/123456/3104.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",CACAVISION
+http://pro.smartgotv.com:8005/live/123456/123456/3167.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",CANAL_HISTORIA
+http://pro.smartgotv.com:8005/live/123456/123456/3156.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",CANAL_PANDA_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3181.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",CARTOON_NETWORK
+http://pro.smartgotv.com:8005/live/123456/123456/3183.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",CAZAY_PESCA
+http://pro.smartgotv.com:8005/live/123456/123456/3153.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",CBS_REALITY
+http://pro.smartgotv.com:8005/live/123456/123456/3146.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",CINE_MUNDO
+http://pro.smartgotv.com:8005/live/123456/123456/3121.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",CM_TV
+http://pro.smartgotv.com:8005/live/123456/123456/3088.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",DISCOVERY_CHANNEL
+http://pro.smartgotv.com:8005/live/123456/123456/3159.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",DISCOVERY_SHOWCASE_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3158.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",DISNEY_CHANNEL
+http://pro.smartgotv.com:8005/live/123456/123456/3182.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",Disney_Jr
+http://pro.smartgotv.com:8005/live/123456/123456/3098.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",E!ENTERTAINMENT
+http://pro.smartgotv.com:8005/live/123456/123456/3147.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",EUROSPORT_1_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3108.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",EUROSPORT_2_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3107.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",EUROSPORT_NEWS
+http://pro.smartgotv.com:8005/live/123456/123456/3106.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",FOOD_NETWORK
+http://pro.smartgotv.com:8005/live/123456/123456/3168.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",FOX_COMEDY
+http://pro.smartgotv.com:8005/live/123456/123456/3127.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",FOX_CRIME
+http://pro.smartgotv.com:8005/live/123456/123456/3126.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",FOX_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3131.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",FOX_LIFE
+http://pro.smartgotv.com:8005/live/123456/123456/3130.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",FOX_LIFE_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3129.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",FOX_MOVIES
+http://pro.smartgotv.com:8005/live/123456/123456/3128.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",FUEL_TV
+http://pro.smartgotv.com:8005/live/123456/123456/3152.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",GLOBO_PREMIUM
+http://pro.smartgotv.com:8005/live/123456/123456/3120.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",HOLLYWOOD
+http://pro.smartgotv.com:8005/live/123456/123456/3122.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",JIMJAM
+http://pro.smartgotv.com:8005/live/123456/123456/3178.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",KOMBAT_SPORT
+http://pro.smartgotv.com:8005/live/123456/123456/3097.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",MCM_TOP
+http://pro.smartgotv.com:8005/live/123456/123456/3175.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",MCS_EXTREME
+http://pro.smartgotv.com:8005/live/123456/123456/3151.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",MCS_LIFESTYLE
+http://pro.smartgotv.com:8005/live/123456/123456/3150.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",Motorvision_tv
+http://pro.smartgotv.com:8005/live/123456/123456/3099.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",MTV_PORTUGAL
+http://pro.smartgotv.com:8005/live/123456/123456/3176.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",NATGEO_WILD
+http://pro.smartgotv.com:8005/live/123456/123456/3162.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",NATIONAL_GEO
+http://pro.smartgotv.com:8005/live/123456/123456/3161.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",NATIONAL_GEO_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3160.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",NICKELODEON
+http://pro.smartgotv.com:8005/live/123456/123456/3184.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",ODISSEIA
+http://pro.smartgotv.com:8005/live/123456/123456/3154.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",PANDA_BIGGS
+http://pro.smartgotv.com:8005/live/123456/123456/3180.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",PORTO_CANAL
+http://pro.smartgotv.com:8005/live/123456/123456/3101.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",Q_CANAL
+http://pro.smartgotv.com:8005/live/123456/123456/3155.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",REAL_MADRID_TV
+http://pro.smartgotv.com:8005/live/123456/123456/3100.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",RTP_1_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3096.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",RTP_2_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3095.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",RTP_3_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3094.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",RTP_MEMORIA
+http://pro.smartgotv.com:8005/live/123456/123456/3166.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",SIC
+http://pro.smartgotv.com:8005/live/123456/123456/3093.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",SIC_CARAS_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3165.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",SIC_KIDS
+http://pro.smartgotv.com:8005/live/123456/123456/3179.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",SIC_MULHER
+http://pro.smartgotv.com:8005/live/123456/123456/3164.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",SIC_NOTICIAS
+http://pro.smartgotv.com:8005/live/123456/123456/3090.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",SIC_RADICAL
+http://pro.smartgotv.com:8005/live/123456/123456/3163.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",SPORT_TV_1
+http://pro.smartgotv.com:8005/live/123456/123456/3118.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",SPORT_TV_1_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3117.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",SPORT_TV_2
+http://pro.smartgotv.com:8005/live/123456/123456/3116.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",SPORT_TV_2_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3115.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",SPORT_TV_3
+http://pro.smartgotv.com:8005/live/123456/123456/3114.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",SPORT_TV_3_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3113.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",SPORT_TV_4
+http://pro.smartgotv.com:8005/live/123456/123456/3112.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",SPORT_TV_4_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3111.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",SPORT_TV_5
+http://pro.smartgotv.com:8005/live/123456/123456/3110.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",SPORT_TV_5_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3109.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",SPORT_TV+
+http://pro.smartgotv.com:8005/live/123456/123456/3119.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",SPORTING_TV
+http://pro.smartgotv.com:8005/live/123456/123456/3102.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",SYFY_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3125.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",TLC
+http://pro.smartgotv.com:8005/live/123456/123456/3148.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",TRAVEL_CHANNEL
+http://pro.smartgotv.com:8005/live/123456/123456/3157.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",TV_CINE_1
+http://pro.smartgotv.com:8005/live/123456/123456/3143.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",TV_CINE_1_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3142.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",TV_CINE_2
+http://pro.smartgotv.com:8005/live/123456/123456/3141.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",TV_CINE_2_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3140.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",TV_CINE_3
+http://pro.smartgotv.com:8005/live/123456/123456/3139.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",TV_CINE_3_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3138.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",TV_CINE_4
+http://pro.smartgotv.com:8005/live/123456/123456/3137.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",TV_CINE_4_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3136.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",TV_SERIES_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3124.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",TVI
+http://pro.smartgotv.com:8005/live/123456/123456/3092.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",TVI_24
+http://pro.smartgotv.com:8005/live/123456/123456/3091.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",TVI_FICCAO
+http://pro.smartgotv.com:8005/live/123456/123456/3145.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",TVI_REALITY
+http://pro.smartgotv.com:8005/live/123456/123456/3144.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM",VH1
+http://pro.smartgotv.com:8005/live/123456/123456/3171.m3u8
 
 
 
