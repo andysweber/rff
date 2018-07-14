@@ -86,7 +86,7 @@ http://eco.onestreaming.com:8310/;
 http://eco.onestreaming.com:8292/;
 #EXTINF:0 group-title="Cyprus Radio" tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/kanali6.png" ,KANALI 6 106
 http://stream.dnsgb.net:8012/;stream.nsv
-#EXTINF:0  tvg-logo="http://cdn.e-radio.gr/logos/cy/high/dromosfmcy.png" ,DROMOS FM 106.7
+#EXTINF:0 group-title="Cyprus Radio" tvg-logo="http://cdn.e-radio.gr/logos/cy/high/dromosfmcy.png" ,DROMOS FM 106.7
 http://dromoscyprus.live24.gr/dromoscyprus
 #EXTINF:0 group-title="Cyprus Radio" tvg-logo="http://cdn.e-radio.gr/logos/cy/promo/politis1076.png" ,POLITIS 107.6
 http://live3.istoikona.com:8199/;stream.nsv
