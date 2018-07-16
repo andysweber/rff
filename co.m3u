@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,14/07/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,16/07/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -315,138 +315,111 @@ http://wpso.com:1936/hls/wzra.m3u8
 
 #EXTINF:-1 group-title="Greece2",
 
-#EXTINF:-1 group-title="Greece2",4E GR*
+#EXTINF:-1 group-title="Greece2" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/manaellada.png" ,==GREECE==
+http://..........
+#EXTINF:-1 group-title="Greece2" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE:
+https://www.youtube.com/watch?v=7sIsiHbDi_0
+#EXTINF:-1 group-title="Greece2" tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,Retry several
+https://www.youtube.com/watch?v=7sIsiHbDi_0
+#EXTINF:-1 group-title="Greece2" tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,times
+https://www.youtube.com/watch?v=7sIsiHbDi_0
+#EXTINF:-1 group-title="Greece2" tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,if Failed
+https://www.youtube.com/watch?v=7sIsiHbDi_0
+#EXTINF:-1 group-title="Greece2" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
+http://.....
+
+#EXTINF:-1 group-title="Greece2",4E 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21772.m3u8
-#EXTINF:-1 group-title="Greece2",4E Star GR*
-http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21771.m3u8
-#EXTINF:-1 group-title="Greece2",AB GR*
-http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21770.m3u8
-#EXTINF:-1 group-title="Greece2",Action24 GR*
+#EXTINF:-1 group-title="Greece2",Action24 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21767.m3u8
-#EXTINF:-1 group-title="Greece2",Alpha Cyprus GR*
+#EXTINF:-1 group-title="Greece2",Alpha Cyprus 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21766.m3u8
-#EXTINF:-1 group-title="Greece2",Alpha GR*
+#EXTINF:-1 group-title="Greece2",Alpha 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21765.m3u8
-#EXTINF:-1 group-title="Greece2",Alpha HD GR*
-http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21764.m3u8
-#EXTINF:-1 group-title="Greece2",Animal Planet GR*
+#EXTINF:-1 group-title="Greece2",Animal Planet 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21723.m3u8
-#EXTINF:-1 group-title="Greece2",Animal Planet HD GR*
+#EXTINF:-1 group-title="Greece2",Animal Planet HD 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21722.m3u8
-#EXTINF:-1 group-title="Greece2",Ant 1 GR*
-http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21763.m3u8
-#EXTINF:-1 group-title="Greece2",ANT1 HD GR*
-http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21769.m3u8
-#EXTINF:-1 group-title="Greece2",Antena 1 GR*
+#EXTINF:-1 group-title="Greece2",Ant 1 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21762.m3u8
-#EXTINF:-1 group-title="Greece2",Antenna Sat USA (Nova USA) FHD GR*
+#EXTINF:-1 group-title="Greece2",Antenna Sat USA (Nova USA) FHD 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21761.m3u8
-#EXTINF:-1 group-title="Greece2",ART Channel GR*
+#EXTINF:-1 group-title="Greece2",ART Channel 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21768.m3u8
-#EXTINF:-1 group-title="Greece2",Baby TV GR*
+#EXTINF:-1 group-title="Greece2",Baby TV 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21760.m3u8
-#EXTINF:-1 group-title="Greece2",Blue Sky GR*
+#EXTINF:-1 group-title="Greece2",Blue Sky 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21759.m3u8
-#EXTINF:-1 group-title="Greece2",Cannali Music GR
-http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21758.m3u8
-#EXTINF:-1 group-title="Greece2",Capital Cyprus GR
+#EXTINF:-1 group-title="Greece2",Capital Cyprus 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21757.m3u8
-#EXTINF:-1 group-title="Greece2",Crime Investigation HD GR
+#EXTINF:-1 group-title="Greece2",Crime Investigation HD 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21721.m3u8
-#EXTINF:-1 group-title="Greece2",Discovery Channel GR*
+#EXTINF:-1 group-title="Greece2",Discovery Channel 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21720.m3u8
-#EXTINF:-1 group-title="Greece2",Discovery ID GR
+#EXTINF:-1 group-title="Greece2",Discovery ID 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21719.m3u8
-#EXTINF:-1 group-title="Greece2",Discovery IDX GR
+#EXTINF:-1 group-title="Greece2",Discovery IDX 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21718.m3u8
-#EXTINF:-1 group-title="Greece2",Discovery Science GR*
+#EXTINF:-1 group-title="Greece2",Discovery History 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21717.m3u8
-
-
-
-#EXTINF:-1 group-title="Greece2",Epsilon GR*
+#EXTINF:-1 group-title="Greece2",Epsilon 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21751.m3u8
-#EXTINF:-1 group-title="Greece2",Epsilon HD GR*
+#EXTINF:-1 group-title="Greece2",Epsilon HD 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21750.m3u8
-#EXTINF:-1 group-title="Greece2",ERT 1 GR*
+#EXTINF:-1 group-title="Greece2",ERT 1 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21756.m3u8
-#EXTINF:-1 group-title="Greece2",ERT 2 GR*
+#EXTINF:-1 group-title="Greece2",ERT 2 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21755.m3u8
-#EXTINF:-1 group-title="Greece2",ERT 3 GR*
+#EXTINF:-1 group-title="Greece2",ERT 3 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21754.m3u8
-#EXTINF:-1 group-title="Greece2",ERT HD GR*
+#EXTINF:-1 group-title="Greece2",ERT HD 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21753.m3u8
-#EXTINF:-1 group-title="Greece2",ERT TV HD GR*
-http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21752.m3u8
-#EXTINF:-1 group-title="Greece2",EuroNews GR
+#EXTINF:-1 group-title="Greece2",DTX 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21749.m3u8
-
-
-#EXTINF:-1 group-title="Greece2",Extra GR*
+#EXTINF:-1 group-title="Greece2",Extra 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21748.m3u8
-#EXTINF:-1 group-title="Greece2",Fishing Ellinika GR
+#EXTINF:-1 group-title="Greece2",Fishing Ellinika 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21747.m3u8
-
-#EXTINF:-1 group-title="Greece2",Hunting Ellinika GR
-http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21746.m3u8
-#EXTINF:-1 group-title="Greece2",Ionian TV GR*
+#EXTINF:-1 group-title="Greece2",Ionian TV 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21745.m3u8
-#EXTINF:-1 group-title="Greece2",Kontra GR*
+#EXTINF:-1 group-title="Greece2",Kontra 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21744.m3u8
-#EXTINF:-1 group-title="Greece2",Kriti TV GR*
+#EXTINF:-1 group-title="Greece2",Kriti TV 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21743.m3u8
-#EXTINF:-1 group-title="Greece2",Luxe TV FHD GR
+#EXTINF:-1 group-title="Greece2",Luxe TV FHD 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21742.m3u8
-#EXTINF:-1 group-title="Greece2",MAD TV Cyprus GR*
+#EXTINF:-1 group-title="Greece2",MAD TV Cyprus 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21741.m3u8
-#EXTINF:-1 group-title="Greece2",MAD TV GR*
+#EXTINF:-1 group-title="Greece2",MAD TV 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21740.m3u8
-#EXTINF:-1 group-title="Greece2",Makedonia GR*
+#EXTINF:-1 group-title="Greece2",Makedonia 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21739.m3u8
-#EXTINF:-1 group-title="Greece2",Makedonia TV HD GR*
+#EXTINF:-1 group-title="Greece2",Makedonia TV HD 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21738.m3u8
-#EXTINF:-1 group-title="Greece2",Mega GR*
+#EXTINF:-1 group-title="Greece2",Mega 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21737.m3u8
-#EXTINF:-1 group-title="Greece2",MegaOne Cyprus GR*
+#EXTINF:-1 group-title="Greece2",Mega 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21736.m3u8
-#EXTINF:-1 group-title="Greece2",Messinia TV GR
+#EXTINF:-1 group-title="Greece2",Messinia TV 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21735.m3u8
-
-#EXTINF:-1 group-title="Greece2",Nea TV GR*
+#EXTINF:-1 group-title="Greece2",Nea TV 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21734.m3u8
-#EXTINF:-1 group-title="Greece2",Net TV GR
+#EXTINF:-1 group-title="Greece2",Net TV 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21733.m3u8
-
-
-#EXTINF:-1 group-title="Greece2",Omega TV GR*
-http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21732.m3u8
-
-#EXTINF:-1 group-title="Greece2",Plus Cyprus GR
-http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21731.m3u8
-#EXTINF:-1 group-title="Greece2",RIK 1 Cyprus GR
+#EXTINF:-1 group-title="Greece2",RIK 1 Cyprus 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21730.m3u8
-#EXTINF:-1 group-title="Greece2",RIK 2 Cyprus GR
+#EXTINF:-1 group-title="Greece2",RIK 2 Cyprus 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21729.m3u8
-#EXTINF:-1 group-title="Greece2",Rise FHD GR
-http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21707.m3u8
-#EXTINF:-1 group-title="Greece2",Samiaki GR*
-http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21727.m3u8
-#EXTINF:-1 group-title="Greece2",SBC HD GR*
-http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21728.m3u8
-#EXTINF:-1 group-title="Greece2",Sigma GR
+#EXTINF:-1 group-title="Greece2",Sigma 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21726.m3u8
-#EXTINF:-1 group-title="Greece2",Skai GR*
+#EXTINF:-1 group-title="Greece2",Skai 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21675.m3u8
-#EXTINF:-1 group-title="Greece2",Skai HD GR*
+#EXTINF:-1 group-title="Greece2",Skai HD 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21674.m3u8
-#EXTINF:-1 group-title="Greece2",Smile GR*
+#EXTINF:-1 group-title="Greece2",Smile 
 http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21725.m3u8
-#EXTINF:-1 group-title="Greece2",Smile Kids GR*
-http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21706.m3u8
-#EXTINF:-1 group-title="Greece2",Star GR*
-http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21673.m3u8
-#EXTINF:-1 group-title="Greece2",Star HD GR*
-http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21672.m3u8
+
+
 
 
 
@@ -3448,7 +3421,176 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/811.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Italy2-PREMIUM",
 
-
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai1 HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1840.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai2_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1841.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai 3
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1842.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai4_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1843.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai5_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1844.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",IT.Rai.YoYo
+http://iptv2017.ddns.net:8100/live/hamdi/1234/493.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",RAI GULP
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1968.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai_Movie
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1845.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai_News_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1849.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai_Sport1_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1632.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Storia
+http://iptv2017.ddns.net:8100/live/hamdi/1234/494.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",RSI LA 1
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1962.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rete_4_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1850.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",RAI Cinema
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1630.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Premium
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1846.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",EUROSPORT 1
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1925.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",EUROSPORT2_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1923.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",FOX SPORTS
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1618.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Sport
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1625.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Sport 2
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1526.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport 1
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1536.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport 2
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1535.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport 3
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1534.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky SportF1
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1533.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",SKY Sport Moto GP
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1974.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport 24
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1964.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",SKY Calcio 1
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1960.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",SPORT ITALIA
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1924.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",SKY Calcio 2
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1961.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",INTER MILAN
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2837.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema1 HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1546.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Max
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1627.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",SKY Classic
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1916.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema 24
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1619.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Cult
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1640.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",SKY Cinema Passion
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1538.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Family
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1541.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Hits
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1626.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Stories
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1939.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Energy
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1946.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Emotion
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1528.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium_Crime_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1529.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium_CRIME+24_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1941.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Action
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1532.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Cinema
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1530.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM", Premium Cinema 2
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1944.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium cartoon network
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1930.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Calcio 1
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1917.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium.Calcio 2
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1531.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",FOX
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1931.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",FOX animation
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1938.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",FOX COMEDY
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1945.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",FOX CRIME
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1940.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",FOX_life_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1915.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Prima fila1
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1614.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Prima-fila_2_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1615.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Prima-fila_3_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1616.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Prima Fila4
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1617.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Primafila_ 5_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1851.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Prima-fila_6_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1852.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Prima Fila 7
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1853.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Prima-fila_ 8_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1854.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",PRIMA FILA 9HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1928.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",PRIMA FILA 10
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1929.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",NATIONAL GEOGRAPHIC
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1926.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",ANIMAL_planet
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1927.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",DISCOVRY_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1933.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",DISCOVRY SCIENCE
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1972.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",DISCOVRY Travel Living
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1973.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",DMAX
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1967.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",FOCUS_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1932.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",HISTORY_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1935.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",NAT-GEO_PEOPLE_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1934.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Uno
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1628.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Italia1_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1847.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",ITALIA 2
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1965.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",LA 7
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1635.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",RSI LA 2
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1963.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Canale_5_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1848.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",SUPER_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1943.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",SUPER-Tennis_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1942.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",BOING
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1937.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",CARTONITO_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1936.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Disney Junior
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1537.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",sky_syper-calcio_HD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1922.m3u8
 
 
 
@@ -4038,6 +4180,586 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/523.m3u8$http-refferer=
 
 
 #EXTINF:-1 group-title="France2-PREMIUM",
+
+
+#EXTINF:-1 group-title="France2-PREMIUM",--- [TNT FR] ---
+http://195.154.107.246:1155/live/fadil/1234/5356.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TF1.HD
+http://195.154.107.246:1155/live/fadil/1234/5297.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TF1_SD
+http://195.154.107.246:1155/live/fadil/1234/6221.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE2 FHD
+http://195.154.107.246:1155/live/fadil/1234/5340.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",FRAnCE2 HD
+http://195.154.107.246:1155/live/fadil/1234/5341.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE3 HD
+http://195.154.107.246:1155/live/fadil/1234/445.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE3 SD
+http://195.154.107.246:1155/live/fadil/1234/2517.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE4 FHD
+http://195.154.107.246:1155/live/fadil/1234/5339.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE4 .HD.
+http://195.154.107.246:1155/live/fadil/1234/5338.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE5 HD
+http://195.154.107.246:1155/live/fadil/1234/447.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE5 SD
+http://195.154.107.246:1155/live/fadil/1234/2519.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE O HD
+http://195.154.107.246:1155/live/fadil/1234/448.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE O SD
+http://195.154.107.246:1155/live/fadil/1234/2520.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",M6.HD
+http://195.154.107.246:1155/live/fadil/1234/5294.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",M6 FHD
+http://195.154.107.246:1155/live/fadil/1234/2474.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",M6.SD
+http://195.154.107.246:1155/live/fadil/1234/5295.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",PARIS PREMIERE SD
+http://195.154.107.246:1155/live/fadil/1234/469.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TMC HD
+http://195.154.107.246:1155/live/fadil/1234/1624.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TMC SD
+http://195.154.107.246:1155/live/fadil/1234/474.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TV BREIZH SD
+http://195.154.107.246:1155/live/fadil/1234/1355.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ARTE SD
+http://195.154.107.246:1155/live/fadil/1234/456.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",6TER SD
+http://195.154.107.246:1155/live/fadil/1234/455.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TF1 SERIES FILMS SD
+http://195.154.107.246:1155/live/fadil/1234/454.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",--- [INFO FR] ---
+http://195.154.107.246:1155/live/fadil/1234/5357.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE 24 HD
+http://195.154.107.246:1155/live/fadil/1234/15.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BFM TV HD
+http://195.154.107.246:1155/live/fadil/1234/2314.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BFM TV SD
+http://195.154.107.246:1155/live/fadil/1234/2526.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BFM BUISINESS HD
+http://195.154.107.246:1155/live/fadil/1234/757.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",LCI HD
+http://195.154.107.246:1155/live/fadil/1234/2312.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",LCP HD
+http://195.154.107.246:1155/live/fadil/1234/2313.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",C NEWS
+http://195.154.107.246:1155/live/fadil/1234/552.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE INFO HD
+http://195.154.107.246:1155/live/fadil/1234/2547.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TV5 MONDE
+http://195.154.107.246:1155/live/fadil/1234/449.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",EURONEWS
+http://195.154.107.246:1155/live/fadil/1234/4817.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",--- [SPORT FR] ---
+http://195.154.107.246:1155/live/fadil/1234/5358.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",beIN SPORTS .1. HD
+http://195.154.107.246:1155/live/fadil/1234/5305.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",beIN SPORTS .1. SD
+http://195.154.107.246:1155/live/fadil/1234/5304.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",beIN SPORTS .2. HD
+http://195.154.107.246:1155/live/fadil/1234/5307.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",beIN SPORTS .2. SD
+http://195.154.107.246:1155/live/fadil/1234/5306.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",beIN SPORTS .3. HD
+http://195.154.107.246:1155/live/fadil/1234/5308.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",beIN SPORTS .3. SD
+http://195.154.107.246:1155/live/fadil/1234/5309.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",SFR SPORTS 1 HD
+http://195.154.107.246:1155/live/fadil/1234/5298.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",SFR SPORTS 1 SD
+http://195.154.107.246:1155/live/fadil/1234/5299.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",SFR SPORTS 2 HD
+http://195.154.107.246:1155/live/fadil/1234/5301.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",SFR SPORTS 2 SD
+http://195.154.107.246:1155/live/fadil/1234/5300.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",SFR SPORTS 3 SD
+http://195.154.107.246:1155/live/fadil/1234/5303.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",SFR SPORTS 3 HD
+http://195.154.107.246:1155/live/fadil/1234/5302.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",SFR.SPORT.5 HD
+http://195.154.107.246:1155/live/fadil/1234/2563.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN SPORT MAX 4 HD
+http://195.154.107.246:1155/live/fadil/1234/1739.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN SPORT MAX 5 HD
+http://195.154.107.246:1155/live/fadil/1234/1740.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN SPORT MAX 6 HD
+http://195.154.107.246:1155/live/fadil/1234/1741.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN SPORT MAX 7 HD
+http://195.154.107.246:1155/live/fadil/1234/1742.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN SPORT MAX 8 HD
+http://195.154.107.246:1155/live/fadil/1234/1627.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN SPORT MAX 9 HD
+http://195.154.107.246:1155/live/fadil/1234/1628.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN SPORT MAX 10 HD
+http://195.154.107.246:1155/live/fadil/1234/1756.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL+ SPORT FHD
+http://195.154.107.246:1155/live/fadil/1234/1450.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL+ SPORT SD
+http://195.154.107.246:1155/live/fadil/1234/3781.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL+ SPORT HD
+http://195.154.107.246:1155/live/fadil/1234/761.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",EUROSPORT1 FHD
+http://195.154.107.246:1155/live/fadil/1234/554.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",EUROSPORT 2 FHD
+http://195.154.107.246:1155/live/fadil/1234/553.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",EUROSPORT1 HD
+http://195.154.107.246:1155/live/fadil/1234/3869.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",EUROSPORT 2HD
+http://195.154.107.246:1155/live/fadil/1234/17.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",KOMBA SPORT HD
+http://195.154.107.246:1155/live/fadil/1234/99.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",EQUIDIA LIVE HD
+http://195.154.107.246:1155/live/fadil/1234/490.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",EQUIDIA LIFE HD
+http://195.154.107.246:1155/live/fadil/1234/1775.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",INFOSPORT  HD
+http://195.154.107.246:1155/live/fadil/1234/485.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",LEQUIPE21 FHD
+http://195.154.107.246:1155/live/fadil/1234/489.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",FOOT+ HD
+http://195.154.107.246:1155/live/fadil/1234/488.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",GOLF+ HD
+http://195.154.107.246:1155/live/fadil/1234/2281.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",AB MOTEUR SD
+http://195.154.107.246:1155/live/fadil/1234/1623.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",LA CHAINE NORMADIE
+http://195.154.107.246:1155/live/fadil/1234/1626.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",--- [CINIMA FR] ---
+http://195.154.107.246:1155/live/fadil/1234/5359.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL+.FHD
+http://195.154.107.246:1155/live/fadil/1234/5292.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL+.HD
+http://195.154.107.246:1155/live/fadil/1234/5293.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL+ DECALE HD
+http://195.154.107.246:1155/live/fadil/1234/2529.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL+ DECALE SD
+http://195.154.107.246:1155/live/fadil/1234/477.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL+ FAMILY HD
+http://195.154.107.246:1155/live/fadil/1234/478.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL+ FAMILY SD
+http://195.154.107.246:1155/live/fadil/1234/2530.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL+ CINEMA FHD
+http://195.154.107.246:1155/live/fadil/1234/5317.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL+ CINEMA .HD.
+http://195.154.107.246:1155/live/fadil/1234/5316.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL+ CINEMA SD
+http://195.154.107.246:1155/live/fadil/1234/479.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",WARNER BROS HD
+http://195.154.107.246:1155/live/fadil/1234/5215.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",OCS MAX HD
+http://195.154.107.246:1155/live/fadil/1234/4313.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",OCS MAX SD
+http://195.154.107.246:1155/live/fadil/1234/464.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",OCS GEANTS SD
+http://195.154.107.246:1155/live/fadil/1234/465.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",OCS CITY SD
+http://195.154.107.246:1155/live/fadil/1234/466.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",OCS CHOC SD
+http://195.154.107.246:1155/live/fadil/1234/467.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CINE+ FRISSON .FHD.
+http://195.154.107.246:1155/live/fadil/1234/5319.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CINE+ FRISSON .HD.
+http://195.154.107.246:1155/live/fadil/1234/5318.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CINE+ PREMIER HD
+http://195.154.107.246:1155/live/fadil/1234/3932.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CINE+ PREMIER SD
+http://195.154.107.246:1155/live/fadil/1234/459.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CINE+ FRISSON SD
+http://195.154.107.246:1155/live/fadil/1234/2531.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CINE+ FAMIZ SD
+http://195.154.107.246:1155/live/fadil/1234/461.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CINE+ EMOTION SD
+http://195.154.107.246:1155/live/fadil/1234/462.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CINE+ CLASSIC SD
+http://195.154.107.246:1155/live/fadil/1234/463.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CINE POLAR SD
+http://195.154.107.246:1155/live/fadil/1234/758.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CINE+ FX SD
+http://195.154.107.246:1155/live/fadil/1234/759.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ACTION  HD
+http://195.154.107.246:1155/live/fadil/1234/2536.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ACTION  SD
+http://195.154.107.246:1155/live/fadil/1234/473.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TCM CINEMA SD
+http://195.154.107.246:1155/live/fadil/1234/2296.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",PARAMOUNT CHANNEL HD
+http://195.154.107.246:1155/live/fadil/1234/4314.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",PARAMOUNT CHANNEL SD
+http://195.154.107.246:1155/live/fadil/1234/470.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",--- [FRANCE DIVERTISSE ] ---
+http://195.154.107.246:1155/live/fadil/1234/5360.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TF1 SERIES FILMS FHD
+http://195.154.107.246:1155/live/fadil/1234/4154.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",SERIE CLUB SD
+http://195.154.107.246:1155/live/fadil/1234/468.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL+ SERIES HD
+http://195.154.107.246:1155/live/fadil/1234/3779.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL+ SERIES SD
+http://195.154.107.246:1155/live/fadil/1234/480.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",13EME RUE SD
+http://195.154.107.246:1155/live/fadil/1234/545.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",SYFY SD
+http://195.154.107.246:1155/live/fadil/1234/472.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TEVA SD
+http://195.154.107.246:1155/live/fadil/1234/547.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",COMEDIE+ HD
+http://195.154.107.246:1155/live/fadil/1234/2524.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",COMEDIE+ SD
+http://195.154.107.246:1155/live/fadil/1234/471.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",E ENTERTAINEMENT HD
+http://195.154.107.246:1155/live/fadil/1234/2546.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",NRJ12 SD
+http://195.154.107.246:1155/live/fadil/1234/551.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CHERIE 25 SD
+http://195.154.107.246:1155/live/fadil/1234/760.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",AB1 HD
+http://195.154.107.246:1155/live/fadil/1234/1046.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",C8 HD
+http://195.154.107.246:1155/live/fadil/1234/452.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",C8 SD
+http://195.154.107.246:1155/live/fadil/1234/2523.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",C STAR HD
+http://195.154.107.246:1155/live/fadil/1234/2522.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CSTAR SD
+http://195.154.107.246:1155/live/fadil/1234/453.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",WEO HD
+http://195.154.107.246:1155/live/fadil/1234/546.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",WEO SD
+http://195.154.107.246:1155/live/fadil/1234/2525.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",RTL9 SD
+http://195.154.107.246:1155/live/fadil/1234/457.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",NT1 HD
+http://195.154.107.246:1155/live/fadil/1234/2521.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",NT1 SD
+http://195.154.107.246:1155/live/fadil/1234/550.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",NUMERO23 SD
+http://195.154.107.246:1155/live/fadil/1234/1356.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",W9 FHD
+http://195.154.107.246:1155/live/fadil/1234/5314.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",W9 .HD.
+http://195.154.107.246:1155/live/fadil/1234/5315.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",W9 SD
+http://195.154.107.246:1155/live/fadil/1234/451.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",--- [MUSIC FR] ---
+http://195.154.107.246:1155/live/fadil/1234/5361.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",MTV DANCE
+http://195.154.107.246:1155/live/fadil/1234/1620.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",MTV MUSIC
+http://195.154.107.246:1155/live/fadil/1234/1619.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",MTV BASE
+http://195.154.107.246:1155/live/fadil/1234/1621.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",M6 MUSIC HD
+http://195.154.107.246:1155/live/fadil/1234/2293.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",NRJ12 HITS HD
+http://195.154.107.246:1155/live/fadil/1234/2265.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",VIRGIN TV
+http://195.154.107.246:1155/live/fadil/1234/98.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",MCM TOP HD
+http://195.154.107.246:1155/live/fadil/1234/2149.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",MCM HD
+http://195.154.107.246:1155/live/fadil/1234/2154.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",VH1 CASSIC HD
+http://195.154.107.246:1155/live/fadil/1234/2148.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",MCM POP HD
+http://195.154.107.246:1155/live/fadil/1234/2292.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CAPITAL TV.
+http://195.154.107.246:1155/live/fadil/1234/84.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",M2O MUSIC
+http://195.154.107.246:1155/live/fadil/1234/100.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Radio 5 TV
+http://195.154.107.246:1155/live/fadil/1234/105.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",--- [FRANCE CULTURE ] ---
+http://195.154.107.246:1155/live/fadil/1234/5362.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISCOVERY FHD
+http://195.154.107.246:1155/live/fadil/1234/5323.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISCOVERY .HD.
+http://195.154.107.246:1155/live/fadil/1234/5322.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISCOVERY SD
+http://195.154.107.246:1155/live/fadil/1234/2540.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISCOVERY INVESTIGATION FHD
+http://195.154.107.246:1155/live/fadil/1234/5321.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISCOVERY INVESTIGATION .HD.
+http://195.154.107.246:1155/live/fadil/1234/5320.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISCOVERY INVESTIGATION SD
+http://195.154.107.246:1155/live/fadil/1234/29.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISCOVERY FAMLIY HD
+http://195.154.107.246:1155/live/fadil/1234/5214.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISCOVERY SC FHD
+http://195.154.107.246:1155/live/fadil/1234/5324.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISCOVERY SC .HD.
+http://195.154.107.246:1155/live/fadil/1234/5325.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISCOVERY SC SD
+http://195.154.107.246:1155/live/fadil/1234/517.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",NATIONAL GEO FHD
+http://195.154.107.246:1155/live/fadil/1234/5335.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",NATIONAL GEO .HD.
+http://195.154.107.246:1155/live/fadil/1234/5334.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",NATIONAL GEO SD
+http://195.154.107.246:1155/live/fadil/1234/513.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",NAT GEO WILD FHD
+http://195.154.107.246:1155/live/fadil/1234/5332.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",NAT GEO WILD .HD.
+http://195.154.107.246:1155/live/fadil/1234/5333.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",NAT GEO WILD SD
+http://195.154.107.246:1155/live/fadil/1234/2548.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ANIMAUX FHD
+http://195.154.107.246:1155/live/fadil/1234/5329.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ANIMAUX .HD.
+http://195.154.107.246:1155/live/fadil/1234/5328.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ANIMAUX SD
+http://195.154.107.246:1155/live/fadil/1234/514.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",USHUAIA HD
+http://195.154.107.246:1155/live/fadil/1234/2545.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",USHUAIA SD
+http://195.154.107.246:1155/live/fadil/1234/511.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",SCIENCE VIE HD
+http://195.154.107.246:1155/live/fadil/1234/3935.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",SCIENCE VIE SD
+http://195.154.107.246:1155/live/fadil/1234/510.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",RMC HD
+http://195.154.107.246:1155/live/fadil/1234/518.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",VOYAGE FHD
+http://195.154.107.246:1155/live/fadil/1234/5326.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",VOYAGE .HD.
+http://195.154.107.246:1155/live/fadil/1234/5327.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",VOYAGE SD
+http://195.154.107.246:1155/live/fadil/1234/2542.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",PLANETE+ HD
+http://195.154.107.246:1155/live/fadil/1234/2544.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",PLANETE+ SD
+http://195.154.107.246:1155/live/fadil/1234/508.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",PLANETE CI SD
+http://195.154.107.246:1155/live/fadil/1234/770.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",PLANETE+ A.E SD
+http://195.154.107.246:1155/live/fadil/1234/509.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TREK SD
+http://195.154.107.246:1155/live/fadil/1234/2282.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",SEASON HD
+http://195.154.107.246:1155/live/fadil/1234/1755.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CRIME DISTRICT HD
+http://195.154.107.246:1155/live/fadil/1234/3418.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",HISTOIRE SD
+http://195.154.107.246:1155/live/fadil/1234/96.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TOUTE L HISTOIRE SD
+http://195.154.107.246:1155/live/fadil/1234/769.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CHASSE PECHE SD
+http://195.154.107.246:1155/live/fadil/1234/515.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CHASSE.PECHE HD
+http://195.154.107.246:1155/live/fadil/1234/2550.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",MEZZO LIVE  SD
+http://195.154.107.246:1155/live/fadil/1234/2686.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",--- [ ENFANTS FRANCE ] ---
+http://195.154.107.246:1155/live/fadil/1234/5363.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISNY CHANNEL HD
+http://195.154.107.246:1155/live/fadil/1234/496.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISNY CHANNEL SD
+http://195.154.107.246:1155/live/fadil/1234/2534.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISNEY JUNIOR FHD
+http://195.154.107.246:1155/live/fadil/1234/5337.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISNEY JUNIOR .HD.
+http://195.154.107.246:1155/live/fadil/1234/5336.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISNEY XD HD
+http://195.154.107.246:1155/live/fadil/1234/492.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISNEY CINEMA HD
+http://195.154.107.246:1155/live/fadil/1234/494.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",NICKELODEON JUN HD
+http://195.154.107.246:1155/live/fadil/1234/3867.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",NICKELODEON HD
+http://195.154.107.246:1155/live/fadil/1234/504.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",NICKELODEON  FHD
+http://195.154.107.246:1155/live/fadil/1234/506.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",NICKELODEON 4TEEN HD
+http://195.154.107.246:1155/live/fadil/1234/4005.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TELETOON+ HD
+http://195.154.107.246:1155/live/fadil/1234/502.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",PIWI HD
+http://195.154.107.246:1155/live/fadil/1234/2537.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",PIWI SD
+http://195.154.107.246:1155/live/fadil/1234/499.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ZOUZOUS
+http://195.154.107.246:1155/live/fadil/1234/1581.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL J  HD
+http://195.154.107.246:1155/live/fadil/1234/495.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TIJI SD
+http://195.154.107.246:1155/live/fadil/1234/501.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BOOMERANG HD
+http://195.154.107.246:1155/live/fadil/1234/2532.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BOOMERANG SD
+http://195.154.107.246:1155/live/fadil/1234/498.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CARTOON NET HD
+http://195.154.107.246:1155/live/fadil/1234/2533.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CARTOON NET SD
+http://195.154.107.246:1155/live/fadil/1234/497.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DIsNY CHANNEL SD
+http://195.154.107.246:1155/live/fadil/1234/2264.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",GAME ONE SD
+http://195.154.107.246:1155/live/fadil/1234/503.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BOiNG HD
+http://195.154.107.246:1155/live/fadil/1234/1702.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",GULLI HD
+http://195.154.107.246:1155/live/fadil/1234/500.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",GULLI SD
+http://195.154.107.246:1155/live/fadil/1234/2538.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",MANGAS HD
+http://195.154.107.246:1155/live/fadil/1234/505.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",MANGAS SD
+http://195.154.107.246:1155/live/fadil/1234/2539.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISNEY ORANGE 1
+http://195.154.107.246:1155/live/fadil/1234/3632.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISNEY ORANGE 2
+http://195.154.107.246:1155/live/fadil/1234/3633.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISNEY ORANGE 3
+http://195.154.107.246:1155/live/fadil/1234/3634.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISNEY ORANGE 4
+http://195.154.107.246:1155/live/fadil/1234/3635.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISNEY.ORANGE.5
+http://195.154.107.246:1155/live/fadil/1234/3636.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TOM AND JERRY 24/24
+http://195.154.107.246:1155/live/fadil/1234/1440.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",LUCKY LUKE 24/24
+http://195.154.107.246:1155/live/fadil/1234/3554.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DOCTEUR CAILLOU
+http://195.154.107.246:1155/live/fadil/1234/3630.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",LEO LE LION 24/24
+http://195.154.107.246:1155/live/fadil/1234/3557.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",HORSELAND 24/24
+http://195.154.107.246:1155/live/fadil/1234/3556.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM", PINOCCHIO
+http://195.154.107.246:1155/live/fadil/1234/3631.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",MR BEAN
+http://195.154.107.246:1155/live/fadil/1234/3421.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",|BE| LA UNE
+http://195.154.107.246:1155/live/fadil/1234/1502.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",|BE| LA DEUX
+http://195.154.107.246:1155/live/fadil/1234/1503.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",|BE| LA TROIS
+http://195.154.107.246:1155/live/fadil/1234/1504.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",|BE| CLUB RTL
+http://195.154.107.246:1155/live/fadil/1234/1506.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",|BE| RTL TVI
+http://195.154.107.246:1155/live/fadil/1234/1505.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",[BE] PLUG RTL
+http://195.154.107.246:1155/live/fadil/1234/46.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",|BE| EEN HD
+http://195.154.107.246:1155/live/fadil/1234/2236.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",|BE| VTM
+http://195.154.107.246:1155/live/fadil/1234/2019.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",|BE| VIER
+http://195.154.107.246:1155/live/fadil/1234/2241.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",|BE| JIM
+http://195.154.107.246:1155/live/fadil/1234/2237.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",|BE| 2BE
+http://195.154.107.246:1155/live/fadil/1234/2228.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",|BE| CANVAS
+http://195.154.107.246:1155/live/fadil/1234/2235.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",|BE| AB3
+http://195.154.107.246:1155/live/fadil/1234/2233.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",|SU| RTS UN
+http://195.154.107.246:1155/live/fadil/1234/548.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",|SU| RTS DEUX
+http://195.154.107.246:1155/live/fadil/1234/549.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",--- [PPV FR] ---
+http://195.154.107.246:1155/live/fadil/1234/5364.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL PLAY 1
+http://195.154.107.246:1155/live/fadil/1234/4779.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL PLAY 2
+http://195.154.107.246:1155/live/fadil/1234/4781.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL PLAY 3
+http://195.154.107.246:1155/live/fadil/1234/4782.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL PLAY 4
+http://195.154.107.246:1155/live/fadil/1234/4783.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL PLAY 5
+http://195.154.107.246:1155/live/fadil/1234/4803.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL PLAY 6
+http://195.154.107.246:1155/live/fadil/1234/4804.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL PLAY 7
+http://195.154.107.246:1155/live/fadil/1234/4813.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL PLAY 8
+http://195.154.107.246:1155/live/fadil/1234/4814.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL PLAY 9
+http://195.154.107.246:1155/live/fadil/1234/4815.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL PLAY 10
+http://195.154.107.246:1155/live/fadil/1234/4816.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL PLAY 11
+http://195.154.107.246:1155/live/fadil/1234/1607.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL PLAY 12
+http://195.154.107.246:1155/live/fadil/1234/1608.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL PLAY 13
+http://195.154.107.246:1155/live/fadil/1234/1609.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL PLAY 14
+http://195.154.107.246:1155/live/fadil/1234/1610.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL PLAY 15
+http://195.154.107.246:1155/live/fadil/1234/1611.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL PLAY 16
+http://195.154.107.246:1155/live/fadil/1234/1612.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL PLAY 17
+http://195.154.107.246:1155/live/fadil/1234/1613.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL PLAY 18
+http://195.154.107.246:1155/live/fadil/1234/1614.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL PLAY 19
+http://195.154.107.246:1155/live/fadil/1234/1615.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL PLAY 20
+http://195.154.107.246:1155/live/fadil/1234/1616.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ALACARTE 1
+http://195.154.107.246:1155/live/fadil/1234/3878.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ALACARTE 5
+http://195.154.107.246:1155/live/fadil/1234/4604.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ALACARTE 6
+http://195.154.107.246:1155/live/fadil/1234/4695.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ALACARTE 7
+http://195.154.107.246:1155/live/fadil/1234/4696.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ALACARTE 8
+http://195.154.107.246:1155/live/fadil/1234/4697.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ALACARTE 9
+http://195.154.107.246:1155/live/fadil/1234/4698.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ALACARTE 10
+http://195.154.107.246:1155/live/fadil/1234/4699.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ALACARTE 11
+http://195.154.107.246:1155/live/fadil/1234/762.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ALACARTE 12
+http://195.154.107.246:1155/live/fadil/1234/783.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ALACARTE 13
+http://195.154.107.246:1155/live/fadil/1234/784.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ALACARTE 14
+http://195.154.107.246:1155/live/fadil/1234/785.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ALACARTE 15
+http://195.154.107.246:1155/live/fadil/1234/786.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ALACARTE 16
+http://195.154.107.246:1155/live/fadil/1234/787.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ALACARTE 17
+http://195.154.107.246:1155/live/fadil/1234/788.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ALACARTE 18
+http://195.154.107.246:1155/live/fadil/1234/789.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ALACARTE 19
+http://195.154.107.246:1155/live/fadil/1234/790.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ALACARTE 20
+http://195.154.107.246:1155/live/fadil/1234/791.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ORANGE CINE+1
+http://195.154.107.246:1155/live/fadil/1234/2903.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ORANGE CINE+2
+http://195.154.107.246:1155/live/fadil/1234/2044.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ORANGE CINE+3
+http://195.154.107.246:1155/live/fadil/1234/2043.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ORANGE CINE+4
+http://195.154.107.246:1155/live/fadil/1234/2042.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ORANGE CINE+5
+http://195.154.107.246:1155/live/fadil/1234/2041.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ORANGE CINE+6
+http://195.154.107.246:1155/live/fadil/1234/2040.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ORANGE CINE+ 7
+http://195.154.107.246:1155/live/fadil/1234/2266.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ORANGE CINE+8
+http://195.154.107.246:1155/live/fadil/1234/2023.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ORANGE CINE+9
+http://195.154.107.246:1155/live/fadil/1234/1991.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ORANGE CINE+10
+http://195.154.107.246:1155/live/fadil/1234/2904.m3u8
+
+
+
+
+
+
 
 
 
@@ -4669,7 +5391,386 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Germany2-PREMIUM",
 
-
+#EXTINF:-1 group-title="Germany2-PREMIUM",EUORO SPORT 1
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1751.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",EUORO SPORT 2
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1750.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport 1
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1734.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport 2
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1731.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Sport 1
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1898.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",13TH STREET
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1747.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM", AXN ACTION
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1743.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Action
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1749.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Atlantic
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1748.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",SKY Cinema
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1745.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",SKY CINEMA 24
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1744.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Comedy
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1742.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Emotion
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1741.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",SKY TNT SERIES
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1737.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",SKY FOX
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1740.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Hits
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1739.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Krimi
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1738.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",SYFY
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2772.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Select 1
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1892.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Select 2
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1893.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Select 3
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1894.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Select 4
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1895.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Select 5
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1896.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",ORF 1
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2762.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",ORF 2
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2763.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",RTL
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2039.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",RTL 2
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2040.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",VOX
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1900.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",ZDF
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2038.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",TLC
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2773.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Super RTL
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2764.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Sat1
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2382.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",KIKA
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2388.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",History
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2379.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Zee One
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2408.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",3sat
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2383.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",ARD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2381.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",ARTE
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2384.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Kabel 1
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2387.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Boomerang
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2406.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Cartoon Network
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2765.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",DISNEY CHANNEL
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2766.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Disney Junior
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2407.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Disney XD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2028.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Nickelodeon
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2386.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",SKY BUNDESLIGA 1
+http://iptv2017.ddns.net:8100/live/hamdi/1234/2767.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",NatGeoWild
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1718.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",National Geo
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1717.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) 13th Street 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4119.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) 3Sat 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4118.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) A&E
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4117.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) A.TV 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4133.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Allgau.tv 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4132.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Anixe
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4211.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Anixe 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4210.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Arte 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4116.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Boomerang
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4115.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) BR Fernsehen 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4209.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Cartoon Network
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4208.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Classica
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4207.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Comedy Central/VIVA
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4206.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Das Erste 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4114.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Discovery Channel 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4113.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Disney Channel
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4205.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Disney Cinemacig 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4112.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Disney Junior 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4111.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Disney XD
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4204.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) DMAX
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4203.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) DW TV
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4202.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) E! Entertainment 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4110.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) E8 Television
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4201.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) EO TV
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4200.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Eurosport 1 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4109.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Eurosport 2 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4108.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Family TV
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4199.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Fox 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4107.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Franken Fernsehen 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4131.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Heimat Kanal
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4106.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) History 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4105.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) HR Fernsehen 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4198.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) INTV 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4130.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Jukebox
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4104.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Junior
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4103.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Kabel 1
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4197.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Kabel 1 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4102.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Kabel 1 Doku
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4196.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) KiKa 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4101.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Kinowelt
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4100.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Mainfranken 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4129.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) MDR 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4195.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Motorvision
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4099.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) MTV
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4194.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Munchen.tv 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4128.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) N-TV
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4193.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) N24 Doku
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4192.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Nat Geo 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4098.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Nat Geo Wild 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4097.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) NDR 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4191.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Nickelodeon
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4190.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Niederbayern 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4127.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Oberpfalz TV 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4126.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) One 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4096.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Phoenix 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4095.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Pro 7
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4189.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Pro 7 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4094.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Pro 7 Maxx
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4188.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) RBB 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4093.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) RFO 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4125.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) RTL
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4187.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) RTL 2
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4186.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) RTL 2 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4185.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) RTL 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4092.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) RTL Crime 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4091.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) RTL Nitro
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4184.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) RTL Passion
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4090.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) RTL Plus
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4183.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sat 1
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4182.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sat 1 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4089.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sat 1 Gold
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4088.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Servus TV 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4087.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sixx
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4181.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Arts 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4180.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Atlantic
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4179.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Atlantic 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4124.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Cinema
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4178.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Cinema  1 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4177.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Cinema  24 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4176.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Cinema Action
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4175.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Cinema Action 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4123.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Cinema Comedy
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4174.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Cinema Family
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4173.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Cinema Family 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4172.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Cinema Hits
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4171.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Cinema Hits 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4122.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Cinema Western
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4170.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Krimi
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4169.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport 1
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4086.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport 1 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4085.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport 10   (match time)
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4168.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport 2
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4084.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport 2 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4083.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport 3   (match time)
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4167.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport 4   (match time)
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4166.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport 5   (match time)
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4165.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport 6   (match time)
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4164.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport 7   (match time)
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4163.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport 8   (match time)
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4162.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport 9   (match time)
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4161.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport Austria 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4160.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport Bundesliga 1
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4082.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport Bundesliga 1 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4081.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport Bundesliga 10   (match time)
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4159.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport Bundesliga 2
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4158.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport Bundesliga 2 4K  (match time)
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4157.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport Bundesliga 3   (match time)
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4156.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport Bundesliga 4   (match time)
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4155.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport Bundesliga 5   (match time)
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4154.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport Bundesliga 6   (match time)
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4153.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport Bundesliga 7   (match time)
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4152.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport Bundesliga 8   (match time)
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4151.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport Bundesliga 9   (match time)
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4150.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport News
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4149.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sky Sport News 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4148.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sonnenklar.TV
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4147.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Spiegel Geschichte 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4080.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sport 1
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4146.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Sport1  4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4145.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Super RTL
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4143.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) SWR 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4142.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) SyFy 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4079.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Tagesschau 24 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4141.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Tele 5
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4140.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) TLC
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4139.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) TNT Comedy 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4078.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) TNT Film
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4077.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) TNT Serie 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4076.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Toggo Plus
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4138.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) TVA Ostbayern 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4121.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) TVO Oberfranken 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4120.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Universal Channel 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4137.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Vox
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4136.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) VOX 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4075.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Welt
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4135.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Zee One
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4134.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) Zee One 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4071.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) ZDF 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4074.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) SR Fernsehen 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4144.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) ZDF Info 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4073.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",(DE) ZDF Neo 4K
+http://iptv2017.ddns.net:8100/live/hamdi/1234/4072.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Discovery
+http://iptv2017.ddns.net:8100/live/hamdi/1234/1719.m3u8
 
 
 
