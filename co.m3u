@@ -444,13 +444,18 @@ http://iptv9211.hopto.me:8000/live/rehan02/rehan02/21725.m3u8
 
 #EXTINF:-1 group-title="Greece3",
 
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="Greece3" tvg-logo="https://goo.gl/np3siv" ,SKAI
+http://5.135.92.130:36523/out/u/573_1.m3u8
+#EXTINF:-1 group-title="Greece3" tvg-logo="https://www.greektvlive.info/wp-content/uploads/2015/06/ert-hd-150x150.png" ,ERT HD
+http://5.135.92.130:36523/out/u/583_1.m3u8
+#EXTINF:-1 group-title="Greece3" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
+http://5.135.92.130:36523/out/u/575_1.m3u8
+#EXTINF:-1 group-title="Greece3" tvg-name="Macedonia TV" epg-id="Macedonia.gr" tvg-logo="https://goo.gl/CsM9Iu" ,M.TV HD
+http://5.135.92.130:36523/out/u/577_1.m3u8
+#EXTINF:-1 group-title="Greece3" tvg-logo="https://goo.gl/m1ZYJB" ,VOULI
+http://5.135.92.130:36523/out/u/579_1.m3u8
+#EXTINF:-1 group-title="Greece3" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://goo.gl/tjFpM3" ,E
+http://5.135.92.130:36523/out/u/581_1.m3u8
 
 
 
@@ -1888,16 +1893,10 @@ http://62.210.93.115:80/live?channelId=258&uid=1917&deviceMac=00:1A:79:15:34:33
 http://wowza2.mysoltv.com:1992/UK_ENG_tlc/index.m3u8
 #EXTINF:-1 group-title="UK3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" ,INVESTIGATION DISCOVERY 
 http://wowza2.mysoltv.com:1992/UK_ENG_discovery_id/index.m3u8
-#EXTINF:-1 group-title="UK3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430" ,DISCOVERY +1 
-http://wowza2.mysoltv.com:1992/UK_ENG_discovery_science/index.m3u8
 #EXTINF:-1 group-title="UK3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" ,DISCOVERY TURBO 
 http://wowza2.mysoltv.com:1992/UK_ENG_discovery_turbo/index.m3u8
 #EXTINF:-1 group-title="UK3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Discovery_Home_%26_Health_Asia.svg/1280px-Discovery_Home_%26_Health_Asia.svg.png" ,DISCOVERY HOME & HEALTH 
 http://wowza2.mysoltv.com:1992/UK_ENG_discovery_home/index.m3u8
-#EXTINF:-1 group-title="UK3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043" ,BABY TV 
-http://wowza2.mysoltv.com:1992/UK_UK_Baby/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="UK3" tvg-logo="http://www.cartoonnetwork.com/static/images/global/ogLogo.png" ,Cartoon Network 
-http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="UK3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1180px-H2_TV_logo.svg.png" ,H2 
 http://wowza2.mysoltv.com:1992/UK_ENG_history2/index.m3u8
 #EXTINF:-1 group-title="UK3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/2000px-History_Logo_2008-2015.svg.png" ,HISTORY 
@@ -3420,180 +3419,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/811.m3u8$http-refferer=
 
 
 #EXTINF:-1 group-title="Italy2-PREMIUM",
-
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai1 HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1840.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai2_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1841.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai 3
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1842.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai4_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1843.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai5_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1844.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT.Rai.YoYo
-http://iptv2017.ddns.net:8100/live/hamdi/1234/493.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",RAI GULP
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1968.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai_Movie
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1845.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai_News_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1849.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai_Sport1_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1632.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Storia
-http://iptv2017.ddns.net:8100/live/hamdi/1234/494.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",RSI LA 1
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1962.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rete_4_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1850.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",RAI Cinema
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1630.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Premium
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1846.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",EUROSPORT 1
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1925.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",EUROSPORT2_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1923.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",FOX SPORTS
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1618.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Sport
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1625.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Sport 2
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1526.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport 1
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1536.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport 2
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1535.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport 3
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1534.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky SportF1
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1533.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",SKY Sport Moto GP
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1974.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport 24
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1964.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",SKY Calcio 1
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1960.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",SPORT ITALIA
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1924.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",SKY Calcio 2
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1961.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",INTER MILAN
-http://iptv2017.ddns.net:8100/live/hamdi/1234/2837.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema1 HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1546.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Max
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1627.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",SKY Classic
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1916.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema 24
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1619.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Cult
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1640.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",SKY Cinema Passion
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1538.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Family
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1541.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Hits
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1626.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Stories
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1939.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Energy
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1946.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Emotion
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1528.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium_Crime_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1529.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium_CRIME+24_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1941.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Action
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1532.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Cinema
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1530.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM", Premium Cinema 2
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1944.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium cartoon network
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1930.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Calcio 1
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1917.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium.Calcio 2
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1531.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",FOX
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1931.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",FOX animation
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1938.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",FOX COMEDY
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1945.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",FOX CRIME
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1940.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",FOX_life_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1915.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Prima fila1
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1614.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Prima-fila_2_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1615.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Prima-fila_3_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1616.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Prima Fila4
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1617.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Primafila_ 5_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1851.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Prima-fila_6_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1852.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Prima Fila 7
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1853.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Prima-fila_ 8_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1854.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",PRIMA FILA 9HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1928.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",PRIMA FILA 10
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1929.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",NATIONAL GEOGRAPHIC
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1926.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",ANIMAL_planet
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1927.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",DISCOVRY_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1933.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",DISCOVRY SCIENCE
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1972.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",DISCOVRY Travel Living
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1973.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",DMAX
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1967.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",FOCUS_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1932.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",HISTORY_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1935.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",NAT-GEO_PEOPLE_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1934.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Uno
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1628.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Italia1_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1847.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",ITALIA 2
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1965.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",LA 7
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1635.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",RSI LA 2
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1963.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Canale_5_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1848.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",SUPER_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1943.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",SUPER-Tennis_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1942.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",BOING
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1937.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",CARTONITO_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1936.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Disney Junior
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1537.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",sky_syper-calcio_HD
-http://iptv2017.ddns.net:8100/live/hamdi/1234/1922.m3u8
-
-
-
 
 
 
