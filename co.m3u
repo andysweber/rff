@@ -1801,9 +1801,23 @@ http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
 
 
 #EXTINF:-1 group-title="UK4", 
+#EXTINF:-1 group-title="UK4" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
+http://..........
 
-
-
+#EXTINF:-1 group-title="UK4",MTV hits 
+http://81.200.50.4/hls/MTV_Hits_nejtv_portable_low.m3u8 
+#EXTINF:-1 group-title="UK4",MTV Live 
+http://81.200.50.4/hls/MTV_Live_nejtv_portable_low.m3u8 
+#EXTINF:-1 group-title="UK4",MTV Europe 
+http://81.200.50.4/hls/MTV_Europe_nejtv_portable_low.m3u8 
+#EXTINF:-1 group-title="UK4",MTV Dance 
+http://81.200.50.4/hls/MTV_Dance_nejtv_portable_low.m3u8 
+#EXTINF:-1 group-title="UK4",MTV Rocks 
+http://81.200.50.4/hls/MTV_Rocks_nejtv_portable_low.m3u8 
+#EXTINF:-1 group-title="UK4",VH1 
+http://81.200.50.4/hls/VH1_nejtv_portable_low.m3u8 
+#EXTINF:-1 group-title="UK4",VH1 Classic 
+http://81.200.50.4/hls/VH1_Classic_nejtv_portable_low.m3u8
 
 
 
