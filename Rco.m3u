@@ -1015,19 +1015,19 @@ http://www.antennebrandenburg.de/live.m3u
 
 #EXTINF:4 group-title="SPAIN",
 
-#EXTINF:-1 group-title="SPAIN" tvg-logo=”KISS FM UK.jpg”,Kiss FM Espana
+#EXTINF:-1 group-title="SPAIN" tvg-logo="KISS FM UK.jpg",Kiss FM Espana
 http://hitfm.es.audio1.glb.ipercast.net:8000/kissfm.es/mp3
-#EXTINF:-1 group-title="SPAIN" tvg-logo=”Europa Fm.jpg”,Europa FM Espana
+#EXTINF:-1 group-title="SPAIN" tvg-logo="Europa Fm.jpg",Europa FM Espana
 http://212.129.60.86:9968/;
-#EXTINF:-1 group-title="SPAIN" tvg-logo=”Best 80 Dance Radio.JPG”,Dance Radio Espana
+#EXTINF:-1 group-title="SPAIN" tvg-logo="Best 80 Dance Radio.JPG",Dance Radio Espana
 http://streaming.radionomy.com/1-Radio-Dance
-#EXTINF:-1 group-title="SPAIN" tvg-logo=”Da Vinci Learning.png”,I Love FM Espana
+#EXTINF:-1 group-title="SPAIN" tvg-logo="Da Vinci Learning.png",I Love FM Espana
 http://radioserver1.us:7088/;
-#EXTINF:-1 group-title="SPAIN" tvg-logo=”Radio Im Internet.jpg”,RNE Radio Nacional
+#EXTINF:-1 group-title="SPAIN" tvg-logo="Radio Im Internet.jpg",RNE Radio Nacional
 http://rne.rtveradio.cires21.com/rne/mp3/icecast.audio
-#EXTINF:-1 group-title="SPAIN" tvg-logo=”Cadena Ser.gif”,Cadena SER Espana
+#EXTINF:-1 group-title="SPAIN" tvg-logo="Cadena Ser.gif",Cadena SER Espana
 http://13373.live.streamtheworld.com/CADENASER_SC
-#EXTINF:-1 group-title="SPAIN" tvg-logo=”Virgin Radio Tv.png”,VIRGIN TV
+#EXTINF:-1 group-title="SPAIN" tvg-logo="Virgin Radio Tv.png",VIRGIN TV
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
 
