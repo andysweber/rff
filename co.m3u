@@ -6689,60 +6689,55 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8?time=1472170398067
 #EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png" ,==Portugal==
 http://..........
 
-#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://i.imgur.com/DS8VGbH.png" ,AFRO MUSIC
-http://4.31.30.145:9034
-#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="https://pbs.twimg.com/profile_images/566414018/logo_TVAgueda.png" ,Agueda TV
-http://cmgaia.worldvds.com:8080/hls/livestream.m3u8
-#EXTINF:0 group-title="Portugal-WebTV" tvg-logo="https://3.bp.blogspot.com/-fmwFOCSFHRE/WVbriBZ6nLI/AAAAAAAAOYc/nyadJ4Lj610PGkyVW3uJNNTxkmtlt5xiQCLcBGAs/s320/ALL%2BSports.png" ,ALL SPORTS
+#EXTINF:-1 group-title="Portugal-WebTV" tvg-id="n/a" tvg-logo="http://www.agueda.tv/images/atv-logo-top.png",AGUEDA TV
+http://cmagueda.worldvds.com:8080/hlslive/livestream.m3u8
+#EXTINF:-1 group-title="Portugal-WebTV" tvg-id="n/a" tvg-logo="http://www.jfarroios.pt/wp-content/uploads/2016/09/A_Marca_Logo_yellow.png",ARROIOS TV
+http://213.13.26.11:1935/live/luis/KodiPortugal.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://portocanal.sapo.pt/live
+#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="https://3.bp.blogspot.com/-fmwFOCSFHRE/WVbriBZ6nLI/AAAAAAAAOYc/nyadJ4Lj610PGkyVW3uJNNTxkmtlt5xiQCLcBGAs/s320/ALL%2BSports.png" ,ALL SPORTS
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?IPTVONLINE
-#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="https://static.cancaonova.com/images/marca.png" ,CANÇÃO NOVA [144p] 
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_162_av-b.m3u8 
-#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="https://static.cancaonova.com/images/marca.png" ,CANÇÃO NOVA [240p] 
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_324_av-b.m3u8 
-#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="https://static.cancaonova.com/images/marca.png" ,CANÇÃO NOVA [360p] 
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_432_av-b.m3u8 
-#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="https://static.cancaonova.com/images/marca.png" ,CANÇÃO NOVA [480p] 
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_540_av-b.m3u8 
-#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="https://static.cancaonova.com/images/marca.png" ,CANÇÃO NOVA [720p] 
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-b.m3u8
-#EXTINF:0 group-title="Portugal-WebTV" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/09/lunasport.jpg" ,Lunaa Sport
-rtmp://vs2.streamcaster.net/test_live/lunasport
+#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="https://static.cancaonova.com/images/marca.png" ,CANÇÃO NOVA
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1 group-title="Portugal-WebTV" tvg-id="ARTV.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/ARTV.png",CANAL PARLAMENTO
+http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
+#EXTINF:-1 group-title="Portugal-WebTV" tvg-id="n/a" tvg-logo="https://i.vimeocdn.com/portrait/20878121_300x300",LEIRIA TV
+http://wse01.logicahost.com.br:1935/tvnovus/tvnovus/KodiPortugal.pt.m3u8
+#EXTINF:-1 group-title="Portugal-WebTV" tvg-id="n/a" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Teledifus%C3%A3o_de_Macau.png/250px-Teledifus%C3%A3o_de_Macau.png",MACAU TV
+http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
+#EXTINF:-1 group-title="Portugal-WebTV" tvg-id="n/a" tvg-logo="https://tvfatima.com/dist/ad9eecfe659abdc975cb23e423e5577b.png", PAROQUIA DE FATIMA
+http://api.new.livestream.com/accounts/22203883/events/6579475/live.m3u8
 #EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://www.fcporto.pt/SiteCollectionImages/2015-16/fotos_de_noticias/Porto%20Canal%20610x340.jpg" ,Porto Canal
 http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
 #EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://www.rtc.cv/tcv/images/logo_tcv.jpg" ,RTC (CV)
 http://213.13.26.11:1935/live/rtc_teste/livestream.m3u8
 #EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp1_positivo.jpg" ,RTP 1
-http://noscdn1.connectedviews.com:1935/live/smil:rtp1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp1_positivo.jpg" ,RTP 1
-rtmp://noscdn1.connectedviews.com/live/rtp1.stream
-#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp1_positivo.jpg" ,RTP 1 (Wuffy Player)
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/KodiPortugal.pt.m3u8
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/rtp_playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
 #EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2016/05/thumb_rtp2_00.jpg" ,RTP 2
-http://noscdn1.connectedviews.com:1935/live/smil:rtp2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2016/05/thumb_rtp2_00.jpg" ,RTP 2
-rtmp://noscdn1.connectedviews.com/live/rtp2.stream
-#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2016/05/thumb_rtp2_00.jpg" ,RTP2 (Wuffy Player)
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/KodiPortugal.pt.m3u8
-#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://i65.tinypic.com/2rbzh39.jpg" ,RTP Acores (Wuffy Player)
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/KodiPortugal.pt.m3u8
-#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpAfrica_negativo.jpg" ,RTP Africa (Wuffy Player)
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/KodiPortugal.pt.m3u8
-#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpInternacional_positivo.jpg" ,RTP Internacional (Wuffy Player)
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/KodiPortugal.pt.m3u8
-#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMadeira_negativo.jpg" ,RTP Madeira (Wuffy Player)
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/KodiPortugal.pt.m3u8
-#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMemoria01.jpg" ,RTP Memoria (Wuffy Player)
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/KodiPortugal.pt.m3u8
-#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/LogoSICold.png/200px-LogoSICold.png" ,SIC
-http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
+#EXTINF:-1 group-title="Portugal-WebTV" tvg-id="rtpn.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP3.png",RTP3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8?DVR|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
+#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://i65.tinypic.com/2rbzh39.jpg" ,RTP Acores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
+#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpAfrica_negativo.jpg" ,RTP Africa 
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
+#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpInternacional_positivo.jpg" ,RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
+#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMadeira_negativo.jpg" ,RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
+#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMemoria01.jpg" ,RTP Memoria
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
+#EXTINF:-1 group-title="Portugal-WebTV" tvg-id="n/a" tvg-logo="https://s3.amazonaws.com/pt-bm-images/company_images/2692/logo/2692_logo_original.png",SANTUARIO DE FATIMA
+http://213.13.26.11:1935/live/santuario.stream/KodiPortugal.pt.m3u8
+#EXTINF:-1 group-title="Portugal-WebTV" tvg-id="TCV" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TCV.png",TCV
+http://213.13.26.11:1935/live/rtc_teste/KodiPortugal.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://rtc_teste.sapo.pt/live
 #EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/20/TVI_2017.png" ,TVI
-http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8
-#EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/20/TVI_2017.png" ,TVI
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+https://video-auth7.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE4IDEwOjU5OjQ5IEFNJmhhc2hfdmFsdWU9V0N6MjFvd1ZITUF2N0pmQWtyMXNwUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg0NzFlMzcxLWQxZWUtNDdiYy05MDYyLTU2NThmMWIzN2M0YQ==
 #EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/20/TVI_2017.png" ,TVI
 http://www.iptvsaga.com/play/tv3/0021.m3u8
+#EXTINF:-1 group-title="Portugal-WebTV" tvg-id="TVIREAL" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TVIR.png",TVI REALITY
+https://video-auth7.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE4IDEwOjU5OjUwIEFNJmhhc2hfdmFsdWU9dE5Kd1gyR280YjNpWHkrZUw5R2x1Zz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTJmNjExNTEzLTA5NDQtNDI4Zi1hZDA0LTU5NWJiNDA0NTY4Ng==
 #EXTINF:-1 group-title="Portugal-WebTV" tvg-logo="http://cdn.iol.pt/img/logostvi/preto/tvi24.png" ,TVI24
-http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u
+https://video-auth7.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE4IDEwOjU5OjUwIEFNJmhhc2hfdmFsdWU9UkRlK0dGbmEzOFhJU016RC8xRVpoUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTkyZjk5MzZlLTZhNDItNGU1MC1iNjJiLTczMWE2YjAzZDQ1Ng==
+
 
 
 
