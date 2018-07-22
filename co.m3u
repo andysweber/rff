@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,21/07/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,22/07/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -375,44 +375,6 @@ http://5.135.92.130:36523/out/u/581_1.m3u8
 
 #EXTINF:-1 group-title="Greece4",
 
-#EXTINF:-1 group-title="Greece4" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/manaellada.png" ,==GREECE==
-http://..........
-#EXTINF:-1 group-title="Greece4" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE:
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Greece4" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,USE ONLY
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Greece4" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg"  ,MXPLAYER
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Greece4" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg"  ,WUFFY or
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Greece4" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg"  ,XPLAYER
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Greece4" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
-http://.....
-
-#EXTINF:-1 group-title="Greece4" tvg-name="ΕΡΤ1" epg-id="EPT1.gr" tvg-logo="https://goo.gl/hD0NSD" ,ERT1
-https://cdn.tzampa.tv/live/ERT1.m3u8|referer=https://tzampa.tv/home&user-agent= 
-#EXTINF:-1 group-title="Greece4" tvg-name="ΕΡΤ2" epg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2 
-https://cdn.tzampa.tv/live/ERT2-BUP.m3u8|referer=https://tzampa.tv/home&user-agent= 
-#EXTINF:-1 group-title="Greece4" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 HD
-https://cdn.tzampa.tv/live/ANT1-HD.m3u8|referer=https://tzampa.tv/home&user-agent= 
-#EXTINF:-1 group-title="Greece4" tvg-name="Mega Channel" epg-id="mega.gr" tvg-logo="https://goo.gl/nTCu62" ,MEGA 
-https://cdn.tzampa.tv/live/MEGA.m3u8|referer=https://tzampa.tv/home&user-agent= 
-#EXTINF:-1 group-title="Greece4" tvg-logo="https://goo.gl/np3siv" ,SKAI
-https://cdn.tzampa.tv/live/SKAI.m3u8|referer=https://tzampa.tv/home&user-agent= 
-#EXTINF:-1 group-title="Greece4" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
-https://cdn.tzampa.tv/live/STAR-BUP.m3u8|referer=https://tzampa.tv/home&user-agent= 
-#EXTINF:-1 group-title="Greece4" tvg-name="Alpha" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg" ,ALPHA 
-https://cdn.tzampa.tv/live/ALPHA.m3u8|referer=https://tzampa.tv/home&user-agent= 
-#EXTINF:-1 group-title="Greece4" tvg-name="Κρήτη TV" epg-id="KritiTV.gr" tvg-logo="https://goo.gl/BnX9DJ" ,KRHTHTV
-https://cdn.tzampa.tv/live/KPHTH-TV.m3u8|referer=https://tzampa.tv/home&user-agent= 
-#EXTINF:-1 group-title="Greece4" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://goo.gl/tjFpM3" ,E
-https://cdn.tzampa.tv/live/EPSILON-TV.m3u8|referer=https://tzampa.tv/home&user-agent= 
-#EXTINF:-1 group-title="Greece3" tvg-name="Macedonia TV" epg-id="Macedonia.gr" tvg-logo="https://goo.gl/CsM9Iu" ,M.TV HD
-https://cdn.tzampa.tv/live/MTV-HD.m3u8|referer=https://tzampa.tv/home&user-agent= 
-#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" epg-id="EPT1.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
-https://cdn.tzampa.tv/live/ERT-WORLD-BUP.m3u8|referer=https://tzampa.tv/home&user-agent= 
-
 
 
 
@@ -433,89 +395,6 @@ https://cdn.tzampa.tv/live/ERT-WORLD-BUP.m3u8|referer=https://tzampa.tv/home&use
 
 
 #EXTINF:-1 group-title="Greece5",
-
-#EXTINF:-1 group-title="Greece5",ACTION 24
-http://akincimedia.com:1453/live/huseyin/cetin/45417.m3u8
-#EXTINF:-1 group-title="Greece5",AGIO NICOLAS
-http://akincimedia.com:1453/live/huseyin/cetin/45416.m3u8
-#EXTINF:-1 group-title="Greece5",ALPHA
-http://akincimedia.com:1453/live/huseyin/cetin/45415.m3u8
-#EXTINF:-1 group-title="Greece5",ANIMAL PLANET HD
-http://akincimedia.com:1453/live/huseyin/cetin/45414.m3u8
-#EXTINF:-1 group-title="Greece5",CANNALI MUSIC
-http://akincimedia.com:1453/live/huseyin/cetin/45407.m3u8
-#EXTINF:-1 group-title="Greece5",COSMOTE CINEMA 1
-http://akincimedia.com:1453/live/huseyin/cetin/45405.m3u8
-#EXTINF:-1 group-title="Greece5",COSMOTE CINEMA 2
-http://akincimedia.com:1453/live/huseyin/cetin/45404.m3u8
-#EXTINF:-1 group-title="Greece5",COSMOTE CINEMA 3
-http://akincimedia.com:1453/live/huseyin/cetin/45403.m3u8
-#EXTINF:-1 group-title="Greece5",COSMOTE CINEMA 4
-http://akincimedia.com:1453/live/huseyin/cetin/45402.m3u8
-#EXTINF:-1 group-title="Greece5",COSMOTE SPORT 2 HD
-http://akincimedia.com:1453/live/huseyin/cetin/45400.m3u8
-#EXTINF:-1 group-title="Greece5",COSMOTE SPORT 3 HD
-http://akincimedia.com:1453/live/huseyin/cetin/45399.m3u8
-#EXTINF:-1 group-title="Greece5",COSMOTE SPORT 4 HD
-http://akincimedia.com:1453/live/huseyin/cetin/45398.m3u8
-#EXTINF:-1 group-title="Greece5",COSMOTE SPORT 5 HD
-http://akincimedia.com:1453/live/huseyin/cetin/45397.m3u8
-#EXTINF:-1 group-title="Greece5",COSMOTE SPORT 6 HD
-http://akincimedia.com:1453/live/huseyin/cetin/45396.m3u8
-#EXTINF:-1 group-title="Greece5",COSMOTE SPORT 8 HD
-http://akincimedia.com:1453/live/huseyin/cetin/45394.m3u8
-#EXTINF:-1 group-title="Greece5",NOVA TV HD
-http://akincimedia.com:1453/live/huseyin/cetin/45393.m3u8
-#EXTINF:-1 group-title="Greece5", EPIC MOVIES 6
-http://akincimedia.com:1453/live/huseyin/cetin/45392.m3u8
-#EXTINF:-1 group-title="Greece5",EPIC MOVIES 5
-http://akincimedia.com:1453/live/huseyin/cetin/45391.m3u8
-#EXTINF:-1 group-title="Greece5", EPIC MOVIES 3
-http://akincimedia.com:1453/live/huseyin/cetin/45389.m3u8
-#EXTINF:-1 group-title="Greece5",EPIC MOVIES 2
-http://akincimedia.com:1453/live/huseyin/cetin/45388.m3u8
-#EXTINF:-1 group-title="Greece5",EPIC MOVIES 1
-http://akincimedia.com:1453/live/huseyin/cetin/45386.m3u8
-#EXTINF:-1 group-title="Greece5",HIGH TV
-http://akincimedia.com:1453/live/huseyin/cetin/45385.m3u8
-#EXTINF:-1 group-title="Greece5", Cannali Musiki
-http://akincimedia.com:1453/live/huseyin/cetin/45383.m3u8
-#EXTINF:-1 group-title="Greece5",HUNTER TV
-http://akincimedia.com:1453/live/huseyin/cetin/45382.m3u8
-#EXTINF:-1 group-title="Greece5",CANALI
-http://akincimedia.com:1453/live/huseyin/cetin/45381.m3u8
-#EXTINF:-1 group-title="Greece5",KONTRA
-http://akincimedia.com:1453/live/huseyin/cetin/45440.m3u8
-#EXTINF:-1 group-title="Greece5",KRHTH TV
-http://akincimedia.com:1453/live/huseyin/cetin/45380.m3u8
-#EXTINF:-1 group-title="Greece5",LIFE HD
-http://akincimedia.com:1453/live/huseyin/cetin/45379.m3u8
-#EXTINF:-1 group-title="Greece5",LYCHNOS TV
-http://akincimedia.com:1453/live/huseyin/cetin/45377.m3u8
-#EXTINF:-1 group-title="Greece5",MAD CYPRUS
-http://akincimedia.com:1453/live/huseyin/cetin/45376.m3u8
-#EXTINF:-1 group-title="Greece5",MAKEDONIA TV
-http://akincimedia.com:1453/live/huseyin/cetin/45375.m3u8
-#EXTINF:-1 group-title="Greece5",OTE Sports 1 HD
-http://akincimedia.com:1453/live/huseyin/cetin/45426.m3u8
-#EXTINF:-1 group-title="Greece5",OTE Sports 3 HD
-http://akincimedia.com:1453/live/huseyin/cetin/45424.m3u8
-#EXTINF:-1 group-title="Greece5",OTE Sports 4 HD
-http://akincimedia.com:1453/live/huseyin/cetin/45423.m3u8
-#EXTINF:-1 group-title="Greece5",OTE Sports 5 HD
-http://akincimedia.com:1453/live/huseyin/cetin/45422.m3u8
-#EXTINF:-1 group-title="Greece5",OTE Sports 6 HD
-http://akincimedia.com:1453/live/huseyin/cetin/45421.m3u8
-#EXTINF:-1 group-title="Greece5",OTE Sports 8 HD
-http://akincimedia.com:1453/live/huseyin/cetin/45419.m3u8
-
-
-
-
-
-
-
-
 
 
 
@@ -627,155 +506,6 @@ http://kralcms2018.kralsmart.com:1096/live/YwNG7K4YPB/NJTCOigyNf/7208.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Greece7" tvg-name="ERT 1" ,ERT 1
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18753.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="ERT 2" ,ERT 2
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18754.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="ERT 3" ,ERT 3
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18755.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="EPT HD" ,EPT HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18756.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Mega" ,Mega
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18758.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="ANT1" ,ANT1
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18759.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Alpha" ,Alpha
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18760.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Boyah TV" ,Boyah TV
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18757.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Star" ,Star
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18761.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Skai" ,Skai
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18762.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Blue Sky" ,Blue Sky
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18763.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Action 24" ,Action 24
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18764.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Disney XD" ,Disney XD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18777.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Disney Channel" ,Disney Channel
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18778.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Disney Junio" ,Disney Junio
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18779.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Nickelodeon" ,Nickelodeon
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18780.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Smile" ,Smile
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18813.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Cosmote Cinema 1 HD" ,Cosmote Cinema 1 HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18766.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Cosmote Cinema 2 HD" ,Cosmote Cinema 2 HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18767.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Cosmote Cinema 3 HD" ,Cosmote Cinema 3 HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18768.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Cosmote Cinema 4 HD" ,Cosmote Cinema 4 HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18769.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Cosmote Sport Highlights HD" ,Cosmote Sport Highlights HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18817.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Cosmote Sport 1 HD" ,Cosmote Sport 1 HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18781.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Cosmote Sport 2 HD" ,Cosmote Sport 2 HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18782.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Cosmote Sport 3 HD" ,Cosmote Sport 3 HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18783.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Cosmote Sport 4 HD" ,Cosmote Sport 4 HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18784.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Cosmote Sport 5 HD" ,Cosmote Sport 5 HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18785.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Cosmote Sport 6 HD" ,Cosmote Sport 6 HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18786.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Cosmote Sport 7 HD" ,Cosmote Sport 7 HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18787.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Cosmote Sport 8 HD" ,Cosmote Sport 8 HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18788.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Motorvison" ,Motorvison
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18792.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Action Movies" ,Action Movies
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18774.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Comedy Movies" ,Comedy Movies
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18775.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Crime Movies" ,Crime Movies
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18776.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="National Geographic HD" ,National Geographic HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18804.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Nat Geo Wild HD" ,Nat Geo Wild HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18805.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Discovery Channel" ,Discovery Channel
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18810.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Discovery Science" ,Discovery Science
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18809.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Discovery Turbo Xtra" ,Discovery Turbo Xtra
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18808.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Crime Investigation HD" ,Crime Investigation HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18811.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Cosmote History HD" ,Cosmote History HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18791.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="History Channel HD" ,History Channel HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18806.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Viasat History" ,Viasat History
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18798.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Animal Planet HD" ,Animal Planet HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18812.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="E! Entertainment HD" ,E! Entertainment HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18773.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Fox Channel HD" ,Fox Channel HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18771.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Fox Life HD" ,Fox Life HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18772.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Sundance TV" ,Sundance TV
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18797.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="TLC" ,TLC
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18801.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="ART" ,ART
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18790.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Body In Balance" ,Body In Balance
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18802.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Epirus TV1" ,Epirus TV1
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18816.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="ETV" ,ETV
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18793.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Euro News" ,Euro News
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18765.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Food Network HD" ,Food Network HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18807.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Kontra TV" ,Kontra TV
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18794.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Mad" ,Mad
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18795.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Makedonia" ,Makedonia
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18789.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Nautical Channel HD" ,Nautical Channel HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18803.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="NET TV" ,NET TV
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18815.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="SBC" ,SBC
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18796.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Sigma" ,Sigma
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18814.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Travel Channel HD" ,Travel Channel HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18800.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Village HD" ,Village HD
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18770.m3u8
-#EXTINF:-1 group-title="Greece7" tvg-name="Vouli" ,Vouli
-http://123iptv.nl:88/live/jHHJHTQSOW/QAVeanF9dJ/18799.m3u8
 
 
 
@@ -13114,19 +12844,6 @@ http://sptv.viewdns.net:86/live/ZABII/FKARKOUM-AWLADL9HAB/108.ts
 
 #EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",
 
-
-#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="beIN_Max1_512" tvg-logo="http://2111.space:25461/max/1.png" ,beIN_Max1_512
-http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/683.ts
-#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="beIN_Max2_512" tvg-logo="http://2111.space:25461/max/2.png" ,beIN_Max2_512
-http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/682.ts
-#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeIN_Sport_MAX 1_World_Cup(1MB)" tvg-logo="http://2111.space:25461/max/1.png" ,BeIN_Sport_MAX 1_World_Cup(1MB)
-http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1769.ts
-#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeIN_Sport_MAX 2_World_Cup(1MB)" tvg-logo="http://2111.space:25461/max/2.png" ,BeIN_Sport_MAX 2_World_Cup(1MB)
-http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1770.ts
-#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeIN_Sport_MAX 1_World_Cup (2M)" tvg-logo="http://2111.space:25461/max/1.png",BeIN_Sport_MAX 1_World_Cup (2M)
-http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1761.ts
-#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="BeIN_Sport_MAX 2_World_Cup (2M)" tvg-logo="http://2111.space:25461/max/2.png",BeIN_Sport_MAX 2_World_Cup (2M)
-http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1762.ts
 #EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein1 1M" ,Bein1 1M
 http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/1286.ts
 #EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM" tvg-name="Bein2 1M" ,Bein2 1M
