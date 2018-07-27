@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,25/07/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,27/07/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -1899,17 +1899,6 @@ http://62.210.93.115:80/live?channelId=258&uid=1917&deviceMac=00:1A:79:15:34:33
 
 #EXTINF:-1 group-title="UK3", 
 
-#EXTINF:-1 group-title="UK3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" ,TLC 
-http://wowza2.mysoltv.com:1992/UK_ENG_tlc/index.m3u8
-#EXTINF:-1 group-title="UK3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" ,INVESTIGATION DISCOVERY 
-http://wowza2.mysoltv.com:1992/UK_ENG_discovery_id/index.m3u8
-#EXTINF:-1 group-title="UK3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" ,DISCOVERY TURBO 
-http://wowza2.mysoltv.com:1992/UK_ENG_discovery_turbo/index.m3u8
-#EXTINF:-1 group-title="UK3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1180px-H2_TV_logo.svg.png" ,H2 
-http://wowza2.mysoltv.com:1992/UK_ENG_history2/index.m3u8
-#EXTINF:-1 group-title="UK3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/2000px-History_Logo_2008-2015.svg.png" ,HISTORY 
-http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
-
 
 
 
@@ -2584,16 +2573,6 @@ http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/18.ch
 http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/27.ch
 #EXTINF:-1 group-title="UK3-PREMIUM",BBCPArl
 http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/22.ch
-#EXTINF:-1 group-title="UK3-PREMIUM",itv1
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/30.ch
-#EXTINF:-1 group-title="UK3-PREMIUM",itv2
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/31.ch
-#EXTINF:-1 group-title="UK3-PREMIUM",itv3
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/32.ch
-#EXTINF:-1 group-title="UK3-PREMIUM",itv4
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/33.ch
-#EXTINF:-1 group-title="UK3-PREMIUM",itvbe
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/34.ch
 #EXTINF:-1 group-title="UK3-PREMIUM",qvc
 http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/20.ch
 #EXTINF:-1 group-title="UK3-PREMIUM",S4C
@@ -2612,8 +2591,7 @@ http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/73.ch
 http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/76.ch
 #EXTINF:-1 group-title="UK3-PREMIUM",Cbeebies
 http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/77.ch
-#EXTINF:-1 group-title="UK3-PREMIUM",itv4-
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/75.ch
+
 
 
 
@@ -3427,365 +3405,280 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/811.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Italy2-PREMIUM",
 
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai 1 HD
-http://hd.007iptv.com:8000/live/eda/123456/276.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai 2 HD
-http://hd.007iptv.com:8000/live/eda/123456/275.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai 3 HD
-http://hd.007iptv.com:8000/live/eda/123456/274.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rete 4 HD
-http://hd.007iptv.com:8000/live/eda/123456/273.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Canale 5 HD
-http://hd.007iptv.com:8000/live/eda/123456/270.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Italia 1 HD
-http://hd.007iptv.com:8000/live/eda/123456/269.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",La5
-http://hd.007iptv.com:8000/live/eda/123456/6963.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",La7
-http://hd.007iptv.com:8000/live/eda/123456/268.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",RSI LA 1 HD
-http://hd.007iptv.com:8000/live/eda/123456/9.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",RSI LA 2 HD
-http://hd.007iptv.com:8000/live/eda/123456/8.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai 4 HD
-http://hd.007iptv.com:8000/live/eda/123456/272.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai 5 HD
-http://hd.007iptv.com:8000/live/eda/123456/271.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Gulp HD
-http://hd.007iptv.com:8000/live/eda/123456/55.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Movie HD
-http://hd.007iptv.com:8000/live/eda/123456/53.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai News 24
-http://hd.007iptv.com:8000/live/eda/123456/20.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Premium HD
-http://hd.007iptv.com:8000/live/eda/123456/54.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Sport + HD
-http://hd.007iptv.com:8000/live/eda/123456/19.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Yoyo
-http://hd.007iptv.com:8000/live/eda/123456/58.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Iris
-http://hd.007iptv.com:8000/live/eda/123456/6964.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Italia 2
-http://hd.007iptv.com:8000/live/eda/123456/81.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",TV2000
-http://hd.007iptv.com:8000/live/eda/123456/103.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Mediaset Extra 1 GF
-http://hd.007iptv.com:8000/live/eda/123456/37.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Mediaset Extra 2 GF
-http://hd.007iptv.com:8000/live/eda/123456/36.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",EuroNews
-http://hd.007iptv.com:8000/live/eda/123456/21.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",TgCom 24
-http://hd.007iptv.com:8000/live/eda/123456/6984.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky TG24 HD
-http://hd.007iptv.com:8000/live/eda/123456/83.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",—Cinema—
-http://hd.007iptv.com:8000/live/eda/123456/265.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Uno HD
-http://hd.007iptv.com:8000/live/eda/123456/264.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Uno +1 HD
-http://hd.007iptv.com:8000/live/eda/123456/262.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema +24 HD
-http://hd.007iptv.com:8000/live/eda/123456/260.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Classics HD
-http://hd.007iptv.com:8000/live/eda/123456/241.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Comedy HD
-http://hd.007iptv.com:8000/live/eda/123456/249.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Family HD
-http://hd.007iptv.com:8000/live/eda/123456/255.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Cult HD
-http://hd.007iptv.com:8000/live/eda/123456/243.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Hits HD
-http://hd.007iptv.com:8000/live/eda/123456/258.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Max HD
-http://hd.007iptv.com:8000/live/eda/123456/247.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Max +1 HD
-http://hd.007iptv.com:8000/live/eda/123456/245.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Family +1 HD
-http://hd.007iptv.com:8000/live/eda/123456/253.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Passion HD
-http://hd.007iptv.com:8000/live/eda/123456/251.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Atlantic +1 HD
-http://hd.007iptv.com:8000/live/eda/123456/136.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Atlantic SD
-http://hd.007iptv.com:8000/live/eda/123456/137.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Cielo HD
-http://hd.007iptv.com:8000/live/eda/123456/114.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Dmax HD
-http://hd.007iptv.com:8000/live/eda/123456/86.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Gambero Rosso HD
-http://hd.007iptv.com:8000/live/eda/123456/85.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Real Time HD
-http://hd.007iptv.com:8000/live/eda/123456/112.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky MTV
-http://hd.007iptv.com:8000/live/eda/123456/6962.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky 3D
-http://hd.007iptv.com:8000/live/eda/123456/110.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Arte HD
-http://hd.007iptv.com:8000/live/eda/123456/111.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Uno +1 HD
-http://hd.007iptv.com:8000/live/eda/123456/139.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Uno HD
-http://hd.007iptv.com:8000/live/eda/123456/141.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Uno SD
-http://hd.007iptv.com:8000/live/eda/123456/140.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Fox Animation HD
-http://hd.007iptv.com:8000/live/eda/123456/121.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Fox Comedy HD
-http://hd.007iptv.com:8000/live/eda/123456/124.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Fox Crime HD
-http://hd.007iptv.com:8000/live/eda/123456/129.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Fox HD
-http://hd.007iptv.com:8000/live/eda/123456/134.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Fox Life HD
-http://hd.007iptv.com:8000/live/eda/123456/132.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Cine Sony
-http://hd.007iptv.com:8000/live/eda/123456/6978.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Spike
-http://hd.007iptv.com:8000/live/eda/123456/6982.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",—Primafila—
-http://hd.007iptv.com:8000/live/eda/123456/187.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Prima Fila 1/2 HD
-http://hd.007iptv.com:8000/live/eda/123456/183.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Prima Fila 3/4 HD
-http://hd.007iptv.com:8000/live/eda/123456/179.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Prima Fila 5/6 HD
-http://hd.007iptv.com:8000/live/eda/123456/175.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Prima Fila 7/8 HD
-http://hd.007iptv.com:8000/live/eda/123456/171.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Prima Fila 9/10 HD
-http://hd.007iptv.com:8000/live/eda/123456/169.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Prima Fila 11/12 HD
-http://hd.007iptv.com:8000/live/eda/123456/6466.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Prima Fila 13/14 HD
-http://hd.007iptv.com:8000/live/eda/123456/6465.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Prima Fila 15/16 HD
-http://hd.007iptv.com:8000/live/eda/123456/6463.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Prima Fila 17 HD
-http://hd.007iptv.com:8000/live/eda/123456/6461.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Prima Fila 18/19 HD
-http://hd.007iptv.com:8000/live/eda/123456/6459.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",1 PRIMAFILA PRO Live 3D
-http://hd.007iptv.com:8000/live/eda/123456/6458.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",2 PRIMAFILA PRO Live 3D
-http://hd.007iptv.com:8000/live/eda/123456/6457.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",—Calcio—
-http://hd.007iptv.com:8000/live/eda/123456/239.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport 24
-http://hd.007iptv.com:8000/live/eda/123456/205.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport F1
-http://hd.007iptv.com:8000/live/eda/123456/417.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport MotoGP FHD
-http://hd.007iptv.com:8000/live/eda/123456/418.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Supercalcio FHD
-http://hd.007iptv.com:8000/live/eda/123456/238.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport 1 FHD
-http://hd.007iptv.com:8000/live/eda/123456/232.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport 2 FHD
-http://hd.007iptv.com:8000/live/eda/123456/231.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport 3 FHD
-http://hd.007iptv.com:8000/live/eda/123456/230.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 1 FHD
-http://hd.007iptv.com:8000/live/eda/123456/237.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 2 FHD
-http://hd.007iptv.com:8000/live/eda/123456/236.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 3 FHD
-http://hd.007iptv.com:8000/live/eda/123456/235.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 4 FHD
-http://hd.007iptv.com:8000/live/eda/123456/234.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 5 FHD
-http://hd.007iptv.com:8000/live/eda/123456/233.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 6 FHD
-http://hd.007iptv.com:8000/live/eda/123456/409.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 7 FHD
-http://hd.007iptv.com:8000/live/eda/123456/410.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 8 FHD
-http://hd.007iptv.com:8000/live/eda/123456/411.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 9 FHD
-http://hd.007iptv.com:8000/live/eda/123456/412.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 10 FHD
-http://hd.007iptv.com:8000/live/eda/123456/413.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Fox Sports HD
-http://hd.007iptv.com:8000/live/eda/123456/207.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Eurosport 1 HD
-http://hd.007iptv.com:8000/live/eda/123456/196.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",EuroSport 2 HD
-http://hd.007iptv.com:8000/live/eda/123456/195.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Supercalcio SD
-http://hd.007iptv.com:8000/live/eda/123456/7036.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport 1 SD
-http://hd.007iptv.com:8000/live/eda/123456/7035.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport 2 SD
-http://hd.007iptv.com:8000/live/eda/123456/7037.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 1 SD
-http://hd.007iptv.com:8000/live/eda/123456/7034.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 2 SD
-http://hd.007iptv.com:8000/live/eda/123456/7033.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 3 SD
-http://hd.007iptv.com:8000/live/eda/123456/7032.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 4 SD
-http://hd.007iptv.com:8000/live/eda/123456/7031.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Teleromagna Sport
-http://hd.007iptv.com:8000/live/eda/123456/15.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",AutoMotor TV
-http://hd.007iptv.com:8000/live/eda/123456/4.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Bike Channel
-http://hd.007iptv.com:8000/live/eda/123456/197.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Inter Channel
-http://hd.007iptv.com:8000/live/eda/123456/193.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",J | Juventus TV
-http://hd.007iptv.com:8000/live/eda/123456/192.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Lazio Style
-http://hd.007iptv.com:8000/live/eda/123456/189.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Roma Channel
-http://hd.007iptv.com:8000/live/eda/123456/190.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Milan Channel
-http://hd.007iptv.com:8000/live/eda/123456/194.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Torino Channel
-http://hd.007iptv.com:8000/live/eda/123456/188.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sport Italia
-http://hd.007iptv.com:8000/live/eda/123456/16.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Super Tennis HD
-http://hd.007iptv.com:8000/live/eda/123456/17.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",— MUSICA —
-http://hd.007iptv.com:8000/live/eda/123456/5328.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",MTV Next HD
-http://hd.007iptv.com:8000/live/eda/123456/267.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Radio Italia Tv .
-http://hd.007iptv.com:8000/live/eda/123456/5326.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Radio Italia Rap TV
-http://hd.007iptv.com:8000/live/eda/123456/6994.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Pop Italy
-http://hd.007iptv.com:8000/live/eda/123456/6980.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",VH1 Italia
-http://hd.007iptv.com:8000/live/eda/123456/6983.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",RTL 102.5
-http://hd.007iptv.com:8000/live/eda/123456/6981.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Nove HD
-http://hd.007iptv.com:8000/live/eda/123456/6979.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Hillsong TV
-http://hd.007iptv.com:8000/live/eda/123456/6997.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",—Bambini—
-http://hd.007iptv.com:8000/live/eda/123456/79.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Baby Tv
-http://hd.007iptv.com:8000/live/eda/123456/61.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",K2
-http://hd.007iptv.com:8000/live/eda/123456/68.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Man-Ga
-http://hd.007iptv.com:8000/live/eda/123456/266.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Nickelodeon
-http://hd.007iptv.com:8000/live/eda/123456/69.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",NickJR
-http://hd.007iptv.com:8000/live/eda/123456/64.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Boing
-http://hd.007iptv.com:8000/live/eda/123456/66.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Dea Junior
-http://hd.007iptv.com:8000/live/eda/123456/74.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Dea Kids
-http://hd.007iptv.com:8000/live/eda/123456/73.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Disney Channel HD
-http://hd.007iptv.com:8000/live/eda/123456/76.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Disney Junior
-http://hd.007iptv.com:8000/live/eda/123456/70.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Disney XD
-http://hd.007iptv.com:8000/live/eda/123456/71.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Fresbee
-http://hd.007iptv.com:8000/live/eda/123456/62.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Cartoonito
-http://hd.007iptv.com:8000/live/eda/123456/67.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",—Mediaset Premium—
-http://hd.007iptv.com:8000/live/eda/123456/65.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Focus
-http://hd.007iptv.com:8000/live/eda/123456/113.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Pesca
-http://hd.007iptv.com:8000/live/eda/123456/99.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Caccia
-http://hd.007iptv.com:8000/live/eda/123456/100.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Comedy Central
-http://hd.007iptv.com:8000/live/eda/123456/117.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Laeffe
-http://hd.007iptv.com:8000/live/eda/123456/105.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Lei
-http://hd.007iptv.com:8000/live/eda/123456/115.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Marcopolo
-http://hd.007iptv.com:8000/live/eda/123456/6988.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Paramount Channel HD
-http://hd.007iptv.com:8000/live/eda/123456/1.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Studio Universal
-http://hd.007iptv.com:8000/live/eda/123456/10.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Top Crime
-http://hd.007iptv.com:8000/live/eda/123456/125.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",TV8
-http://hd.007iptv.com:8000/live/eda/123456/82.m3u8
 #EXTINF:-1 group-title="Italy2-PREMIUM",Alice
-http://hd.007iptv.com:8000/live/eda/123456/6999.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",TBN Italia
-http://hd.007iptv.com:8000/live/eda/123456/6998.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",TVA Vicenza
-http://hd.007iptv.com:8000/live/eda/123456/6996.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",—Premium Cinema—
-http://hd.007iptv.com:8000/live/eda/123456/52.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Cinema
-http://hd.007iptv.com:8000/live/eda/123456/51.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Action
-http://hd.007iptv.com:8000/live/eda/123456/46.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Crime
-http://hd.007iptv.com:8000/live/eda/123456/44.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Comedy
-http://hd.007iptv.com:8000/live/eda/123456/40.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Energy
-http://hd.007iptv.com:8000/live/eda/123456/47.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Emotion
-http://hd.007iptv.com:8000/live/eda/123456/39.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Joi
-http://hd.007iptv.com:8000/live/eda/123456/42.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Stories
-http://hd.007iptv.com:8000/live/eda/123456/38.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Mediaset 20
-http://hd.007iptv.com:8000/live/eda/123456/5487.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",—Premium Sport—
-http://hd.007iptv.com:8000/live/eda/123456/34.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Sport
-http://hd.007iptv.com:8000/live/eda/123456/33.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Sport 2
-http://hd.007iptv.com:8000/live/eda/123456/31.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Calcio 1
-http://hd.007iptv.com:8000/live/eda/123456/416.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Calcio 2
-http://hd.007iptv.com:8000/live/eda/123456/28.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Calcio 3
-http://hd.007iptv.com:8000/live/eda/123456/27.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Calcio 4
-http://hd.007iptv.com:8000/live/eda/123456/26.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Calcio 5
-http://hd.007iptv.com:8000/live/eda/123456/25.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",—Cultura—
-http://hd.007iptv.com:8000/live/eda/123456/102.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",NASA Live – Earth From Space
-http://hd.007iptv.com:8000/live/eda/123456/2.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Animal Planet
-http://hd.007iptv.com:8000/live/eda/123456/80.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",CI Crime Inv HD
-http://hd.007iptv.com:8000/live/eda/123456/123.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Discovery HD
-http://hd.007iptv.com:8000/live/eda/123456/93.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Discovery Sci HD
-http://hd.007iptv.com:8000/live/eda/123456/92.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Discovery T&L HD
-http://hd.007iptv.com:8000/live/eda/123456/91.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",History HD
-http://hd.007iptv.com:8000/live/eda/123456/89.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Nat Geo HD
-http://hd.007iptv.com:8000/live/eda/123456/97.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",NatGeo People HD
-http://hd.007iptv.com:8000/live/eda/123456/95.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",National Geo Wild HD
-http://hd.007iptv.com:8000/live/eda/123456/94.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Zelog 243
-http://hd.007iptv.com:8000/live/eda/123456/6986.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Reteconomy
-http://hd.007iptv.com:8000/live/eda/123456/6995.m3u8
-
+http://54.37.255.204:9977/live/nicolas/iptv/35164.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Automoto_TV
+http://54.37.255.204:9977/live/nicolas/iptv/35163.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",AXN
+http://54.37.255.204:9977/live/nicolas/iptv/35162.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Boing
+http://54.37.255.204:9977/live/nicolas/iptv/35161.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Canale_5
+http://54.37.255.204:9977/live/nicolas/iptv/35160.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Capital_TV
+http://54.37.255.204:9977/live/nicolas/iptv/35159.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Cartoon_Network
+http://54.37.255.204:9977/live/nicolas/iptv/35158.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Cartoonito
+http://54.37.255.204:9977/live/nicolas/iptv/35157.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Cazay_Pesca
+http://54.37.255.204:9977/live/nicolas/iptv/35156.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Cielo
+http://54.37.255.204:9977/live/nicolas/iptv/35155.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Discovery_Channel
+http://54.37.255.204:9977/live/nicolas/iptv/35154.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Discovery_Science
+http://54.37.255.204:9977/live/nicolas/iptv/35153.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Disney_Channel
+http://54.37.255.204:9977/live/nicolas/iptv/35152.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Disney_Junior
+http://54.37.255.204:9977/live/nicolas/iptv/35151.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Disney_XD
+http://54.37.255.204:9977/live/nicolas/iptv/35150.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Dmax
+http://54.37.255.204:9977/live/nicolas/iptv/35149.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Eurosport_1
+http://54.37.255.204:9977/live/nicolas/iptv/35148.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Eurosport_2
+http://54.37.255.204:9977/live/nicolas/iptv/35147.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Fine_Living
+http://54.37.255.204:9977/live/nicolas/iptv/35146.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Fishing
+http://54.37.255.204:9977/live/nicolas/iptv/35145.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Focus
+http://54.37.255.204:9977/live/nicolas/iptv/35144.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Fox
+http://54.37.255.204:9977/live/nicolas/iptv/35143.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Fox_Animation
+http://54.37.255.204:9977/live/nicolas/iptv/35142.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Fox_Comedy
+http://54.37.255.204:9977/live/nicolas/iptv/35141.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Fox_Crime
+http://54.37.255.204:9977/live/nicolas/iptv/35140.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Fox_Life
+http://54.37.255.204:9977/live/nicolas/iptv/35139.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Fox_Sport
+http://54.37.255.204:9977/live/nicolas/iptv/35138.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Frisbee
+http://54.37.255.204:9977/live/nicolas/iptv/35137.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Gambero_Rosso
+http://54.37.255.204:9977/live/nicolas/iptv/35136.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Giallo
+http://54.37.255.204:9977/live/nicolas/iptv/35135.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",History
+http://54.37.255.204:9977/live/nicolas/iptv/35134.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Inter_TV
+http://54.37.255.204:9977/live/nicolas/iptv/35133.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Investigation_Discovery
+http://54.37.255.204:9977/live/nicolas/iptv/35132.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Juventus_TV
+http://54.37.255.204:9977/live/nicolas/iptv/35131.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",K2
+http://54.37.255.204:9977/live/nicolas/iptv/35130.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",LA_5
+http://54.37.255.204:9977/live/nicolas/iptv/35129.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",LA_7
+http://54.37.255.204:9977/live/nicolas/iptv/35128.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",LA_8
+http://54.37.255.204:9977/live/nicolas/iptv/35127.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",LA_9
+http://54.37.255.204:9977/live/nicolas/iptv/35126.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",m2o_tv
+http://54.37.255.204:9977/live/nicolas/iptv/35125.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Marcopolo
+http://54.37.255.204:9977/live/nicolas/iptv/35124.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Mediasat_1
+http://54.37.255.204:9977/live/nicolas/iptv/35123.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Mediasat_2
+http://54.37.255.204:9977/live/nicolas/iptv/35122.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Mediasat_4
+http://54.37.255.204:9977/live/nicolas/iptv/35121.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Mediasat_5
+http://54.37.255.204:9977/live/nicolas/iptv/35120.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Mediasat_Extra
+http://54.37.255.204:9977/live/nicolas/iptv/35119.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Mediasat_Iris
+http://54.37.255.204:9977/live/nicolas/iptv/35118.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Mediasat_Top_Crime
+http://54.37.255.204:9977/live/nicolas/iptv/35117.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Milan_TV
+http://54.37.255.204:9977/live/nicolas/iptv/35116.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",MTV_Dance
+http://54.37.255.204:9977/live/nicolas/iptv/35115.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",MTV_Music
+http://54.37.255.204:9977/live/nicolas/iptv/35114.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Music_BOX
+http://54.37.255.204:9977/live/nicolas/iptv/35113.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Nat_Geo_People
+http://54.37.255.204:9977/live/nicolas/iptv/35112.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Nat_Geo_Wild
+http://54.37.255.204:9977/live/nicolas/iptv/35111.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",National_Geographic_Channel
+http://54.37.255.204:9977/live/nicolas/iptv/35110.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",NOVE
+http://54.37.255.204:9977/live/nicolas/iptv/35109.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PREMIUM_ACTION
+http://54.37.255.204:9977/live/nicolas/iptv/35108.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PREMIUM_ACTION_ 24
+http://54.37.255.204:9977/live/nicolas/iptv/35107.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PREMIUM_CALCIO
+http://54.37.255.204:9977/live/nicolas/iptv/35106.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PREMIUM_CALCIO_1
+http://54.37.255.204:9977/live/nicolas/iptv/35105.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PREMIUM_CINEMA
+http://54.37.255.204:9977/live/nicolas/iptv/35104.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PREMIUM_CINEMA_ 24
+http://54.37.255.204:9977/live/nicolas/iptv/35103.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PREMIUM_CINEMA_2
+http://54.37.255.204:9977/live/nicolas/iptv/35102.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PREMIUM_CINEMA_2_ 24
+http://54.37.255.204:9977/live/nicolas/iptv/35101.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PREMIUM_CINEMA_COMEDY
+http://54.37.255.204:9977/live/nicolas/iptv/35100.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PREMIUM_CINEMA_EMOTION
+http://54.37.255.204:9977/live/nicolas/iptv/35099.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PREMIUM_CRIME
+http://54.37.255.204:9977/live/nicolas/iptv/35098.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PREMIUM_CRIME_ 24
+http://54.37.255.204:9977/live/nicolas/iptv/35097.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PREMIUM_ENERGY
+http://54.37.255.204:9977/live/nicolas/iptv/35096.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PREMIUM_JOY
+http://54.37.255.204:9977/live/nicolas/iptv/35095.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PREMIUM_JOY_ 24
+http://54.37.255.204:9977/live/nicolas/iptv/35094.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PREMIUM_SPORT
+http://54.37.255.204:9977/live/nicolas/iptv/35093.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PREMIUM_SPORT_2
+http://54.37.255.204:9977/live/nicolas/iptv/35092.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PREMIUM_STORIES
+http://54.37.255.204:9977/live/nicolas/iptv/35091.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PrimaFila_1
+http://54.37.255.204:9977/live/nicolas/iptv/35090.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PrimaFila_10
+http://54.37.255.204:9977/live/nicolas/iptv/35081.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PrimaFila_11
+http://54.37.255.204:9977/live/nicolas/iptv/35080.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PrimaFila_2
+http://54.37.255.204:9977/live/nicolas/iptv/35089.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PrimaFila_3
+http://54.37.255.204:9977/live/nicolas/iptv/35088.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PrimaFila_4
+http://54.37.255.204:9977/live/nicolas/iptv/35087.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PrimaFila_5
+http://54.37.255.204:9977/live/nicolas/iptv/35086.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PrimaFila_6
+http://54.37.255.204:9977/live/nicolas/iptv/35085.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PrimaFila_7
+http://54.37.255.204:9977/live/nicolas/iptv/35084.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PrimaFila_8
+http://54.37.255.204:9977/live/nicolas/iptv/35083.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",PrimaFila_9
+http://54.37.255.204:9977/live/nicolas/iptv/35082.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Radio_105_TV
+http://54.37.255.204:9977/live/nicolas/iptv/35079.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Radio_Monte_Carlo_TV
+http://54.37.255.204:9977/live/nicolas/iptv/35078.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",RAI_1
+http://54.37.255.204:9977/live/nicolas/iptv/35077.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",RAI_2
+http://54.37.255.204:9977/live/nicolas/iptv/35076.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",RAI_3
+http://54.37.255.204:9977/live/nicolas/iptv/35075.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",RAI_4
+http://54.37.255.204:9977/live/nicolas/iptv/35074.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",RAI_5
+http://54.37.255.204:9977/live/nicolas/iptv/35073.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",RAI_Gulp
+http://54.37.255.204:9977/live/nicolas/iptv/35072.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",RAI_Movie
+http://54.37.255.204:9977/live/nicolas/iptv/35071.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",RAI_News_24
+http://54.37.255.204:9977/live/nicolas/iptv/35070.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",RAI_Premium
+http://54.37.255.204:9977/live/nicolas/iptv/35069.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",RAI_Scuola
+http://54.37.255.204:9977/live/nicolas/iptv/35068.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",RAI_Sport_1
+http://54.37.255.204:9977/live/nicolas/iptv/35067.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",RAI_Sport_2
+http://54.37.255.204:9977/live/nicolas/iptv/35066.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",RAI_Storia
+http://54.37.255.204:9977/live/nicolas/iptv/35065.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",RAI_Yoyo
+http://54.37.255.204:9977/live/nicolas/iptv/35064.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rete_4
+http://54.37.255.204:9977/live/nicolas/iptv/35063.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rsi_La1
+http://54.37.255.204:9977/live/nicolas/iptv/35062.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rsi_La2
+http://54.37.255.204:9977/live/nicolas/iptv/35061.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Senato
+http://54.37.255.204:9977/live/nicolas/iptv/35060.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Atlantic
+http://54.37.255.204:9977/live/nicolas/iptv/35059.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Calcio_1
+http://54.37.255.204:9977/live/nicolas/iptv/35058.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Calcio_2
+http://54.37.255.204:9977/live/nicolas/iptv/35057.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Calcio_3
+http://54.37.255.204:9977/live/nicolas/iptv/35056.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Calcio_4
+http://54.37.255.204:9977/live/nicolas/iptv/35055.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Calcio_5
+http://54.37.255.204:9977/live/nicolas/iptv/35054.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Calcio_6
+http://54.37.255.204:9977/live/nicolas/iptv/35053.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Cinema_ 24
+http://54.37.255.204:9977/live/nicolas/iptv/35052.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Cinema_Classic
+http://54.37.255.204:9977/live/nicolas/iptv/35051.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Cinema_Comedy
+http://54.37.255.204:9977/live/nicolas/iptv/35050.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Cinema_Cult
+http://54.37.255.204:9977/live/nicolas/iptv/35049.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Cinema_Family
+http://54.37.255.204:9977/live/nicolas/iptv/35048.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Cinema_Hits
+http://54.37.255.204:9977/live/nicolas/iptv/35047.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Cinema_Max
+http://54.37.255.204:9977/live/nicolas/iptv/35046.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Cinema_Passion
+http://54.37.255.204:9977/live/nicolas/iptv/35045.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Cinema_Uno
+http://54.37.255.204:9977/live/nicolas/iptv/35044.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Sport_1
+http://54.37.255.204:9977/live/nicolas/iptv/35043.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Sport_2
+http://54.37.255.204:9977/live/nicolas/iptv/35042.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Sport_24
+http://54.37.255.204:9977/live/nicolas/iptv/35041.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Sport_3
+http://54.37.255.204:9977/live/nicolas/iptv/35040.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Sport_F1
+http://54.37.255.204:9977/live/nicolas/iptv/35039.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Sport_Moto_GP
+http://54.37.255.204:9977/live/nicolas/iptv/35038.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_TG24
+http://54.37.255.204:9977/live/nicolas/iptv/35037.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Uno
+http://54.37.255.204:9977/live/nicolas/iptv/35036.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sport_Italia
+http://54.37.255.204:9977/live/nicolas/iptv/35035.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Studio_Universal
+http://54.37.255.204:9977/live/nicolas/iptv/35034.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Super_Tennis
+http://54.37.255.204:9977/live/nicolas/iptv/35033.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Super!
+http://54.37.255.204:9977/live/nicolas/iptv/35032.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",TGCom_24
+http://54.37.255.204:9977/live/nicolas/iptv/35031.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",TV_8
+http://54.37.255.204:9977/live/nicolas/iptv/35030.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",TV2000
+http://54.37.255.204:9977/live/nicolas/iptv/35029.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Video_Brescia
+http://54.37.255.204:9977/live/nicolas/iptv/35028.ts
 
 
 
@@ -4373,563 +4266,737 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/523.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="France2-PREMIUM",
 
-#EXTINF:-1 group-title="France2-PREMIUM",13EME RUE 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30830.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",6TER 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30828.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",A LA CARTE 11
-http://54.37.255.204:9977/live/nicolas/iptv/30612.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",A LA CARTE 12
-http://54.37.255.204:9977/live/nicolas/iptv/30611.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",A LA CARTE 13
-http://54.37.255.204:9977/live/nicolas/iptv/30610.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",A LA CARTE 14
-http://54.37.255.204:9977/live/nicolas/iptv/30609.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",A LA CARTE 15
-http://54.37.255.204:9977/live/nicolas/iptv/30608.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",A LA CARTE 16
-http://54.37.255.204:9977/live/nicolas/iptv/30607.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",A LA CARTE 17
-http://54.37.255.204:9977/live/nicolas/iptv/30606.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",A LA CARTE 18
-http://54.37.255.204:9977/live/nicolas/iptv/30605.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",A LA CARTE 19
-http://54.37.255.204:9977/live/nicolas/iptv/30604.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",A La Carte 5
-http://54.37.255.204:9977/live/nicolas/iptv/30618.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",AB1 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30798.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",AB3 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30796.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",ACTION 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30747.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",ALTICE STUDIO 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30603.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",ANIMAUX 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30717.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",ARTE 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30840.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",BEINSPORTS 1 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30706.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",BEINSPORTS 2 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30704.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",BEINSPORTS 3 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30702.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",BET 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30790.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",BFM BUSINESS 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30808.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",BFM SPORT 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30807.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",BFM TV 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30809.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",BOING 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30666.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",BOOMERANG 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30664.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",C STAR 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30826.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CANAL  4K
-http://54.37.255.204:9977/live/nicolas/iptv/30784.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CANAL  CINEMA 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30782.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CANAL  DECALE 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30780.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CANAL  FAMILY 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30778.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CANAL  SÉRIE 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30776.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CANAL  SPORT 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30765.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CANAL 8 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30838.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CANAL J 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30648.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CANAL NEWS 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30602.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CARTOON NETWORK 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30662.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CHASSE ET PECHE 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30710.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CHERIE 25 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30811.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CINE CLASSIC 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30753.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CINE CLUB 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30755.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CINE EMOTION 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30773.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CINE FAMIZ 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30771.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CINE FRISSON 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30769.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CINE FX 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30751.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CINE POLAR 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30749.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CINE PREMIER 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30767.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",COMEDIE  4K
-http://54.37.255.204:9977/live/nicolas/iptv/30788.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CRIME DISTRICT 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30731.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CSTAR 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30825.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",DISCOVERY 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30722.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",Discovery Investigation 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30719.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",DISCOVERY SCIENCE 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30720.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",DISNEY CHANNEL 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30656.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",DISNEY CINEMA 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30654.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",DISNEY JUNIOR 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30652.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",DISNEY XD 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30650.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",EQUIDIA LIFE 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30677.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",EQUIDIA LIVE 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30675.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",EUROSPORT 1 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30601.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",EUROSPORT 2 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30600.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FRANCE 2 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30852.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FRANCE 3 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30850.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FRANCE 4 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30848.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FRANCE 5 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30846.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FRANCE INFO 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30816.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FRANCE O 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30823.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",GAME ONE 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30639.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",GOLF  4K
-http://54.37.255.204:9977/live/nicolas/iptv/30681.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",GOLF CHANNEL 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30679.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",GULLI 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30668.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",HISTOIRE 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30713.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",I24 NEWS 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30599.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",INFOSPORT  4K
-http://54.37.255.204:9977/live/nicolas/iptv/30817.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",L'EQUIPE 21 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30819.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",LCI 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30804.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",LFM TV 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30598.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",M6 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30844.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",M6 MUSIC 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30842.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",MANGA 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30597.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",MCM 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30596.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",MCM TOP 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30595.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",MEZZO LIVE 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30594.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",MOTORSPORT TV 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30593.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",MTV FRANCE 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30592.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",MTV HITS 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30591.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",MY CUISINE TV 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30590.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",MY ZEN TV 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30589.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",NATIONAL GEO WILD 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30741.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",NATIONAL GEOGRAPHIC 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30739.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",NICKELODEON 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30588.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",NRJ 12 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30832.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",NT1 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30587.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",NUMERO 23 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30814.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",OCS CHOC 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30763.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",OCS CITY 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30761.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",OCS GEANTS 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30759.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",OCS MAX 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30757.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",OL TV 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30586.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",ONE TV 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30585.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",PARAMOUNT CHANNEL 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30745.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",PIWI 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30672.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",PLAN 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30735.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",PLANETE  4K
-http://54.37.255.204:9977/live/nicolas/iptv/30737.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",PLANETE CI 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30733.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",POLAR 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30584.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",RFM TV 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30806.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",ROUGE TV 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30583.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",RTL9 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30821.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",SCIENCES & VIE 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30729.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",SEASON 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30708.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",SFR SPORT 1 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30693.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",SFR SPORT 2 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30691.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",SFR SPORT 4 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30689.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",SFR SPORT 5 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30687.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",SYFY 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30794.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",T 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30582.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",TCM CINEMA 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30786.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",TELETOON  4K
-http://54.37.255.204:9977/live/nicolas/iptv/30660.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",TF1 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30855.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",TF1 Series Films 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30854.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",TIJI 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30670.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",TMC 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30834.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",TOONAMI 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30631.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",TRACE URBAN 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30643.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",TREK 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30715.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",TV BREIZH 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30800.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",TV5 Monde 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30802.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",USHUAIA TV 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30727.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",VICELAND 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30581.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",VOYAGE 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30724.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",W9 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30836.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",WARNER TV 4K
-http://54.37.255.204:9977/live/nicolas/iptv/30580.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: 13ème Rue HD
-http://54.37.255.204:9977/live/nicolas/iptv/30831.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: 6TER
-http://54.37.255.204:9977/live/nicolas/iptv/30829.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: A La Carte 1
-http://54.37.255.204:9977/live/nicolas/iptv/30622.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: A La Carte 10
-http://54.37.255.204:9977/live/nicolas/iptv/30613.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: A La Carte 2
-http://54.37.255.204:9977/live/nicolas/iptv/30621.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: A La Carte 3
-http://54.37.255.204:9977/live/nicolas/iptv/30620.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: A La Carte 4
-http://54.37.255.204:9977/live/nicolas/iptv/30619.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: A La Carte 6
-http://54.37.255.204:9977/live/nicolas/iptv/30617.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: A La Carte 7
-http://54.37.255.204:9977/live/nicolas/iptv/30616.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: A La Carte 8
-http://54.37.255.204:9977/live/nicolas/iptv/30615.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: A La Carte 9
-http://54.37.255.204:9977/live/nicolas/iptv/30614.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: AB MOTEURS HD
-http://54.37.255.204:9977/live/nicolas/iptv/30629.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: AB1
-http://54.37.255.204:9977/live/nicolas/iptv/30799.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: AB3
-http://54.37.255.204:9977/live/nicolas/iptv/30797.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Action HD
-http://54.37.255.204:9977/live/nicolas/iptv/30748.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Animaux HD
-http://54.37.255.204:9977/live/nicolas/iptv/30718.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Arte HD
-http://54.37.255.204:9977/live/nicolas/iptv/30841.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: bein office1 hd vip
-http://54.37.255.204:9977/live/nicolas/iptv/30627.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: bein office2 hd
-http://54.37.255.204:9977/live/nicolas/iptv/30626.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: bein office3 hd
-http://54.37.255.204:9977/live/nicolas/iptv/30625.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: bein office4 hd
-http://54.37.255.204:9977/live/nicolas/iptv/30624.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: bein office5 hd vip
-http://54.37.255.204:9977/live/nicolas/iptv/30623.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: beIN SPORTS 1HD
-http://54.37.255.204:9977/live/nicolas/iptv/30707.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: beIN SPORTS 2HD
-http://54.37.255.204:9977/live/nicolas/iptv/30705.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: beIN SPORTS 3HD
-http://54.37.255.204:9977/live/nicolas/iptv/30703.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: beIN SPORTS Max 10HD
-http://54.37.255.204:9977/live/nicolas/iptv/30695.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: beIN SPORTS Max 4HD
-http://54.37.255.204:9977/live/nicolas/iptv/30701.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: beIN SPORTS Max 5HD
-http://54.37.255.204:9977/live/nicolas/iptv/30700.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: beIN SPORTS Max 6HD
-http://54.37.255.204:9977/live/nicolas/iptv/30699.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: beIN SPORTS Max 7HD
-http://54.37.255.204:9977/live/nicolas/iptv/30698.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: beIN SPORTS Max 8HD
-http://54.37.255.204:9977/live/nicolas/iptv/30697.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: beIN SPORTS Max 9HD
-http://54.37.255.204:9977/live/nicolas/iptv/30696.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: BET HD
-http://54.37.255.204:9977/live/nicolas/iptv/30791.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: BFM TV HD
-http://54.37.255.204:9977/live/nicolas/iptv/30810.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Boing HD
-http://54.37.255.204:9977/live/nicolas/iptv/30667.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Boomerang HD
-http://54.37.255.204:9977/live/nicolas/iptv/30665.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: C.STAR
-http://54.37.255.204:9977/live/nicolas/iptv/30827.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: C8
-http://54.37.255.204:9977/live/nicolas/iptv/30839.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Canal  Cinema HD
-http://54.37.255.204:9977/live/nicolas/iptv/30783.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Canal  Décalé HD
-http://54.37.255.204:9977/live/nicolas/iptv/30781.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Canal  Family HD
-http://54.37.255.204:9977/live/nicolas/iptv/30779.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Canal  HD
-http://54.37.255.204:9977/live/nicolas/iptv/30785.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Canal  Series HD
-http://54.37.255.204:9977/live/nicolas/iptv/30777.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Canal  Sport HD
-http://54.37.255.204:9977/live/nicolas/iptv/30766.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Canal J HD
-http://54.37.255.204:9977/live/nicolas/iptv/30649.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Cartoon Network HD
-http://54.37.255.204:9977/live/nicolas/iptv/30663.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Chasse & Peche
-http://54.37.255.204:9977/live/nicolas/iptv/30711.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Cherie 25 HD
-http://54.37.255.204:9977/live/nicolas/iptv/30812.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Ciné  Classic HD
-http://54.37.255.204:9977/live/nicolas/iptv/30754.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Ciné  Club HD
-http://54.37.255.204:9977/live/nicolas/iptv/30756.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Cine  Emotion HD
-http://54.37.255.204:9977/live/nicolas/iptv/30774.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Cine  Famiz HD
-http://54.37.255.204:9977/live/nicolas/iptv/30772.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Cine  Frisson HD
-http://54.37.255.204:9977/live/nicolas/iptv/30770.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Cine  Premier HD
-http://54.37.255.204:9977/live/nicolas/iptv/30768.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Cine FX HD
-http://54.37.255.204:9977/live/nicolas/iptv/30752.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Ciné Polar HD
-http://54.37.255.204:9977/live/nicolas/iptv/30750.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: CNEWS
-http://54.37.255.204:9977/live/nicolas/iptv/30641.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Comedie  HD
-http://54.37.255.204:9977/live/nicolas/iptv/30789.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: CRIME DISTRICT
-http://54.37.255.204:9977/live/nicolas/iptv/30732.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Discovery Channel HD
-http://54.37.255.204:9977/live/nicolas/iptv/30723.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Discovery Science HD
-http://54.37.255.204:9977/live/nicolas/iptv/30721.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Disney Channel HD
-http://54.37.255.204:9977/live/nicolas/iptv/30657.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Disney Cinema HD
-http://54.37.255.204:9977/live/nicolas/iptv/30655.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Disney Junior HD
-http://54.37.255.204:9977/live/nicolas/iptv/30653.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Disney XD HD
-http://54.37.255.204:9977/live/nicolas/iptv/30651.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: E! Entertainment HD
-http://54.37.255.204:9977/live/nicolas/iptv/30793.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Elle Girl HD
-http://54.37.255.204:9977/live/nicolas/iptv/30674.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Equidia Life HD
-http://54.37.255.204:9977/live/nicolas/iptv/30678.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Equidia Live HD
-http://54.37.255.204:9977/live/nicolas/iptv/30676.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Euronews
-http://54.37.255.204:9977/live/nicolas/iptv/30686.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Eurosport 1 France HD
-http://54.37.255.204:9977/live/nicolas/iptv/30685.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Eurosport 2 HD
-http://54.37.255.204:9977/live/nicolas/iptv/30684.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Foot  24 HD
-http://54.37.255.204:9977/live/nicolas/iptv/30683.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: France 0 HD
-http://54.37.255.204:9977/live/nicolas/iptv/30824.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: France 2 HD
-http://54.37.255.204:9977/live/nicolas/iptv/30853.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: France 24 HD
-http://54.37.255.204:9977/live/nicolas/iptv/30813.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: France 3 HD
-http://54.37.255.204:9977/live/nicolas/iptv/30851.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: France 4 HD
-http://54.37.255.204:9977/live/nicolas/iptv/30849.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: France 5 HD
-http://54.37.255.204:9977/live/nicolas/iptv/30847.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Game One HD
-http://54.37.255.204:9977/live/nicolas/iptv/30640.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: GinX
-http://54.37.255.204:9977/live/nicolas/iptv/30636.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: GOLF
-http://54.37.255.204:9977/live/nicolas/iptv/30682.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Golf Channel HD
-http://54.37.255.204:9977/live/nicolas/iptv/30680.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: GONG BASE
-http://54.37.255.204:9977/live/nicolas/iptv/30635.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: GONG TV
-http://54.37.255.204:9977/live/nicolas/iptv/30634.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Gulli HD
-http://54.37.255.204:9977/live/nicolas/iptv/30669.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Histoire HD
-http://54.37.255.204:9977/live/nicolas/iptv/30714.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Infosport  HD
-http://54.37.255.204:9977/live/nicolas/iptv/30818.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: L'EQUIPE TV HD
-http://54.37.255.204:9977/live/nicolas/iptv/30820.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: LCI
-http://54.37.255.204:9977/live/nicolas/iptv/30805.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: M6 HD
-http://54.37.255.204:9977/live/nicolas/iptv/30845.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: M6 Music HD
-http://54.37.255.204:9977/live/nicolas/iptv/30843.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Mangas HD
-http://54.37.255.204:9977/live/nicolas/iptv/30647.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: MCM
-http://54.37.255.204:9977/live/nicolas/iptv/30646.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: MTV  HD
-http://54.37.255.204:9977/live/nicolas/iptv/30642.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Nat Geo Wild HD
-http://54.37.255.204:9977/live/nicolas/iptv/30742.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: National Geographic
-http://54.37.255.204:9977/live/nicolas/iptv/30740.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Nick Jr HD
-http://54.37.255.204:9977/live/nicolas/iptv/30658.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Nickelodeon HD
-http://54.37.255.204:9977/live/nicolas/iptv/30659.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: NRJ Hits HD
-http://54.37.255.204:9977/live/nicolas/iptv/30645.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: NRJ12
-http://54.37.255.204:9977/live/nicolas/iptv/30833.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: NUMERO 23
-http://54.37.255.204:9977/live/nicolas/iptv/30815.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: OCS CHOC HD
-http://54.37.255.204:9977/live/nicolas/iptv/30764.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: OCS City HD
-http://54.37.255.204:9977/live/nicolas/iptv/30762.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: OCS Geants HD
-http://54.37.255.204:9977/live/nicolas/iptv/30760.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: OCS Max HD
-http://54.37.255.204:9977/live/nicolas/iptv/30758.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Paramount Channel HD
-http://54.37.255.204:9977/live/nicolas/iptv/30746.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: PARIS PREMIERE
-http://54.37.255.204:9977/live/nicolas/iptv/30744.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Piwi  HD
-http://54.37.255.204:9977/live/nicolas/iptv/30673.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Planète  A&E HD
-http://54.37.255.204:9977/live/nicolas/iptv/30736.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Planète  CI HD
-http://54.37.255.204:9977/live/nicolas/iptv/30734.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Planète  HD
-http://54.37.255.204:9977/live/nicolas/iptv/30738.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: RMC DECOUVERTE HD
-http://54.37.255.204:9977/live/nicolas/iptv/30743.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: RTL9
-http://54.37.255.204:9977/live/nicolas/iptv/30822.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: RTS1
-http://54.37.255.204:9977/live/nicolas/iptv/30638.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: RTS2
-http://54.37.255.204:9977/live/nicolas/iptv/30637.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Science & Vie HD
-http://54.37.255.204:9977/live/nicolas/iptv/30730.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Seasons HD
-http://54.37.255.204:9977/live/nicolas/iptv/30709.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: SERIE CLUB
-http://54.37.255.204:9977/live/nicolas/iptv/30775.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: SFR SPORT 1 HD
-http://54.37.255.204:9977/live/nicolas/iptv/30694.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: SFR SPORT 2 HD
-http://54.37.255.204:9977/live/nicolas/iptv/30692.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: SFR SPORT 4 HD
-http://54.37.255.204:9977/live/nicolas/iptv/30690.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: SFR SPORT 5 HD
-http://54.37.255.204:9977/live/nicolas/iptv/30688.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: SyFy HD
-http://54.37.255.204:9977/live/nicolas/iptv/30795.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: TCM Cinéma HD
-http://54.37.255.204:9977/live/nicolas/iptv/30787.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Teleclub Star
-http://54.37.255.204:9977/live/nicolas/iptv/30633.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Télétoon  HD
-http://54.37.255.204:9977/live/nicolas/iptv/30661.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Teva
-http://54.37.255.204:9977/live/nicolas/iptv/30792.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: TF1 HD
-http://54.37.255.204:9977/live/nicolas/iptv/30856.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: TiJi HD
-http://54.37.255.204:9977/live/nicolas/iptv/30671.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: TMC HD
-http://54.37.255.204:9977/live/nicolas/iptv/30835.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: TOONAMI
-http://54.37.255.204:9977/live/nicolas/iptv/30632.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Toute Histoire
-http://54.37.255.204:9977/live/nicolas/iptv/30712.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Trace Urban HD
-http://54.37.255.204:9977/live/nicolas/iptv/30644.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: TREK-HD
-http://54.37.255.204:9977/live/nicolas/iptv/30716.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: TV Breizh HD
-http://54.37.255.204:9977/live/nicolas/iptv/30801.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: TV5 MONDE HD
-http://54.37.255.204:9977/live/nicolas/iptv/30803.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: Ushuaia TV HD
-http://54.37.255.204:9977/live/nicolas/iptv/30728.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: VIRGIN TV
-http://54.37.255.204:9977/live/nicolas/iptv/30628.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: VOSGES HD
-http://54.37.255.204:9977/live/nicolas/iptv/30726.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: VOYAGE HD
-http://54.37.255.204:9977/live/nicolas/iptv/30725.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: W9 HD
-http://54.37.255.204:9977/live/nicolas/iptv/30837.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FR1: ZOUZOU
-http://54.37.255.204:9977/live/nicolas/iptv/30630.m3u8
 
-
-
+#EXTINF:-1 group-title="France2-PREMIUM",TF1-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1734.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TF1 +1-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1733.ts
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE 2-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1732.ts
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE 3-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1731.ts
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE 4-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1746.ts
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE 5-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1729.ts
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE O-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1715.ts
+#EXTINF:-1 group-title="France2-PREMIUM",ARTE-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1727.ts
+#EXTINF:-1 group-title="France2-PREMIUM",M6-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1728.ts
+#EXTINF:-1 group-title="France2-PREMIUM",W9-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1725.ts
+#EXTINF:-1 group-title="France2-PREMIUM",6TER-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1706.ts
+#EXTINF:-1 group-title="France2-PREMIUM",C8-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1726.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TF1 SÉRIES FILMS-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1710.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TFX-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1722.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TMC-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1723.ts
+#EXTINF:-1 group-title="France2-PREMIUM",NRJ12-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1724.ts
+#EXTINF:-1 group-title="France2-PREMIUM",NUMERO 23-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1704.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CSTAR-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1687.ts
+#EXTINF:-1 group-title="France2-PREMIUM",PARIS PREMIÈRE-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1709.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CHÉRIE 25-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1703.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL+HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1753.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL+DECALE-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1752.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL+FAMILY-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1749.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL+CINEMA-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1750.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL+SERIES-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1751.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL+SPORT-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1748.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CINE  FRISSON-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1693.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CINE  PREMIER-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1696.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CINE  EMOTION-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1695.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CINE  FAMIZ-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1694.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CINE  CLUB-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1689.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CINE  CLASSIC-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1692.ts
+#EXTINF:-1 group-title="France2-PREMIUM",OCS MAX-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1678.ts
+#EXTINF:-1 group-title="France2-PREMIUM",OCS CHOC-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1681.ts
+#EXTINF:-1 group-title="France2-PREMIUM",OCS CITY-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1680.ts
+#EXTINF:-1 group-title="France2-PREMIUM",OCS GEANTS-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1679.ts
+#EXTINF:-1 group-title="France2-PREMIUM",WARNER TV HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/653.ts
+#EXTINF:-1 group-title="France2-PREMIUM",SFR ACTION
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/641.ts
+#EXTINF:-1 group-title="France2-PREMIUM",SFR COMEDY
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/640.ts
+#EXTINF:-1 group-title="France2-PREMIUM",SFR HORROR
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/639.ts
+#EXTINF:-1 group-title="France2-PREMIUM",SFR SCI-FI
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/642.ts
+#EXTINF:-1 group-title="France2-PREMIUM",GONG MAX-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1699.ts
+#EXTINF:-1 group-title="France2-PREMIUM",GONG-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1698.ts
+#EXTINF:-1 group-title="France2-PREMIUM",MY COMEDIE
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1399.ts
+#EXTINF:-1 group-title="France2-PREMIUM",MCM-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1630.ts
+#EXTINF:-1 group-title="France2-PREMIUM",PARAMOUNT CHANNEL DÉCALÉ-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1672.ts
+#EXTINF:-1 group-title="France2-PREMIUM",PARAMOUNT CHANNEL-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1671.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TEVA-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1708.ts
+#EXTINF:-1 group-title="France2-PREMIUM",SYFY HD FRANCE
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1745.ts
+#EXTINF:-1 group-title="France2-PREMIUM",13ÈME RUE-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1705.ts
+#EXTINF:-1 group-title="France2-PREMIUM",SÉRIE CLUB-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1674.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TCM CINEMA-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1688.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TV BREIZH-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1685.ts
+#EXTINF:-1 group-title="France2-PREMIUM",RTL9-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1686.ts
+#EXTINF:-1 group-title="France2-PREMIUM",ACTION-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1675.ts
+#EXTINF:-1 group-title="France2-PREMIUM",SUNDANCE TV-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1930.ts
+#EXTINF:-1 group-title="France2-PREMIUM",AB1-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1673.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CINE FX-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1691.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CINE POLAR-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1690.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CRIME DISTRICT
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1747.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BET-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1627.ts
+#EXTINF:-1 group-title="France2-PREMIUM",ALTICE STUDIO-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1697.ts
+#EXTINF:-1 group-title="France2-PREMIUM",E! -HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1683.ts
+#EXTINF:-1 group-title="France2-PREMIUM",MY CUISINE-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1682.ts
+#EXTINF:-1 group-title="France2-PREMIUM",VIVOLTA-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1918.ts
+#EXTINF:-1 group-title="France2-PREMIUM",DISCOVERY CHANNEL-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1666.ts
+#EXTINF:-1 group-title="France2-PREMIUM",DISCOVERY SCIENCE-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1663.ts
+#EXTINF:-1 group-title="France2-PREMIUM",DISCOVERY FAMILY-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1665.ts
+#EXTINF:-1 group-title="France2-PREMIUM",DISCOVERY ID-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1664.ts
+#EXTINF:-1 group-title="France2-PREMIUM",NAT GEO WILD-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1668.ts
+#EXTINF:-1 group-title="France2-PREMIUM",NATIONAL GEOGRAPHIC-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1667.ts
+#EXTINF:-1 group-title="France2-PREMIUM",VOYAGE-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1660.ts
+#EXTINF:-1 group-title="France2-PREMIUM",USHUAÏA TV-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1662.ts
+#EXTINF:-1 group-title="France2-PREMIUM",PLANETE FULL HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1758.ts
+#EXTINF:-1 group-title="France2-PREMIUM",PLANETE CI FULL HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1759.ts
+#EXTINF:-1 group-title="France2-PREMIUM",PLANETE A&E FULL HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1760.ts
+#EXTINF:-1 group-title="France2-PREMIUM",RMC DÉCOUVERTE-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1670.ts
+#EXTINF:-1 group-title="France2-PREMIUM",SCIENCES ET VIE TV-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1669.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TREK-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1707.ts
+#EXTINF:-1 group-title="France2-PREMIUM",HISTOIRE-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1676.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TOUTE L’HISTOIRE-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1677.ts
+#EXTINF:-1 group-title="France2-PREMIUM",ULTRA NATURE-UHD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1898.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CHASSE ET PÊCHE-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2192.ts
+#EXTINF:-1 group-title="France2-PREMIUM",ANIMAUX-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1661.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BeIN SPORTS 1-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1744.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BeIN SPORTS 2-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1743.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BeIN SPORTS 3-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1742.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BEINSPORT 1 FULL-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/675.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BEINSPORT 2 FULL-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/677.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BEINSPORT 3 FULL-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1900.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BeIN SPORTS MAX 10-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1735.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BeIN SPORTS MAX 4-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1741.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BeIN SPORTS MAX 5-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1740.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BeIN SPORTS MAX 6-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1739.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BeIN SPORTS MAX 7-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1738.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BeIN SPORTS MAX 8-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1737.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BeIN SPORTS MAX 9-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1736.ts
+#EXTINF:-1 group-title="France2-PREMIUM",RMC SPORT 1-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1659.ts
+#EXTINF:-1 group-title="France2-PREMIUM",RMC SPORT 2-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1658.ts
+#EXTINF:-1 group-title="France2-PREMIUM",RMC SPORT 3-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1657.ts
+#EXTINF:-1 group-title="France2-PREMIUM",RMC SPORT 4-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1656.ts
+#EXTINF:-1 group-title="France2-PREMIUM",RMC SPORT 5-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1655.ts
+#EXTINF:-1 group-title="France2-PREMIUM",OL TV-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1652.ts
+#EXTINF:-1 group-title="France2-PREMIUM",OM TV-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1653.ts
+#EXTINF:-1 group-title="France2-PREMIUM",GIRONDINS TV-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1651.ts
+#EXTINF:-1 group-title="France2-PREMIUM",L’ÉQUIPE 21-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1654.ts
+#EXTINF:-1 group-title="France2-PREMIUM",AB MOTEURS-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1684.ts
+#EXTINF:-1 group-title="France2-PREMIUM",LUCKY JACK TV
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2193.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BFM SPORT-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1718.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TRACE SPORT STARS-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1618.ts
+#EXTINF:-1 group-title="France2-PREMIUM",MOTORSPORT TV-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1649.ts
+#EXTINF:-1 group-title="France2-PREMIUM",EQUIDIA-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1650.ts
+#EXTINF:-1 group-title="France2-PREMIUM",DISNEY CHANNEL-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1644.ts
+#EXTINF:-1 group-title="France2-PREMIUM",DISNEY CHANNEL 1-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1645.ts
+#EXTINF:-1 group-title="France2-PREMIUM",DISNEY XD-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2194.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOOMERANG-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1643.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOOMERANG 1-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1642.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CARTOON NETWORK-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1640.ts
+#EXTINF:-1 group-title="France2-PREMIUM",NICKELODEON 1-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1637.ts
+#EXTINF:-1 group-title="France2-PREMIUM",NICKELODEON JUNIOR-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1636.ts
+#EXTINF:-1 group-title="France2-PREMIUM",NICKELODEON TEEN-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1635.ts
+#EXTINF:-1 group-title="France2-PREMIUM",NICKELODEON-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1634.ts
+#EXTINF:-1 group-title="France2-PREMIUM",GAME ONE  1-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1638.ts
+#EXTINF:-1 group-title="France2-PREMIUM",GAME ONE-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1639.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL J-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1641.ts
+#EXTINF:-1 group-title="France2-PREMIUM",GULLI-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1648.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TIJI-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1647.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BABY TV-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1920.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TOONAMI-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1632.ts
+#EXTINF:-1 group-title="France2-PREMIUM",J-ONE-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1646.ts
+#EXTINF:-1 group-title="France2-PREMIUM",MANGAS-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1633.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BFM TV-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1721.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BFM PARIS-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1719.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BFM BUSINESS-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1720.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CNEWS-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1712.ts
+#EXTINF:-1 group-title="France2-PREMIUM",WEO-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1711.ts
+#EXTINF:-1 group-title="France2-PREMIUM",I24NEWS-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1713.ts
+#EXTINF:-1 group-title="France2-PREMIUM",LA CHAÎNE MÉTÉO-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1702.ts
+#EXTINF:-1 group-title="France2-PREMIUM",EURONEWS-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1714.ts
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE 24-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1717.ts
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE INFO-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1716.ts
+#EXTINF:-1 group-title="France2-PREMIUM",LCI-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1701.ts
+#EXTINF:-1 group-title="France2-PREMIUM",LCP-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1700.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TRACE GOSPEL-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1619.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TRACE TOCA-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1617.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TRACE TROPICAL-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1616.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TRACE URBAN-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1615.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TRACE NAIJA
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1837.ts
+#EXTINF:-1 group-title="France2-PREMIUM",M6 MUSIC-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1628.ts
+#EXTINF:-1 group-title="France2-PREMIUM",MCM TOP-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1629.ts
+#EXTINF:-1 group-title="France2-PREMIUM",NRJ HITS-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1631.ts
+#EXTINF:-1 group-title="France2-PREMIUM",MTV DANCE-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1623.ts
+#EXTINF:-1 group-title="France2-PREMIUM",MTV HITS-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1622.ts
+#EXTINF:-1 group-title="France2-PREMIUM",MTV ROCK-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1621.ts
+#EXTINF:-1 group-title="France2-PREMIUM",MTV-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1620.ts
+#EXTINF:-1 group-title="France2-PREMIUM",MELODY-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1626.ts
+#EXTINF:-1 group-title="France2-PREMIUM",VH1 CLASSIC-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1624.ts
+#EXTINF:-1 group-title="France2-PREMIUM",VH1-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1625.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL-PLAY-1
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2333.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL-PLAY-2
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2332.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL-PLAY-3
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2331.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL-PLAY-4
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2330.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL-PLAY-5
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2329.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL-PLAY-6
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2328.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL-PLAY-7
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2327.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL-PLAY-8
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2326.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL-PLAY-9
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2325.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL-PLAY-10
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2324.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL-PLAY-11
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2323.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL-PLAY-12
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2322.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL-PLAY-13
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2321.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL-PLAY-14
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2320.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TF1 HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/239.ts
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE 2 HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/238.ts
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE 3 HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/237.ts
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE 4 HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/236.ts
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE 5 HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/235.ts
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE O HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/234.ts
+#EXTINF:-1 group-title="France2-PREMIUM",M6 HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/233.ts
+#EXTINF:-1 group-title="France2-PREMIUM",W9
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/227.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TEVA HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/222.ts
+#EXTINF:-1 group-title="France2-PREMIUM",ARTE HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/226.ts
+#EXTINF:-1 group-title="France2-PREMIUM",C8
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/230.ts
+#EXTINF:-1 group-title="France2-PREMIUM",6TER HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/224.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TF1 SeriesFilms
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/231.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TFX
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/225.ts
+#EXTINF:-1 group-title="France2-PREMIUM",RTL9
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/228.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CHERIE 25
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/232.ts
+#EXTINF:-1 group-title="France2-PREMIUM",A+ HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1359.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CSTAR
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/229.ts
+#EXTINF:-1 group-title="France2-PREMIUM",NUMERO 23
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/223.ts
+#EXTINF:-1 group-title="France2-PREMIUM",ALTICE STUDIO
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/221.ts
+#EXTINF:-1 group-title="France2-PREMIUM",C+HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/269.ts
+#EXTINF:-1 group-title="France2-PREMIUM",C+FAMILY
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/265.ts
+#EXTINF:-1 group-title="France2-PREMIUM",C+CINEMA
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/266.ts
+#EXTINF:-1 group-title="France2-PREMIUM",C+DECALE
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/268.ts
+#EXTINF:-1 group-title="France2-PREMIUM",C+SERIES
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/267.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CINE  PREMIER HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/259.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CINE FRISSON HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/258.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CINE  FAMIZ HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/260.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CINE  EMOTION HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/261.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CINE  CLASSIC
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/263.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CINE CLUB HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/262.ts
+#EXTINF:-1 group-title="France2-PREMIUM",OCS CHOC HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/253.ts
+#EXTINF:-1 group-title="France2-PREMIUM",OCS CITY HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/252.ts
+#EXTINF:-1 group-title="France2-PREMIUM",OCS GEANT HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/251.ts
+#EXTINF:-1 group-title="France2-PREMIUM",OCS MAX HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/250.ts
+#EXTINF:-1 group-title="France2-PREMIUM",PARAMOUNT
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/249.ts
+#EXTINF:-1 group-title="France2-PREMIUM",SYFY-HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/241.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TMC HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/247.ts
+#EXTINF:-1 group-title="France2-PREMIUM",COMEDIE
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/255.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TV Breizh
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/246.ts
+#EXTINF:-1 group-title="France2-PREMIUM",13EME RUE
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/245.ts
+#EXTINF:-1 group-title="France2-PREMIUM",AB1 HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/244.ts
+#EXTINF:-1 group-title="France2-PREMIUM",AB3
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/243.ts
+#EXTINF:-1 group-title="France2-PREMIUM",ACTION HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/264.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CINE FX HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/257.ts
+#EXTINF:-1 group-title="France2-PREMIUM",POLAR+
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/256.ts
+#EXTINF:-1 group-title="France2-PREMIUM",PARIS PREMIERE HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/248.ts
+#EXTINF:-1 group-title="France2-PREMIUM",SERIES CLUB HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/242.ts
+#EXTINF:-1 group-title="France2-PREMIUM",E! ENTERTAINEMENT
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/254.ts
+#EXTINF:-1 group-title="France2-PREMIUM",ELLE GIRL
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1373.ts
+#EXTINF:-1 group-title="France2-PREMIUM",NOLLYWOOD_FR
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1355.ts
+#EXTINF:-1 group-title="France2-PREMIUM",NATIONAL GEO
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/281.ts
+#EXTINF:-1 group-title="France2-PREMIUM",NATIONAL GEO WILD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/280.ts
+#EXTINF:-1 group-title="France2-PREMIUM",DISCOVERY HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/285.ts
+#EXTINF:-1 group-title="France2-PREMIUM",DISCOVERY ID
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/283.ts
+#EXTINF:-1 group-title="France2-PREMIUM",DISCOVERY SCIENCE  HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/284.ts
+#EXTINF:-1 group-title="France2-PREMIUM",DISCOVERY FAMILY FR
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1338.ts
+#EXTINF:-1 group-title="France2-PREMIUM",PLANETE  HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/279.ts
+#EXTINF:-1 group-title="France2-PREMIUM",PLANETE  CI
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/278.ts
+#EXTINF:-1 group-title="France2-PREMIUM",PLANETE  A&E HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/277.ts
+#EXTINF:-1 group-title="France2-PREMIUM",USHUAIA TV
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/286.ts
+#EXTINF:-1 group-title="France2-PREMIUM",VOYAGE
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/271.ts
+#EXTINF:-1 group-title="France2-PREMIUM",HISTOIRE
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/287.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TOUTE L'HISTOIRE
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/273.ts
+#EXTINF:-1 group-title="France2-PREMIUM",ANIMAUX HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/276.ts
+#EXTINF:-1 group-title="France2-PREMIUM",SCIENCES & VIE
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/275.ts
+#EXTINF:-1 group-title="France2-PREMIUM",SEASONS
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/274.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TREK HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/272.ts
+#EXTINF:-1 group-title="France2-PREMIUM",RMC DECOUVERTE
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/282.ts
+#EXTINF:-1 group-title="France2-PREMIUM",DISNEY JUNIOR
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/298.ts
+#EXTINF:-1 group-title="France2-PREMIUM",DISNEY XD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/297.ts
+#EXTINF:-1 group-title="France2-PREMIUM",DISNEY CHANNEL
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/300.ts
+#EXTINF:-1 group-title="France2-PREMIUM",DISNEY CINEMA
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/299.ts
+#EXTINF:-1 group-title="France2-PREMIUM",PIWI
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/293.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TIJI
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/290.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOOMERANG HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/305.ts
+#EXTINF:-1 group-title="France2-PREMIUM",NICKELODEON
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/304.ts
+#EXTINF:-1 group-title="France2-PREMIUM",NICKELODEON TEEN
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/303.ts
+#EXTINF:-1 group-title="France2-PREMIUM",NICKELODEON JR
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/302.ts
+#EXTINF:-1 group-title="France2-PREMIUM",ZOUZOU TV
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/289.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOING
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/306.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CANAL J HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/307.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CARTOON NETWORK
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/301.ts
+#EXTINF:-1 group-title="France2-PREMIUM",GAME ONE
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/296.ts
+#EXTINF:-1 group-title="France2-PREMIUM",GULLI HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/295.ts
+#EXTINF:-1 group-title="France2-PREMIUM",MANGAS HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/294.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TELETOON
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/291.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TOONAMI
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/292.ts
+#EXTINF:-1 group-title="France2-PREMIUM",|FR| LA MAISON DE MICKEY TV
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1466.ts
+#EXTINF:-1 group-title="France2-PREMIUM",|FR| OUI OUI / MASHA & MICHKA
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1465.ts
+#EXTINF:-1 group-title="France2-PREMIUM",|FR| PEPPA PIG TV
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1467.ts
+#EXTINF:-1 group-title="France2-PREMIUM",|FR| PITCHOUN FHD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1463.ts
+#EXTINF:-1 group-title="France2-PREMIUM",|FR| J ONE HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1464.ts
+#EXTINF:-1 group-title="France2-PREMIUM",AB MOTEURS HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/309.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CHASSE ET PECHE
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/317.ts
+#EXTINF:-1 group-title="France2-PREMIUM",EQUIDIA LIFE HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/316.ts
+#EXTINF:-1 group-title="France2-PREMIUM",EQUIDIA LIVE HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/315.ts
+#EXTINF:-1 group-title="France2-PREMIUM",EUROSPORT 1
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/314.ts
+#EXTINF:-1 group-title="France2-PREMIUM",EUROSPORT 2
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/313.ts
+#EXTINF:-1 group-title="France2-PREMIUM",FOOT  24/24
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/319.ts
+#EXTINF:-1 group-title="France2-PREMIUM",MOTORS TV
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/310.ts
+#EXTINF:-1 group-title="France2-PREMIUM",NRJ 12 HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/343.ts
+#EXTINF:-1 group-title="France2-PREMIUM",M6 Music
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/342.ts
+#EXTINF:-1 group-title="France2-PREMIUM",MCM
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/341.ts
+#EXTINF:-1 group-title="France2-PREMIUM",MTV BASE
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/339.ts
+#EXTINF:-1 group-title="France2-PREMIUM", MTV DANCE
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/340.ts
+#EXTINF:-1 group-title="France2-PREMIUM", MTV Rocks
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/338.ts
+#EXTINF:-1 group-title="France2-PREMIUM", NRJ HITS
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/336.ts
+#EXTINF:-1 group-title="France2-PREMIUM", VIRGIN HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/337.ts
+#EXTINF:-1 group-title="France2-PREMIUM",A LA CARTE 01
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/352.ts
+#EXTINF:-1 group-title="France2-PREMIUM",A LA CARTE 02
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/351.ts
+#EXTINF:-1 group-title="France2-PREMIUM",A LA CARTE 03
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/350.ts
+#EXTINF:-1 group-title="France2-PREMIUM",A LA CARTE 04
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/349.ts
+#EXTINF:-1 group-title="France2-PREMIUM",A LA CARTE 05
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/348.ts
+#EXTINF:-1 group-title="France2-PREMIUM",A LA CARTE 06
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/347.ts
+#EXTINF:-1 group-title="France2-PREMIUM",A LA CARTE 07
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/346.ts
+#EXTINF:-1 group-title="France2-PREMIUM",A LA CARTE 08
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/345.ts
+#EXTINF:-1 group-title="France2-PREMIUM",OCS GO CINE 1
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/374.ts
+#EXTINF:-1 group-title="France2-PREMIUM",OCS GO CINE 2
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/373.ts
+#EXTINF:-1 group-title="France2-PREMIUM",OCS GO CINE 3
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/372.ts
+#EXTINF:-1 group-title="France2-PREMIUM",OCS GO CINE 4
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/371.ts
+#EXTINF:-1 group-title="France2-PREMIUM",OCS GO CINE 5
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/370.ts
+#EXTINF:-1 group-title="France2-PREMIUM",OCS GO CINE 6
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/369.ts
+#EXTINF:-1 group-title="France2-PREMIUM",OCS GO CINE 7
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/368.ts
+#EXTINF:-1 group-title="France2-PREMIUM", Orange Cine 1
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/382.ts
+#EXTINF:-1 group-title="France2-PREMIUM", Orange Cine 2
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/381.ts
+#EXTINF:-1 group-title="France2-PREMIUM", Orange Cine 3
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/380.ts
+#EXTINF:-1 group-title="France2-PREMIUM",Orange Cine 4
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/379.ts
+#EXTINF:-1 group-title="France2-PREMIUM",Orange Cine 5
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/378.ts
+#EXTINF:-1 group-title="France2-PREMIUM",Orange Cine 6
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/377.ts
+#EXTINF:-1 group-title="France2-PREMIUM",Orange Cine 7
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/376.ts
+#EXTINF:-1 group-title="France2-PREMIUM", Orange Cine 8
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/375.ts
+#EXTINF:-1 group-title="France2-PREMIUM",OCS GO CINE 8
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/367.ts
+#EXTINF:-1 group-title="France2-PREMIUM",LA UNE HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/397.ts
+#EXTINF:-1 group-title="France2-PREMIUM",La Deux
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/399.ts
+#EXTINF:-1 group-title="France2-PREMIUM",La trois
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/398.ts
+#EXTINF:-1 group-title="France2-PREMIUM",PLUG RTL
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/396.ts
+#EXTINF:-1 group-title="France2-PREMIUM",RTL TVI HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/389.ts
+#EXTINF:-1 group-title="France2-PREMIUM",RTS Deux
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/385.ts
+#EXTINF:-1 group-title="France2-PREMIUM",RTS Un
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/384.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CLUB RTL
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/388.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CINEMA 1 HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/395.ts
+#EXTINF:-1 group-title="France2-PREMIUM",CINEMA 2 HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/394.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TCM HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/473.ts
+#EXTINF:-1 group-title="France2-PREMIUM",NO-LIFE
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1353.ts
+#EXTINF:-1 group-title="France2-PREMIUM",TRACE URBAN
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1354.ts
+#EXTINF:-1 group-title="France2-PREMIUM",ITELE
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1369.ts
+#EXTINF:-1 group-title="France2-PREMIUM",FRANCE-INFO
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1368.ts
+#EXTINF:-1 group-title="France2-PREMIUM",LCI
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1367.ts
+#EXTINF:-1 group-title="France2-PREMIUM",ALSACE
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1363.ts
+#EXTINF:-1 group-title="France2-PREMIUM",EURO-NEWS
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1362.ts
+#EXTINF:-1 group-title="France2-PREMIUM",I24
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1361.ts
+#EXTINF:-1 group-title="France2-PREMIUM",LUCKY-JACK
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1360.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BRAVA
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1358.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BFM-BUSINESS
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1357.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BFMTV
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1356.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BX1 HD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1766.ts
+#EXTINF:-1 group-title="France2-PREMIUM",|FR|  GENERATIONS TV FHD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1462.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOX_OFFICE.1
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2297.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOX_OFFICE.2
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2296.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOX_OFFICE.3
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2295.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOX_OFFICE.4
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2294.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOX_OFFICE.5
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2293.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOX_OFFICE.6
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2292.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOX_OFFICE.7
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2291.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOX_OFFICE.9
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2290.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOX_OFFICE.11
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2289.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOX_OFFICE.12
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2288.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOX_OFFICE.13
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2287.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOX_OFFICE.14
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2286.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOX_OFFICE.15
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2285.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOX_OFFICE.16
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2284.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOX_OFFICE.17
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2283.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOX_OFFICE.18
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2282.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOX_OFFICE.20
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2281.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOX_OFFICE.21
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2280.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOX_OFFICE.22
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2279.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOX_OFFICE.23
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2277.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOX_OFFICE.24
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2278.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BOX_OFFICE.25
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/2276.ts
+#EXTINF:-1 group-title="France2-PREMIUM",|FR| BEIN SPORT 1 SD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1461.ts
+#EXTINF:-1 group-title="France2-PREMIUM",|FR| BEIN SPORT 2 SD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1460.ts
+#EXTINF:-1 group-title="France2-PREMIUM",|FR| BEIN SPORT 3 SD
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/1459.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN SPORT 1 FR
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/334.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN SPORT 2 FR
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/333.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN SPORT 3 FR
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/332.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN MAX 4
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/331.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN MAX 5
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/330.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN MAX 6
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/329.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN MAX 7
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/328.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN MAX 8
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/327.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN MAX  9
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/326.ts
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN MAX  10
+http://37.187.28.32:7474/live/prosatfree45/XqALPBh4IX/325.ts
 
 
 
@@ -5573,226 +5640,230 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Germany2-PREMIUM",
 
-#EXTINF:-1 group-title="Germany2-PREMIUM",ORF 1 HD
-http://hd.007iptv.com:8000/live/eda/123456/627.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",ALEX BERLIN
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8328.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",ARD 1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8327.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",DW TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8331.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",BOOMERANG
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8478.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",BR HD LIVE
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10729.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Das Erste
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10731.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Der Aktionär TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20526.m3u8
 #EXTINF:-1 group-title="Germany2-PREMIUM",ORF 2 HD
-http://hd.007iptv.com:8000/live/eda/123456/626.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",ZDF
-http://hd.007iptv.com:8000/live/eda/123456/571.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",ANIXE HD
-http://hd.007iptv.com:8000/live/eda/123456/661.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Arte HD
-http://hd.007iptv.com:8000/live/eda/123456/660.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Das Erste HD
-http://hd.007iptv.com:8000/live/eda/123456/654.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",AXN HD
-http://hd.007iptv.com:8000/live/eda/123456/659.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",ProSieben HD
-http://hd.007iptv.com:8000/live/eda/123456/622.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",RTL HD
-http://hd.007iptv.com:8000/live/eda/123456/618.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",RTL 2 HD
-http://hd.007iptv.com:8000/live/eda/123456/620.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",RTL Crime HD
-http://hd.007iptv.com:8000/live/eda/123456/619.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",RTL Living HD
-http://hd.007iptv.com:8000/live/eda/123456/617.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",RTL Passion
-http://hd.007iptv.com:8000/live/eda/123456/616.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",RTLNITRO HD
-http://hd.007iptv.com:8000/live/eda/123456/615.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",RTLplus
-http://hd.007iptv.com:8000/live/eda/123456/614.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sat.1 HD
-http://hd.007iptv.com:8000/live/eda/123456/613.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sixx HD
-http://hd.007iptv.com:8000/live/eda/123456/612.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky 1 HD
-http://hd.007iptv.com:8000/live/eda/123456/611.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",KABEL eins HD
-http://hd.007iptv.com:8000/live/eda/123456/637.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",n-tv
-http://hd.007iptv.com:8000/live/eda/123456/633.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",3sat
-http://hd.007iptv.com:8000/live/eda/123456/663.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",=== Sky Deutschland Kino ===
-http://hd.007iptv.com:8000/live/eda/123456/5393.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Arts HD
-http://hd.007iptv.com:8000/live/eda/123456/610.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",SKY ATLANTIC HD
-http://hd.007iptv.com:8000/live/eda/123456/671.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Cinema 24 HD
-http://hd.007iptv.com:8000/live/eda/123456/670.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Cinema 1 HD
-http://hd.007iptv.com:8000/live/eda/123456/669.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Cinema Action HD
-http://hd.007iptv.com:8000/live/eda/123456/668.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",SKY Cinema Comedy HD
-http://hd.007iptv.com:8000/live/eda/123456/667.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Cinema Family HD
-http://hd.007iptv.com:8000/live/eda/123456/666.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Cinema Emotion
-http://hd.007iptv.com:8000/live/eda/123456/609.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Cinema HD
-http://hd.007iptv.com:8000/live/eda/123456/608.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Cinema Hits
-http://hd.007iptv.com:8000/live/eda/123456/607.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Cinema Nostalgie
-http://hd.007iptv.com:8000/live/eda/123456/606.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Krimi
-http://hd.007iptv.com:8000/live/eda/123456/605.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",SYFY HD
-http://hd.007iptv.com:8000/live/eda/123456/578.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Tele 5
-http://hd.007iptv.com:8000/live/eda/123456/577.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",VOX HD
-http://hd.007iptv.com:8000/live/eda/123456/573.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",WDR HD
-http://hd.007iptv.com:8000/live/eda/123456/572.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",13Th Street HD
-http://hd.007iptv.com:8000/live/eda/123456/677.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Fox HD
-http://hd.007iptv.com:8000/live/eda/123456/642.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Romance TV
-http://hd.007iptv.com:8000/live/eda/123456/621.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sony TV HD
-http://hd.007iptv.com:8000/live/eda/123456/581.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",TNT Film HD
-http://hd.007iptv.com:8000/live/eda/123456/664.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",TNT Comedy HD
-http://hd.007iptv.com:8000/live/eda/123456/576.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",TNT Serie
-http://hd.007iptv.com:8000/live/eda/123456/575.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",=== Sky Deutschland Sports ===
-http://hd.007iptv.com:8000/live/eda/123456/5392.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sportdigital HD
-http://hd.007iptv.com:8000/live/eda/123456/580.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sport 1 HD
-http://hd.007iptv.com:8000/live/eda/123456/665.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport Austria
-http://hd.007iptv.com:8000/live/eda/123456/593.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport News HD
-http://hd.007iptv.com:8000/live/eda/123456/582.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport 1 HD
-http://hd.007iptv.com:8000/live/eda/123456/604.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport 2 HD
-http://hd.007iptv.com:8000/live/eda/123456/601.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport 3
-http://hd.007iptv.com:8000/live/eda/123456/600.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport 4
-http://hd.007iptv.com:8000/live/eda/123456/599.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport 5
-http://hd.007iptv.com:8000/live/eda/123456/598.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport 6
-http://hd.007iptv.com:8000/live/eda/123456/597.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport 7
-http://hd.007iptv.com:8000/live/eda/123456/596.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport 8
-http://hd.007iptv.com:8000/live/eda/123456/595.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport 9
-http://hd.007iptv.com:8000/live/eda/123456/594.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport 10
-http://hd.007iptv.com:8000/live/eda/123456/603.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport 11
-http://hd.007iptv.com:8000/live/eda/123456/602.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport Bundesliga 1
-http://hd.007iptv.com:8000/live/eda/123456/592.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport Bundesliga 2
-http://hd.007iptv.com:8000/live/eda/123456/590.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport Bundesliga 3
-http://hd.007iptv.com:8000/live/eda/123456/589.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport Bundesliga 4
-http://hd.007iptv.com:8000/live/eda/123456/588.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport Bundesliga 5
-http://hd.007iptv.com:8000/live/eda/123456/587.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport Bundesliga 6
-http://hd.007iptv.com:8000/live/eda/123456/586.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport Bundesliga 7
-http://hd.007iptv.com:8000/live/eda/123456/585.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport Bundesliga 8
-http://hd.007iptv.com:8000/live/eda/123456/584.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport Bundesliga 9
-http://hd.007iptv.com:8000/live/eda/123456/583.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Sky Sport Bundesliga 10
-http://hd.007iptv.com:8000/live/eda/123456/591.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Eurosport 1 HD
-http://hd.007iptv.com:8000/live/eda/123456/650.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Eurosport 2 HD
-http://hd.007iptv.com:8000/live/eda/123456/649.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",FC Bayern TV HD
-http://hd.007iptv.com:8000/live/eda/123456/648.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Motorvision TV
-http://hd.007iptv.com:8000/live/eda/123456/634.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",=== Kinder ===
-http://hd.007iptv.com:8000/live/eda/123456/5395.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Disney Cinemagic HD
-http://hd.007iptv.com:8000/live/eda/123456/676.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Disney Junior HD
-http://hd.007iptv.com:8000/live/eda/123456/675.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Disney XD HD
-http://hd.007iptv.com:8000/live/eda/123456/674.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Boomerang
-http://hd.007iptv.com:8000/live/eda/123456/656.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Cartoon Network
-http://hd.007iptv.com:8000/live/eda/123456/655.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Nickelodeon HD
-http://hd.007iptv.com:8000/live/eda/123456/628.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Junior
-http://hd.007iptv.com:8000/live/eda/123456/638.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",KIKA HD
-http://hd.007iptv.com:8000/live/eda/123456/636.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",SUPER RTL HD
-http://hd.007iptv.com:8000/live/eda/123456/579.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",DMAX
-http://hd.007iptv.com:8000/live/eda/123456/651.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",TOGGO plus
-http://hd.007iptv.com:8000/live/eda/123456/574.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Disney Channel HD
-http://hd.007iptv.com:8000/live/eda/123456/652.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",FILM CLUB HD 1
-http://hd.007iptv.com:8000/live/eda/123456/647.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",FILM CLUB HD 2
-http://hd.007iptv.com:8000/live/eda/123456/646.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",FILM CLUB HD 3
-http://hd.007iptv.com:8000/live/eda/123456/645.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",FILM CLUB HD 4
-http://hd.007iptv.com:8000/live/eda/123456/644.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",=== Sky Deutschland Kultur ===
-http://hd.007iptv.com:8000/live/eda/123456/5394.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Animal Planet HD
-http://hd.007iptv.com:8000/live/eda/123456/662.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Nat Geo HD
-http://hd.007iptv.com:8000/live/eda/123456/673.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",NAT GEO WILD HD
-http://hd.007iptv.com:8000/live/eda/123456/672.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Discovery Channel HD
-http://hd.007iptv.com:8000/live/eda/123456/653.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",History HD
-http://hd.007iptv.com:8000/live/eda/123456/640.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Planet HD
-http://hd.007iptv.com:8000/live/eda/123456/624.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",NDR HD
-http://hd.007iptv.com:8000/live/eda/123456/629.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Phoenix
-http://hd.007iptv.com:8000/live/eda/123456/625.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Pro7 MAXX HD
-http://hd.007iptv.com:8000/live/eda/123456/623.m3u8
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20236.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",TRP 1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22105.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",RFH TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22097.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Deutsches Musik Fernsehen
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10728.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",TV Mittelrhein
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22098.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Regio TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22108.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",TV Halle
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22100.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",PUNKTum TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22099.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",WMZ TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22106.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",EV1.TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22101.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",FAMILY TV
+http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/index_500_av-p.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",HEART TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20525.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Hope Channel
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22102.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Isar TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22103.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",juwelo
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8336.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",KabelJournal TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20523.m3u8
 #EXTINF:-1 group-title="Germany2-PREMIUM",EuroNews
-http://hd.007iptv.com:8000/live/eda/123456/5359.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Heimatkanal
-http://hd.007iptv.com:8000/live/eda/123456/641.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Jukebox
-http://hd.007iptv.com:8000/live/eda/123456/639.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Deluxe Music
-http://hd.007iptv.com:8000/live/eda/123456/5362.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Kinowelt TV
-http://hd.007iptv.com:8000/live/eda/123456/635.m3u8
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22110.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Dresden Fernsehen
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10721.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Leipzig Fernsehen
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10722.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",HALLE
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14148.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",HR HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14251.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",NDR HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11650.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",OK MAGDEBURG
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14150.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",OK SALZWEDEL
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14548.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",SALZWEDEL
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14151.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Hamburg 1 TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15141.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Sat_1_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15140.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Ikono TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15139.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",VOX_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15128.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",ZDFHD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15129.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",SyFy_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15136.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",13th Street HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15170.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",BIZZ
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15169.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",RWD HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15167.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Das_Erste_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15166.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",RIC
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15165.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",OK TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15164.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Disney_Junior_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15162.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",DMAX_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15161.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",WTV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15172.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",TV BERLIN
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15171.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",4 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15160.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",HSE 24 Extra TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15157.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",National Geographic
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15156.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",RADIO 21
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15155.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Marseburg
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14934.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",NationalGeographic_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15152.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Prosieben_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15150.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Nice TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15149.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",RTL 2 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15147.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",RTL HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15145.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",RTL_Living_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15144.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",RTL Nitro HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15143.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",EO TV HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15142.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Blizz TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15185.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Welt der Wunder TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15184.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",SkyBundesliga_HD_1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15173.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",SkyCinema_1_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15183.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",TV 38
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15182.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",SkyComedy
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15181.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",SkyEmotion
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15180.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",1-2-3 TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15179.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",SkyKrimi
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15178.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",SkyNostalgie
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15177.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",SkySport_News_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15176.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Nahe TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15138.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",EWTN
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15137.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Bibel TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15135.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Pearl TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15134.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Health TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15133.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",TNT_Serie_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15131.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Ran 1 TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15130.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",TVA Aktuelle
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13611.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",WDR HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12245.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",1_2_3  TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19065.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Allgau TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19066.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",BADEN TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19067.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Der Aktionar TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19068.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Elbekanal
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19071.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",EOTV   HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19072.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Franken Fernsehen  HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19073.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",FOLKS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19075.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",BLK
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20522.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",BR Fernsehen
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20527.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Chemnitz Fernsehen
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22109.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",ISAR TV HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19076.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",ORF 1 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19077.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",MDF  1  HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19078.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Munchen TV  HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19079.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Noa 4 Hamburg
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19081.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Noa 4 Norderstedt
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19080.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Oberpfalz TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19082.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Offener Kanal Magdeburg
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19083.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",OKD TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19084.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",QVC
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19093.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Rheinmain TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19086.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",RFO
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19085.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",TV Oberfranken
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19089.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",TV M
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19090.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",TVA Ostbayern
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19088.m3u8
 #EXTINF:-1 group-title="Germany2-PREMIUM",Welt der Wunder
-http://hd.007iptv.com:8000/live/eda/123456/5341.m3u8
-#EXTINF:-1 group-title="Germany2-PREMIUM",Auto Motor Sport HD
-http://hd.007iptv.com:8000/live/eda/123456/5338.m3u8
-
-
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19092.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",QVC Beauty
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10724.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Sachsen Fernsehen
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10726.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",Tv Touring
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14268.m3u8
+#EXTINF:-1 group-title="Germany2-PREMIUM",tagesschau24
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8872.m3u8
 
 
 
@@ -5817,285 +5888,285 @@ http://hd.007iptv.com:8000/live/eda/123456/5338.m3u8
 #EXTINF:-1 group-title="Germany3-PREMIUM",
 
 #EXTINF:-1 group-title="Germany3-PREMIUM",13TH STREET
-http://54.37.255.204:9977/live/nicolas/iptv/23423.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23423.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",13TH STREET HD
-http://54.37.255.204:9977/live/nicolas/iptv/23424.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23424.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",3SAT
-http://54.37.255.204:9977/live/nicolas/iptv/23339.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23339.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",A&E
-http://54.37.255.204:9977/live/nicolas/iptv/23338.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23338.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",ANIXE SD
-http://54.37.255.204:9977/live/nicolas/iptv/23337.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23337.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",BEATE-UHSE.TV
-http://54.37.255.204:9977/live/nicolas/iptv/23336.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23336.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",BOOMERANG
-http://54.37.255.204:9977/live/nicolas/iptv/23343.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23343.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",CARTOON NETWORK
-http://54.37.255.204:9977/live/nicolas/iptv/23342.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23342.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",CHANNEL21
-http://54.37.255.204:9977/live/nicolas/iptv/23335.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23335.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",CLASSICA
-http://54.37.255.204:9977/live/nicolas/iptv/23334.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23334.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",COMEDY CENTRAL
-http://54.37.255.204:9977/live/nicolas/iptv/23333.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23333.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",DAS ERSTE
-http://54.37.255.204:9977/live/nicolas/iptv/23332.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23332.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",DELUXE MUSIC
-http://54.37.255.204:9977/live/nicolas/iptv/23331.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23331.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",DISCOVERY CHANNEL
-http://54.37.255.204:9977/live/nicolas/iptv/23352.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23352.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",DISCOVERY HD
-http://54.37.255.204:9977/live/nicolas/iptv/23353.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23353.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",DISNEY CHANNEL
-http://54.37.255.204:9977/live/nicolas/iptv/23348.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23348.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",DISNEY CINEMAGIC
-http://54.37.255.204:9977/live/nicolas/iptv/23346.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23346.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",DISNEY CINEMAGIC HD
-http://54.37.255.204:9977/live/nicolas/iptv/23347.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23347.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",DISNEY JUNIOR
-http://54.37.255.204:9977/live/nicolas/iptv/23344.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23344.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",DISNEY JUNIOR HD
-http://54.37.255.204:9977/live/nicolas/iptv/23345.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23345.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",DISNEY XD
-http://54.37.255.204:9977/live/nicolas/iptv/23349.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23349.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",DMAX HD
-http://54.37.255.204:9977/live/nicolas/iptv/23330.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23330.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",E! ENTERTAINM HD
-http://54.37.255.204:9977/live/nicolas/iptv/23350.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23350.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",EOTV
-http://54.37.255.204:9977/live/nicolas/iptv/23329.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23329.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",EURONEWS GERMAN SD
-http://54.37.255.204:9977/live/nicolas/iptv/23328.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23328.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",EUROSPORT 1 HD
-http://54.37.255.204:9977/live/nicolas/iptv/23360.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23360.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",EUROSPORT 1 SD
-http://54.37.255.204:9977/live/nicolas/iptv/23359.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23359.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",EUROSPORT 2 HD XTRA
-http://54.37.255.204:9977/live/nicolas/iptv/23358.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23358.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",FAMILY TV
-http://54.37.255.204:9977/live/nicolas/iptv/23327.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23327.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",FOX SERIE
-http://54.37.255.204:9977/live/nicolas/iptv/23429.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23429.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",HISTORY HD
-http://54.37.255.204:9977/live/nicolas/iptv/23351.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23351.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",JUNIOR
-http://54.37.255.204:9977/live/nicolas/iptv/23341.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23341.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",kABEL EINS HD
-http://54.37.255.204:9977/live/nicolas/iptv/23326.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23326.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",KIKA
-http://54.37.255.204:9977/live/nicolas/iptv/23325.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23325.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",KINOWELT TV
-http://54.37.255.204:9977/live/nicolas/iptv/23324.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23324.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",MOTORVISION TV
-http://54.37.255.204:9977/live/nicolas/iptv/23323.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23323.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",MTV HD
-http://54.37.255.204:9977/live/nicolas/iptv/23438.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23438.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",N-TV
-http://54.37.255.204:9977/live/nicolas/iptv/23322.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23322.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",N24 DOKU
-http://54.37.255.204:9977/live/nicolas/iptv/23321.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23321.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",NAT GEO WILD
-http://54.37.255.204:9977/live/nicolas/iptv/23356.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23356.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",NAT GEO WILD HD
-http://54.37.255.204:9977/live/nicolas/iptv/23357.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23357.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",NATIONAL GEOGRAPHIC
-http://54.37.255.204:9977/live/nicolas/iptv/23354.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23354.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",NATIONAL GEOGRAPHIC HD
-http://54.37.255.204:9977/live/nicolas/iptv/23355.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23355.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",NICKELODEON AT
-http://54.37.255.204:9977/live/nicolas/iptv/23320.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23320.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",NITRO
-http://54.37.255.204:9977/live/nicolas/iptv/23448.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23448.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",NITRO HD
-http://54.37.255.204:9977/live/nicolas/iptv/23449.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23449.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",ONE HD
-http://54.37.255.204:9977/live/nicolas/iptv/23319.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23319.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",PRO7 HD
-http://54.37.255.204:9977/live/nicolas/iptv/23318.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23318.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",PRO7 MAXX HD
-http://54.37.255.204:9977/live/nicolas/iptv/23315.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23315.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",PROSIEBEN
-http://54.37.255.204:9977/live/nicolas/iptv/23314.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23314.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",ROMANCE TV
-http://54.37.255.204:9977/live/nicolas/iptv/23313.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23313.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",RTL
-http://54.37.255.204:9977/live/nicolas/iptv/23437.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23437.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",RTL CRIME
-http://54.37.255.204:9977/live/nicolas/iptv/23433.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23433.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",RTL HD
-http://54.37.255.204:9977/live/nicolas/iptv/23436.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23436.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",RTL LIVING
-http://54.37.255.204:9977/live/nicolas/iptv/23430.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23430.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",RTL PASSION
-http://54.37.255.204:9977/live/nicolas/iptv/23432.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23432.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",RTL PLUS
-http://54.37.255.204:9977/live/nicolas/iptv/23431.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23431.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",RTL2
-http://54.37.255.204:9977/live/nicolas/iptv/23434.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23434.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",RTL2 HD
-http://54.37.255.204:9977/live/nicolas/iptv/23435.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23435.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SAT 1 GOLD HD
-http://54.37.255.204:9977/live/nicolas/iptv/23440.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23440.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SAT 1 HD
-http://54.37.255.204:9977/live/nicolas/iptv/23439.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23439.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY ATLANTIC
-http://54.37.255.204:9977/live/nicolas/iptv/23411.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23411.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY ATLANTIC HD
-http://54.37.255.204:9977/live/nicolas/iptv/23412.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23412.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY CINEMA
-http://54.37.255.204:9977/live/nicolas/iptv/23417.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23417.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY CINEMA  1
-http://54.37.255.204:9977/live/nicolas/iptv/23418.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23418.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY CINEMA  1 HD
-http://54.37.255.204:9977/live/nicolas/iptv/23419.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23419.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY CINEMA  24
-http://54.37.255.204:9977/live/nicolas/iptv/23415.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23415.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY CINEMA  24 HD
-http://54.37.255.204:9977/live/nicolas/iptv/23416.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23416.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY CINEMA ACTION
-http://54.37.255.204:9977/live/nicolas/iptv/23413.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23413.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY CINEMA ACTION HD
-http://54.37.255.204:9977/live/nicolas/iptv/23414.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23414.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY CINEMA ANIMATION HD
-http://54.37.255.204:9977/live/nicolas/iptv/23410.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23410.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY CINEMA COMEDY
-http://54.37.255.204:9977/live/nicolas/iptv/23409.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23409.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY CINEMA EMOTION
-http://54.37.255.204:9977/live/nicolas/iptv/23408.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23408.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY CINEMA FAMILY
-http://54.37.255.204:9977/live/nicolas/iptv/23407.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23407.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY CINEMA HD
-http://54.37.255.204:9977/live/nicolas/iptv/23406.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23406.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY CINEMA HITS
-http://54.37.255.204:9977/live/nicolas/iptv/23404.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23404.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY CINEMA HITS HD
-http://54.37.255.204:9977/live/nicolas/iptv/23405.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23405.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY CINEMA NOSTALGIE
-http://54.37.255.204:9977/live/nicolas/iptv/23403.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23403.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY KRIMI
-http://54.37.255.204:9977/live/nicolas/iptv/23402.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23402.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT 1
-http://54.37.255.204:9977/live/nicolas/iptv/23398.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23398.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT 1 HD
-http://54.37.255.204:9977/live/nicolas/iptv/23399.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23399.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT 10 ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23382.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23382.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT 11 ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23380.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23380.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT 11 HD ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23381.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23381.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT 2
-http://54.37.255.204:9977/live/nicolas/iptv/23396.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23396.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT 2 HD
-http://54.37.255.204:9977/live/nicolas/iptv/23397.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23397.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT 3 ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23395.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23395.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT 3 HD ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23394.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23394.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT 4 ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23393.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23393.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT 4 HD ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23392.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23392.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT 5
-http://54.37.255.204:9977/live/nicolas/iptv/23391.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23391.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT 5 ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23390.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23390.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT 5 HD
-http://54.37.255.204:9977/live/nicolas/iptv/23389.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23389.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT 6 ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23388.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23388.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT 6 HD ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23387.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23387.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT 7 ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23386.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23386.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT 7 HD ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23385.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23385.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT 8 ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23384.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23384.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT 9 ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23383.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23383.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT AUSTRIA
-http://54.37.255.204:9977/live/nicolas/iptv/23379.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23379.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT BUNDESLIGA 1
-http://54.37.255.204:9977/live/nicolas/iptv/23378.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23378.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT BUNDESLIGA 1 HD
-http://54.37.255.204:9977/live/nicolas/iptv/23377.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23377.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT BUNDESLIGA 10 ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23363.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23363.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT BUNDESLIGA 10 HD ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23362.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23362.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT BUNDESLIGA 2 ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23376.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23376.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT BUNDESLIGA 2 HD ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23375.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23375.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT BUNDESLIGA 3 ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23374.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23374.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT BUNDESLIGA 3 HD ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23373.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23373.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT BUNDESLIGA 4 ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23372.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23372.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT BUNDESLIGA 4 HD ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23371.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23371.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT BUNDESLIGA 5 ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23370.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23370.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT BUNDESLIGA 5 HD ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23369.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23369.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT BUNDESLIGA 6 ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23368.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23368.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT BUNDESLIGA 6 HD ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23367.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23367.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT BUNDESLIGA 7 ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23366.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23366.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT BUNDESLIGA 8 ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23365.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23365.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT BUNDESLIGA 9 ( Match time )
-http://54.37.255.204:9977/live/nicolas/iptv/23364.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23364.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT NEWS HD
-http://54.37.255.204:9977/live/nicolas/iptv/23401.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23401.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SKY SPORT NEWS SD
-http://54.37.255.204:9977/live/nicolas/iptv/23400.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23400.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SPIEGEL GESCHICHTE
-http://54.37.255.204:9977/live/nicolas/iptv/23312.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23312.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SPORT1  HD
-http://54.37.255.204:9977/live/nicolas/iptv/23361.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23361.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SUPER RTL HD
-http://54.37.255.204:9977/live/nicolas/iptv/23340.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23340.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SYFY
-http://54.37.255.204:9977/live/nicolas/iptv/23421.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23421.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",SYFY HD
-http://54.37.255.204:9977/live/nicolas/iptv/23422.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23422.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",TAGESSCHAU24
-http://54.37.255.204:9977/live/nicolas/iptv/23311.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23311.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",TLC
-http://54.37.255.204:9977/live/nicolas/iptv/23442.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23442.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",TLC HD
-http://54.37.255.204:9977/live/nicolas/iptv/23441.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23441.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",TNT COMEDY HD
-http://54.37.255.204:9977/live/nicolas/iptv/23428.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23428.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",TNT FILM
-http://54.37.255.204:9977/live/nicolas/iptv/23427.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23427.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",TNT SERIE
-http://54.37.255.204:9977/live/nicolas/iptv/23425.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23425.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",TNT SERIE HD
-http://54.37.255.204:9977/live/nicolas/iptv/23426.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23426.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",TOGGO PLUS
-http://54.37.255.204:9977/live/nicolas/iptv/23310.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23310.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",UNIVERSAL HD
-http://54.37.255.204:9977/live/nicolas/iptv/23420.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23420.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",VOX
-http://54.37.255.204:9977/live/nicolas/iptv/23316.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23316.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",VOX HD
-http://54.37.255.204:9977/live/nicolas/iptv/23317.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23317.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",ZDF
-http://54.37.255.204:9977/live/nicolas/iptv/23445.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23445.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",ZDF INFO
-http://54.37.255.204:9977/live/nicolas/iptv/23444.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23444.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",ZDF NEO
-http://54.37.255.204:9977/live/nicolas/iptv/23443.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23443.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",ZEE ONE
-http://54.37.255.204:9977/live/nicolas/iptv/23446.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23446.ts
 #EXTINF:-1 group-title="Germany3-PREMIUM",ZEE ONE HD
-http://54.37.255.204:9977/live/nicolas/iptv/23447.m3u8
+http://54.37.255.204:9977/live/nicolas/iptv/23447.ts
 
 
 
@@ -12629,46 +12700,7 @@ http://www.elahmad.com/tv/m3u8/bahraintv.m3u8?id=bahrain_tv
 
 #EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",
 
-#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",ART CINEMA
-http://130.185.144.110:8081/AR/ARTCINEMA/playlist.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",ART AFLAm 1
-http://130.185.144.110:8081/AR/ARTAFLAM1/playlist.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",ART AFLAm 2
-http://130.185.144.110:8081/AR/ARTAFLAM2/playlist.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC Drama HD
-http://130.185.144.110:8081/AR/MBCDRAMA/playlist.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",CBC Drama
-http://130.185.144.110:8081/AR/CBCDRAMA/playlist.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",CBC Sofra
-http://130.185.144.110:8081/AR/CBCSOFRA/playlist.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",ROTANA Drama
-http://130.185.144.110:8081/AR/ROTANAMASSRIA/playlist.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",ROTANA Cinema
-http://130.185.144.110:8081/AR/ROTANACINEMA/playlist.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MELODY CLASSIC
-http://130.185.144.110:8081/AR/MELODYCLASSIC/playlist.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Nile CINEMA
-http://130.185.144.110:8081/AR/NILECINEMA/playlist.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Nile comedy
-http://130.185.144.110:8081/AR/NILECOMEDY/playlist.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Nile life
-http://130.185.144.110:8081/AR/NILELIFE/playlist.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",nile drama
-http://130.185.144.110:8081/AR/NILEDRAMA/playlist.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",ART HEKAYAT 1
-http://130.185.144.110:8081/AR/ARTHEKAYAT1/playlist.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",ART HEKAYAT 2
-http://130.185.144.110:8081/AR/ARTHEKAYAT2/playlist.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Rotana Khalijia
-http://130.185.144.110:8081/AR/ROTANAKHALIJIA/playlist.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Rotana clip
-http://130.185.144.110:8081/AR/ROTANACLIP/playlist.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",ROTANA music
-http://130.185.144.110:8081/AR/ROTANAMUSIC/playlist.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC Action
-http://130.185.144.110:8081/AR/MBCACTION/playlist.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC Bollywood
-http://130.185.144.110:8081/AR/MBCBOLLYWOOD/playlist.m3u8
+
 
 
 
