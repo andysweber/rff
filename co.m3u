@@ -1324,43 +1324,41 @@ http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34b
 http://..........
 
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/bbc1.jpg",BBC 1 
-https://easyview.eu/bbc-one/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/cbeebies/
+https://easyview.eu/bbc-one/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/bbc1/
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/BBC_Two_HD.jpg",BBC 2
-https://easyview.eu/bbc-two/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/cbeebies/
+https://easyview.eu/bbc-two/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/bbc2/
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/bbc4-logo-400x284.jpg",BBC 4
-https://easyview.eu/bbc-four/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/cbeebies/
+https://easyview.eu/bbc-four/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/bbc4/
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/05/CBBC.jpg",Cbbc 
-https://easyview.eu/cbbc/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/cbeebies/
+https://easyview.eu/cbbc/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/cbbc/
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/05/cbeebies.jpg",cbeebies
 https://easyview.eu/cbeebies/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/cbeebies/
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/bbc-one-wales.jpg",BBC 1 Wales
-https://easyview.eu/bbc-one-wales/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/cbeebies/
+https://easyview.eu/bbc-one-wales/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/bbc-one-wales/
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/BBC-One-Scotland.jpg",BBC 1 Scotland
-https://easyview.eu/bbc-one-scotland/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/cbeebies/
+https://easyview.eu/bbc-one-scotland/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/bbc-one-schotland/
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/BBC-Northern-Ireland.jpg",BBC 1 Northern Ireland
-https://easyview.eu/bbc-one-northern-ireland/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/cbeebies/
+https://easyview.eu/bbc-one-northern-ireland/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/bbc-one-northern-ireland/
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/bbc-parliament.jpg",BBC Parliament
-https://easyview.eu/bbc-parliament/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/cbeebies/
+https://easyview.eu/bbc-parliament/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/bbc-parliament/
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/bbc_news.jpg",BBC News
-https://easyview.eu/bbc-news/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/cbeebies/
+https://easyview.eu/bbc-news/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/bbc-news/
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/05/BBC_Alba.jpg",BBC alba
-https://easyview.eu/bbc-alba/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/cbeebies/
-#EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/02/bbcredbutton.jpg",BBC red button
-https://easyview.eu/bbc-red-button/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/cbeebies/
+https://easyview.eu/bbc-alba/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/bbc-alba/
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/ITV-Where-Drama-Lives-1-400x284.jpg",ITV
-https://easyview.eu/itv/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/cbeebies/
+https://easyview.eu/itv/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/itv/
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/itv2_logo_new_2015-400x284.jpg",ITV 2
-https://easyview.eu/itv2/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/cbeebies/
+https://easyview.eu/itv2/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/itv2/
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/itv3-400x284.jpg",ITV 3
-https://easyview.eu/itv3/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/cbeebies/
+https://easyview.eu/itv3/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/itv3/
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/itv4-400x284.jpg",ITV 4
-https://easyview.eu/itv4/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/cbeebies/
+https://easyview.eu/itv4/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/itv4/
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/citv_logo_2015-400x284.jpg",CITV
-https://easyview.eu/citv/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/cbeebies/
+https://easyview.eu/citv/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/citv/
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2017/03/itvbe-400x284.jpg",ITV Be.
-https://easyview.eu/itvbe/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/cbeebies/
+https://easyview.eu/itvbe/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/itvbe/
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/wp-content/uploads/2018/01/itvencore.jpg",ITV encore
-https://easyview.eu/itv-encore/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/cbeebies/
+https://easyview.eu/itv-encore/|webdown$$start=https:\\/\\/ovh$$end=.m3u8$$replace1=\\$$add=.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36&referer=https://easyview.eu/itv-encore/
 
 
 
