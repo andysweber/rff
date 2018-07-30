@@ -6333,7 +6333,28 @@ http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/chunks.m3u8
 
 #EXTINF:-1 group-title="Portugal3",
 
-
+#EXTINF:-1 group-title="Portugal3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png" ,==Portugal==
+http://..........
+#EXTINF:-1 group-title="Portugal3",RTP 1
+http://62.28.213.14:9981/stream/channelid/1439506767
+#EXTINF:-1 group-title="Portugal3",RTP 2
+http://62.28.213.14:9981/stream/channelid/1580833545
+#EXTINF:-1 group-title="Portugal3",SIC
+http://62.28.213.14:9981/stream/channelid/1682111017
+#EXTINF:-1 group-title="Portugal3",TVI
+http://62.28.213.14:9981/stream/channelid/1402355728
+#EXTINF:-1 group-title="Portugal3",ARTV
+http://62.28.213.14:9981/stream/channelid/670173256
+#EXTINF:-1 group-title="Portugal3",RTP 3
+http://62.28.213.14:9981/stream/channelid/1434611461
+#EXTINF:-1 group-title="Portugal3",RTP Memória
+http://62.28.213.14:9981/stream/channelid/775982095
+#EXTINF:-1 group-title="Portugal3",HD
+http://62.28.213.14:9981/stream/channelid/533292623
+#EXTINF:-1 group-title="Portugal3",BastidoTv
+http://62.28.213.14:9981/stream/channelid/1482516710
+#EXTINF:-1 group-title="Portugal3",BastidoTv2
+http://62.28.213.14:9981/stream/channelid/1063252727
 
 
 
