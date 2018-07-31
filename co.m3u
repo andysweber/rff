@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,30/07/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,31/07/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -173,6 +173,8 @@ http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
 http://zouglacam.mdc.akamaized.net/zouglalive/main/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://goo.gl/tjFpM3" ,E
 https://s1.streamings.gr/epsilontv/epsilontv.m3u8
+#EXTINF:-1 group-title="Greece" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://goo.gl/tjFpM3" ,E
+https://57b1c3ae400ed.streamlock.net/live/epsilontv/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/m1ZYJB" ,VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/0Ovqq2f.png" ,TILESPORT
@@ -193,6 +195,8 @@ http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
 http://w11.streamgb.com:1935/Newtv/Newtv/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/WSfOWs" ,NEA TV
 http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
+#EXTINF:-1 group-title="Greece"  tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ARN/arena-colour-lightbg.png" ,ARENA
+http://web.onair-radio.eu:1935/Arenachannel/Arenachannel/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/GdgekUL.png" ,TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="Macedonia TV" epg-id="Macedonia.gr" tvg-logo="https://goo.gl/CsM9Iu" ,M.TV HD
@@ -211,6 +215,10 @@ http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/nYsDIa" ,ASTRA
 http://live.astratv.gr:8090/hls/livestream.m3u8
+#EXTINF:-1 group-title="Greece" tvg-logo="http://v4.deltatv.gr/images/deltaTV-logo.png",DELTA TV
+http://video.onestreaming.com:8081/deltatv/live/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-logo="https://i0.wp.com/bctech.io/wp-content/uploads/2018/04/wixlar-logo-1.jpg",WIXLAR
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/baRnZKA.png",SUPERSTAR
 http://v2.ciclano.io:1935/startv/startv/playlist.m3u
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Youtube)
@@ -255,6 +263,8 @@ http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS.m3u8
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="4Ε" epg-id="4E.gr" tvg-logo="https://goo.gl/2eMR7A" ,4E
 rtmp://82.192.84.30:1935/live/myStream.sdp
+#EXTINF:-1 group-title="Greece" tvg-name="4Ε" epg-id="4E.gr" tvg-logo="https://goo.gl/2eMR7A" ,4E
+http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="4Ε" epg-id="4E.gr" tvg-logo="https://goo.gl/2eMR7A" ,4E
 rtmp://stream2.svbllc.com:1935/4e/4e.stream
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/Gjqw3Z" ,AGIOS NIKOLAOS MICHIGAN WEB TV
@@ -315,6 +325,10 @@ http://wpso.com:1936/hls/wzra.m3u8
 
 #EXTINF:-1 group-title="Greece2",
 
+#EXTINF:-1 group-title="Greece2" tvg-logo="" ,Alpha
+http://5.135.92.130:36523/out/u/552_1.m3u8
+#EXTINF:-1 group-title="Greece2" tvg-logo="" ,tv mall
+http://5.135.92.130:36523/out/u/554_1.m3u8
 #EXTINF:-1 group-title="Greece2" tvg-logo="https://goo.gl/np3siv" ,SKAI
 http://5.135.92.130:36523/out/u/573_1.m3u8
 #EXTINF:-1 group-title="Greece2" tvg-logo="https://www.greektvlive.info/wp-content/uploads/2015/06/ert-hd-150x150.png" ,ERT HD
@@ -4263,7 +4277,118 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/523.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="France2-PREMIUM",
 
-
+#EXTINF:-1 group-title="France2-PREMIUM",TLC TV
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/11451.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BFM Busines
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/18886.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BFM Paris
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/18885.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",LM TV
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/14252.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CHERIE_25
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15209.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",IL TV
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15219.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",FOOT
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15230.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",HD1
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15239.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BFM Paris TV
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/20408.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BFM Business TV
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22122.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",8 Mont Blanc TV
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22125.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",C8
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/20399.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",EURONEWS
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15227.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CGTN Français TV
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15197.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",EUROPA 1
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22121.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",LEQUIPE21
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15245.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Grand Littoral TV
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22093.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",QVC TV
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22114.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",RUSSIA TODAY
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/21069.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",PLANETE CI
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15263.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Télésud
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22119.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TV Cristal
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22113.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TV LANDES
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22123.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TV Pitchoun
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15249.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TV Vendée
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22115.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ZOUZOU TV HD
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/20411.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",NUMERO 23 HD
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/20397.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",NLM TV
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22117.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",MONACO
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/18889.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Nancy TV
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22116.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",OL TV
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/20407.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TL 7
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22120.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Ouatch TV
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22124.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",PlUG RTL
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15265.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TV 7
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/9016.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TéléNantes
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22111.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",info: TV
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22118.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Alsace 20 TV
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22131.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Assemblée Nationale TV
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22136.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",LCP  100%
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22127.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",RMC DECOUVERTE
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15267.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TéléGrenoble Isère
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22128.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TVPI
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22134.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Azur TV
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22126.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",KTO TV
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22133.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TV_BREIZH
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15278.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Bip TV
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22135.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Dieu TV
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/18888.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",WEO
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/18890.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",La Chaine Normande
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/11450.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",WEO_HD
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15283.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Mouv’ TV
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/11453.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",GONG TV   local
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15606.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM", Public Sénat TV
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/11590.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",EUROSPORT
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/11459.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",C NEWS
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/11462.m3u8
 
 
 
@@ -11586,84 +11711,7 @@ https://www.youtube.com/watch?v=7sIsiHbDi_0
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
 http://.....
 
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="BEIN MOVIES 1" ,BEIN MOVIES 1
-http://sptv.viewdns.net:86/live/Coupe/LIVE/1.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="BEIN MOVIES 2" ,BEIN MOVIES 2
-http://sptv.viewdns.net:86/live/Coupe/LIVE/2.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="BEIN MOVIES 3" ,BEIN MOVIES 3
-http://sptv.viewdns.net:86/live/Coupe/LIVE/3.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="BEIN MOVIES 4" ,BEIN MOVIES 4
-http://sptv.viewdns.net:86/live/Coupe/LIVE/4.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="=====WORLD CUP RUSSIA 2018====" ,=====WORLD CUP RUSSIA 2018====
-http://sptv.viewdns.net:86/live/Coupe/LIVE/40.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="Beln-Sport MAX 1" ,Beln-Sport MAX 1
-http://sptv.viewdns.net:86/live/Coupe/LIVE/40.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="Beln-Sport MAX 2" ,Beln-Sport MAX 2
-http://sptv.viewdns.net:86/live/Coupe/LIVE/41.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="BEIN MAX 1 SD" ,BEIN MAX 1 SD
-http://sptv.viewdns.net:86/live/Coupe/LIVE/85.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="BEIN MAX 2 SD" ,BEIN MAX 2 SD
-http://sptv.viewdns.net:86/live/Coupe/LIVE/86.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="La Une" ,La Une
-http://sptv.viewdns.net:86/live/Coupe/LIVE/103.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="La Deux" ,La Deux
-http://sptv.viewdns.net:86/live/Coupe/LIVE/89.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="ZDF HD" ,ZDF HD
-http://sptv.viewdns.net:86/live/Coupe/LIVE/104.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="DAS ERSTE" ,DAS ERSTE
-http://sptv.viewdns.net:86/live/Coupe/LIVE/98.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="TF1" ,TF1
-http://sptv.viewdns.net:86/live/Coupe/LIVE/84.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="FALCON 1" ,FALCON 1
-http://sptv.viewdns.net:86/live/Coupe/LIVE/90.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="FALCON 2" ,FALCON 2
-http://sptv.viewdns.net:86/live/Coupe/LIVE/91.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="Bein Sports FR 1" ,Bein Sports FR 1
-http://sptv.viewdns.net:86/live/Coupe/LIVE/35.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="Bein Sports FR 2" ,Bein Sports FR 2
-http://sptv.viewdns.net:86/live/Coupe/LIVE/36.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="MATCH TV" ,MATCH TV
-http://sptv.viewdns.net:86/live/Coupe/LIVE/112.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="FOX SPORT 1" ,FOX SPORT 1
-http://sptv.viewdns.net:86/live/Coupe/LIVE/9.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="FOX SPORT 2" ,FOX SPORT 2
-http://sptv.viewdns.net:86/live/Coupe/LIVE/82.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="Makan (SD)" ,Makan (SD)
-http://sptv.viewdns.net:86/live/Coupe/LIVE/83.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="ALFAJER TV" ,ALFAJER TV
-http://sptv.viewdns.net:86/live/Coupe/LIVE/101.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="idman" ,idman
-http://sptv.viewdns.net:86/live/Coupe/LIVE/88.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="Bein Sports 1SD" ,Bein Sports 1SD
-http://sptv.viewdns.net:86/live/Coupe/LIVE/42.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="Bein Sports 2SD" ,Bein Sports 2SD
-http://sptv.viewdns.net:86/live/Coupe/LIVE/43.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="Bein Sports 3SD" ,Bein Sports 3SD
-http://sptv.viewdns.net:86/live/Coupe/LIVE/44.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="Bein Sports 4SD" ,Bein Sports 4SD
-http://sptv.viewdns.net:86/live/Coupe/LIVE/45.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="Bein Sports 5SD" ,Bein Sports 5SD
-http://sptv.viewdns.net:86/live/Coupe/LIVE/46.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="Bein Sports 6SD" ,Bein Sports 6SD
-http://sptv.viewdns.net:86/live/Coupe/LIVE/47.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="Bein Sports 7SD" ,Bein Sports 7SD
-http://sptv.viewdns.net:86/live/Coupe/LIVE/48.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="Bein Sports 8SD" ,Bein Sports 8SD
-http://sptv.viewdns.net:86/live/Coupe/LIVE/49.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="Bein Sports 9SD" ,Bein Sports 9SD
-http://sptv.viewdns.net:86/live/Coupe/LIVE/50.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="Bein Sports 10SD" ,Bein Sports 10SD
-http://sptv.viewdns.net:86/live/Coupe/LIVE/51.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="ARENA 1" ,ARENA 1
-http://sptv.viewdns.net:86/live/Coupe/LIVE/31.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="ARENA 2" ,ARENA 2
-http://sptv.viewdns.net:86/live/Coupe/LIVE/32.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="ARENA 3" ,ARENA 3
-http://sptv.viewdns.net:86/live/Coupe/LIVE/33.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="ARENA 4" ,ARENA 4
-http://sptv.viewdns.net:86/live/Coupe/LIVE/34.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="ARENA 5" ,ARENA 5
-http://sptv.viewdns.net:86/live/Coupe/LIVE/58.ts
+
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="OSN-BOX-OFFICE-2" ,OSN-BOX-OFFICE-2
 http://sptv.viewdns.net:86/live/Coupe/LIVE/117.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="osnfastival" ,osnfastival
@@ -11676,34 +11724,7 @@ http://sptv.viewdns.net:86/live/Coupe/LIVE/71.ts
 http://sptv.viewdns.net:86/live/Coupe/LIVE/72.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="2M MAROC" ,2M MAROC
 http://sptv.viewdns.net:86/live/Coupe/LIVE/12.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="========BEOUTQ SPORTS=====" ,========BEOUTQ SPORTS=====
-http://sptv.viewdns.net:86/live/Coupe/LIVE/109.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="BEOUTQ SPORTS 1" ,BEOUTQ SPORTS 1
-http://sptv.viewdns.net:86/live/Coupe/LIVE/87.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="BEOUTQ SPORTS 2" ,BEOUTQ SPORTS 2
-http://sptv.viewdns.net:86/live/Coupe/LIVE/106.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="BEOUTQ SPORTS 3" ,BEOUTQ SPORTS 3
-http://sptv.viewdns.net:86/live/Coupe/LIVE/107.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="BEOUTQ SPORTS 4" ,BEOUTQ SPORTS 4
-http://sptv.viewdns.net:86/live/Coupe/LIVE/108.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="BEIN MOVIES 1" ,BEIN MOVIES 1
-http://sptv.viewdns.net:86/live/ZABII/FKARKOUM-AWLADL9HAB/1.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="BEIN MOVIES 2" ,BEIN MOVIES 2
-http://sptv.viewdns.net:86/live/ZABII/FKARKOUM-AWLADL9HAB/2.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="BEIN MOVIES 3" ,BEIN MOVIES 3
-http://sptv.viewdns.net:86/live/ZABII/FKARKOUM-AWLADL9HAB/3.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="BEIN MOVIES 4" ,BEIN MOVIES 4
-http://sptv.viewdns.net:86/live/ZABII/FKARKOUM-AWLADL9HAB/4.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="=====WORLD CUP RUSSIA 2018====" ,=====WORLD CUP RUSSIA 2018====
-http://sptv.viewdns.net:86/live/ZABII/FKARKOUM-AWLADL9HAB/55.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="Beln-Sport MAX 1" ,Beln-Sport MAX 1
-http://sptv.viewdns.net:86/live/ZABII/FKARKOUM-AWLADL9HAB/40.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="Beln-Sport MAX 2" ,Beln-Sport MAX 2
-http://sptv.viewdns.net:86/live/ZABII/FKARKOUM-AWLADL9HAB/41.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="BEIN MAX 1 SD" ,BEIN MAX 1 SD
-http://sptv.viewdns.net:86/live/ZABII/FKARKOUM-AWLADL9HAB/85.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="BEIN MAX 2 SD" ,BEIN MAX 2 SD
-http://sptv.viewdns.net:86/live/ZABII/FKARKOUM-AWLADL9HAB/86.ts
+
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="La Une" ,La Une
 http://sptv.viewdns.net:86/live/ZABII/FKARKOUM-AWLADL9HAB/103.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="La Deux" ,La Deux
@@ -11796,7 +11817,7 @@ http://sptv.viewdns.net:86/live/ZABII/FKARKOUM-AWLADL9HAB/118.ts
 http://sptv.viewdns.net:86/live/ZABII/FKARKOUM-AWLADL9HAB/116.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="osnaction" ,osnaction
 http://sptv.viewdns.net:86/live/ZABII/FKARKOUM-AWLADL9HAB/119.ts
-#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" group-title="United.Arab.Emirates4_PREMIUM" tvg-name="WWE NETWORK" ,WWE NETWORK
+#EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM"  tvg-name="WWE NETWORK" ,WWE NETWORK
 http://sptv.viewdns.net:86/live/ZABII/FKARKOUM-AWLADL9HAB/102.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4_PREMIUM" tvg-name="ART aflam 1" ,ART aflam 1
 http://sptv.viewdns.net:86/live/ZABII/FKARKOUM-AWLADL9HAB/70.ts
