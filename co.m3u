@@ -325,7 +325,7 @@ http://wpso.com:1936/hls/wzra.m3u8
 
 #EXTINF:-1 group-title="Greece2",
 
-#EXTINF:-1 group-title="Greece2" tvg-logo="" ,Alpha
+#EXTINF:-1 group-title="Greece2" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg" ,Alpha
 http://5.135.92.130:36523/out/u/552_1.m3u8
 #EXTINF:-1 group-title="Greece2" tvg-logo="" ,tv mall
 http://5.135.92.130:36523/out/u/554_1.m3u8
@@ -364,414 +364,156 @@ http://5.135.92.130:36523/out/u/581_1.m3u8
 
 #EXTINF:-1 group-title="Greece3",
 
+#EXTINF:-1 group-title="Greece3",TV Mytilini
+http://live2018.mine.nu:8000/live/matt/1234/57488.m3u8
+#EXTINF:-1 group-title="Greece3",4E
+http://live2018.mine.nu:8000/live/matt/1234/57489.m3u8
 #EXTINF:-1 group-title="Greece3",4E Star
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66106.ts
-#EXTINF:-1 group-title="Greece3",4E TV HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/67205.ts
-#EXTINF:-1 group-title="Greece3",Acheloos TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/109458.ts
+http://live2018.mine.nu:8000/live/matt/1234/57490.m3u8
+#EXTINF:-1 group-title="Greece3",AB Channel
+http://live2018.mine.nu:8000/live/matt/1234/57491.m3u8
 #EXTINF:-1 group-title="Greece3",ACTION 24
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/67208.ts
-#EXTINF:-1 group-title="Greece3",Agio Nicolaos
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66104.ts
-#EXTINF:-1 group-title="Greece3",Aigaio TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66132.ts
-#EXTINF:-1 group-title="Greece3",Alpha Cinema
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95319.ts
-#EXTINF:-1 group-title="Greece3",ALPHA CY
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95277.ts
-#EXTINF:-1 group-title="Greece3",ALPHA HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64721.ts
-#EXTINF:-1 group-title="Greece3",ALPHA SPORT
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/107800.ts
-#EXTINF:-1 group-title="Greece3",Animal Planet HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66158.ts
-#EXTINF:-1 group-title="Greece3",ANT1 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64720.ts
-#EXTINF:-1 group-title="Greece3",ANTI 1
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/117096.ts
-#EXTINF:-1 group-title="Greece3",ART
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/90224.ts
-#EXTINF:-1 group-title="Greece3",Astra TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66116.ts
-#EXTINF:-1 group-title="Greece3",ATTICA
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/90225.ts
-#EXTINF:-1 group-title="Greece3",AXELOOS TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/67200.ts
-#EXTINF:-1 group-title="Greece3",AXELWOS TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/98918.ts
-#EXTINF:-1 group-title="Greece3",canali
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/77999.ts
-#EXTINF:-1 group-title="Greece3",CANNALI MUSIC
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/67196.ts
-#EXTINF:-1 group-title="Greece3",Cannali Musiki
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66130.ts
-#EXTINF:-1 group-title="Greece3",Cannali TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/109459.ts
-#EXTINF:-1 group-title="Greece3",Capital
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/86814.ts
-#EXTINF:-1 group-title="Greece3",CARTOONS
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66161.ts
-#EXTINF:-1 group-title="Greece3",CHANNEL 9 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/96275.ts
-#EXTINF:-1 group-title="Greece3",COSMOTE CINEMA 1 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/70916.ts
-#EXTINF:-1 group-title="Greece3",COSMOTE CINEMA 2
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/70915.ts
-#EXTINF:-1 group-title="Greece3",COSMOTE CINEMA 3
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/70914.ts
-#EXTINF:-1 group-title="Greece3",COSMOTE CINEMA 4
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/70913.ts
-#EXTINF:-1 group-title="Greece3",COSMOTE SPORT 1 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/70924.ts
-#EXTINF:-1 group-title="Greece3",COSMOTE Sport 2 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/70923.ts
-#EXTINF:-1 group-title="Greece3",COSMOTE SPORT 3 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/70922.ts
-#EXTINF:-1 group-title="Greece3",COSMOTE SPORT 4 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/70921.ts
-#EXTINF:-1 group-title="Greece3",COSMOTE SPORT 5 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/70920.ts
-#EXTINF:-1 group-title="Greece3",COSMOTE SPORT 6 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/70919.ts
-#EXTINF:-1 group-title="Greece3",COSMOTE SPORT 7 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/70918.ts
-#EXTINF:-1 group-title="Greece3",COSMOTE SPORT 8 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/70917.ts
-#EXTINF:-1 group-title="Greece3",CRETA TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/67194.ts
-#EXTINF:-1 group-title="Greece3",Crime & Investigation
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/101481.ts
-#EXTINF:-1 group-title="Greece3",CUATEO HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/119253.ts
-#EXTINF:-1 group-title="Greece3",Discovery Channel HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66159.ts
-#EXTINF:-1 group-title="Greece3",Discovery ID HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95309.ts
-#EXTINF:-1 group-title="Greece3",Discovery Science HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/93428.ts
-#EXTINF:-1 group-title="Greece3",Discovery showcase HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/93429.ts
-#EXTINF:-1 group-title="Greece3",Disney Junior HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/93430.ts
-#EXTINF:-1 group-title="Greece3",Disney XD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/93431.ts
-#EXTINF:-1 group-title="Greece3",DOCUMENTARY 1
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/70930.ts
-#EXTINF:-1 group-title="Greece3",DOCUMENTARY 2
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/70929.ts
-#EXTINF:-1 group-title="Greece3",DOCUMENTARY 3
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/70928.ts
-#EXTINF:-1 group-title="Greece3",DOCUMENTARY 4
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/70927.ts
-#EXTINF:-1 group-title="Greece3",DOCUMENTARY 5
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/70926.ts
-#EXTINF:-1 group-title="Greece3",DOCUMENTARY 6
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/70925.ts
-#EXTINF:-1 group-title="Greece3",E TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/109603.ts
-#EXTINF:-1 group-title="Greece3",EBS
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95280.ts
-#EXTINF:-1 group-title="Greece3",EBS PLUS
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/77968.ts
-#EXTINF:-1 group-title="Greece3",ELL TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/86821.ts
-#EXTINF:-1 group-title="Greece3",Epic Movie 2
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95296.ts
-#EXTINF:-1 group-title="Greece3",Epic Movie 3
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95297.ts
-#EXTINF:-1 group-title="Greece3",Epic Movies 1
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/109045.ts
-#EXTINF:-1 group-title="Greece3",EPIC MOVIES 4
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/106909.ts
-#EXTINF:-1 group-title="Greece3",Epic Movies 5
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/109048.ts
-#EXTINF:-1 group-title="Greece3",Epic Movies 8
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/117323.ts
-#EXTINF:-1 group-title="Greece3",Epic Movies 9
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/118010.ts
-#EXTINF:-1 group-title="Greece3",Epic Movies 10
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/117324.ts
-#EXTINF:-1 group-title="Greece3",Epic Movies 12
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/117325.ts
-#EXTINF:-1 group-title="Greece3",Epic Movies 13
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/117326.ts
-#EXTINF:-1 group-title="Greece3",EPOIC Movie 1
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/119262.ts
-#EXTINF:-1 group-title="Greece3",EPSI MOVIE 5
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/119260.ts
-#EXTINF:-1 group-title="Greece3",EPSILON TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66183.ts
-#EXTINF:-1 group-title="Greece3",EPT 1 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95274.ts
-#EXTINF:-1 group-title="Greece3",EPT 2 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95275.ts
-#EXTINF:-1 group-title="Greece3",EPT HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/109465.ts
-#EXTINF:-1 group-title="Greece3",EPT3 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95276.ts
-#EXTINF:-1 group-title="Greece3",ERT 1 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64698.ts
-#EXTINF:-1 group-title="Greece3",ERT 2
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/71624.ts
-#EXTINF:-1 group-title="Greece3",ERT 3
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64696.ts
-#EXTINF:-1 group-title="Greece3",ERT HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64695.ts
-#EXTINF:-1 group-title="Greece3",ERT WORLD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66203.ts
-#EXTINF:-1 group-title="Greece3",est TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/114816.ts
-#EXTINF:-1 group-title="Greece3",ET2
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/106298.ts
-#EXTINF:-1 group-title="Greece3",ET3
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/106299.ts
+http://live2018.mine.nu:8000/live/matt/1234/57492.m3u8
+#EXTINF:-1 group-title="Greece3",AIGAIO TV
+http://live2018.mine.nu:8000/live/matt/1234/57493.m3u8
+#EXTINF:-1 group-title="Greece3",Alpha
+http://live2018.mine.nu:8000/live/matt/1234/57494.m3u8
+#EXTINF:-1 group-title="Greece3",ANT1
+http://live2018.mine.nu:8000/live/matt/1234/57495.m3u8
+#EXTINF:-1 group-title="Greece3",Ant1 Cyprus
+http://live2018.mine.nu:8000/live/matt/1234/57485.m3u8
+#EXTINF:-1 group-title="Greece3",Ant1 HD
+http://live2018.mine.nu:8000/live/matt/1234/57496.m3u8
+#EXTINF:-1 group-title="Greece3",Apeiro TV
+http://live2018.mine.nu:8000/live/matt/1234/57497.m3u8
+#EXTINF:-1 group-title="Greece3",APT
+http://live2018.mine.nu:8000/live/matt/1234/57498.m3u8
+#EXTINF:-1 group-title="Greece3",Art
+http://live2018.mine.nu:8000/live/matt/1234/57499.m3u8
+#EXTINF:-1 group-title="Greece3",Astra
+http://live2018.mine.nu:8000/live/matt/1234/57500.m3u8
+#EXTINF:-1 group-title="Greece3",Axeloos TV
+http://live2018.mine.nu:8000/live/matt/1234/57501.m3u8
+#EXTINF:-1 group-title="Greece3",BLUE SKY
+http://live2018.mine.nu:8000/live/matt/1234/57502.m3u8
+#EXTINF:-1 group-title="Greece3",Boyah
+http://live2018.mine.nu:8000/live/matt/1234/57503.m3u8
+#EXTINF:-1 group-title="Greece3",Channel 9
+http://live2018.mine.nu:8000/live/matt/1234/57504.m3u8
+#EXTINF:-1 group-title="Greece3",DIAVATA TV
+http://live2018.mine.nu:8000/live/matt/1234/57505.m3u8
+#EXTINF:-1 group-title="Greece3",DIKTYO
+http://live2018.mine.nu:8000/live/matt/1234/57506.m3u8
+#EXTINF:-1 group-title="Greece3",E
+http://live2018.mine.nu:8000/live/matt/1234/57507.m3u8
+#EXTINF:-1 group-title="Greece3",Ellinikosfm TV
+http://live2018.mine.nu:8000/live/matt/1234/57508.m3u8
+#EXTINF:-1 group-title="Greece3",EPIRUS TV1
+http://live2018.mine.nu:8000/live/matt/1234/57486.m3u8
+#EXTINF:-1 group-title="Greece3",Ept 1
+http://live2018.mine.nu:8000/live/matt/1234/57509.m3u8
+#EXTINF:-1 group-title="Greece3",Ept 2
+http://live2018.mine.nu:8000/live/matt/1234/57510.m3u8
+#EXTINF:-1 group-title="Greece3",ERT 1
+http://live2018.mine.nu:8000/live/matt/1234/57511.m3u8
+#EXTINF:-1 group-title="Greece3",Ert HD
+http://live2018.mine.nu:8000/live/matt/1234/57512.m3u8
+#EXTINF:-1 group-title="Greece3",ERT2
+http://live2018.mine.nu:8000/live/matt/1234/57513.m3u8
 #EXTINF:-1 group-title="Greece3",Euronews
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64693.ts
-#EXTINF:-1 group-title="Greece3",EUROSPORT 1
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64692.ts
-#EXTINF:-1 group-title="Greece3",Extra TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/77982.ts
-#EXTINF:-1 group-title="Greece3",FAMILY MOVIES
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/67193.ts
-#EXTINF:-1 group-title="Greece3",FarosOnAir
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/86836.ts
-#EXTINF:-1 group-title="Greece3",Fox TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66140.ts
-#EXTINF:-1 group-title="Greece3",GREEK CINEMA 1
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95264.ts
-#EXTINF:-1 group-title="Greece3",GREEK CINEMA 2
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95265.ts
-#EXTINF:-1 group-title="Greece3",HEART BEAT
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/86840.ts
-#EXTINF:-1 group-title="Greece3",Hellas TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66137.ts
-#EXTINF:-1 group-title="Greece3",HIGH TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64681.ts
-#EXTINF:-1 group-title="Greece3",HLEKTRA TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64679.ts
-#EXTINF:-1 group-title="Greece3",HPEIROS TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/67190.ts
-#EXTINF:-1 group-title="Greece3",HUNTER TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64677.ts
-#EXTINF:-1 group-title="Greece3",iCONCERTS
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64676.ts
-#EXTINF:-1 group-title="Greece3",IDx
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/109605.ts
-#EXTINF:-1 group-title="Greece3",IONIAN CHANNEL
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66138.ts
-#EXTINF:-1 group-title="Greece3",KANALI 9
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/67188.ts
-#EXTINF:-1 group-title="Greece3",Kids1
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/86825.ts
-#EXTINF:-1 group-title="Greece3",KONTRA
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66153.ts
-#EXTINF:-1 group-title="Greece3",KPHTH TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/77989.ts
-#EXTINF:-1 group-title="Greece3",KPHTI TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66155.ts
-#EXTINF:-1 group-title="Greece3",KRHRH TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/106562.ts
-#EXTINF:-1 group-title="Greece3",KRHTH TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78525.ts
-#EXTINF:-1 group-title="Greece3",Lampsi TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66164.ts
-#EXTINF:-1 group-title="Greece3",Life HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66133.ts
-#EXTINF:-1 group-title="Greece3",Life Kids Network
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/109461.ts
-#EXTINF:-1 group-title="Greece3",LIKE TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/93862.ts
-#EXTINF:-1 group-title="Greece3",LYCHNOS TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66105.ts
-#EXTINF:-1 group-title="Greece3",M HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66171.ts
-#EXTINF:-1 group-title="Greece3",Macedonia TV HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66103.ts
-#EXTINF:-1 group-title="Greece3",MAD CYPRUS
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/67182.ts
+http://live2018.mine.nu:8000/live/matt/1234/57514.m3u8
+#EXTINF:-1 group-title="Greece3",EXTRA
+http://live2018.mine.nu:8000/live/matt/1234/57517.m3u8
+#EXTINF:-1 group-title="Greece3",Extra Channel
+http://live2018.mine.nu:8000/live/matt/1234/57518.m3u8
+#EXTINF:-1 group-title="Greece3",High TV
+http://live2018.mine.nu:8000/live/matt/1234/57519.m3u8
+#EXTINF:-1 group-title="Greece3",Hpeiros TV1
+http://live2018.mine.nu:8000/live/matt/1234/57520.m3u8
+#EXTINF:-1 group-title="Greece3",JAYZEE
+http://live2018.mine.nu:8000/live/matt/1234/57521.m3u8
+#EXTINF:-1 group-title="Greece3",Kontra Channel
+http://live2018.mine.nu:8000/live/matt/1234/57522.m3u8
+#EXTINF:-1 group-title="Greece3",KONTRA TV
+http://live2018.mine.nu:8000/live/matt/1234/57523.m3u8
+#EXTINF:-1 group-title="Greece3",Krhth TV
+http://live2018.mine.nu:8000/live/matt/1234/57524.m3u8
+#EXTINF:-1 group-title="Greece3",KRITI TV
+http://live2018.mine.nu:8000/live/matt/1234/57525.m3u8
+#EXTINF:-1 group-title="Greece3",Lepanto
+http://live2018.mine.nu:8000/live/matt/1234/57526.m3u8
 #EXTINF:-1 group-title="Greece3",Mad TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78523.ts
-#EXTINF:-1 group-title="Greece3",Magic TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66165.ts
-#EXTINF:-1 group-title="Greece3",MaGicBoX Movies 1 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/118337.ts
-#EXTINF:-1 group-title="Greece3",MaGicBoX Movies 2 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/118338.ts
-#EXTINF:-1 group-title="Greece3",MaGicBoX Movies 3 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/118339.ts
-#EXTINF:-1 group-title="Greece3",MaGicBoX Movies 4 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/118340.ts
-#EXTINF:-1 group-title="Greece3",MaGicBoX Movies 5 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/118341.ts
-#EXTINF:-1 group-title="Greece3",MAKADENYO
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/106539.ts
-#EXTINF:-1 group-title="Greece3",MAKEDONIA TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/77991.ts
-#EXTINF:-1 group-title="Greece3",MEGA COSMOS
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95312.ts
-#EXTINF:-1 group-title="Greece3",Mega HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64665.ts
-#EXTINF:-1 group-title="Greece3",MEGA ONE
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78522.ts
-#EXTINF:-1 group-title="Greece3",Messinia TV HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66150.ts
-#EXTINF:-1 group-title="Greece3",Montreal Greek TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66136.ts
-#EXTINF:-1 group-title="Greece3",MONTREAL TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78520.ts
-#EXTINF:-1 group-title="Greece3",MOVIES 1
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95266.ts
-#EXTINF:-1 group-title="Greece3",MOVIES 2
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95267.ts
-#EXTINF:-1 group-title="Greece3",MOVIES 3
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95268.ts
-#EXTINF:-1 group-title="Greece3",MOVIES 4
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95269.ts
-#EXTINF:-1 group-title="Greece3",MOVIES 5
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95270.ts
-#EXTINF:-1 group-title="Greece3",MOVIES 6
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95271.ts
-#EXTINF:-1 group-title="Greece3",MOVIES SUBS 1
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95313.ts
-#EXTINF:-1 group-title="Greece3",NAT GEO HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/93438.ts
-#EXTINF:-1 group-title="Greece3",NAT GEO Wild HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/93439.ts
-#EXTINF:-1 group-title="Greece3",NEA TV HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66180.ts
-#EXTINF:-1 group-title="Greece3",NEA TV XANIA
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/93864.ts
-#EXTINF:-1 group-title="Greece3",NET TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78519.ts
-#EXTINF:-1 group-title="Greece3",NET TV TORONTO
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66176.ts
-#EXTINF:-1 group-title="Greece3",NETV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/106879.ts
-#EXTINF:-1 group-title="Greece3",New generation TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66126.ts
-#EXTINF:-1 group-title="Greece3",NG TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95345.ts
-#EXTINF:-1 group-title="Greece3",NG TV Music
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66177.ts
-#EXTINF:-1 group-title="Greece3",NICKELEDEON
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/118909.ts
-#EXTINF:-1 group-title="Greece3",Nickelodean
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/99743.ts
+http://live2018.mine.nu:8000/live/matt/1234/57527.m3u8
+#EXTINF:-1 group-title="Greece3",Makedonia
+http://live2018.mine.nu:8000/live/matt/1234/57528.m3u8
+#EXTINF:-1 group-title="Greece3",Makedonia TV
+http://live2018.mine.nu:8000/live/matt/1234/57529.m3u8
+#EXTINF:-1 group-title="Greece3",Makedonia TV Delay
+http://live2018.mine.nu:8000/live/matt/1234/57530.m3u8
+#EXTINF:-1 group-title="Greece3",Makeleio Web Tv
+http://live2018.mine.nu:8000/live/matt/1234/57531.m3u8
+#EXTINF:-1 group-title="Greece3",Mega
+http://live2018.mine.nu:8000/live/matt/1234/57532.m3u8
+#EXTINF:-1 group-title="Greece3",MESSINIA TV
+http://live2018.mine.nu:8000/live/matt/1234/57533.m3u8
+#EXTINF:-1 group-title="Greece3",MTVeece
+http://live2018.mine.nu:8000/live/matt/1234/57534.m3u8
+#EXTINF:-1 group-title="Greece3",Nat Geo
+http://live2018.mine.nu:8000/live/matt/1234/57535.m3u8
+#EXTINF:-1 group-title="Greece3",NEA
+http://live2018.mine.nu:8000/live/matt/1234/57536.m3u8
+#EXTINF:-1 group-title="Greece3",Nea Tv
+http://live2018.mine.nu:8000/live/matt/1234/57537.m3u8
+#EXTINF:-1 group-title="Greece3",New TV
+http://live2018.mine.nu:8000/live/matt/1234/57538.m3u8
 #EXTINF:-1 group-title="Greece3",Nickelodeon
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/90234.ts
+http://live2018.mine.nu:8000/live/matt/1234/57539.m3u8
+#EXTINF:-1 group-title="Greece3",NOVA
+http://live2018.mine.nu:8000/live/matt/1234/57540.m3u8
 #EXTINF:-1 group-title="Greece3",OMEGA
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78518.ts
-#EXTINF:-1 group-title="Greece3",OTE Cinema 1 FHD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78003.ts
-#EXTINF:-1 group-title="Greece3",OTE Cinema 2 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78002.ts
-#EXTINF:-1 group-title="Greece3",OTE Cinema 3 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78001.ts
-#EXTINF:-1 group-title="Greece3",OTE Cinema 4 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78000.ts
-#EXTINF:-1 group-title="Greece3",OTE History
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/93442.ts
-#EXTINF:-1 group-title="Greece3",OTE Sports 1
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78011.ts
-#EXTINF:-1 group-title="Greece3",OTE Sports 2 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78010.ts
-#EXTINF:-1 group-title="Greece3",OTE Sports 3 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78009.ts
-#EXTINF:-1 group-title="Greece3",OTE Sports 4
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78008.ts
-#EXTINF:-1 group-title="Greece3",OTE Sports 5
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78007.ts
-#EXTINF:-1 group-title="Greece3",OTE Sports 6 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78006.ts
-#EXTINF:-1 group-title="Greece3",OTE Sports 7 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78005.ts
-#EXTINF:-1 group-title="Greece3",OTE Sports 8 HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78004.ts
-#EXTINF:-1 group-title="Greece3",Play TV Music
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66141.ts
-#EXTINF:-1 group-title="Greece3",Plus Cyprus
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/93450.ts
-#EXTINF:-1 group-title="Greece3",RADIO EPISTROFI
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66197.ts
-#EXTINF:-1 group-title="Greece3",Reload Bizz
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/86823.ts
-#EXTINF:-1 group-title="Greece3",Reload Radio
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66170.ts
-#EXTINF:-1 group-title="Greece3",RIK 2
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/86810.ts
-#EXTINF:-1 group-title="Greece3",RIK SAT
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64645.ts
-#EXTINF:-1 group-title="Greece3",RIK1
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/86831.ts
-#EXTINF:-1 group-title="Greece3",RISE TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78510.ts
-#EXTINF:-1 group-title="Greece3",RTS DRAMA
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/112362.ts
-#EXTINF:-1 group-title="Greece3",RTS Zivot
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/112361.ts
-#EXTINF:-1 group-title="Greece3",SAMIAKI TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66151.ts
+http://live2018.mine.nu:8000/live/matt/1234/57541.m3u8
+#EXTINF:-1 group-title="Greece3",Omega TV
+http://live2018.mine.nu:8000/live/matt/1234/57542.m3u8
+#EXTINF:-1 group-title="Greece3",Rik
+http://live2018.mine.nu:8000/live/matt/1234/57543.m3u8
+#EXTINF:-1 group-title="Greece3",SAMIAKI
+http://live2018.mine.nu:8000/live/matt/1234/57544.m3u8
 #EXTINF:-1 group-title="Greece3",SBC
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/77997.ts
-#EXTINF:-1 group-title="Greece3",Sigma TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66112.ts
-#EXTINF:-1 group-title="Greece3",Skai HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/77972.ts
-#EXTINF:-1 group-title="Greece3",SMILE
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/93866.ts
-#EXTINF:-1 group-title="Greece3",SPICY bizz
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66168.ts
-#EXTINF:-1 group-title="Greece3",SPICY Greek
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66169.ts
-#EXTINF:-1 group-title="Greece3",SPICY TV 2
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66173.ts
-#EXTINF:-1 group-title="Greece3",SPORT Plus HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/112359.ts
-#EXTINF:-1 group-title="Greece3",Star HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66189.ts
+http://live2018.mine.nu:8000/live/matt/1234/57545.m3u8
+#EXTINF:-1 group-title="Greece3",Sigma
+http://live2018.mine.nu:8000/live/matt/1234/57546.m3u8
+#EXTINF:-1 group-title="Greece3",Skai
+http://live2018.mine.nu:8000/live/matt/1234/57547.m3u8
+#EXTINF:-1 group-title="Greece3",Smile
+http://live2018.mine.nu:8000/live/matt/1234/57548.m3u8
+#EXTINF:-1 group-title="Greece3",Star
+http://live2018.mine.nu:8000/live/matt/1234/57549.m3u8
+#EXTINF:-1 group-title="Greece3",Star TV
+http://live2018.mine.nu:8000/live/matt/1234/57550.m3u8
 #EXTINF:-1 group-title="Greece3",Start TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/77985.ts
-#EXTINF:-1 group-title="Greece3",SYROS TV1
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78513.ts
-#EXTINF:-1 group-title="Greece3",Tile Mousiki 2
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66167.ts
-#EXTINF:-1 group-title="Greece3",Tile Musiki
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/86841.ts
-#EXTINF:-1 group-title="Greece3",Tilesport
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95332.ts
-#EXTINF:-1 group-title="Greece3",TLC
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/94221.ts
-#EXTINF:-1 group-title="Greece3",Travel HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/93453.ts
-#EXTINF:-1 group-title="Greece3",TV 100
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/77998.ts
-#EXTINF:-1 group-title="Greece3",TV CRETA
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/106894.ts
-#EXTINF:-1 group-title="Greece3",TV FILLOPOLI
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/78535.ts
-#EXTINF:-1 group-title="Greece3",TV Filopoli
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66166.ts
-#EXTINF:-1 group-title="Greece3",TV One
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/93437.ts
-#EXTINF:-1 group-title="Greece3",TV1
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95333.ts
-#EXTINF:-1 group-title="Greece3",VIASAT HISTORY
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95318.ts
-#EXTINF:-1 group-title="Greece3",VILLAGE CINEMA
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95273.ts
-#EXTINF:-1 group-title="Greece3",Vouli HD
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/64633.ts
-#EXTINF:-1 group-title="Greece3",WZRA KIDS
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/98915.ts
-#EXTINF:-1 group-title="Greece3",XALASTRA TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/66144.ts
-#EXTINF:-1 group-title="Greece3",Zougla TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/95335.ts
-#EXTINF:-1 group-title="Greece3",Zouzounia TV
-http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/93455.ts
-
-
+http://live2018.mine.nu:8000/live/matt/1234/57551.m3u8
+#EXTINF:-1 group-title="Greece3",Thema TV
+http://live2018.mine.nu:8000/live/matt/1234/57552.m3u8
+#EXTINF:-1 group-title="Greece3",Thraki TV
+http://live2018.mine.nu:8000/live/matt/1234/57553.m3u8
+#EXTINF:-1 group-title="Greece3",TRT
+http://live2018.mine.nu:8000/live/matt/1234/57555.m3u8
+#EXTINF:-1 group-title="Greece3",TV 1000
+http://live2018.mine.nu:8000/live/matt/1234/57556.m3u8
+#EXTINF:-1 group-title="Greece3",TV Gold
+http://live2018.mine.nu:8000/live/matt/1234/57557.m3u8
+#EXTINF:-1 group-title="Greece3",TV1 Siros
+http://live2018.mine.nu:8000/live/matt/1234/57558.m3u8
+#EXTINF:-1 group-title="Greece3",Tv100
+http://live2018.mine.nu:8000/live/matt/1234/57559.m3u8
+#EXTINF:-1 group-title="Greece3",Vergina TV
+http://live2018.mine.nu:8000/live/matt/1234/57560.m3u8
+#EXTINF:-1 group-title="Greece3",VOULI
+http://live2018.mine.nu:8000/live/matt/1234/57561.m3u8
+#EXTINF:-1 group-title="Greece3",Vouli TV
+http://live2018.mine.nu:8000/live/matt/1234/57562.m3u8
+#EXTINF:-1 group-title="Greece3",ZOUGL@
+http://live2018.mine.nu:8000/live/matt/1234/57563.m3u8
 
 
 
@@ -3692,7 +3434,146 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/811.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Italy2-PREMIUM",
 
-
+#EXTINF:-1 group-title="Italy2-PREMIUM",Iris
+http://hbox.cdnss.me:80/live/jonny/jonny/1582.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sportitalia
+http://hbox.cdnss.me:80/live/jonny/jonny/3422.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Italia 1 Mediaset
+http://hbox.cdnss.me:80/live/jonny/jonny/1925.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Canale 5 HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1597.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rete 4
+http://hbox.cdnss.me:80/live/jonny/jonny/1930.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai 1 HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1585.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai 2 HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1586.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai 3 HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1587.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai 4 HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1595.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai 5 HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1596.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Cielo HD
+http://hbox.cdnss.me:80/live/jonny/jonny/3426.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Scuola HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1920.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Gulp HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1921.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai YoYo HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1644.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Movie
+http://hbox.cdnss.me:80/live/jonny/jonny/1643.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky TG24
+http://hbox.cdnss.me:80/live/jonny/jonny/2322.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Boing Italia
+http://hbox.cdnss.me:80/live/jonny/jonny/1919.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema 1 HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1509.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Passion HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1504.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Hits HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1505.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Family HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1507.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Comedy HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1508.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Max HD
+http://hbox.cdnss.me:80/live/jonny/jonny/4531.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Atlantic HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1924.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Premium HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1982.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Fox HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1917.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",DMAX Italia
+http://hbox.cdnss.me:80/live/jonny/jonny/1916.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Uno HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1985.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Nat Geo People HD
+http://hbox.cdnss.me:80/live/jonny/jonny/2327.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Animal Planet HD
+http://hbox.cdnss.me:80/live/jonny/jonny/2323.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Sport HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1922.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Sport 2
+http://hbox.cdnss.me:80/live/jonny/jonny/3424.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport HD Serie A
+http://hbox.cdnss.me:80/live/jonny/jonny/2996.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport HD Football
+http://hbox.cdnss.me:80/live/jonny/jonny/2138.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport uno HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1500.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport arena HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1499.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport 3 HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1497.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport 24 HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1498.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport MotoGP HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1502.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Inter Channel
+http://hbox.cdnss.me:80/live/jonny/jonny/4420.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Juventus Channel
+http://hbox.cdnss.me:80/live/jonny/jonny/4421.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",MILAN CHANNEL
+http://hbox.cdnss.me:80/live/jonny/jonny/1980.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Sport
+http://hbox.cdnss.me:80/live/jonny/jonny/1975.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Sport 2
+http://hbox.cdnss.me:80/live/jonny/jonny/1974.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Studio Universal
+http://hbox.cdnss.me:80/live/jonny/jonny/1638.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Joy
+http://hbox.cdnss.me:80/live/jonny/jonny/1637.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Energy
+http://hbox.cdnss.me:80/live/jonny/jonny/1636.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Emotion HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1634.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Crime HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1632.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Comedy
+http://hbox.cdnss.me:80/live/jonny/jonny/1635.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Crime +24
+http://hbox.cdnss.me:80/live/jonny/jonny/1633.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Cinema 24 HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1627.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Cinema HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1626.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Cinema 2 HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1628.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Cinema + 24
+http://hbox.cdnss.me:80/live/jonny/jonny/1629.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Action HD
+http://hbox.cdnss.me:80/live/jonny/jonny/1630.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Action 24
+http://hbox.cdnss.me:80/live/jonny/jonny/1631.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Stories
+http://hbox.cdnss.me:80/live/jonny/jonny/1976.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Prima_Fila 1
+http://hbox.cdnss.me:80/live/jonny/jonny/597.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Prima_Fila 2
+http://hbox.cdnss.me:80/live/jonny/jonny/598.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Prima_Fila 3
+http://hbox.cdnss.me:80/live/jonny/jonny/599.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Prima_Fila 4
+http://hbox.cdnss.me:80/live/jonny/jonny/600.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Prima_Fila 5
+http://hbox.cdnss.me:80/live/jonny/jonny/601.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Prima_Fila 6
+http://hbox.cdnss.me:80/live/jonny/jonny/602.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Prima_Fila 7
+http://hbox.cdnss.me:80/live/jonny/jonny/603.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Prima_Fila 9
+http://hbox.cdnss.me:80/live/jonny/jonny/591.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Prima_Fila 10
+http://hbox.cdnss.me:80/live/jonny/jonny/605.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Prima_Fila 13
+http://hbox.cdnss.me:80/live/jonny/jonny/1052.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Prima_Fila 14
+http://hbox.cdnss.me:80/live/jonny/jonny/1053.ts
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Prima_Fila 15
+http://hbox.cdnss.me:80/live/jonny/jonny/1054.ts
 
 
 
@@ -11623,7 +11504,594 @@ http://www.elahmad.com/tv/m3u8/bahraintv.m3u8?id=bahrain_tv
 
 #EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",
 
-
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC 1HD
+http://am-iptv.club:25461/live/ga1/ga2/20.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC 2HD
+http://am-iptv.club:25461/live/ga1/ga2/29.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC 3HD
+http://am-iptv.club:25461/live/ga1/ga2/24.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", MBC 4 HD
+http://am-iptv.club:25461/live/ga1/ga2/420.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Mbc Action HD
+http://am-iptv.club:25461/live/ga1/ga2/5487.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC Drama HD
+http://am-iptv.club:25461/live/ga1/ga2/654.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", MBC DRAMA+ HD
+http://am-iptv.club:25461/live/ga1/ga2/4925.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", MBC Max HD
+http://am-iptv.club:25461/live/ga1/ga2/39.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", MBC-VARITY_HD
+http://am-iptv.club:25461/live/ga1/ga2/6236.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Mbc Bollywood HD
+http://am-iptv.club:25461/live/ga1/ga2/5488.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC 1 vip
+http://am-iptv.club:25461/live/ga1/ga2/6410.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC 2 vip
+http://am-iptv.club:25461/live/ga1/ga2/6415.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC 3 vip
+http://am-iptv.club:25461/live/ga1/ga2/6416.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC 4 vip
+http://am-iptv.club:25461/live/ga1/ga2/6417.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC Drama vip
+http://am-iptv.club:25461/live/ga1/ga2/6411.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC Drama+ HD v
+http://am-iptv.club:25461/live/ga1/ga2/6412.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC Action  vip
+http://am-iptv.club:25461/live/ga1/ga2/6414.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC Max  vip
+http://am-iptv.club:25461/live/ga1/ga2/6413.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Mbc Masr 1 vip
+http://am-iptv.club:25461/live/ga1/ga2/7964.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Mbc Masr 2 vip
+http://am-iptv.club:25461/live/ga1/ga2/7965.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", MBC1
+http://am-iptv.club:25461/live/ga1/ga2/120.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", mbc 2
+http://am-iptv.club:25461/live/ga1/ga2/9.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC3
+http://am-iptv.club:25461/live/ga1/ga2/10.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC4
+http://am-iptv.club:25461/live/ga1/ga2/11.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC Action
+http://am-iptv.club:25461/live/ga1/ga2/12.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC Drama
+http://am-iptv.club:25461/live/ga1/ga2/6.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC Max
+http://am-iptv.club:25461/live/ga1/ga2/13.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC Maser1
+http://am-iptv.club:25461/live/ga1/ga2/7.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC Maser2
+http://am-iptv.club:25461/live/ga1/ga2/8.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MBC Bollywood
+http://am-iptv.club:25461/live/ga1/ga2/14.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Rotana Aflam
+http://am-iptv.club:25461/live/ga1/ga2/16.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Rotana Cinema
+http://am-iptv.club:25461/live/ga1/ga2/15.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Rotana Drama
+http://am-iptv.club:25461/live/ga1/ga2/21.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Rotana_Khalijiah
+http://am-iptv.club:25461/live/ga1/ga2/17.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Rotana Classic
+http://am-iptv.club:25461/live/ga1/ga2/4604.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Rotana Clip
+http://am-iptv.club:25461/live/ga1/ga2/4605.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", ART AFLAM1 vip
+http://am-iptv.club:25461/live/ga1/ga2/427.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", ART AFLAM2 vip
+http://am-iptv.club:25461/live/ga1/ga2/428.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", ART CINEMA vip
+http://am-iptv.club:25461/live/ga1/ga2/429.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", ART HEKAYAT 1
+http://am-iptv.club:25461/live/ga1/ga2/430.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", ART HEKAYAT 2
+http://am-iptv.club:25461/live/ga1/ga2/431.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Alhayah 1
+http://am-iptv.club:25461/live/ga1/ga2/112.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",alhayat2
+http://am-iptv.club:25461/live/ga1/ga2/18.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", ALHAYAT Musalsalat
+http://am-iptv.club:25461/live/ga1/ga2/5006.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Assema vip
+http://am-iptv.club:25461/live/ga1/ga2/6422.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",AL ASSEMA2 v
+http://am-iptv.club:25461/live/ga1/ga2/6915.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Cinema_pro
+http://am-iptv.club:25461/live/ga1/ga2/5651.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", CAIRO CINEMA
+http://am-iptv.club:25461/live/ga1/ga2/4809.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", CAIRO DRAMA
+http://am-iptv.club:25461/live/ga1/ga2/4808.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Maspero Zaman
+http://am-iptv.club:25461/live/ga1/ga2/7044.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", KOL ALNAS
+http://am-iptv.club:25461/live/ga1/ga2/4810.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Almasriyah
+http://am-iptv.club:25461/live/ga1/ga2/35.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", AlThanya_HD
+http://am-iptv.club:25461/live/ga1/ga2/6322.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Dream2
+http://am-iptv.club:25461/live/ga1/ga2/61.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",CBC
+http://am-iptv.club:25461/live/ga1/ga2/31.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", CBC Drama
+http://am-iptv.club:25461/live/ga1/ga2/26.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",CBC Extra
+http://am-iptv.club:25461/live/ga1/ga2/32.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", CBC Sofra
+http://am-iptv.club:25461/live/ga1/ga2/111.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", DMC HD
+http://am-iptv.club:25461/live/ga1/ga2/809.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", DMC Drama HD
+http://am-iptv.club:25461/live/ga1/ga2/810.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",ON  E HD V
+http://am-iptv.club:25461/live/ga1/ga2/6418.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",ON Drama V
+http://am-iptv.club:25461/live/ga1/ga2/6419.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",ON Live V
+http://am-iptv.club:25461/live/ga1/ga2/6420.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",ON Sport V
+http://am-iptv.club:25461/live/ga1/ga2/6421.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",4G AFLAM v
+http://am-iptv.club:25461/live/ga1/ga2/6916.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",4G CIMA v
+http://am-iptv.club:25461/live/ga1/ga2/6917.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",4G CLASSIC v
+http://am-iptv.club:25461/live/ga1/ga2/6918.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",4G DRAMA v
+http://am-iptv.club:25461/live/ga1/ga2/6919.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",4G FILM v
+http://am-iptv.club:25461/live/ga1/ga2/6920.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Nile Cinema
+http://am-iptv.club:25461/live/ga1/ga2/28.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Nile Drama
+http://am-iptv.club:25461/live/ga1/ga2/27.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Nile Family
+http://am-iptv.club:25461/live/ga1/ga2/36.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", NileComedy
+http://am-iptv.club:25461/live/ga1/ga2/679.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", NileSport
+http://am-iptv.club:25461/live/ga1/ga2/678.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", NILENEWS
+http://am-iptv.club:25461/live/ga1/ga2/7967.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", LTC
+http://am-iptv.club:25461/live/ga1/ga2/7968.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Alahly TV
+http://am-iptv.club:25461/live/ga1/ga2/6557.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Al Ahly TV v
+http://am-iptv.club:25461/live/ga1/ga2/6912.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Al-Nahar vip
+http://am-iptv.club:25461/live/ga1/ga2/6818.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", nahar_drama vip
+http://am-iptv.club:25461/live/ga1/ga2/675.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Fatafeat_HD
+http://am-iptv.club:25461/live/ga1/ga2/5013.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Fox_Movies_HD
+http://am-iptv.club:25461/live/ga1/ga2/6373.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Fox_Action_Movies v
+http://am-iptv.club:25461/live/ga1/ga2/6487.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Fox Family
+http://am-iptv.club:25461/live/ga1/ga2/5830.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", My Cinema vip
+http://am-iptv.club:25461/live/ga1/ga2/7978.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", cima
+http://am-iptv.club:25461/live/ga1/ga2/671.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Panorama-Film
+http://am-iptv.club:25461/live/ga1/ga2/692.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Panorama Drama
+http://am-iptv.club:25461/live/ga1/ga2/50.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Panorama Drama 2
+http://am-iptv.club:25461/live/ga1/ga2/51.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Panorama Food
+http://am-iptv.club:25461/live/ga1/ga2/45.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Sada El Balad
+http://am-iptv.club:25461/live/ga1/ga2/122.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Alqahera We Alnass
+http://am-iptv.club:25461/live/ga1/ga2/33.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Alqahera We Alnass V
+http://am-iptv.club:25461/live/ga1/ga2/6819.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Al Kahera Wal Nas 2
+http://am-iptv.club:25461/live/ga1/ga2/125.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",  tok tok aflam
+http://am-iptv.club:25461/live/ga1/ga2/2781.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",  STARCINEMA1
+http://am-iptv.club:25461/live/ga1/ga2/2783.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",  STARCINEMA2
+http://am-iptv.club:25461/live/ga1/ga2/2782.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Ten
+http://am-iptv.club:25461/live/ga1/ga2/6333.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", aghani tv
+http://am-iptv.club:25461/live/ga1/ga2/4676.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Arabica TV music v
+http://am-iptv.club:25461/live/ga1/ga2/5781.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",MehwarTV
+http://am-iptv.club:25461/live/ga1/ga2/86.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Amman TV V
+http://am-iptv.club:25461/live/ga1/ga2/7344.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Al Mayadeen
+http://am-iptv.club:25461/live/ga1/ga2/127.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", OTV
+http://am-iptv.club:25461/live/ga1/ga2/5663.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", MTV Lebanon
+http://am-iptv.club:25461/live/ga1/ga2/99.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Syria Drama v
+http://am-iptv.club:25461/live/ga1/ga2/6488.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",SYRIA SATELLITE TV v
+http://am-iptv.club:25461/live/ga1/ga2/6489.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Syria TV
+http://am-iptv.club:25461/live/ga1/ga2/77.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Makkah Live
+http://am-iptv.club:25461/live/ga1/ga2/800.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Syria Edu
+http://am-iptv.club:25461/live/ga1/ga2/84.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", sama tv
+http://am-iptv.club:25461/live/ga1/ga2/5786.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",El Sarq TV
+http://am-iptv.club:25461/live/ga1/ga2/47.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", watan tv
+http://am-iptv.club:25461/live/ga1/ga2/4603.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",DW Arabic
+http://am-iptv.club:25461/live/ga1/ga2/53.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Mekameleen1
+http://am-iptv.club:25461/live/ga1/ga2/54.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", 2M_Marroc
+http://am-iptv.club:25461/live/ga1/ga2/2789.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Arriadia v
+http://am-iptv.club:25461/live/ga1/ga2/2786.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Assadissa
+http://am-iptv.club:25461/live/ga1/ga2/2787.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", DZAIR_NEWS
+http://am-iptv.club:25461/live/ga1/ga2/2794.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Tamazight v
+http://am-iptv.club:25461/live/ga1/ga2/2788.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Al_Magharibia
+http://am-iptv.club:25461/live/ga1/ga2/3754.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", ZaytounaTV
+http://am-iptv.club:25461/live/ga1/ga2/2795.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Yemen TV
+http://am-iptv.club:25461/live/ga1/ga2/5200.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Al Saeedah V
+http://am-iptv.club:25461/live/ga1/ga2/5840.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", AL masira
+http://am-iptv.club:25461/live/ga1/ga2/5010.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", BelqeesTV
+http://am-iptv.club:25461/live/ga1/ga2/5009.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Hala TV
+http://am-iptv.club:25461/live/ga1/ga2/5007.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", YEMEN SHABAB v
+http://am-iptv.club:25461/live/ga1/ga2/6493.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Shayl
+http://am-iptv.club:25461/live/ga1/ga2/5023.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Al Fath
+http://am-iptv.club:25461/live/ga1/ga2/5019.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Al Gazaerya
+http://am-iptv.club:25461/live/ga1/ga2/5024.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Palestine
+http://am-iptv.club:25461/live/ga1/ga2/1.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Al Gesr
+http://am-iptv.club:25461/live/ga1/ga2/5021.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Beur TV
+http://am-iptv.club:25461/live/ga1/ga2/5025.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Kasla
+http://am-iptv.club:25461/live/ga1/ga2/5026.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Nelian Sport
+http://am-iptv.club:25461/live/ga1/ga2/5027.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Nessma
+http://am-iptv.club:25461/live/ga1/ga2/5018.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Roshd
+http://am-iptv.club:25461/live/ga1/ga2/5017.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Selaa
+http://am-iptv.club:25461/live/ga1/ga2/5016.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",KTV1
+http://am-iptv.club:25461/live/ga1/ga2/48.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",KTV2
+http://am-iptv.club:25461/live/ga1/ga2/78.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",KTV PLUS
+http://am-iptv.club:25461/live/ga1/ga2/79.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",KTV 1 HD
+http://am-iptv.club:25461/live/ga1/ga2/109.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", KTV Arabic
+http://am-iptv.club:25461/live/ga1/ga2/107.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", KTV Ethraa
+http://am-iptv.club:25461/live/ga1/ga2/108.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", KTV Al Majlis
+http://am-iptv.club:25461/live/ga1/ga2/106.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", ktv sports plus
+http://am-iptv.club:25461/live/ga1/ga2/1459.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Al Qurain
+http://am-iptv.club:25461/live/ga1/ga2/6167.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Fnoon TV
+http://am-iptv.club:25461/live/ga1/ga2/19.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", ayat
+http://am-iptv.club:25461/live/ga1/ga2/7092.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", wanasatv
+http://am-iptv.club:25461/live/ga1/ga2/7093.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Al Areifi TV
+http://am-iptv.club:25461/live/ga1/ga2/5584.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Al Forat
+http://am-iptv.club:25461/live/ga1/ga2/5583.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", alerth alnabwi
+http://am-iptv.club:25461/live/ga1/ga2/5589.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", alforat news
+http://am-iptv.club:25461/live/ga1/ga2/5585.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", entikhabya
+http://am-iptv.club:25461/live/ga1/ga2/5587.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", alrashid
+http://am-iptv.club:25461/live/ga1/ga2/5588.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Fujairah TV
+http://am-iptv.club:25461/live/ga1/ga2/5590.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", TOYOR BABY
+http://am-iptv.club:25461/live/ga1/ga2/5661.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Echorouk NEWS
+http://am-iptv.club:25461/live/ga1/ga2/5655.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", ishtar
+http://am-iptv.club:25461/live/ga1/ga2/5586.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", PBCLive
+http://am-iptv.club:25461/live/ga1/ga2/5595.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", tanasuh tv
+http://am-iptv.club:25461/live/ga1/ga2/5591.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Future TV
+http://am-iptv.club:25461/live/ga1/ga2/60.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",LBC
+http://am-iptv.club:25461/live/ga1/ga2/30.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", LBC 2
+http://am-iptv.club:25461/live/ga1/ga2/6436.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",LDC
+http://am-iptv.club:25461/live/ga1/ga2/34.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",saudia1 tv
+http://am-iptv.club:25461/live/ga1/ga2/75.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",riyadiyatv 1
+http://am-iptv.club:25461/live/ga1/ga2/73.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",ajyaltv
+http://am-iptv.club:25461/live/ga1/ga2/71.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",alekhbariya
+http://am-iptv.club:25461/live/ga1/ga2/74.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Quran
+http://am-iptv.club:25461/live/ga1/ga2/90.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Ennaher TV
+http://am-iptv.club:25461/live/ga1/ga2/2774.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Zee Aflam vip
+http://am-iptv.club:25461/live/ga1/ga2/5671.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Zee Alwan vip
+http://am-iptv.club:25461/live/ga1/ga2/102.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",B4U Aflam
+http://am-iptv.club:25461/live/ga1/ga2/42.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", B4U Plus v
+http://am-iptv.club:25461/live/ga1/ga2/83.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", IMAGINE_MOVIE
+http://am-iptv.club:25461/live/ga1/ga2/5851.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Dubai TV
+http://am-iptv.club:25461/live/ga1/ga2/56.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Dubai Zaman
+http://am-iptv.club:25461/live/ga1/ga2/59.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Sama Dubai
+http://am-iptv.club:25461/live/ga1/ga2/62.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Noor Dubai
+http://am-iptv.club:25461/live/ga1/ga2/63.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", alwousta tv
+http://am-iptv.club:25461/live/ga1/ga2/6746.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Dubai One
+http://am-iptv.club:25461/live/ga1/ga2/57.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Dubai Racing 1
+http://am-iptv.club:25461/live/ga1/ga2/65.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Dubai Racing 2
+http://am-iptv.club:25461/live/ga1/ga2/66.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Dubai Sport 3
+http://am-iptv.club:25461/live/ga1/ga2/67.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Bahrain International
+http://am-iptv.club:25461/live/ga1/ga2/7321.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Bahrain Quran
+http://am-iptv.club:25461/live/ga1/ga2/7323.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Bahrain Sport
+http://am-iptv.club:25461/live/ga1/ga2/7322.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Bahrain TV
+http://am-iptv.club:25461/live/ga1/ga2/7320.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", AlMajd v
+http://am-iptv.club:25461/live/ga1/ga2/700.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Al Majd Quran
+http://am-iptv.club:25461/live/ga1/ga2/699.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", AL MAJD 3elmeyh
+http://am-iptv.club:25461/live/ga1/ga2/5642.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", AL MAJD Hadeth
+http://am-iptv.club:25461/live/ga1/ga2/5641.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",AL MAJD 3elmeyh V
+http://am-iptv.club:25461/live/ga1/ga2/7272.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",AL MAJD Hadeth V
+http://am-iptv.club:25461/live/ga1/ga2/7271.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", I Film
+http://am-iptv.club:25461/live/ga1/ga2/5635.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", ALordonAlyoom
+http://am-iptv.club:25461/live/ga1/ga2/5180.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", alrayyan1
+http://am-iptv.club:25461/live/ga1/ga2/5183.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", alrayyan2
+http://am-iptv.club:25461/live/ga1/ga2/5184.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", samarra tv
+http://am-iptv.club:25461/live/ga1/ga2/5185.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Algerie_3
+http://am-iptv.club:25461/live/ga1/ga2/682.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", SamiraTV_HD
+http://am-iptv.club:25461/live/ga1/ga2/6330.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", ENNAHAR TV
+http://am-iptv.club:25461/live/ga1/ga2/5158.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", SHOUROUK
+http://am-iptv.club:25461/live/ga1/ga2/5157.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Dzair tv
+http://am-iptv.club:25461/live/ga1/ga2/683.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Aloula Maroc
+http://am-iptv.club:25461/live/ga1/ga2/686.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Dijlajh TV
+http://am-iptv.club:25461/live/ga1/ga2/680.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", afaq tv
+http://am-iptv.club:25461/live/ga1/ga2/6500.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Alfajer tv
+http://am-iptv.club:25461/live/ga1/ga2/6506.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", almasar1
+http://am-iptv.club:25461/live/ga1/ga2/6501.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", alnabaa tv L
+http://am-iptv.club:25461/live/ga1/ga2/6495.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", ANN
+http://am-iptv.club:25461/live/ga1/ga2/6507.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", arrafidain tv
+http://am-iptv.club:25461/live/ga1/ga2/6502.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", bethlehemtv/b tv
+http://am-iptv.club:25461/live/ga1/ga2/6505.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", janoubia
+http://am-iptv.club:25461/live/ga1/ga2/6499.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", JOSAT
+http://am-iptv.club:25461/live/ga1/ga2/6508.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Libya 24 v
+http://am-iptv.club:25461/live/ga1/ga2/6913.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", libyaelwatan
+http://am-iptv.club:25461/live/ga1/ga2/6496.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", m tunisia
+http://am-iptv.club:25461/live/ga1/ga2/6498.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Musawa
+http://am-iptv.club:25461/live/ga1/ga2/6504.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", salam tv
+http://am-iptv.club:25461/live/ga1/ga2/6503.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", KARAMEESH v
+http://am-iptv.club:25461/live/ga1/ga2/691.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Libya_One
+http://am-iptv.club:25461/live/ga1/ga2/695.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Nessma Tunisia
+http://am-iptv.club:25461/live/ga1/ga2/687.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Tunisia nat1
+http://am-iptv.club:25461/live/ga1/ga2/685.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Tunisia nat2
+http://am-iptv.club:25461/live/ga1/ga2/684.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Sharjah
+http://am-iptv.club:25461/live/ga1/ga2/103.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Sharjah Sport
+http://am-iptv.club:25461/live/ga1/ga2/104.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",AlJadeed
+http://am-iptv.club:25461/live/ga1/ga2/49.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",AL JADEED vip
+http://am-iptv.club:25461/live/ga1/ga2/6914.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", National Geographic AD
+http://am-iptv.club:25461/live/ga1/ga2/22.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Aljazeera Mubasher
+http://am-iptv.club:25461/live/ga1/ga2/129.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Abu Dhabi tv
+http://am-iptv.club:25461/live/ga1/ga2/3753.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",AD Drama
+http://am-iptv.club:25461/live/ga1/ga2/25.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",AD Emarat
+http://am-iptv.club:25461/live/ga1/ga2/43.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Quest Arabiya v
+http://am-iptv.club:25461/live/ga1/ga2/52.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", NBN HD vip
+http://am-iptv.club:25461/live/ga1/ga2/5788.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Roya
+http://am-iptv.club:25461/live/ga1/ga2/96.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", bethlehemtv
+http://am-iptv.club:25461/live/ga1/ga2/6738.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", dorar
+http://am-iptv.club:25461/live/ga1/ga2/6736.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", palestinian
+http://am-iptv.club:25461/live/ga1/ga2/6737.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", alrai
+http://am-iptv.club:25461/live/ga1/ga2/5150.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Oman
+http://am-iptv.club:25461/live/ga1/ga2/5153.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", oman sport
+http://am-iptv.club:25461/live/ga1/ga2/5152.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Libya
+http://am-iptv.club:25461/live/ga1/ga2/68.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", ANB
+http://am-iptv.club:25461/live/ga1/ga2/6376.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", hawacom v
+http://am-iptv.club:25461/live/ga1/ga2/6378.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Lybia E
+http://am-iptv.club:25461/live/ga1/ga2/6377.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Nabaa
+http://am-iptv.club:25461/live/ga1/ga2/6379.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", One
+http://am-iptv.club:25461/live/ga1/ga2/6375.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",musawa
+http://am-iptv.club:25461/live/ga1/ga2/4.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Qudistv
+http://am-iptv.club:25461/live/ga1/ga2/5.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", aldafrah.tv
+http://am-iptv.club:25461/live/ga1/ga2/5199.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Elbilad
+http://am-iptv.club:25461/live/ga1/ga2/5458.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", AL IRAQIYA
+http://am-iptv.club:25461/live/ga1/ga2/5857.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Al Sumaria
+http://am-iptv.club:25461/live/ga1/ga2/5854.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Alsharqia
+http://am-iptv.club:25461/live/ga1/ga2/5856.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Baghdad TV
+http://am-iptv.club:25461/live/ga1/ga2/5855.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",IQRAA
+http://am-iptv.club:25461/live/ga1/ga2/81.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", BBC Arabic
+http://am-iptv.club:25461/live/ga1/ga2/117.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", al-janoubia
+http://am-iptv.club:25461/live/ga1/ga2/5825.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Extranews
+http://am-iptv.club:25461/live/ga1/ga2/121.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", FRANCE 24 Arabic
+http://am-iptv.club:25461/live/ga1/ga2/118.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Hadath IRAQ
+http://am-iptv.club:25461/live/ga1/ga2/92.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", SKY NEWS ARABIC
+http://am-iptv.club:25461/live/ga1/ga2/85.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM",Space Toons
+http://am-iptv.club:25461/live/ga1/ga2/23.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", CN ARABIC
+http://am-iptv.club:25461/live/ga1/ga2/1290.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", baraem
+http://am-iptv.club:25461/live/ga1/ga2/2762.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Majed
+http://am-iptv.club:25461/live/ga1/ga2/4903.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Gem europ
+http://am-iptv.club:25461/live/ga1/ga2/4772.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Mikey TV
+http://am-iptv.club:25461/live/ga1/ga2/5161.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Mody Kids
+http://am-iptv.club:25461/live/ga1/ga2/5160.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Semsem_HD
+http://am-iptv.club:25461/live/ga1/ga2/6331.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", TOYOR AL JANAH
+http://am-iptv.club:25461/live/ga1/ga2/5159.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Alhurra
+http://am-iptv.club:25461/live/ga1/ga2/806.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Libya1 TV
+http://am-iptv.club:25461/live/ga1/ga2/805.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", alsharqiya news
+http://am-iptv.club:25461/live/ga1/ga2/813.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", JordanSport_HD
+http://am-iptv.club:25461/live/ga1/ga2/6326.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", NourElSham_HD
+http://am-iptv.club:25461/live/ga1/ga2/6328.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", libya-alhadath
+http://am-iptv.club:25461/live/ga1/ga2/5162.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", wesal tv
+http://am-iptv.club:25461/live/ga1/ga2/807.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Al Jazeera Arabic
+http://am-iptv.club:25461/live/ga1/ga2/1284.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Al Jazeera English HD
+http://am-iptv.club:25461/live/ga1/ga2/1285.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", alalam
+http://am-iptv.club:25461/live/ga1/ga2/5645.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", AlArabiya
+http://am-iptv.club:25461/live/ga1/ga2/1286.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", alhadath
+http://am-iptv.club:25461/live/ga1/ga2/1287.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", DW
+http://am-iptv.club:25461/live/ga1/ga2/4996.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", TRT ARABIC
+http://am-iptv.club:25461/live/ga1/ga2/4992.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", RT Arabic
+http://am-iptv.club:25461/live/ga1/ga2/1288.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", Alghad almashriq
+http://am-iptv.club:25461/live/ga1/ga2/5843.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", CNBC Arabic
+http://am-iptv.club:25461/live/ga1/ga2/1289.ts
+#EXTINF:-1 group-title="United.Arab.Emirates2_PREMIUM", alhiwar
+http://am-iptv.club:25461/live/ga1/ga2/6437.ts
 
 
 
