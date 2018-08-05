@@ -182,7 +182,7 @@ http://tv3.streampulse.eu:1935/tilesport/movie1/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="Action 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png" ,Action 24
 http://stream-15.dc3.dailymotion.com/48/dm/3/x61fbhs/live-1.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://4.bp.blogspot.com/-CSt3UGbihus/U_D9TOsr3CI/AAAAAAAAZv4/z1L9SCenBKo/s1600/best_tv.png" ,BEST TV 
-http://s.bizr.gr:8080/hls/best.m3u8
+https://best-tv.gr/HLS/hls/best/index.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/skTCR6" ,TV100
 http://178.62.176.153/hls/tv100/index.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/fFjaAp" ,START
@@ -192,9 +192,9 @@ http://94.23.218.186:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/BYFmhv" ,OMEGA
 http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/ZTIWHBd.png" ,NEW TV
-http://w11.streamgb.com:1935/Newtv/Newtv/playlist.m3u8
+https://neotv.streamings.gr/live/tv/index.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/WSfOWs" ,NEA TV
-http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
+https://prod-video-eu-central-1.pscp.tv/JTGWW_01bVvMAp2HcUKkYPlM2VjU0hgu7x_xeIY9Lbx9P2PfVmyev417ZS_J3aKOKXnKNa-_uKbGZ_oqwXA9_Q/live/eu-central-1/dynamic_highlatency.m3u8
 #EXTINF:-1 group-title="Greece"  tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ARN/arena-colour-lightbg.png" ,ARENA
 http://web.onair-radio.eu:1935/Arenachannel/Arenachannel/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/GdgekUL.png" ,TV FILOPOLI
@@ -210,7 +210,7 @@ http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="Kontra Channel" epg-id="KontraEN.gr" tvg-logo="https://goo.gl/S96RUr" ,KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/3EsuCz" ,AIGAIO
-http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
+https://ssh101.com/m3u8/dyn/aigaiotvlive/index.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/mNqHoo" ,AXELOOS
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/nYsDIa" ,ASTRA
