@@ -204,7 +204,7 @@ https://www.djing.com/tv/d-28081-04.m3u8
 https://www.djing.com/tv/u-28081-04.m3u8
 #EXTINF:0 group-title="MUSIC" tvg-logo=" https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/b8/38/15/b8381545-a4ef-9964-a41f-769e6e68173c/mzl.viicybue.png/246x0w.jpg",Radio 105 TV   
 rtmp://fms.105.net:1935/live/105Test1#gfgyut9991.ch?token=0.861700,1.03854
-#EXTINF:0 group-title="UK-WEBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/5/5b/Hittv_logo_2014.jpg" ,MyHit
+#EXTINF:0 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/5/5b/Hittv_logo_2014.jpg" ,MyHit
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 #EXTINF:0 group-title="MUSIC" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/06/RMC-TV-Turkey.jpg",Radio Monte Carlo TV
 rtmp://fms.105.net:1935/live/rmc1
