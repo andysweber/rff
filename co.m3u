@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,07/08/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,08/08/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -5076,6 +5076,290 @@ http://iptvpro.watch-vision.net:8789/live/raho/raho2017/716.ts
 
 
 
+#EXTINF:-1 group-title="France4-PREMIUM",
+
+#EXTM3U
+#EXTINF:-1 group-title="France4-PREMIUM",TF1 HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/16.ts
+#EXTINF:-1 group-title="France4-PREMIUM",C8 HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/3.ts
+#EXTINF:-1 group-title="France4-PREMIUM",GAME ONE
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/19.ts
+#EXTINF:-1 group-title="France4-PREMIUM",SYFY
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/11.ts
+#EXTINF:-1 group-title="France4-PREMIUM",13EME RUE
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/30.ts
+#EXTINF:-1 group-title="France4-PREMIUM",ARTE HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/9.ts
+#EXTINF:-1 group-title="France4-PREMIUM",ATV Guadeloupe
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/37.ts
+#EXTINF:-1 group-title="France4-PREMIUM",ATV Martinique
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/38.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CANAL 10
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/25.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CANAL J
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/34.ts
+#EXTINF:-1 group-title="France4-PREMIUM",ESPN
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/29.ts
+#EXTINF:-1 group-title="France4-PREMIUM",ETV GP
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/32.ts
+#EXTINF:-1 group-title="France4-PREMIUM",FRANCE 2 HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/4.ts
+#EXTINF:-1 group-title="France4-PREMIUM",FRANCE 3 HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/5.ts
+#EXTINF:-1 group-title="France4-PREMIUM",FRANCE 4 HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/6.ts
+#EXTINF:-1 group-title="France4-PREMIUM",FRANCE 5 HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/7.ts
+#EXTINF:-1 group-title="France4-PREMIUM",FRANCE Ô HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/8.ts
+#EXTINF:-1 group-title="France4-PREMIUM",Guadeloupe 1 ere
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/18.ts
+#EXTINF:-1 group-title="France4-PREMIUM",GULLI
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/17.ts
+#EXTINF:-1 group-title="France4-PREMIUM",Guyane 1ere
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/23.ts
+#EXTINF:-1 group-title="France4-PREMIUM",HISTOIRE
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/27.ts
+#EXTINF:-1 group-title="France4-PREMIUM",LCI
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/35.ts
+#EXTINF:-1 group-title="France4-PREMIUM",M6 HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/15.ts
+#EXTINF:-1 group-title="France4-PREMIUM",Martinique 1 ere
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/24.ts
+#EXTINF:-1 group-title="France4-PREMIUM",MTV
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/20.ts
+#EXTINF:-1 group-title="France4-PREMIUM",MTV HITS
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/13.ts
+#EXTINF:-1 group-title="France4-PREMIUM",NOVELAS TV
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/26.ts
+#EXTINF:-1 group-title="France4-PREMIUM",NRJ 12 HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/14.ts
+#EXTINF:-1 group-title="France4-PREMIUM",PARIS PREMIERE
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/28.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TELE MICRO
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/36.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TF1 SERIES FILMS
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/33.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TFX
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/31.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TRACE TROPICAL
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/21.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TRACE URBAN
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/22.ts
+#EXTINF:-1 group-title="France4-PREMIUM",USHUAIA TV HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/12.ts
+#EXTINF:-1 group-title="France4-PREMIUM",W9 HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/10.ts
+#EXTINF:-1 group-title="France4-PREMIUM",A+
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/39.ts
+#EXTINF:-1 group-title="France4-PREMIUM",ALIZES GP
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/42.ts
+#EXTINF:-1 group-title="France4-PREMIUM",BBLACK CARIBBEAN
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/47.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CNEWS
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/43.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CSTAR
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/48.ts
+#EXTINF:-1 group-title="France4-PREMIUM",FRANCE 24
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/44.ts
+#EXTINF:-1 group-title="France4-PREMIUM",KTO
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/50.ts
+#EXTINF:-1 group-title="France4-PREMIUM",L'EQUIPE
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/45.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TEVA
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/46.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TNH
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/51.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TV BREIZH
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/49.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TV5 MONDE
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/40.ts
+#EXTINF:-1 group-title="France4-PREMIUM",VOYAGE
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/52.ts
+#EXTINF:-1 group-title="France4-PREMIUM",ZOUK TV
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/41.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CNN HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/53.ts
+#EXTINF:-1 group-title="France4-PREMIUM",DISCOVERY SC
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/55.ts
+#EXTINF:-1 group-title="France4-PREMIUM",SEASONS
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/54.ts
+#EXTINF:-1 group-title="France4-PREMIUM",INDIES LIVE TV
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/56.ts
+#EXTINF:-1 group-title="France4-PREMIUM",IOTV
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/57.ts
+#EXTINF:-1 group-title="France4-PREMIUM",EUROSPORT 1 HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/58.ts
+#EXTINF:-1 group-title="France4-PREMIUM",ATV GUYANE
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/66.ts
+#EXTINF:-1 group-title="France4-PREMIUM",BEIN SPORT 1
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/61.ts
+#EXTINF:-1 group-title="France4-PREMIUM",BEIN SPORT 2
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/62.ts
+#EXTINF:-1 group-title="France4-PREMIUM",BEIN SPORT 3
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/63.ts
+#EXTINF:-1 group-title="France4-PREMIUM",BET
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/67.ts
+#EXTINF:-1 group-title="France4-PREMIUM",DISCOVERY HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/64.ts
+#EXTINF:-1 group-title="France4-PREMIUM",NAT GEO  HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/60.ts
+#EXTINF:-1 group-title="France4-PREMIUM",NAT GEO WILD HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/59.ts
+#EXTINF:-1 group-title="France4-PREMIUM",NICKELODEON
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/65.ts
+#EXTINF:-1 group-title="France4-PREMIUM",tv shalom
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/68.ts
+#EXTINF:-1 group-title="France4-PREMIUM",ABC NEWS
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/71.ts
+#EXTINF:-1 group-title="France4-PREMIUM",ABC USA
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/78.ts
+#EXTINF:-1 group-title="France4-PREMIUM",Access Sacramento
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/79.ts
+#EXTINF:-1 group-title="France4-PREMIUM",Almavison (USA)
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/80.ts
+#EXTINF:-1 group-title="France4-PREMIUM",Alternative (USA)
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/81.ts
+#EXTINF:-1 group-title="France4-PREMIUM",Bloomberg (USA)
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/82.ts
+#EXTINF:-1 group-title="France4-PREMIUM",BT Sport
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/70.ts
+#EXTINF:-1 group-title="France4-PREMIUM",C-SPAN  2 (USA)
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/83.ts
+#EXTINF:-1 group-title="France4-PREMIUM",C-SPAN (USA)
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/84.ts
+#EXTINF:-1 group-title="France4-PREMIUM",C-Span3 (USA)
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/85.ts
+#EXTINF:-1 group-title="France4-PREMIUM",C-TN (USA)
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/86.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CANAL 11 HAITI
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/87.ts
+#EXTINF:-1 group-title="France4-PREMIUM",Caraibes FM HAITI
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/88.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CBN News (USA)
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/89.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CBNS USA HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/90.ts
+#EXTINF:-1 group-title="France4-PREMIUM",EXCELSIOR TV HAITI
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/91.ts
+#EXTINF:-1 group-title="France4-PREMIUM",Imedia Haiti
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/92.ts
+#EXTINF:-1 group-title="France4-PREMIUM",Insight UK
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/93.ts
+#EXTINF:-1 group-title="France4-PREMIUM",Konpa Events TV
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/94.ts
+#EXTINF:-1 group-title="France4-PREMIUM",MSNBC
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/69.ts
+#EXTINF:-1 group-title="France4-PREMIUM",NAGO TV
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/74.ts
+#EXTINF:-1 group-title="France4-PREMIUM",PERFECT STREAM HAITI - chunklist
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/95.ts
+#EXTINF:-1 group-title="France4-PREMIUM",Radio Ginem
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/96.ts
+#EXTINF:-1 group-title="France4-PREMIUM",Radio Kiskeya HAITI
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/97.ts
+#EXTINF:-1 group-title="France4-PREMIUM",Radio scoop HAITI
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/98.ts
+#EXTINF:-1 group-title="France4-PREMIUM",Radio Shalom
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/99.ts
+#EXTINF:-1 group-title="France4-PREMIUM",RADIO TELE BOSTON
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/100.ts
+#EXTINF:-1 group-title="France4-PREMIUM",RADIO TELE CARAIBES  HAITI
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/73.ts
+#EXTINF:-1 group-title="France4-PREMIUM",RADIO TELE ECLAIR
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/101.ts
+#EXTINF:-1 group-title="France4-PREMIUM",RADIO TELE ECLAIR HAITI
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/102.ts
+#EXTINF:-1 group-title="France4-PREMIUM",RADIO TELE SUPER STAR HAITI
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/103.ts
+#EXTINF:-1 group-title="France4-PREMIUM",RADIO VISION 2000 HAITI
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/104.ts
+#EXTINF:-1 group-title="France4-PREMIUM",RT USA
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/105.ts
+#EXTINF:-1 group-title="France4-PREMIUM",RTE HAITI
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/106.ts
+#EXTINF:-1 group-title="France4-PREMIUM",RTG 18
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/107.ts
+#EXTINF:-1 group-title="France4-PREMIUM",RTVC
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/108.ts
+#EXTINF:-1 group-title="France4-PREMIUM",scoop TV
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/75.ts
+#EXTINF:-1 group-title="France4-PREMIUM",SKY TV HAITI
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/109.ts
+#EXTINF:-1 group-title="France4-PREMIUM",STORM TV
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/110.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TELE AMANIY HAITI
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/76.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TELE ANACAONA
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/111.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TELE PACIFIC HAITI
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/112.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TELE PLURIEL HAITI
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/113.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TELE SOLEIL HAITI
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/114.ts
+#EXTINF:-1 group-title="France4-PREMIUM",THM HAITI
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/115.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TRIPOTAY LAKAY
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/77.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TV METROPOLE HAITI
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/116.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TV SIGNAL HAITI
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/117.ts
+#EXTINF:-1 group-title="France4-PREMIUM",U9TV HAITI
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/72.ts
+#EXTINF:-1 group-title="France4-PREMIUM",COLOR VISION 9
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/118.ts
+#EXTINF:-1 group-title="France4-PREMIUM",AB MOTEUR HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/120.ts
+#EXTINF:-1 group-title="France4-PREMIUM",EURONEWS
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/122.ts
+#EXTINF:-1 group-title="France4-PREMIUM",EUROSPORT 2 HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/119.ts
+#EXTINF:-1 group-title="France4-PREMIUM",KMT
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/123.ts
+#EXTINF:-1 group-title="France4-PREMIUM",KOUROU TV
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/124.ts
+#EXTINF:-1 group-title="France4-PREMIUM",MCM
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/121.ts
+#EXTINF:-1 group-title="France4-PREMIUM",FX HD - USA
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/125.ts
+#EXTINF:-1 group-title="France4-PREMIUM",ABC HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/129.ts
+#EXTINF:-1 group-title="France4-PREMIUM",ESPN U HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/127.ts
+#EXTINF:-1 group-title="France4-PREMIUM",NBA TV HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/130.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TSN 4 HD
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/126.ts
+#EXTINF:-1 group-title="France4-PREMIUM",USA Network
+http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/128.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -7139,188 +7423,6 @@ http://62.28.213.14:9981/stream/channelid/1063252727
 
 #EXTINF:-1 group-title="Portugal4",
 
-#EXTINF:-1 group-title="Portugal4",24 Kitchen HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8876.ts
-#EXTINF:-1 group-title="Portugal4",A&E
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8875.ts
-#EXTINF:-1 group-title="Portugal4",ABOLA TV
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8874.ts
-#EXTINF:-1 group-title="Portugal4",Afro Music
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8873.ts
-#EXTINF:-1 group-title="Portugal4",AXN BLACK HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8872.ts
-#EXTINF:-1 group-title="Portugal4",AXN HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8871.ts
-#EXTINF:-1 group-title="Portugal4",AXN WHITE
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8870.ts
-#EXTINF:-1 group-title="Portugal4",Baby Tv
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8869.ts
-#EXTINF:-1 group-title="Portugal4",Biggs
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8868.ts
-#EXTINF:-1 group-title="Portugal4",BTV 1 HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8867.ts
-#EXTINF:-1 group-title="Portugal4",Caca & Pesca
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8866.ts
-#EXTINF:-1 group-title="Portugal4",Canal Historia
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8865.ts
-#EXTINF:-1 group-title="Portugal4",CANAL PANDA
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8864.ts
-#EXTINF:-1 group-title="Portugal4",Cancao Nova
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8863.ts
-#EXTINF:-1 group-title="Portugal4",Cartoon NetWork
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8862.ts
-#EXTINF:-1 group-title="Portugal4",CBS Reality
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8861.ts
-#EXTINF:-1 group-title="Portugal4",CINEMUNDO
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8860.ts
-#EXTINF:-1 group-title="Portugal4",CMTV
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8859.ts
-#EXTINF:-1 group-title="Portugal4",Discovery Channel
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8858.ts
-#EXTINF:-1 group-title="Portugal4",Discovery Showcase HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8857.ts
-#EXTINF:-1 group-title="Portugal4",Disney Channel
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8856.ts
-#EXTINF:-1 group-title="Portugal4",E! Entertaunment
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8855.ts
-#EXTINF:-1 group-title="Portugal4",EUroNews
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8854.ts
-#EXTINF:-1 group-title="Portugal4",EUROSPORT 1
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8853.ts
-#EXTINF:-1 group-title="Portugal4",EUROSPORT 2
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8852.ts
-#EXTINF:-1 group-title="Portugal4",EuroSport 2 XTRA HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8851.ts
-#EXTINF:-1 group-title="Portugal4",EUROSPORT NEWS
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8850.ts
-#EXTINF:-1 group-title="Portugal4",FOX COMEDY
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8849.ts
-#EXTINF:-1 group-title="Portugal4",FOX Crime HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8848.ts
-#EXTINF:-1 group-title="Portugal4",FOX HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8847.ts
-#EXTINF:-1 group-title="Portugal4",Fox Life HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8846.ts
-#EXTINF:-1 group-title="Portugal4",FOX Movies
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8845.ts
-#EXTINF:-1 group-title="Portugal4",Fuel TV
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8844.ts
-#EXTINF:-1 group-title="Portugal4",FX
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8843.ts
-#EXTINF:-1 group-title="Portugal4",Globo
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8842.ts
-#EXTINF:-1 group-title="Portugal4",Globo Premium
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8841.ts
-#EXTINF:-1 group-title="Portugal4",Historia
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8840.ts
-#EXTINF:-1 group-title="Portugal4",Hollywood HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8839.ts
-#EXTINF:-1 group-title="Portugal4",MCM Pop
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8838.ts
-#EXTINF:-1 group-title="Portugal4",Motors TV
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8837.ts
-#EXTINF:-1 group-title="Portugal4",Motorvision
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8836.ts
-#EXTINF:-1 group-title="Portugal4",MOV
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8835.ts
-#EXTINF:-1 group-title="Portugal4",MTV Portugal
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8834.ts
-#EXTINF:-1 group-title="Portugal4",Nat Geo Wild
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8833.ts
-#EXTINF:-1 group-title="Portugal4",National Geographic HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8832.ts
-#EXTINF:-1 group-title="Portugal4",Nickelodeon
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8831.ts
-#EXTINF:-1 group-title="Portugal4",Odisseia
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8830.ts
-#EXTINF:-1 group-title="Portugal4",PFC
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8829.ts
-#EXTINF:-1 group-title="Portugal4",Porto Canal
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8828.ts
-#EXTINF:-1 group-title="Portugal4",Record News
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8827.ts
-#EXTINF:-1 group-title="Portugal4",RTP 1
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8826.ts
-#EXTINF:-1 group-title="Portugal4",RTP 2
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8825.ts
-#EXTINF:-1 group-title="Portugal4",RTP 3
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8824.ts
-#EXTINF:-1 group-title="Portugal4",RTP Acores
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8823.ts
-#EXTINF:-1 group-title="Portugal4",RTP Ãfrica
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8822.ts
-#EXTINF:-1 group-title="Portugal4",RTP Madeira
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8821.ts
-#EXTINF:-1 group-title="Portugal4",RTP Memoria
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8820.ts
-#EXTINF:-1 group-title="Portugal4",SIC
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8819.ts
-#EXTINF:-1 group-title="Portugal4",SIC Caras
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8818.ts
-#EXTINF:-1 group-title="Portugal4",SIC HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8817.ts
-#EXTINF:-1 group-title="Portugal4",SIC K
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8816.ts
-#EXTINF:-1 group-title="Portugal4",SIC Kids HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8815.ts
-#EXTINF:-1 group-title="Portugal4",SIC Mulher
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8814.ts
-#EXTINF:-1 group-title="Portugal4",SIC Noticias
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8813.ts
-#EXTINF:-1 group-title="Portugal4",SIC Noticias HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8812.ts
-#EXTINF:-1 group-title="Portugal4",SIC Radical
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8811.ts
-#EXTINF:-1 group-title="Portugal4",SPORT TV
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8810.ts
-#EXTINF:-1 group-title="Portugal4",SPORT TV   HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8809.ts
-#EXTINF:-1 group-title="Portugal4",SPORTING TV
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8808.ts
-#EXTINF:-1 group-title="Portugal4",SPORTTV 1 HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8807.ts
-#EXTINF:-1 group-title="Portugal4",SPORTTV 1 SD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8806.ts
-#EXTINF:-1 group-title="Portugal4",SPORTTV 2 HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8805.ts
-#EXTINF:-1 group-title="Portugal4",SPORTTV 2 SD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8804.ts
-#EXTINF:-1 group-title="Portugal4",SPORTTV 3 HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8803.ts
-#EXTINF:-1 group-title="Portugal4",SPORTTV 3 SD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8802.ts
-#EXTINF:-1 group-title="Portugal4",SPORTTV 4 HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8801.ts
-#EXTINF:-1 group-title="Portugal4",SPORTTV 5 HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8800.ts
-#EXTINF:-1 group-title="Portugal4",TLC
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8799.ts
-#EXTINF:-1 group-title="Portugal4",TPA Angola
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8798.ts
-#EXTINF:-1 group-title="Portugal4",Travel Channel HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8797.ts
-#EXTINF:-1 group-title="Portugal4",TV Globo Premium
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8796.ts
-#EXTINF:-1 group-title="Portugal4",TVCINE 1 HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8795.ts
-#EXTINF:-1 group-title="Portugal4",TVCINE 2 HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8794.ts
-#EXTINF:-1 group-title="Portugal4",TVCINE 3 HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8793.ts
-#EXTINF:-1 group-title="Portugal4",TVCINE 4 HD
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8792.ts
-#EXTINF:-1 group-title="Portugal4",TVE Internacional
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8791.ts
-#EXTINF:-1 group-title="Portugal4",TVI
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8790.ts
-#EXTINF:-1 group-title="Portugal4",Tvi 24
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8789.ts
-#EXTINF:-1 group-title="Portugal4",TVI FICCAO
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8788.ts
-#EXTINF:-1 group-title="Portugal4",TVI REALITY
-http://194.88.107.95:6204/live/Gamsa/Gamsa/8787.ts
-
-
 
 
 
@@ -7764,7 +7866,92 @@ http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4536.m3u8
 
 
 
-#EXTINF:8 group-title="Portugal3-PREMIUM-MXPlayer",
+#EXTINF:-1 group-title="Portugal3-PREMIUM",
+
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" ,TVI
+http://5.189.187.55:8000/live/Fadil/skype/1055.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" ,RTP 3
+http://5.189.187.55:8000/live/Fadil/skype/1969.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png" ,CM TV
+http://5.189.187.55:8000/live/Fadil/skype/2078.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+HD.png" ,SPORT TV+ HD
+http://5.189.187.55:8000/live/Fadil/skype/3185.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALQ.png" ,CANAL Q
+http://5.189.187.55:8000/live/Fadil/skype/3250.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" ,SPORT TV 1
+http://5.189.187.55:8000/live/Fadil/skype/858.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png" ,SPORT TV 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/1797.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" ,SPORT TV 2
+http://5.189.187.55:8000/live/Fadil/skype/857.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" ,SPORT TV 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/2827.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" ,SPORT TV 3
+http://5.189.187.55:8000/live/Fadil/skype/856.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png" ,SPORT TV 3 HD
+http://5.189.187.55:8000/live/Fadil/skype/2828.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" ,SPORT TV 4
+http://5.189.187.55:8000/live/Fadil/skype/855.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4HD.png" ,SPORT TV 4 HD
+http://5.189.187.55:8000/live/Fadil/skype/2829.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" ,SPORT TV 5
+http://5.189.187.55:8000/live/Fadil/skype/2475.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5HD.png" ,SPORT TV 5 HD
+http://5.189.187.55:8000/live/Fadil/skype/2830.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" ,BENFICA TV
+http://5.189.187.55:8000/live/Fadil/skype/2542.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" ,BENFICA TV HD
+http://5.189.187.55:8000/live/Fadil/skype/1090.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" ,EUROSPORT 1 HD PT
+http://5.189.187.55:8000/live/Fadil/skype/1973.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORSPORTTV.png" ,MOTORSPORT.TV
+http://5.189.187.55:8000/live/Fadil/skype/1966.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png" ,A BOLA TV
+http://5.189.187.55:8000/live/Fadil/skype/2478.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png" ,CARTOON NETWORK
+http://5.189.187.55:8000/live/Fadil/skype/2484.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PANDABIGGS.png" ,PANDA BIGGS
+http://5.189.187.55:8000/live/Fadil/skype/2073.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/JIMJAM.png" ,JIMJAM
+http://5.189.187.55:8000/live/Fadil/skype/3238.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png" ,TVCINE 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/1059.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png" ,TVCINE 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/1058.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3.png" ,TVCINE 3 HD
+http://5.189.187.55:8000/live/Fadil/skype/1057.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC4.png" ,TVCINE 4 HD
+http://5.189.187.55:8000/live/Fadil/skype/1056.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png" ,FOX HD
+http://5.189.187.55:8000/live/Fadil/skype/1694.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png" ,AXN HD
+http://5.189.187.55:8000/live/Fadil/skype/1046.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCOMEDY.png" ,FOX COMEDY HD
+http://5.189.187.55:8000/live/Fadil/skype/2144.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png" ,AXN WHITE HD
+http://5.189.187.55:8000/live/Fadil/skype/2061.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" ,SYFY HD
+http://5.189.187.55:8000/live/Fadil/skype/2474.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/MTV_Live_Logo.png" ,MTV LIVE HD
+http://5.189.187.55:8000/live/Fadil/skype/3258.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOHD.png" ,NATIONAL GEOGRAPHIC HD
+http://5.189.187.55:8000/live/Fadil/skype/1972.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png" ,NATIONAL GEOGRAPHIC WILD
+http://5.189.187.55:8000/live/Fadil/skype/2068.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/A&E.png" ,A&E
+http://5.189.187.55:8000/live/Fadil/skype/3251.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSREALITY.png" ,CBS REALITY
+http://5.189.187.55:8000/live/Fadil/skype/2066.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EURONEWS.png" ,EURONEWS
+http://5.189.187.55:8000/live/Fadil/skype/2482.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNN.png" ,CNN
+http://5.189.187.55:8000/live/Fadil/skype/2925.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL.png" ,RTL
+http://5.189.187.55:8000/live/Fadil/skype/2537.m3u8
+#EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHELSEATV.png" ,CHELSEA TV
+http://5.189.187.55:8000/live/Fadil/skype/434.m3u8
+
+
 
 
 
@@ -12861,7 +13048,82 @@ http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",
 
-
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",..:: BEIN SPORTS 4K ::..
+http://...
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 1 4K
+http://80.211.189.193/live/get.php?stream=27&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 2 4K
+http://80.211.189.193/live/get.php?stream=28&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 3 4K
+http://80.211.189.193/live/get.php?stream=29&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 4 4K
+http://80.211.189.193/live/get.php?stream=30&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 5 4K
+http://80.211.189.193/live/get.php?stream=31&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 6 4K
+http://80.211.189.193/live/get.php?stream=32&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 7 4K
+http://80.211.189.193/live/get.php?stream=33&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 8 4K
+http://80.211.189.193/live/get.php?stream=34&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",..:: BEIN SPORTS HD ::..
+http://....
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 1 HD
+http://80.211.189.193/live/get.php?stream=17&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 2 HD
+http://80.211.189.193/live/get.php?stream=18&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 3 HD
+http://80.211.189.193/live/get.php?stream=19&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 4 HD
+http://80.211.189.193/live/get.php?stream=20&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 5 HD
+http://80.211.189.193/live/get.php?stream=21&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 6 HD
+http://80.211.189.193/live/get.php?stream=22&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 7 HD
+http://80.211.189.193/live/get.php?stream=23&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 8 HD
+http://80.211.189.193/live/get.php?stream=24&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 9 HD
+http://80.211.189.193/live/get.php?stream=25&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 10 HD
+http://80.211.189.193/live/get.php?stream=26&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",..:: BEIN SPORTS SD ::..
+http://....
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 1 SD
+http://80.211.189.193/live/get.php?stream=9&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 2 SD
+http://80.211.189.193/live/get.php?stream=10&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 3 SD
+http://80.211.189.193/live/get.php?stream=11&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 4 SD
+http://80.211.189.193/live/get.php?stream=12&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 5 SD
+http://80.211.189.193/live/get.php?stream=13&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 6 SD
+http://80.211.189.193/live/get.php?stream=14&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 7 SD
+http://80.211.189.193/live/get.php?stream=15&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEIN SPORTS 8 SD
+http://80.211.189.193/live/get.php?stream=16&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",..:: BEINSPORT Low ::..
+http://....
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEINSPORT 1 Low
+http://80.211.189.193/live/get.php?stream=1&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEINSPORT 2 Low
+http://80.211.189.193/live/get.php?stream=2&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEINSPORT 3 Low
+http://80.211.189.193/live/get.php?stream=3&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEINSPORT 4 Low
+http://80.211.189.193/live/get.php?stream=4&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEINSPORT 5 Low
+http://80.211.189.193/live/get.php?stream=5&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEINSPORT 6 Low
+http://80.211.189.193/live/get.php?stream=6&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEINSPORT 7 Low
+http://80.211.189.193/live/get.php?stream=7&username=33713098160235&password=33713098160235
+#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEINSPORT 8 Low
+http://80.211.189.193/live/get.php?stream=8&username=33713098160235&password=33713098160235
 
 
 
