@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,08/08/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,09/08/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -1329,39 +1329,39 @@ http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34b
 http://..........
 
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/bbc1.jpg",BBC 1 
-https://easyview.eu/script.php?stream=bbc-1|webnoagent$$start=https://origin$$end=\">\u003C/iframe$$replace=embed.html$$replacewith=index.m3u8$$add=
+https://easyview.eu/script.php?stream=bbc-1|webnoagent$$start=https://origin$$end=');\n          hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg",BBC 2
-https://easyview.eu/script.php?stream=bbc-two|webnoagent$$start=https://origin$$end=\">\u003C/iframe$$replace=embed.html$$replacewith=index.m3u8$$add=
+https://easyview.eu/script.php?stream=bbc-two|webnoagent$$start=https://origin$$end=');\n          hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/bbc4-logo-400x284.jpg",BBC 4
-https://easyview.eu/script.php?stream=bbc-four|webnoagent$$start=https://origin$$end=\">\u003C/iframe$$replace=embed.html$$replacewith=index.m3u8$$add=
+https://easyview.eu/script.php?stream=bbc-four|webnoagent$$start=https://origin$$end=');\n          hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/CBBC.jpg",Cbbc 
-https://easyview.eu/script.php?stream=cbbc|webnoagent$$start=https://origin$$end=\">\u003C/iframe$$replace=embed.html$$replacewith=index.m3u8$$add=
+https://easyview.eu/script.php?stream=cbbc|webnoagent$$start=https://origin$$end=');\n          hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/cbeebies.jpg",cbeebies
-https://easyview.eu/script.php?stream=cbeebies|webnoagent$$start=https://origin$$end=\">\u003C/iframe$$replace=embed.html$$replacewith=index.m3u8$$add=
+https://easyview.eu/script.php?stream=cbeebies|webnoagent$$start=https://origin$$end=');\n          hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg",BBC 1 Wales
-https://easyview.eu/script.php?stream=bbc-one-wales|webnoagent$$start=https://origin$$end=\">\u003C/iframe$$replace=embed.html$$replacewith=index.m3u8$$add=
+https://easyview.eu/script.php?stream=bbc-one-wales|webnoagent$$start=https://origin$$end=');\n          hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg",BBC 1 Scotland
-https://easyview.eu/script.php?stream=bbc-one-scotland|webnoagent$$start=https://origin$$end=\">\u003C/iframe$$replace=embed.html$$replacewith=index.m3u8$$add=
+https://easyview.eu/script.php?stream=bbc-one-scotland|webnoagent$$start=https://origin$$end=');\n          hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg",BBC 1 Northern Ireland
-https://easyview.eu/script.php?stream=bbc-one-northern-ireland|webnoagent$$start=https://origin$$end=\">\u003C/iframe$$replace=embed.html$$replacewith=index.m3u8$$add=
+https://easyview.eu/script.php?stream=bbc-one-northern-ireland|webnoagent$$start=https://origin$$end=');\n          hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/bbc-parliament.jpg",BBC Parliament
-https://easyview.eu/script.php?stream=bbc-parliament|webnoagent$$start=https://origin$$end=\">\u003C/iframe$$replace=embed.html$$replacewith=index.m3u8$$add=
+https://easyview.eu/script.php?stream=bbc-parliament|webnoagent$$start=https://origin$$end=');\n          hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/bbc_news.jpg",BBC News
-https://easyview.eu/script.php?stream=bbc-news|webnoagent$$start=https://origin$$end=\">\u003C/iframe$$replace=embed.html$$replacewith=index.m3u8$$add=
+https://easyview.eu/script.php?stream=bbc-news|webnoagent$$start=https://origin$$end=');\n          hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/BBC_Alba.jpg",BBC alba
-https://easyview.eu/script.php?stream=bbc-alba|webnoagent$$start=https://origin$$end=\">\u003C/iframe$$replace=embed.html$$replacewith=index.m3u8$$add=
+https://easyview.eu/script.php?stream=bbc-alba|webnoagent$$start=https://origin$$end=');\n          hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg",ITV
-https://easyview.eu/script.php?stream=itv|webnoagent$$start=https://origin$$end=\">\u003C/iframe$$replace=embed.html$$replacewith=index.m3u8$$add=
+https://easyview.eu/script.php?stream=itv|webnoagent$$start=https://origin$$end=');\n          hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg",ITV 2
-https://easyview.eu/script.php?stream=itv2|webnoagent$$start=https://origin$$end=\">\u003C/iframe$$replace=embed.html$$replacewith=index.m3u8$$add=
+https://easyview.eu/script.php?stream=itv2|webnoagent$$start=https://origin$$end=');\n          hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/itv3-400x284.jpg",ITV 3
-https://easyview.eu/script.php?stream=itv3|webnoagent$$start=https://origin$$end=\">\u003C/iframe$$replace=embed.html$$replacewith=index.m3u8$$add=
+https://easyview.eu/script.php?stream=itv3|webnoagent$$start=https://origin$$end=');\n          hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/itv4-400x284.jpg",ITV 4
-https://easyview.eu/script.php?stream=itv4|webnoagent$$start=https://origin$$end=\">\u003C/iframe$$replace=embed.html$$replacewith=index.m3u8$$add=
+https://easyview.eu/script.php?stream=itv4|webnoagent$$start=https://origin$$end=');\n          hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/citv_logo_2015-400x284.jpg",CITV
-https://easyview.eu/script.php?stream=citv|webnoagent$$start=https://origin$$end=\">\u003C/iframe$$replace=embed.html$$replacewith=index.m3u8$$add=
+https://easyview.eu/script.php?stream=citv|webnoagent$$start=https://origin$$end=');\n          hls$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="UK1" tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg",ITV Be.
-https://easyview.eu/script.php?stream=itvbe|webnoagent$$start=https://origin$$end=\">\u003C/iframe$$replace=embed.html$$replacewith=index.m3u8$$add=
+https://easyview.eu/script.php?stream=itvbe|webnoagent$$start=https://origin$$end=');\n          hls$$replace=$$replacewith=$$add=
 
 
 
@@ -1772,6 +1772,46 @@ http://62.210.93.115:80/live?channelId=258&uid=1917&deviceMac=00:1A:79:15:34:33
 
 #EXTINF:-1 group-title="UK3", 
 
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/6PNa3pim.png",4Seven
+http://123tv.live/watch/4seven-live-stream-sky-137_tuteDlWTjL.html|webnoagent$$start=\"\" src=\"https://$$end===\">\u003C$$replace=\"\" src=\"$$replacewith=$$add===\
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/GlCExxVm.png",5USA
+http://123tv.live/watch/5usa-tv-live-stream-5usa-uk_PsExW1xTjN.html|webnoagent$$start=\"\" src=\"https://$$end===\">\u003C$$replace=\"\" src=\"$$replacewith=$$add===\
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/fsCI6qDm.png",BBC News
+http://123tv.live/watch/bbc-news-live-stream-uk_xulANjUHtf.html|webnoagent$$start=\"\" src=\"https://$$end===\">\u003C$$replace=\"\" src=\"$$replacewith=$$add===\
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/yKDqhfSm.png",BBC One
+http://123tv.live/watch/bbc-one-live-stream-uk_ZxMa9QlY9Z.html|webnoagent$$start=\"\" src=\"https://$$end===\">\u003C$$replace=\"\" src=\"$$replacewith=$$add===\
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/euO1fqHm.png",BBC Two
+http://123tv.live/watch/bbc-two-live-stream-uk_8B65zQHneq.html|webnoagent$$start=\"\" src=\"https://$$end===\">\u003C$$replace=\"\" src=\"$$replacewith=$$add===\
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/p3WKd91m.png",BBC World News
+http://123tv.live/watch/bbc-world-news-live-stream_eKzCxDAU9P.html|webnoagent$$start=\"\" src=\"https://$$end===\">\u003C$$replace=\"\" src=\"$$replacewith=$$add===\
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/B5z7SRQm.jpg",Bloomberg Europe
+http://123tv.live/watch/bloomberg-europe-live-stream_HPlsSe1wab.html|webnoagent$$start=\"\" src=\"https://$$end===\">\u003C$$replace=\"\" src=\"$$replacewith=$$add===\
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/adqiz2Km.png",CBBC Live Stream
+http://123tv.live/watch/cbbc-live-stream-cbbc-bbc-uk_xtizk9g79c.html|webnoagent$$start=\"\" src=\"https://$$end===\">\u003C$$replace=\"\" src=\"$$replacewith=$$add===\
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/2H3ir5wm.png",CBS Reality 
+http://123tv.live/watch/cbs-reality-live-stream-sky-146_kGamw9TcLU.html|webnoagent$$start=\"\" src=\"https://$$end===\">\u003C$$replace=\"\" src=\"$$replacewith=$$add===\
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/LbycMJSm.png",Channel 4
+http://123tv.live/watch/channel-4-live-stream-uk_PRFVIwBfit.html|webnoagent$$start=\"\" src=\"https://$$end===\">\u003C$$replace=\"\" src=\"$$replacewith=$$add===\
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/nzhZbFlm.png",Channel 5
+http://123tv.live/watch/channel-5-live-stream-uk_fyppAefG99.html|webnoagent$$start=\"\" src=\"https://$$end===\">\u003C$$replace=\"\" src=\"$$replacewith=$$add===\
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/DxC71PFm.png",CNBC Europe
+http://123tv.live/watch/cnbc-europe-live-stream_UhbquxKFG8.html|webnoagent$$start=\"\" src=\"https://$$end===\">\u003C$$replace=\"\" src=\"$$replacewith=$$add===\
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/Vb3j2tAm.jpg",CNN International Europe
+http://123tv.live/watch/cnn-international-europe-live_zBrDhCw35W.html|webnoagent$$start=\"\" src=\"https://$$end===\">\u003C$$replace=\"\" src=\"$$replacewith=$$add===\
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/JwXwTpkm.png",Dave Channel
+http://123tv.live/watch/dave-channel-live-stream-uktv_ghER2MSAEm.html|webnoagent$$start=\"\" src=\"https://$$end===\">\u003C$$replace=\"\" src=\"$$replacewith=$$add===\
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/0eiMIP9m.png",Drama Channel
+http://123tv.live/watch/drama-channel-live-stream-d-uktv_fess9vwNNM.html|webnoagent$$start=\"\" src=\"https://$$end===\">\u003C$$replace=\"\" src=\"$$replacewith=$$add===\
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/g2ncM8Xm.png",E4
+http://123tv.live/watch/e4-live-stream-uk_1gpqexC2mZ.html|webnoagent$$start=\"\" src=\"https://$$end===\">\u003C$$replace=\"\" src=\"$$replacewith=$$add===\
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/3EjqhMSm.png",Euronews UK
+http://123tv.live/watch/euronews-uk-live-stream_iC22jxguR7.html|webnoagent$$start=\"\" src=\"https://$$end===\">\u003C$$replace=\"\" src=\"$$replacewith=$$add===\
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/LClp2vem.png",Film4
+http://123tv.live/watch/film4-live-stream-uk_aMSXe4iUmm.html|webnoagent$$start=\"\" src=\"https://$$end===\">\u003C$$replace=\"\" src=\"$$replacewith=$$add===\
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/BiO7KTom.png",ITV
+http://123tv.live/watch/itv-itv1-live-stream-uk_AxYK2Qwqfn.html|webnoagent$$start=\"\" src=\"https://$$end===\">\u003C$$replace=\"\" src=\"$$replacewith=$$add===\
+#EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/A6MHGHtm.png",FreeSports
+http://123tv.live/watch/freesports-live-stream-uk_NUGZs8XrTn.html|webnoagent$$start=\"\" src=\"https://$$end===\">\u003C$$replace=\"\" src=\"$$replacewith=$$add===\
 
 
 
@@ -13124,6 +13164,238 @@ http://80.211.189.193/live/get.php?stream=6&username=33713098160235&password=337
 http://80.211.189.193/live/get.php?stream=7&username=33713098160235&password=33713098160235
 #EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BEINSPORT 8 Low
 http://80.211.189.193/live/get.php?stream=8&username=33713098160235&password=33713098160235
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR-Elhiwar_Ettounsi
+http://wygatv.com:4646/live/WyGaTv1531999339/5b50746b8bae8/719.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR-Tunisia-NAT_1
+http://wygatv.com:4646/live/WyGaTv1531999339/5b50746b8bae8/717.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR-Tunisia-NAT_2
+http://wygatv.com:4646/live/WyGaTv1531999339/5b50746b8bae8/718.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR-TUNISNA
+http://wygatv.com:4646/live/WyGaTv1531999339/5b50746b8bae8/725.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR-Nessma
+http://wygatv.com:4646/live/WyGaTv1531999339/5b50746b8bae8/721.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR-MTunisia
+http://wygatv.com:4646/live/WyGaTv1531999339/5b50746b8bae8/726.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR-ATTESSIA
+http://wygatv.com:4646/live/WyGaTv1531999339/5b50746b8bae8/720.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR-Cbc_Benna
+http://wygatv.com:4646/live/WyGaTv1531999339/5b50746b8bae8/1717.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR-CBC2
+http://wygatv.com:4646/live/WyGaTv1531999339/5b50746b8bae8/1615.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR-CBC-TV
+http://wygatv.com:4646/live/WyGaTv1531999339/5b50746b8bae8/853.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR-CBC-Sofra
+http://wygatv.com:4646/live/WyGaTv1531999339/5b50746b8bae8/854.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR-CBC-eXtra
+http://wygatv.com:4646/live/WyGaTv1531999339/5b50746b8bae8/855.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR-Cbc-Drama
+http://wygatv.com:4646/live/WyGaTv1531999339/5b50746b8bae8/856.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR-Al_Basira
+http://wygatv.com:4646/live/WyGaTv1531999339/5b50746b8bae8/1721.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR-Hannibal
+http://wygatv.com:4646/live/WyGaTv1531999339/5b50746b8bae8/722.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR-Iqraa
+http://wygatv.com:4646/live/WyGaTv1531999339/5b50746b8bae8/977.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR-Menhag_Alnbowa
+http://wygatv.com:4646/live/WyGaTv1531999339/5b50746b8bae8/1722.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",BEIN SPORTS 1 AR
+http://89.39.104.78:8000/live/test4/test4/43.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",BEIN SPORTS 2 AR
+http://89.39.104.78:8000/live/test4/test4/44.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",BEIN SPORTS 3 AR
+http://89.39.104.78:8000/live/test4/test4/45.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",BEIN SPORTS 4 AR
+http://89.39.104.78:8000/live/test4/test4/46.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",BEIN SPORTS 5 AR
+http://89.39.104.78:8000/live/test4/test4/47.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AL WATANYA 1
+http://89.39.104.78:8000/live/test4/test4/51.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AL WATANYA 2
+http://89.39.104.78:8000/live/test4/test4/52.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ALHIWAR ETTOUNSI
+http://89.39.104.78:8000/live/test4/test4/48.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ATTESSIA
+http://89.39.104.78:8000/live/test4/test4/50.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",HANNIBAL TV
+http://89.39.104.78:8000/live/test4/test4/57.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",NESSMA TV
+http://89.39.104.78:8000/live/test4/test4/58.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ALJANOUBIA
+http://89.39.104.78:8000/live/test4/test4/49.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",M TUNISIA
+http://89.39.104.78:8000/live/test4/test4/53.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",TELVZA TV
+http://89.39.104.78:8000/live/test4/test4/54.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",TUNISNA
+http://89.39.104.78:8000/live/test4/test4/55.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AL INSEN TV
+http://89.39.104.78:8000/live/test4/test4/56.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",MBC1 HD
+http://89.39.104.78:8000/live/test4/test4/227.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",MBC2 HD
+http://89.39.104.78:8000/live/test4/test4/228.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",MBC 3 HD
+http://89.39.104.78:8000/live/test4/test4/265.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",MBC4 HD
+http://89.39.104.78:8000/live/test4/test4/231.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",MBC ACTION HD
+http://89.39.104.78:8000/live/test4/test4/229.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",MBC MAX HD
+http://89.39.104.78:8000/live/test4/test4/230.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",MBC DRAMA HD
+http://89.39.104.78:8000/live/test4/test4/268.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",MBC+ VARIETY HD
+http://89.39.104.78:8000/live/test4/test4/264.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AL ARABIYA HD
+http://89.39.104.78:8000/live/test4/test4/263.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",LBC HD
+http://89.39.104.78:8000/live/test4/test4/233.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AL RESALAH HD
+http://89.39.104.78:8000/live/test4/test4/232.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ROTANA AFLAM HD
+http://89.39.104.78:8000/live/test4/test4/238.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ROTANA CINEMA HD
+http://89.39.104.78:8000/live/test4/test4/239.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ROTANA CLASSIC HD
+http://89.39.104.78:8000/live/test4/test4/237.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ROTANA KHALIJEAH HD
+http://89.39.104.78:8000/live/test4/test4/236.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ROTANA MASRIYA HD
+http://89.39.104.78:8000/live/test4/test4/235.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ROTANA MUSIC HD
+http://89.39.104.78:8000/live/test4/test4/234.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",CANAL ALGERIE
+http://89.39.104.78:8000/live/test4/test4/1759.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ALGERIE 3
+http://89.39.104.78:8000/live/test4/test4/1760.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ALGERIE 4
+http://89.39.104.78:8000/live/test4/test4/1761.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ALGERIE 5
+http://89.39.104.78:8000/live/test4/test4/1762.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",SAMIRA TV
+http://89.39.104.78:8000/live/test4/test4/1763.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ENNAHAR TV
+http://89.39.104.78:8000/live/test4/test4/1764.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",DZAIR TV
+http://89.39.104.78:8000/live/test4/test4/1765.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",BAHIA TV
+http://89.39.104.78:8000/live/test4/test4/247.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",BEUR TV
+http://89.39.104.78:8000/live/test4/test4/248.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",CHAMS TV
+http://89.39.104.78:8000/live/test4/test4/241.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",CBC BENNA
+http://89.39.104.78:8000/live/test4/test4/251.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ECHOUROUK NEWS
+http://89.39.104.78:8000/live/test4/test4/250.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ECHOUROUK TV
+http://89.39.104.78:8000/live/test4/test4/249.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",EL BILAD TV
+http://89.39.104.78:8000/live/test4/test4/242.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",EL DJAZAIRIA ONE
+http://89.39.104.78:8000/live/test4/test4/243.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",EL FADJR TV
+http://89.39.104.78:8000/live/test4/test4/240.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",EL HEDDAF
+http://89.39.104.78:8000/live/test4/test4/245.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",NUMIDIA
+http://89.39.104.78:8000/live/test4/test4/244.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",2M NATIONAL
+http://89.39.104.78:8000/live/test4/test4/259.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AL AOULA INTER HD
+http://89.39.104.78:8000/live/test4/test4/260.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AL AOULA LAAYOUNE
+http://89.39.104.78:8000/live/test4/test4/252.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AL MAGHRIBIA
+http://89.39.104.78:8000/live/test4/test4/256.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ARRABIÂ
+http://89.39.104.78:8000/live/test4/test4/257.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ARRYADIA
+http://89.39.104.78:8000/live/test4/test4/258.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ASSADISSA
+http://89.39.104.78:8000/live/test4/test4/255.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",MEDI 1 TV
+http://89.39.104.78:8000/live/test4/test4/253.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",TOUTE L'HISTOIRE
+http://89.39.104.78:8000/live/test4/test4/1617.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",RTL9
+http://89.39.104.78:8000/live/test4/test4/1618.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",CHASSE ET PÊCHE
+http://89.39.104.78:8000/live/test4/test4/1619.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AB MOTEUR
+http://89.39.104.78:8000/live/test4/test4/1620.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ANIMAUX
+http://89.39.104.78:8000/live/test4/test4/1621.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",SIENCE ET VIE
+http://89.39.104.78:8000/live/test4/test4/1622.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",GOLF CHANNEL
+http://89.39.104.78:8000/live/test4/test4/12.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
