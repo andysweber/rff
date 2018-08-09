@@ -99,7 +99,7 @@ http://cdnstream.istoikona.net:8081/cysports/cysports/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://alfasports.tv/wp-content/uploads/2017/07/19650478_10213391687526137_730682022_o.png",ALFA SPORT.TV
 http://l9.cloudskep.com/alsports/al24/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://static.wixstatic.com/media/e9f47d_1f30d615e14e4ae6a72d87b53a394a39~mv2_d_1605_1228_s_2.png/v1/fill/w_367,h_280,al_c,usm_0.66_1.00_0.01/e9f47d_1f30d615e14e4ae6a72d87b53a394a39~mv2_d_1605_1228_s_2.png" ,7sports
-https://istoikona.com/7Sportstv|webview zoom=100 scroll=0,0
+https://istoikona.com/7Sportstv|fullweb zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.radioepistrofi.com/templates/olympus/images/logo.jpg" ,RADIO EPISTROFI - TopFM99.9
 http://master.cystreams.com:25461/live/epistrofi/epistrofi123/44.ts
 
