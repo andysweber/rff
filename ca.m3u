@@ -214,7 +214,22 @@ rtmp://fms.105.net:1935/live/virgin1
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 #EXTINF:0 group-title="MUSIC",C Music World TV
 mmsh://streaming.cmusic.tv/cmusicworld-tv
-
+#EXTINF:0 group-title="MUSIC" tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png",Trace Tropical
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/5/prog_index.m3u8
+#EXTINF:0 group-title="MUSIC" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-africa-1.png",Trace Africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/5/prog_index.m3u8
+#EXTINF:0 group-title="MUSIC" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-toca.png",Trace Toca
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/5/prog_index.m3u8
+#EXTINF:0 group-title="MUSIC" tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/2016/11/logo_naija1.png",Trace Naija
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/5/prog_index.m3u8
+#EXTINF:0 group-title="MUSIC" tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png",Trace Mmziki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/5/prog_index.m3u8  
+#EXTINF:0 group-title="MUSIC" tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png",Trace Kitoko (960)
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/5/prog_index.m3u8
+#EXTINF:0 group-title="MUSIC" tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png",Trace Gospel (1024)
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8
+#EXTINF:0 group-title="MUSIC" tvg-logo="https://trace.company/wp-content/uploads/2017/07/LOGOS-TRACE-PRIME-2.png",Trace Prime
+https://d2ktlibtvvj8vp.cloudfront.net/trace_prime/6/prog_index.m3u8
 
 
 
