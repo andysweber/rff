@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,12/08/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,13/08/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -3257,316 +3257,379 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/811.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Italy2-PREMIUM",
 
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Sky_Calcio_1_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/849.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Sky_Calcio_2_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/850.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Sky_Calcio_3_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/851.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Sky_Calcio_4_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/852.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Sky_Calcio_5_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/853.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Sky_Calcio_6_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/854.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Sky_Calcio_7_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/855.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Premium_Calcio_1
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/839.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Premium_Calcio_2
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/840.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Premium_Calcio_3
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/841.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Premium_Calcio_4
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/842.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Premium_Calcio_5
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/843.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Premium_Calcio_6
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/844.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Sky_Cinema_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/829.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Sky_Cinema_1_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/827.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Sky_Cinema_24_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/828.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Sky_Cinema_Max_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/832.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Sky_Cinema_Hits_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/831.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Sky_Cinema_Family_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/830.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Sky_Cinema_Passion_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/833.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Sky_Uno_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/835.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Premium_Cinema_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/811.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Premium_Cinema_2_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/813.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Premium_Cinema_24_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/812.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Premium_Cinema_2_24
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/814.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Premium_Cinema_Energy
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/821.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Premium_Cinema_Emotion
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/820.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Premium_Cinema_Comedy
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/819.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Premium_Top_Crime_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/818.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Premium_Studio_Universal
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/825.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Premium_Stories
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/824.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Premium_joi
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/823.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Premium_Crime_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/815.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Premium_Crime_24_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/816.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Premium_Sport_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/837.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Premium_Calcio_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/838.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Premium_Action_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/817.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Sky_fox_Comedy_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/834.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Sky_Discovery_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/872.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_RSI_La_2_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/875.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_RSI_La_1_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/874.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Rete_4_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/859.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Real_Time_1
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/866.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Real_Time
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/865.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Super_Tenis_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/848.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Rai_Sport_1
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/876.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Sky_Sport_1
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/846.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Sky_Sport_2_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/845.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_SKY_Sport3
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/847.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_National_Geo_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/870.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_NatGeo_People_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/869.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Nat_Geo_Wild
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/868.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Mediaset_1_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/857.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_La_5_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/860.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Fox_Life_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/836.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_DMAX_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/862.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Disney_Chanel
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/871.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Discovery_Sci_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/867.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_DeejayTV_NOVE
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/864.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Canale_7
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/861.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Canale_5_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/858.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Alice
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/856.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Sky_Tg24
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/144.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Rai_Yoyo
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/142.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Rai_Premium
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/140.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Rai_News
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/143.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Rai_Movie
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/139.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Rai_Gulp
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/141.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Rai_1
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/135.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Rai_2
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/136.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Rai_3
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/137.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Rai_4
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/138.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_La7
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/148.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_GALICIA_AMERICA
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/145.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_Euronews_IT
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/150.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_360_TV
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/149.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_PRIMAFILA_1_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1296.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_PRIMAFILA_2_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1288.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_PRIMAFILA_3_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1287.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_PRIMAFILA_4_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1286.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_PRIMAFILA_5_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1285.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_PRIMAFILA_6_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1284.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_PRIMAFILA_7_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1283.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_PRIMAFILA_8_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1282.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_PRIMAFILA_9_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1281.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_PRIMAFILA_10_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1295.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_PRIMAFILA_11_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1294.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_PRIMAFILA_12_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1293.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_PRIMAFILA_13_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1292.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_PRIMAFILA_14_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1291.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_PRIMAFILA_15_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1290.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_PRIMAFILA_16_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1289.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_PRIMAFILA_17_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1961.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",IT_PRIMAFILA_18_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1962.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Super_Tenis_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/848.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai_Sport_1
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/876.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Sport_1
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/846.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Sport_2
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/845.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",SKY_Sport_3
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/847.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Calcio_1_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/849.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Calcio_2_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/850.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Calcio_3_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/851.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Calcio_4_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/852.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Calcio_5_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/853.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Calcio_6_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/854.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Calcio_7_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/855.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium_Sport_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/837.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium_Calcio_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/838.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium_Calcio_1
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/839.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium_Calcio_2
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/840.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium_Calcio_3
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/841.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium_Calcio_4
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/842.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium_Calcio_5
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/843.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium_Calcio_6
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/844.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Cinema_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/829.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Cinema_1_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/827.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Cinema_24_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/828.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Cinema_Max_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/832.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Cinema_Hits_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/831.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Cinema_Family_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/830.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Cinema_Passion_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/833.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium_Cinema_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/811.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium_Cinema_2_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/813.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium_Cinema_24_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/812.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium_Cinema_2_24
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/814.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium_Cinema_Energy
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/821.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium_Cinema_Emotion
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/820.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium_Cinema_Comedy
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/819.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Premium_Action_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/817.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai_Movie
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/139.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",PRIMAFILA_1_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1296.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",PRIMAFILA_2_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1288.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",PRIMAFILA_3_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1287.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",PRIMAFILA_4_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1286.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",PRIMAFILA_5_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1285.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",PRIMAFILA_6_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1284.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",PRIMAFILA_7_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1283.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",PRIMAFILA_8_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1282.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",PRIMAFILA_9_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1281.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",PRIMAFILA_10_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1295.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",PRIMAFILA_11_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1294.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",PRIMAFILA_12_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1293.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",PRIMAFILA_13_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1292.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",PRIMAFILA_14_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1291.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",PRIMAFILA_15_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1290.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",PRIMAFILA_16_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1289.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",PRIMAFILA_17_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1961.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",PRIMAFILA_18_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1962.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Discovery_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/872.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",National_Geo_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/870.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",NatGeo_People_HD
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/869.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Nat_Geo_Wild
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/868.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Rai_News
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/143.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Sky_Tg24
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/144.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",Euronews_IT
-http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/150.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai 1 HD
+http://topiptv.net:5890/live/fathi/fathi1/9103.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai 1
+http://topiptv.net:5890/live/fathi/fathi1/9102.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai 2 HD
+http://topiptv.net:5890/live/fathi/fathi1/9101.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai 2
+http://topiptv.net:5890/live/fathi/fathi1/9100.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai 3 HD
+http://topiptv.net:5890/live/fathi/fathi1/9099.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai 3
+http://topiptv.net:5890/live/fathi/fathi1/9098.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai 4 HD
+http://topiptv.net:5890/live/fathi/fathi1/9097.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai 4
+http://topiptv.net:5890/live/fathi/fathi1/9096.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai 5 HD
+http://topiptv.net:5890/live/fathi/fathi1/9095.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai 5
+http://topiptv.net:5890/live/fathi/fathi1/9094.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Gulp
+http://topiptv.net:5890/live/fathi/fathi1/9093.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Movie HD
+http://topiptv.net:5890/live/fathi/fathi1/9092.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Movie
+http://topiptv.net:5890/live/fathi/fathi1/9091.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai News 24
+http://topiptv.net:5890/live/fathi/fathi1/9090.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Premium HD
+http://topiptv.net:5890/live/fathi/fathi1/9089.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Scuola HD
+http://topiptv.net:5890/live/fathi/fathi1/9088.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Sport   HD
+http://topiptv.net:5890/live/fathi/fathi1/9087.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Sport  
+http://topiptv.net:5890/live/fathi/fathi1/9086.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Sport
+http://topiptv.net:5890/live/fathi/fathi1/9085.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rai Yoyo HD
+http://topiptv.net:5890/live/fathi/fathi1/9084.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Real Time HD
+http://topiptv.net:5890/live/fathi/fathi1/9082.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Italia 1 HD
+http://topiptv.net:5890/live/fathi/fathi1/9155.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Rete 4
+http://topiptv.net:5890/live/fathi/fathi1/9081.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",RSI La 1 HD
+http://topiptv.net:5890/live/fathi/fathi1/9108.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",RSI La 2 HD
+http://topiptv.net:5890/live/fathi/fathi1/9107.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",RTL 102.5 HD
+http://topiptv.net:5890/live/fathi/fathi1/9017.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Senato della Repubblica
+http://topiptv.net:5890/live/fathi/fathi1/9080.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Canale 5 HD
+http://topiptv.net:5890/live/fathi/fathi1/9184.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Canale 5
+http://topiptv.net:5890/live/fathi/fathi1/9185.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",LA 5
+http://topiptv.net:5890/live/fathi/fathi1/9152.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",La 7 d HD
+http://topiptv.net:5890/live/fathi/fathi1/9028.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",La 7 HD
+http://topiptv.net:5890/live/fathi/fathi1/9027.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",La TV dei Tifosi
+http://topiptv.net:5890/live/fathi/fathi1/9023.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Alice
+http://topiptv.net:5890/live/fathi/fathi1/9191.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Cielo
+http://topiptv.net:5890/live/fathi/fathi1/9178.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Iris HD
+http://topiptv.net:5890/live/fathi/fathi1/9156.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Class Horse TV
+http://topiptv.net:5890/live/fathi/fathi1/9183.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Automoto TV
+http://topiptv.net:5890/live/fathi/fathi1/9189.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Bike Channel HD
+http://topiptv.net:5890/live/fathi/fathi1/9187.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",K2
+http://topiptv.net:5890/live/fathi/fathi1/9153.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Lombardia Sat
+http://topiptv.net:5890/live/fathi/fathi1/9021.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",m2o tv
+http://topiptv.net:5890/live/fathi/fathi1/9150.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Marcopolo
+http://topiptv.net:5890/live/fathi/fathi1/9149.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",MTV
+http://topiptv.net:5890/live/fathi/fathi1/9151.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",NOVE HD
+http://topiptv.net:5890/live/fathi/fathi1/9176.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Radionorba TV
+http://topiptv.net:5890/live/fathi/fathi1/9018.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Super! HD
+http://topiptv.net:5890/live/fathi/fathi1/9033.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",TGCom 24
+http://topiptv.net:5890/live/fathi/fathi1/9145.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Top Crime
+http://topiptv.net:5890/live/fathi/fathi1/9031.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",TRC Sat
+http://topiptv.net:5890/live/fathi/fathi1/9016.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",TV 8 HD
+http://topiptv.net:5890/live/fathi/fathi1/9182.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",TV 8
+http://topiptv.net:5890/live/fathi/fathi1/9181.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",TV2000
+http://topiptv.net:5890/live/fathi/fathi1/9032.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",QVC HD
+http://topiptv.net:5890/live/fathi/fathi1/9020.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",--|IT RAGAZZI|--
+http://topiptv.net:5890/live/fathi/fathi1/1437.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Baby TV
+http://topiptv.net:5890/live/fathi/fathi1/9024.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Frisbee
+http://topiptv.net:5890/live/fathi/fathi1/9161.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Cartoon Network
+http://topiptv.net:5890/live/fathi/fathi1/9180.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Cartoonito
+http://topiptv.net:5890/live/fathi/fathi1/9179.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Disney Channel
+http://topiptv.net:5890/live/fathi/fathi1/9173.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Boing
+http://topiptv.net:5890/live/fathi/fathi1/9188.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Dea Junior
+http://topiptv.net:5890/live/fathi/fathi1/9172.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Disney Junior
+http://topiptv.net:5890/live/fathi/fathi1/9171.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Disney XD
+http://topiptv.net:5890/live/fathi/fathi1/9170.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Nick Jr.
+http://topiptv.net:5890/live/fathi/fathi1/9146.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",--|IT CULTURE|--
+http://topiptv.net:5890/live/fathi/fathi1/1436.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",DMAX
+http://topiptv.net:5890/live/fathi/fathi1/9177.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Animal Planet
+http://topiptv.net:5890/live/fathi/fathi1/9190.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Caccia e Pesca
+http://topiptv.net:5890/live/fathi/fathi1/9186.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Discovery Channel
+http://topiptv.net:5890/live/fathi/fathi1/9175.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Discovery Science
+http://topiptv.net:5890/live/fathi/fathi1/9174.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",National Geographic HD
+http://topiptv.net:5890/live/fathi/fathi1/9143.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",National Geographic People HD
+http://topiptv.net:5890/live/fathi/fathi1/9144.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Investigation Discovery
+http://topiptv.net:5890/live/fathi/fathi1/9026.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",History Lab
+http://topiptv.net:5890/live/fathi/fathi1/9158.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Focus
+http://topiptv.net:5890/live/fathi/fathi1/9164.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Gambero Rosso
+http://topiptv.net:5890/live/fathi/fathi1/9160.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Giallo
+http://topiptv.net:5890/live/fathi/fathi1/9159.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Giallo TV
+http://topiptv.net:5890/live/fathi/fathi1/9083.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",--|IT SPORT|--
+http://topiptv.net:5890/live/fathi/fathi1/1435.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport 1 HD
+http://topiptv.net:5890/live/fathi/fathi1/9045.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport 2 HD
+http://topiptv.net:5890/live/fathi/fathi1/9014.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport 24 HD
+http://topiptv.net:5890/live/fathi/fathi1/9044.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport 3 HD
+http://topiptv.net:5890/live/fathi/fathi1/9043.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport F1 HD
+http://topiptv.net:5890/live/fathi/fathi1/9042.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport Mix
+http://topiptv.net:5890/live/fathi/fathi1/9039.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Sport MotoGP HD
+http://topiptv.net:5890/live/fathi/fathi1/9041.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky SuperCalcio HD
+http://topiptv.net:5890/live/fathi/fathi1/9040.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky TG24
+http://topiptv.net:5890/live/fathi/fathi1/9038.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",FOX Sports HD
+http://topiptv.net:5890/live/fathi/fathi1/9056.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",SportItalia
+http://topiptv.net:5890/live/fathi/fathi1/9036.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Studio Universalalia
+http://topiptv.net:5890/live/fathi/fathi1/9035.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Super Tennis HD
+http://topiptv.net:5890/live/fathi/fathi1/9034.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Eurosport 1 HD
+http://topiptv.net:5890/live/fathi/fathi1/9169.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Eurosport 1
+http://topiptv.net:5890/live/fathi/fathi1/9168.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Eurosport 2
+http://topiptv.net:5890/live/fathi/fathi1/9167.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Lazio TV
+http://topiptv.net:5890/live/fathi/fathi1/9022.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Inter Channel
+http://topiptv.net:5890/live/fathi/fathi1/9157.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Milan TV
+http://topiptv.net:5890/live/fathi/fathi1/9025.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Juventus TV
+http://topiptv.net:5890/live/fathi/fathi1/9154.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 1 HD
+http://topiptv.net:5890/live/fathi/fathi1/9078.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 1 HD (ATTIVO 10 MIN. PRIMA DELLA PARTITA)
+http://topiptv.net:5890/live/fathi/fathi1/9077.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 2 HD
+http://topiptv.net:5890/live/fathi/fathi1/9076.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 2 HD (ATTIVO 10 MIN. PRIMA DELLA PARTITA)
+http://topiptv.net:5890/live/fathi/fathi1/9075.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 3 HD
+http://topiptv.net:5890/live/fathi/fathi1/9074.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 3 HD (ATTIVO 10 MIN. PRIMA DELLA PARTITA)
+http://topiptv.net:5890/live/fathi/fathi1/9073.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 4 HD
+http://topiptv.net:5890/live/fathi/fathi1/9072.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 4 HD (ATTIVO 10 MIN. PRIMA DELLA PARTITA)
+http://topiptv.net:5890/live/fathi/fathi1/9071.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 5 HD
+http://topiptv.net:5890/live/fathi/fathi1/9070.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 5 HD (ATTIVO 10 MIN. PRIMA DELLA PARTITA)
+http://topiptv.net:5890/live/fathi/fathi1/9069.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 6 HD
+http://topiptv.net:5890/live/fathi/fathi1/9068.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Calcio 6 HD (ATTIVO 10 MIN. PRIMA DELLA PARTITA)
+http://topiptv.net:5890/live/fathi/fathi1/9067.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",--|IT CINEMA|--
+http://topiptv.net:5890/live/fathi/fathi1/1433.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Uno HD
+http://topiptv.net:5890/live/fathi/fathi1/9037.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Atlantic HD
+http://topiptv.net:5890/live/fathi/fathi1/9079.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema  1 HD
+http://topiptv.net:5890/live/fathi/fathi1/9066.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema  24 HD
+http://topiptv.net:5890/live/fathi/fathi1/9065.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Classic HD
+http://topiptv.net:5890/live/fathi/fathi1/9063.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Comedy HD
+http://topiptv.net:5890/live/fathi/fathi1/9062.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Cult HD
+http://topiptv.net:5890/live/fathi/fathi1/9061.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Family HD
+http://topiptv.net:5890/live/fathi/fathi1/9060.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Hits HD
+http://topiptv.net:5890/live/fathi/fathi1/9059.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Max HD
+http://topiptv.net:5890/live/fathi/fathi1/9058.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Passion HD
+http://topiptv.net:5890/live/fathi/fathi1/9057.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Cinema Uno HD
+http://topiptv.net:5890/live/fathi/fathi1/9064.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",FOX Comedy HD
+http://topiptv.net:5890/live/fathi/fathi1/9166.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",FOX Crime HD
+http://topiptv.net:5890/live/fathi/fathi1/9163.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",FOX HD
+http://topiptv.net:5890/live/fathi/fathi1/9165.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",FOX Life
+http://topiptv.net:5890/live/fathi/fathi1/9162.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",--|IT MEDIASET|--
+http://topiptv.net:5890/live/fathi/fathi1/1422.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Mediaset Extra
+http://topiptv.net:5890/live/fathi/fathi1/9148.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Mediasetalia 2
+http://topiptv.net:5890/live/fathi/fathi1/9147.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Action  24
+http://topiptv.net:5890/live/fathi/fathi1/9142.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Action FHD
+http://topiptv.net:5890/live/fathi/fathi1/9141.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Action HD
+http://topiptv.net:5890/live/fathi/fathi1/9140.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Cinema  24
+http://topiptv.net:5890/live/fathi/fathi1/9125.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Cinema 2  24
+http://topiptv.net:5890/live/fathi/fathi1/9124.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Cinema 2 HD
+http://topiptv.net:5890/live/fathi/fathi1/9123.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Cinema Comedy
+http://topiptv.net:5890/live/fathi/fathi1/9122.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Cinema Emotion
+http://topiptv.net:5890/live/fathi/fathi1/9121.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Cinema Energy HD
+http://topiptv.net:5890/live/fathi/fathi1/9120.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Cinema HD
+http://topiptv.net:5890/live/fathi/fathi1/9119.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Crime  24
+http://topiptv.net:5890/live/fathi/fathi1/9118.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Crime HD
+http://topiptv.net:5890/live/fathi/fathi1/9117.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Joi  24
+http://topiptv.net:5890/live/fathi/fathi1/9116.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Joi HD
+http://topiptv.net:5890/live/fathi/fathi1/9115.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Joi
+http://topiptv.net:5890/live/fathi/fathi1/9114.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Sport 2 HD
+http://topiptv.net:5890/live/fathi/fathi1/9113.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Sport 2
+http://topiptv.net:5890/live/fathi/fathi1/9112.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Sport HD
+http://topiptv.net:5890/live/fathi/fathi1/9111.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Sport
+http://topiptv.net:5890/live/fathi/fathi1/9110.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Stories
+http://topiptv.net:5890/live/fathi/fathi1/9109.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Calcio 1 HD
+http://topiptv.net:5890/live/fathi/fathi1/9139.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Calcio 1
+http://topiptv.net:5890/live/fathi/fathi1/9138.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Calcio 2 HD
+http://topiptv.net:5890/live/fathi/fathi1/9137.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Calcio 2
+http://topiptv.net:5890/live/fathi/fathi1/9136.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Calcio 3 HD
+http://topiptv.net:5890/live/fathi/fathi1/9135.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Calcio 3
+http://topiptv.net:5890/live/fathi/fathi1/9134.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Calcio 4 HD
+http://topiptv.net:5890/live/fathi/fathi1/9133.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Calcio 4
+http://topiptv.net:5890/live/fathi/fathi1/9132.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Calcio 5 HD
+http://topiptv.net:5890/live/fathi/fathi1/9131.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Calcio 5
+http://topiptv.net:5890/live/fathi/fathi1/9130.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Calcio 6 HD
+http://topiptv.net:5890/live/fathi/fathi1/9129.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Calcio 6
+http://topiptv.net:5890/live/fathi/fathi1/9128.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Calcio 7
+http://topiptv.net:5890/live/fathi/fathi1/9127.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Premium Calcio HD
+http://topiptv.net:5890/live/fathi/fathi1/9126.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",--|IT PPV|--
+http://topiptv.net:5890/live/fathi/fathi1/1432.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Primafila 1 HD Live
+http://topiptv.net:5890/live/fathi/fathi1/9055.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Primafila 2 HD Live
+http://topiptv.net:5890/live/fathi/fathi1/9053.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Primafila 3 HD Live
+http://topiptv.net:5890/live/fathi/fathi1/9052.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Primafila 4 HD Live
+http://topiptv.net:5890/live/fathi/fathi1/9051.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Primafila 5 HD Live
+http://topiptv.net:5890/live/fathi/fathi1/9050.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Primafila 6 HD Live
+http://topiptv.net:5890/live/fathi/fathi1/9049.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Primafila 7 HD Live
+http://topiptv.net:5890/live/fathi/fathi1/9048.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Primafila 8 HD Live
+http://topiptv.net:5890/live/fathi/fathi1/9047.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Primafila 9 HD Live
+http://topiptv.net:5890/live/fathi/fathi1/9046.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Sky Primafila 10 HD Live
+http://topiptv.net:5890/live/fathi/fathi1/9054.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Radio 105 TV
+http://topiptv.net:5890/live/fathi/fathi1/9106.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Radio Capital
+http://topiptv.net:5890/live/fathi/fathi1/9105.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Radio Freccia HD
+http://topiptv.net:5890/live/fathi/fathi1/9019.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Radioalia
+http://topiptv.net:5890/live/fathi/fathi1/9013.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Radio Monte Carlo TV
+http://topiptv.net:5890/live/fathi/fathi1/9104.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Video Brescia
+http://topiptv.net:5890/live/fathi/fathi1/9030.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Virgin Radio TV
+http://topiptv.net:5890/live/fathi/fathi1/9029.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM",Viva l'Italia Channel
+http://topiptv.net:5890/live/fathi/fathi1/9015.m3u8
+
+
+
 
 
 
@@ -4289,7 +4352,124 @@ http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/11462.m3u8
 
 #EXTINF:-1 group-title="France3-PREMIUM",
 
-
+#EXTINF:-1 group-title="France3-PREMIUM",BFM Paris
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18885.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",TLC TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11451.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",BFM Busines
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18886.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",LM TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14252.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",CHERIE_25
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15209.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",IL TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15219.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",FOOT
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15230.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",HD1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15239.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",BFM Paris TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20408.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",BFM Business TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22122.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",8 Mont Blanc TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22125.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",C8
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20399.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",EURONEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15227.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",CGTN Français TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15197.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",EUROPA 1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22121.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",LEQUIPE21
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15245.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",Grand Littoral TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22093.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",QVC France TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22114.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",RUSSIA TODAY
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21069.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",PLANETE CI
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15263.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",Télésud
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22119.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",TV Cristal
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22113.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",TV LANDES
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22123.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",TV Pitchoun
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15249.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",TV Vendée
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22115.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",ZOUZOU TV HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20411.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",NUMERO 23 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20397.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",NLM TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22117.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",MONACO
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18889.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",Nancy TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22116.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",OL TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20407.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",AB moteur
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20402.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",AB3
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20401.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",Ab1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20400.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",TL 7
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22120.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",Ouatch TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22124.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",PlUG RTL
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15265.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",TV 7
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9016.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",TéléNantes
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22111.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",France info: TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22118.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",Alsace 20 TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22131.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",Assemblée Nationale TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22136.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",LCP  100%
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22127.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",RMC DECOUVERTE
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15267.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",TéléGrenoble Isère
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22128.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",TVPI
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22134.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",Azur TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22126.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",KTO TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22133.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",TV_BREIZH
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15278.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",Bip TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22135.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",Dieu TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18888.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",WEO
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18890.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",La Chaine Normande
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11450.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",WEO_HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15283.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",Mouv’ TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11453.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",GONG TV   local
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15606.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM", Public Sénat TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11590.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",EUROSPORT
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11459.m3u8
+#EXTINF:-1 group-title="France3-PREMIUM",C NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11462.m3u8
 
 
 
@@ -12455,521 +12635,1156 @@ http://89.39.104.78:8000/live/test4/test4/12.m3u8
 
 #EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",
 
-
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-1-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/371.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-1-FullHD
-http://smart-iptv2016.com:9500/live/jp1/jp2/102.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSPORTS 1 H.265
-http://smart-iptv2016.com:9500/live/jp1/jp2/1289.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-2-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/372.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-2-FullHD
-http://smart-iptv2016.com:9500/live/jp1/jp2/103.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSPORTS 2 H.265
-http://smart-iptv2016.com:9500/live/jp1/jp2/1281.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-3-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/373.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-3-FullHD
-http://smart-iptv2016.com:9500/live/jp1/jp2/104.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSPORTS 3 H.265
-http://smart-iptv2016.com:9500/live/jp1/jp2/1292.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-4-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/374.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-4-FullHD
-http://smart-iptv2016.com:9500/live/jp1/jp2/105.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSPORTS 4 H.265
-http://smart-iptv2016.com:9500/live/jp1/jp2/1280.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-5-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/375.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-5-FullHD
-http://smart-iptv2016.com:9500/live/jp1/jp2/106.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSPORTS 5 H.265
-http://smart-iptv2016.com:9500/live/jp1/jp2/738.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-6-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/376.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-6-FullHD
-http://smart-iptv2016.com:9500/live/jp1/jp2/107.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSPORTS 6 H.265
-http://smart-iptv2016.com:9500/live/jp1/jp2/995.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-7-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/377.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-7-FullHD
-http://smart-iptv2016.com:9500/live/jp1/jp2/108.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSPORTS 7 H.265
-http://smart-iptv2016.com:9500/live/jp1/jp2/994.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-8-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/378.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-8-FullHD
-http://smart-iptv2016.com:9500/live/jp1/jp2/109.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSPORTS 8 H.265
-http://smart-iptv2016.com:9500/live/jp1/jp2/993.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-9-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/379.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-9-FullHD
-http://smart-iptv2016.com:9500/live/jp1/jp2/110.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSPORTS 9 H.265
-http://smart-iptv2016.com:9500/live/jp1/jp2/734.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-10-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/380.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-10-FullHD
-http://smart-iptv2016.com:9500/live/jp1/jp2/111.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSPORTS 10 H.265
-http://smart-iptv2016.com:9500/live/jp1/jp2/732.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-11-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1256.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-12-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1257.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-News-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/693.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-News_HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/840.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-News.HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/307.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1155.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",----- BEINMAX-SPORTS -----
-http://smart-iptv2016.com:9500/live/jp1/jp2/1235.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-MAX-1-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/369.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-MAX-1-FullHD
-http://smart-iptv2016.com:9500/live/jp1/jp2/56.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-MAX-2-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/370.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-MAX-2-FullHD
-http://smart-iptv2016.com:9500/live/jp1/jp2/968.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-MAX-3-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/692.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-MAX-3-FullHD
-http://smart-iptv2016.com:9500/live/jp1/jp2/851.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-1-H.265-TR
-http://smart-iptv2016.com:9500/live/jp1/jp2/1262.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-2-H.265-TR
-http://smart-iptv2016.com:9500/live/jp1/jp2/1039.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",beINSPORTS-3-H.265-TR
-http://smart-iptv2016.com:9500/live/jp1/jp2/914.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",****_Bein-Movies_****
-http://smart-iptv2016.com:9500/live/jp1/jp2/219.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_beIN-Movies-1HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/99.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_beIN-Movies-2HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/100.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_beIN-Movies-3HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/101.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_beIN-Movies-4HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/300.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_beIN_Drama-1HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/185.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_beIN_Series-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/127.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_beIN-Dmax
-http://smart-iptv2016.com:9500/live/jp1/jp2/1185.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_beIN-Fox-Action
-http://smart-iptv2016.com:9500/live/jp1/jp2/1120.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_beIN-Baraem
-http://smart-iptv2016.com:9500/live/jp1/jp2/728.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_beIN-Junior
-http://smart-iptv2016.com:9500/live/jp1/jp2/989.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_beIN_Jeem_HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/733.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_beIN_Gourmet
-http://smart-iptv2016.com:9500/live/jp1/jp2/725.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_beIN_Fatafeat
-http://smart-iptv2016.com:9500/live/jp1/jp2/909.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_beIN-Animal-Planet
-http://smart-iptv2016.com:9500/live/jp1/jp2/1115.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",****_Abu.Dhabi.Sports_****
-http://smart-iptv2016.com:9500/live/jp1/jp2/1122.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Abu.Dhabi.Sports-1-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1035.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Abu.Dhabi.Sports-2-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1036.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Abu.Dhabi.Sports-3-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1037.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Abu.Dhabi.Sports-4-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1251.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Abu.Dhabi.Sports-5-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1252.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",****_Arabes-News_****
-http://smart-iptv2016.com:9500/live/jp1/jp2/803.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Aljazeera
-http://smart-iptv2016.com:9500/live/jp1/jp2/143.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_France_24
-http://smart-iptv2016.com:9500/live/jp1/jp2/144.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Alarabiyia
-http://smart-iptv2016.com:9500/live/jp1/jp2/142.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Alhadath
-http://smart-iptv2016.com:9500/live/jp1/jp2/694.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Skynews
-http://smart-iptv2016.com:9500/live/jp1/jp2/1094.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Al_Ekhbariya
-http://smart-iptv2016.com:9500/live/jp1/jp2/896.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_RT
-http://smart-iptv2016.com:9500/live/jp1/jp2/1100.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_BBC-Arabic
-http://smart-iptv2016.com:9500/live/jp1/jp2/186.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",****_Culture-Channel_****
-http://smart-iptv2016.com:9500/live/jp1/jp2/145.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Aljazeera_Doc
-http://smart-iptv2016.com:9500/live/jp1/jp2/907.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_National_Geo-Abudhabi
-http://smart-iptv2016.com:9500/live/jp1/jp2/715.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Quest-Arabia
-http://smart-iptv2016.com:9500/live/jp1/jp2/1265.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",****_Enfant-Channel_****
-http://smart-iptv2016.com:9500/live/jp1/jp2/189.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_CN_Arabia
-http://smart-iptv2016.com:9500/live/jp1/jp2/828.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Space Toon
-http://smart-iptv2016.com:9500/live/jp1/jp2/831.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_baraem
-http://smart-iptv2016.com:9500/live/jp1/jp2/829.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Toyour_ElJannah
-http://smart-iptv2016.com:9500/live/jp1/jp2/830.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Toyour_Baby
-http://smart-iptv2016.com:9500/live/jp1/jp2/214.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_AlJazeera Kids
-http://smart-iptv2016.com:9500/live/jp1/jp2/826.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_AJAIL
-http://smart-iptv2016.com:9500/live/jp1/jp2/898.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Semsem
-http://smart-iptv2016.com:9500/live/jp1/jp2/1099.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",****_Islamic-Channel_****
-http://smart-iptv2016.com:9500/live/jp1/jp2/832.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Al_Majd_Quran
-http://smart-iptv2016.com:9500/live/jp1/jp2/835.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Al_Majd_Hadith
-http://smart-iptv2016.com:9500/live/jp1/jp2/187.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Al_Majd
-http://smart-iptv2016.com:9500/live/jp1/jp2/1111.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Alrahma
-http://smart-iptv2016.com:9500/live/jp1/jp2/837.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Alnas
-http://smart-iptv2016.com:9500/live/jp1/jp2/822.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_IQRAA
-http://smart-iptv2016.com:9500/live/jp1/jp2/834.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Alresalah
-http://smart-iptv2016.com:9500/live/jp1/jp2/836.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Saudi-haj
-http://smart-iptv2016.com:9500/live/jp1/jp2/904.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Alerth-Al-Nabawi
-http://smart-iptv2016.com:9500/live/jp1/jp2/905.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Bahrain-Quraan
-http://smart-iptv2016.com:9500/live/jp1/jp2/838.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Mekka-LIVE
-http://smart-iptv2016.com:9500/live/jp1/jp2/839.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Wesal
-http://smart-iptv2016.com:9500/live/jp1/jp2/225.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",****_ART_****
-http://smart-iptv2016.com:9500/live/jp1/jp2/291.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Art_Aflam_1
-http://smart-iptv2016.com:9500/live/jp1/jp2/220.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Art_Aflam_2
-http://smart-iptv2016.com:9500/live/jp1/jp2/221.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Art_Cinema
-http://smart-iptv2016.com:9500/live/jp1/jp2/238.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Art_Hekayat_1
-http://smart-iptv2016.com:9500/live/jp1/jp2/222.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Art_Hekayat_2
-http://smart-iptv2016.com:9500/live/jp1/jp2/223.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",****_MBC_****
-http://smart-iptv2016.com:9500/live/jp1/jp2/141.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC_1
-http://smart-iptv2016.com:9500/live/jp1/jp2/128.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC_1_HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1767.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC_2
-http://smart-iptv2016.com:9500/live/jp1/jp2/129.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC_2_HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1768.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC_3
-http://smart-iptv2016.com:9500/live/jp1/jp2/130.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC_3_HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1769.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC_4
-http://smart-iptv2016.com:9500/live/jp1/jp2/131.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC_4_HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1770.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC_ACTION
-http://smart-iptv2016.com:9500/live/jp1/jp2/132.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC_ACTION-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1221.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC_MAX
-http://smart-iptv2016.com:9500/live/jp1/jp2/137.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC_MAX-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/297.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC_DRAMA
-http://smart-iptv2016.com:9500/live/jp1/jp2/134.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC_DRAMA-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/855.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC+DRAMA
-http://smart-iptv2016.com:9500/live/jp1/jp2/1223.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC+DRAMA-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1038.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC-VARIETY
-http://smart-iptv2016.com:9500/live/jp1/jp2/765.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC-VARIETY-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1040.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC_BOLLYWOOD
-http://smart-iptv2016.com:9500/live/jp1/jp2/133.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC_MASR_1
-http://smart-iptv2016.com:9500/live/jp1/jp2/135.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC_MASR_2
-http://smart-iptv2016.com:9500/live/jp1/jp2/136.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC_ZEE_Alwan
-http://smart-iptv2016.com:9500/live/jp1/jp2/814.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC_ZEE_Aflam
-http://smart-iptv2016.com:9500/live/jp1/jp2/813.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC_B4U_AFLAM
-http://smart-iptv2016.com:9500/live/jp1/jp2/305.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC-SPORT-1HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/138.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC-SPORT-2HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/139.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC-SPORT-3HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/140.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MBC-SPORT-4HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1214.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",****_Rotana-Channel_****
-http://smart-iptv2016.com:9500/live/jp1/jp2/357.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Rotana_Cinema
-http://smart-iptv2016.com:9500/live/jp1/jp2/382.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Rotana_Cinema-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1145.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Rotana_Aflam
-http://smart-iptv2016.com:9500/live/jp1/jp2/388.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Rotana_Aflam-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1134.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Rotana_Massrya
-http://smart-iptv2016.com:9500/live/jp1/jp2/384.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Rotana_Massrya-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1127.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Rotana_Khaliji
-http://smart-iptv2016.com:9500/live/jp1/jp2/386.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Rotana_Khaliji-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1133.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Rotana_classic
-http://smart-iptv2016.com:9500/live/jp1/jp2/383.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Rotana_Classic-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/861.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Rotana_Music
-http://smart-iptv2016.com:9500/live/jp1/jp2/385.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Rotana_Music-HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/387.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_ON-Sports
-http://smart-iptv2016.com:9500/live/jp1/jp2/819.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_ON-TV
-http://smart-iptv2016.com:9500/live/jp1/jp2/991.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_ON-Drama
-http://smart-iptv2016.com:9500/live/jp1/jp2/730.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_ON-Live
-http://smart-iptv2016.com:9500/live/jp1/jp2/202.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",****_OSN-Channel_****
-http://smart-iptv2016.com:9500/live/jp1/jp2/203.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_ON DEMAND 1FHD
-http://smart-iptv2016.com:9500/live/jp1/jp2/848.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_ON DEMAND 2FHD
-http://smart-iptv2016.com:9500/live/jp1/jp2/204.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_ON DEMAND 3FHD
-http://smart-iptv2016.com:9500/live/jp1/jp2/205.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_Movies_HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/210.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_Movies_2_HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/209.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_Movies_Action_HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/207.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_Movies_Action_2_HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/212.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_Movies_Premiere
-http://smart-iptv2016.com:9500/live/jp1/jp2/213.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_Movies_Premiere_2
-http://smart-iptv2016.com:9500/live/jp1/jp2/1102.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_Movies_Comedy_HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/208.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_Ondemand_HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/216.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_Ondemend_Extra_HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/206.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_Movies_Kids
-http://smart-iptv2016.com:9500/live/jp1/jp2/729.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_Yahala_HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1044.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_Yahala_Drama_HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1043.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_Yahala_Shabab_HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/925.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_Yahala_Cinema_HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/926.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_Cinema_1HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/217.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_Cinema_2HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/218.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_SeeVii_Al oula_HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/304.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_SeeVii_Drama_HD.
-http://smart-iptv2016.com:9500/live/jp1/jp2/381.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_SeeVii_Beelink_HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1041.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_SeeVii-Shamia
-http://smart-iptv2016.com:9500/live/jp1/jp2/301.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_OSN_Alsafwa
-http://smart-iptv2016.com:9500/live/jp1/jp2/727.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",****_Melody-Channel_****
-http://smart-iptv2016.com:9500/live/jp1/jp2/159.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Melody_Hits
-http://smart-iptv2016.com:9500/live/jp1/jp2/1190.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Melody_Aflam
-http://smart-iptv2016.com:9500/live/jp1/jp2/1189.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Melody_Classic
-http://smart-iptv2016.com:9500/live/jp1/jp2/398.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Melody_Drama
-http://smart-iptv2016.com:9500/live/jp1/jp2/1191.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",****_Al Nahar-Channel_****
-http://smart-iptv2016.com:9500/live/jp1/jp2/964.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Al_Nahar
-http://smart-iptv2016.com:9500/live/jp1/jp2/1298.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Al_Nahar_One
-http://smart-iptv2016.com:9500/live/jp1/jp2/400.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Al_Nahar_Drama
-http://smart-iptv2016.com:9500/live/jp1/jp2/401.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Al_Nahar_Cinema
-http://smart-iptv2016.com:9500/live/jp1/jp2/402.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Al_Nahar_Al_Youm
-http://smart-iptv2016.com:9500/live/jp1/jp2/403.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",****_Nile Channel_****
-http://smart-iptv2016.com:9500/live/jp1/jp2/963.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Nile_Drama
-http://smart-iptv2016.com:9500/live/jp1/jp2/396.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Nile_Cinema
-http://smart-iptv2016.com:9500/live/jp1/jp2/723.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Nile_Culture
-http://smart-iptv2016.com:9500/live/jp1/jp2/808.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Nile_Comedie
-http://smart-iptv2016.com:9500/live/jp1/jp2/809.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Nile_Life
-http://smart-iptv2016.com:9500/live/jp1/jp2/807.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Nile_family
-http://smart-iptv2016.com:9500/live/jp1/jp2/395.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Nile_News
-http://smart-iptv2016.com:9500/live/jp1/jp2/1098.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Nile_Sport
-http://smart-iptv2016.com:9500/live/jp1/jp2/1183.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",****_CBC-Channel_****
-http://smart-iptv2016.com:9500/live/jp1/jp2/962.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_CBC
-http://smart-iptv2016.com:9500/live/jp1/jp2/224.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_CBC_2
-http://smart-iptv2016.com:9500/live/jp1/jp2/804.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_CBC_Drama
-http://smart-iptv2016.com:9500/live/jp1/jp2/806.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_CBC_Sofra
-http://smart-iptv2016.com:9500/live/jp1/jp2/805.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_CBC_Extra
-http://smart-iptv2016.com:9500/live/jp1/jp2/1156.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",****_Panorama-Channel_****
-http://smart-iptv2016.com:9500/live/jp1/jp2/1104.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Panorama_Drama
-http://smart-iptv2016.com:9500/live/jp1/jp2/1192.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Panorama_Drama _2
-http://smart-iptv2016.com:9500/live/jp1/jp2/391.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Panorama_Film
-http://smart-iptv2016.com:9500/live/jp1/jp2/1194.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Panorama_Comedy
-http://smart-iptv2016.com:9500/live/jp1/jp2/1193.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",****_Time-Channel_****
-http://smart-iptv2016.com:9500/live/jp1/jp2/1103.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Time_Cinema
-http://smart-iptv2016.com:9500/live/jp1/jp2/1182.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Time_Cinma
-http://smart-iptv2016.com:9500/live/jp1/jp2/393.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Time_Comedy
-http://smart-iptv2016.com:9500/live/jp1/jp2/394.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Time_Quran
-http://smart-iptv2016.com:9500/live/jp1/jp2/392.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",****_Saudia-Channel_****
-http://smart-iptv2016.com:9500/live/jp1/jp2/899.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Saudia_1_HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/897.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Saudia_2
-http://smart-iptv2016.com:9500/live/jp1/jp2/895.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Saudia_Quran
-http://smart-iptv2016.com:9500/live/jp1/jp2/833.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Saudia_Sonna
-http://smart-iptv2016.com:9500/live/jp1/jp2/1157.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Saudia_Alwataikia
-http://smart-iptv2016.com:9500/live/jp1/jp2/900.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Saudia_Aliktisadia
-http://smart-iptv2016.com:9500/live/jp1/jp2/901.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Saudia_Sport
-http://smart-iptv2016.com:9500/live/jp1/jp2/708.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",****_Emarat-Channel_****
-http://smart-iptv2016.com:9500/live/jp1/jp2/96.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Abu_dhaby_Al_Oula
-http://smart-iptv2016.com:9500/live/jp1/jp2/399.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Abu_dhaby_Emarat
-http://smart-iptv2016.com:9500/live/jp1/jp2/1270.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Abu_dhaby_Drama
-http://smart-iptv2016.com:9500/live/jp1/jp2/1271.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Noor.Dubai
-http://smart-iptv2016.com:9500/live/jp1/jp2/894.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Dubai.
-http://smart-iptv2016.com:9500/live/jp1/jp2/713.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_One.Dubai
-http://smart-iptv2016.com:9500/live/jp1/jp2/821.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Zaman.Dubai
-http://smart-iptv2016.com:9500/live/jp1/jp2/1101.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Sama.Dubai
-http://smart-iptv2016.com:9500/live/jp1/jp2/1095.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",****_Lebanon_****
-http://smart-iptv2016.com:9500/live/jp1/jp2/188.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Almayadeen
-http://smart-iptv2016.com:9500/live/jp1/jp2/1141.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_NBN-Lebanon
-http://smart-iptv2016.com:9500/live/jp1/jp2/340.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Lebnon-TV-LIVE
-http://smart-iptv2016.com:9500/live/jp1/jp2/1073.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Future_TV
-http://smart-iptv2016.com:9500/live/jp1/jp2/820.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_LBC
-http://smart-iptv2016.com:9500/live/jp1/jp2/2670.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_MTV_Lebananon
-http://smart-iptv2016.com:9500/live/jp1/jp2/810.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Al-Manar
-http://smart-iptv2016.com:9500/live/jp1/jp2/827.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Cairo_Drama
-http://smart-iptv2016.com:9500/live/jp1/jp2/1268.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Cairo_Cinema
-http://smart-iptv2016.com:9500/live/jp1/jp2/1269.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Alhayat_1
-http://smart-iptv2016.com:9500/live/jp1/jp2/1213.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Alhayat_2
-http://smart-iptv2016.com:9500/live/jp1/jp2/934.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Alhayaht_Series
-http://smart-iptv2016.com:9500/live/jp1/jp2/1293.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Al-Masriya-1
-http://smart-iptv2016.com:9500/live/jp1/jp2/389.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Al-Masriya-2
-http://smart-iptv2016.com:9500/live/jp1/jp2/1033.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Dream_1
-http://smart-iptv2016.com:9500/live/jp1/jp2/1207.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Dream_2
-http://smart-iptv2016.com:9500/live/jp1/jp2/306.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Cima
-http://smart-iptv2016.com:9500/live/jp1/jp2/823.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Al_Mehwar
-http://smart-iptv2016.com:9500/live/jp1/jp2/397.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Al-Aan-TV
-http://smart-iptv2016.com:9500/live/jp1/jp2/902.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_QATAR_HD
-http://smart-iptv2016.com:9500/live/jp1/jp2/1154.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Kuwait-1
-http://smart-iptv2016.com:9500/live/jp1/jp2/816.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Kuwait-2
-http://smart-iptv2016.com:9500/live/jp1/jp2/817.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Kuwait
-http://smart-iptv2016.com:9500/live/jp1/jp2/818.m3u8
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_Arab
-http://smart-iptv2016.com:9500/live/jp1/jp2/815.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-Low_1
+http://showsat.hopto.me:9000/live/123456789/1234/2315.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-Low_2
+http://showsat.hopto.me:9000/live/123456789/1234/2316.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-Low_3
+http://showsat.hopto.me:9000/live/123456789/1234/2317.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-Low_4
+http://showsat.hopto.me:9000/live/123456789/1234/2318.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-Low_5
+http://showsat.hopto.me:9000/live/123456789/1234/2319.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-Low_6
+http://showsat.hopto.me:9000/live/123456789/1234/2320.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-Low_7
+http://showsat.hopto.me:9000/live/123456789/1234/2321.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-Low_8
+http://showsat.hopto.me:9000/live/123456789/1234/2322.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-Low_9
+http://showsat.hopto.me:9000/live/123456789/1234/2323.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-Low_10
+http://showsat.hopto.me:9000/live/123456789/1234/2324.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN-SPORT.1_1080p
+http://showsat.hopto.me:9000/live/123456789/1234/4420.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN-SPORT.2_1080p
+http://showsat.hopto.me:9000/live/123456789/1234/4421.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN-SPORT.3_1080p
+http://showsat.hopto.me:9000/live/123456789/1234/4422.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN-SPORT.4_1080p
+http://showsat.hopto.me:9000/live/123456789/1234/4423.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN-SPORT.5_1080p
+http://showsat.hopto.me:9000/live/123456789/1234/4424.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN-SPORT.6_1080p
+http://showsat.hopto.me:9000/live/123456789/1234/4425.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN-SPORT.7_1080p
+http://showsat.hopto.me:9000/live/123456789/1234/4426.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN-SPORT.8_1080p
+http://showsat.hopto.me:9000/live/123456789/1234/4427.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN-SPORT.9_1080p
+http://showsat.hopto.me:9000/live/123456789/1234/4428.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN-SPORT.10_1080p
+http://showsat.hopto.me:9000/live/123456789/1234/4429.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN-SPORT.11_1080p
+http://showsat.hopto.me:9000/live/123456789/1234/2297.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN-SPORT.12_1080p
+http://showsat.hopto.me:9000/live/123456789/1234/2298.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN-SPORT.13_1080p
+http://showsat.hopto.me:9000/live/123456789/1234/16942.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN-SPORT.14_1080p
+http://showsat.hopto.me:9000/live/123456789/1234/16941.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN-SPORT.15_1080p
+http://showsat.hopto.me:9000/live/123456789/1234/16940.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN-SPORT-Free-1080p
+http://showsat.hopto.me:9000/live/123456789/1234/2299.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN-SPORT-NEW-1080p
+http://showsat.hopto.me:9000/live/123456789/1234/2335.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSports1 4K
+http://showsat.hopto.me:9000/live/123456789/1234/10251.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSports2 4K
+http://showsat.hopto.me:9000/live/123456789/1234/10250.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSports3 4K
+http://showsat.hopto.me:9000/live/123456789/1234/10249.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSports4 4K
+http://showsat.hopto.me:9000/live/123456789/1234/10248.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSports5 4K
+http://showsat.hopto.me:9000/live/123456789/1234/10247.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSports6 4K
+http://showsat.hopto.me:9000/live/123456789/1234/10246.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSports7 4K
+http://showsat.hopto.me:9000/live/123456789/1234/10245.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSports8 4K
+http://showsat.hopto.me:9000/live/123456789/1234/10244.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSports9 4K
+http://showsat.hopto.me:9000/live/123456789/1234/10243.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSports10 4K
+http://showsat.hopto.me:9000/live/123456789/1234/10242.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport1 2M
+http://showsat.hopto.me:9000/live/123456789/1234/16425.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport2 2M
+http://showsat.hopto.me:9000/live/123456789/1234/16424.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport3 2M
+http://showsat.hopto.me:9000/live/123456789/1234/16423.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport4 2M
+http://showsat.hopto.me:9000/live/123456789/1234/16422.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport5 2M
+http://showsat.hopto.me:9000/live/123456789/1234/16421.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport6 2M
+http://showsat.hopto.me:9000/live/123456789/1234/16420.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport7 2M
+http://showsat.hopto.me:9000/live/123456789/1234/16419.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport8 2M
+http://showsat.hopto.me:9000/live/123456789/1234/16418.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport9 2M
+http://showsat.hopto.me:9000/live/123456789/1234/16417.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport10 2M
+http://showsat.hopto.me:9000/live/123456789/1234/16416.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-SD1
+http://showsat.hopto.me:9000/live/123456789/1234/2287.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-SD2
+http://showsat.hopto.me:9000/live/123456789/1234/2288.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-SD3
+http://showsat.hopto.me:9000/live/123456789/1234/2289.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-SD4
+http://showsat.hopto.me:9000/live/123456789/1234/2290.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-SD5
+http://showsat.hopto.me:9000/live/123456789/1234/2291.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-SD6
+http://showsat.hopto.me:9000/live/123456789/1234/2292.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-SD7
+http://showsat.hopto.me:9000/live/123456789/1234/2293.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-SD8
+http://showsat.hopto.me:9000/live/123456789/1234/2294.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-SD9
+http://showsat.hopto.me:9000/live/123456789/1234/2295.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-SD10
+http://showsat.hopto.me:9000/live/123456789/1234/2296.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-1 FUL HD
+http://showsat.hopto.me:9000/live/123456789/1234/2325.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-2 FUL HD
+http://showsat.hopto.me:9000/live/123456789/1234/2326.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-3 FUL HD
+http://showsat.hopto.me:9000/live/123456789/1234/2327.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-4 FUL HD
+http://showsat.hopto.me:9000/live/123456789/1234/2328.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-5 FUL HD
+http://showsat.hopto.me:9000/live/123456789/1234/2329.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-6 FUL HD
+http://showsat.hopto.me:9000/live/123456789/1234/2330.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-7 FUL HD
+http://showsat.hopto.me:9000/live/123456789/1234/2331.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-8 FUL HD
+http://showsat.hopto.me:9000/live/123456789/1234/2332.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-9 FUL HD
+http://showsat.hopto.me:9000/live/123456789/1234/2333.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeinSport-10 FUL HD
+http://showsat.hopto.me:9000/live/123456789/1234/2334.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeIN:FR_1
+http://showsat.hopto.me:9000/live/123456789/1234/14346.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeIN:FR_2
+http://showsat.hopto.me:9000/live/123456789/1234/14345.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeIN:FR_3
+http://showsat.hopto.me:9000/live/123456789/1234/14344.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein:Sport_ES
+http://showsat.hopto.me:9000/live/123456789/1234/14350.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeIN:TR_1
+http://showsat.hopto.me:9000/live/123456789/1234/14349.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeIN:TR_2
+http://showsat.hopto.me:9000/live/123456789/1234/14348.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeIN:TR_3
+http://showsat.hopto.me:9000/live/123456789/1234/14347.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_MOVIES
+http://showsat.hopto.me:9000/live/123456789/1234/17053.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_MOVIES_ACTION
+http://showsat.hopto.me:9000/live/123456789/1234/17052.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_MOVIES_COMEDY
+http://showsat.hopto.me:9000/live/123456789/1234/17051.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_MOVIES_FIRST
+http://showsat.hopto.me:9000/live/123456789/1234/17048.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_Movies_First_HD_2h
+http://showsat.hopto.me:9000/live/123456789/1234/17047.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_MOVIES_KIDS
+http://showsat.hopto.me:9000/live/123456789/1234/17046.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_ALSAFWA
+http://showsat.hopto.me:9000/live/123456789/1234/17043.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_ALYOUM
+http://showsat.hopto.me:9000/live/123456789/1234/17042.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_Animal_Planet_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17041.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Baby_TV
+http://showsat.hopto.me:9000/live/123456789/1234/17040.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_BBC_First_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17039.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_CINEMA_1
+http://showsat.hopto.me:9000/live/123456789/1234/17038.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_CINEMA_2
+http://showsat.hopto.me:9000/live/123456789/1234/17037.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Discovery_Channel_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17035.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_Discovery_Family_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17034.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_Discovery_IDX_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17033.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_Discovery_Science_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17032.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Disney_Channel_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17031.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Disney_Junior
+http://showsat.hopto.me:9000/live/123456789/1234/17030.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_Disney_XD
+http://showsat.hopto.me:9000/live/123456789/1234/17029.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_E!_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17028.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_Fashion_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17027.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_First_HBO_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17026.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Food_Network_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17025.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_History_Channel_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17023.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_ITV_Choice_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17022.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Living_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17021.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Movies_ 2h
+http://showsat.hopto.me:9000/live/123456789/1234/17015.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Movies_Action_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17014.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Movies_Action_HD_2
+http://showsat.hopto.me:9000/live/123456789/1234/17013.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Movies_Comedy_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17012.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Movies_Diseny_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17011.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Movies_First_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17010.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Movies_First_HD_2h
+http://showsat.hopto.me:9000/live/123456789/1234/17009.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Movies_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17008.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Movies_Kids_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17007.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Movies_Thriller_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17005.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_MTV_Live_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17004.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_MUSALSALAT_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17003.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_MUSALSALAT_HD_2
+http://showsat.hopto.me:9000/live/123456789/1234/17002.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Music_NOW_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17001.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Nat_Geo_HD
+http://showsat.hopto.me:9000/live/123456789/1234/17000.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_NAT_GEO_People_HD
+http://showsat.hopto.me:9000/live/123456789/1234/16999.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Nat_GEO_Wild_HD
+http://showsat.hopto.me:9000/live/123456789/1234/16998.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Nickelodeon_HD
+http://showsat.hopto.me:9000/live/123456789/1234/16996.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Nick_JR
+http://showsat.hopto.me:9000/live/123456789/1234/16997.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_OSN_OSN_Kid_Zone_TV
+http://showsat.hopto.me:9000/live/123456789/1234/16995.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Paramount_HD
+http://showsat.hopto.me:9000/live/123456789/1234/16994.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Series_Comedy_HD
+http://showsat.hopto.me:9000/live/123456789/1234/16993.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Series_First_HD
+http://showsat.hopto.me:9000/live/123456789/1234/16992.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Series_HD
+http://showsat.hopto.me:9000/live/123456789/1234/16991.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Sports_3_HD
+http://showsat.hopto.me:9000/live/123456789/1234/16990.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Sports_4_HD
+http://showsat.hopto.me:9000/live/123456789/1234/16989.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Sports_5_HD
+http://showsat.hopto.me:9000/live/123456789/1234/16988.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Sports_Action_1_HD
+http://showsat.hopto.me:9000/live/123456789/1234/16987.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Sports_Action_2_HD
+http://showsat.hopto.me:9000/live/123456789/1234/16986.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Star_Movie_HD
+http://showsat.hopto.me:9000/live/123456789/1234/16984.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Star_World_HD
+http://showsat.hopto.me:9000/live/123456789/1234/16983.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Sundance_HD
+http://showsat.hopto.me:9000/live/123456789/1234/16982.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Syfy_HD
+http://showsat.hopto.me:9000/live/123456789/1234/16981.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_TLC_HD
+http://showsat.hopto.me:9000/live/123456789/1234/16979.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Travel
+http://showsat.hopto.me:9000/live/123456789/1234/16978.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Yahala_Cinema_HD
+http://showsat.hopto.me:9000/live/123456789/1234/16974.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Ya_Hala_Al_Oula_2
+http://showsat.hopto.me:9000/live/123456789/1234/16977.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Ya_Hala_HD
+http://showsat.hopto.me:9000/live/123456789/1234/16976.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_OSN_Ya_Hala_Oula_HD
+http://showsat.hopto.me:9000/live/123456789/1234/16975.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN_SERIES_COMEDY
+http://showsat.hopto.me:9000/live/123456789/1234/16973.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Movies HD
+http://showsat.hopto.me:9000/live/123456789/1234/10157.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Movies_Action
+http://showsat.hopto.me:9000/live/123456789/1234/8539.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Movies 2h
+http://showsat.hopto.me:9000/live/123456789/1234/14389.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Movies_Thriller
+http://showsat.hopto.me:9000/live/123456789/1234/10156.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:MOVIES_FESTIVAL_HD
+http://showsat.hopto.me:9000/live/123456789/1234/4714.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Movies Firest
+http://showsat.hopto.me:9000/live/123456789/1234/10161.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Movies First HD 2h
+http://showsat.hopto.me:9000/live/123456789/1234/14385.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:First HBO
+http://showsat.hopto.me:9000/live/123456789/1234/10196.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Movies_Premiere_2
+http://showsat.hopto.me:9000/live/123456789/1234/10165.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:MOVEIS_DRAMA
+http://showsat.hopto.me:9000/live/123456789/1234/8536.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Series HD
+http://showsat.hopto.me:9000/live/123456789/1234/10168.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Movies_Comedy 2h
+http://showsat.hopto.me:9000/live/123456789/1234/14361.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Movies_Comedy
+http://showsat.hopto.me:9000/live/123456789/1234/10160.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Comedy Central HD
+http://showsat.hopto.me:9000/live/123456789/1234/14383.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Star_Movis
+http://showsat.hopto.me:9000/live/123456789/1234/10202.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Star_World
+http://showsat.hopto.me:9000/live/123456789/1234/8531.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Box-OFFICE-1
+http://showsat.hopto.me:9000/live/123456789/1234/4301.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:BOX-OFFICE-2
+http://showsat.hopto.me:9000/live/123456789/1234/4731.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:BOX-OFFICE-3
+http://showsat.hopto.me:9000/live/123456789/1234/4730.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:ON_DEMAND-1
+http://showsat.hopto.me:9000/live/123456789/1234/4895.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:ON_DEMAND-2
+http://showsat.hopto.me:9000/live/123456789/1234/5197.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:ON_DEMAND-3
+http://showsat.hopto.me:9000/live/123456789/1234/2134.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:DEMAND_EXTRA_1
+http://showsat.hopto.me:9000/live/123456789/1234/4309.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:DEMAND_EXTRA_2
+http://showsat.hopto.me:9000/live/123456789/1234/2300.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:DEMAND_EXTRA_3
+http://showsat.hopto.me:9000/live/123456789/1234/4321.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Yahala HD
+http://showsat.hopto.me:9000/live/123456789/1234/10166.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Yahala Alaula
+http://showsat.hopto.me:9000/live/123456789/1234/14390.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:MUSALSALAT
+http://showsat.hopto.me:9000/live/123456789/1234/4891.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:SeeVii_Aloula
+http://showsat.hopto.me:9000/live/123456789/1234/10220.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:SeeVii_Beelink _HD
+http://showsat.hopto.me:9000/live/123456789/1234/10219.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:SeeVii_Drama_HD
+http://showsat.hopto.me:9000/live/123456789/1234/10218.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:SeeVii_Shamiya
+http://showsat.hopto.me:9000/live/123456789/1234/3949.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ART:Hekayat1
+http://showsat.hopto.me:9000/live/123456789/1234/2259.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ART:Hekayat2
+http://showsat.hopto.me:9000/live/123456789/1234/2260.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ART:AFLAM1
+http://showsat.hopto.me:9000/live/123456789/1234/2257.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ART:AFLAM2
+http://showsat.hopto.me:9000/live/123456789/1234/2258.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ART:CINEMA
+http://showsat.hopto.me:9000/live/123456789/1234/2261.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:CENIMA1
+http://showsat.hopto.me:9000/live/123456789/1234/4299.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:CENIMA2
+http://showsat.hopto.me:9000/live/123456789/1234/4300.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Yahala Cinema
+http://showsat.hopto.me:9000/live/123456789/1234/4324.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:ALYAWM HD
+http://showsat.hopto.me:9000/live/123456789/1234/10724.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:FANN
+http://showsat.hopto.me:9000/live/123456789/1234/10734.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:MUSIC_NOW
+http://showsat.hopto.me:9000/live/123456789/1234/12440.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Movies Kids HD
+http://showsat.hopto.me:9000/live/123456789/1234/3636.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Disney XD
+http://showsat.hopto.me:9000/live/123456789/1234/12433.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Disney Channel HD
+http://showsat.hopto.me:9000/live/123456789/1234/14379.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Disney Junior
+http://showsat.hopto.me:9000/live/123456789/1234/14378.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Nickelodeon HD
+http://showsat.hopto.me:9000/live/123456789/1234/14364.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Discovery Family HD
+http://showsat.hopto.me:9000/live/123456789/1234/14387.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Discovery IDX HD
+http://showsat.hopto.me:9000/live/123456789/1234/14386.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Discovery_Channel
+http://showsat.hopto.me:9000/live/123456789/1234/10731.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:DISCOVERY
+http://showsat.hopto.me:9000/live/123456789/1234/12702.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:ANIMAL-PLANET
+http://showsat.hopto.me:9000/live/123456789/1234/4316.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Nat Geo
+http://showsat.hopto.me:9000/live/123456789/1234/12431.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:NAT_GEO_WILD
+http://showsat.hopto.me:9000/live/123456789/1234/12704.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:NAT GEO People HD
+http://showsat.hopto.me:9000/live/123456789/1234/14366.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:LIVE_History_HD
+http://showsat.hopto.me:9000/live/123456789/1234/12435.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:BBC First HD
+http://showsat.hopto.me:9000/live/123456789/1234/14380.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Fight Box HD
+http://showsat.hopto.me:9000/live/123456789/1234/14375.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:FIGHT NETWORK
+http://showsat.hopto.me:9000/live/123456789/1234/12446.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:TLC HD
+http://showsat.hopto.me:9000/live/123456789/1234/14359.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:B4U-Aflam
+http://showsat.hopto.me:9000/live/123456789/1234/12432.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Syfy
+http://showsat.hopto.me:9000/live/123456789/1234/12445.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Sport-1-HD
+http://showsat.hopto.me:9000/live/123456789/1234/5195.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Sport-2-HD
+http://showsat.hopto.me:9000/live/123456789/1234/5201.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Sport-3-HD
+http://showsat.hopto.me:9000/live/123456789/1234/5203.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Sport-4-HD
+http://showsat.hopto.me:9000/live/123456789/1234/4307.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Sport-5-HD
+http://showsat.hopto.me:9000/live/123456789/1234/14393.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Sports_Cricket
+http://showsat.hopto.me:9000/live/123456789/1234/14392.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Ten_Cricket
+http://showsat.hopto.me:9000/live/123456789/1234/9746.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:WWE
+http://showsat.hopto.me:9000/live/123456789/1234/4311.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Ad-Sport-1
+http://showsat.hopto.me:9000/live/123456789/1234/4312.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Ad-Sport-2
+http://showsat.hopto.me:9000/live/123456789/1234/4313.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Ad-Sport-3
+http://showsat.hopto.me:9000/live/123456789/1234/4350.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",OSN:Ad-Sport-4
+http://showsat.hopto.me:9000/live/123456789/1234/4403.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN:MOVIES-1-HD
+http://showsat.hopto.me:9000/live/123456789/1234/23.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN:MOVIES-2-HD
+http://showsat.hopto.me:9000/live/123456789/1234/24.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN:MOVIES-3-HD
+http://showsat.hopto.me:9000/live/123456789/1234/25.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN:MOVIES-4-HD
+http://showsat.hopto.me:9000/live/123456789/1234/28.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN:FOX MOVIES HD
+http://showsat.hopto.me:9000/live/123456789/1234/8535.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeIN:FOX HD
+http://showsat.hopto.me:9000/live/123456789/1234/12459.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN:AMC HD
+http://showsat.hopto.me:9000/live/123456789/1234/14516.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN:FIX.FOXI
+http://showsat.hopto.me:9000/live/123456789/1234/14546.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN:FILMBOX
+http://showsat.hopto.me:9000/live/123456789/1234/14547.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN:TCM
+http://showsat.hopto.me:9000/live/123456789/1234/14584.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeIN:BOX MYHD
+http://showsat.hopto.me:9000/live/123456789/1234/3614.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein:Drama HD1
+http://showsat.hopto.me:9000/live/123456789/1234/16939.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein:Dream Works HD
+http://showsat.hopto.me:9000/live/123456789/1234/16938.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein:Series HD1
+http://showsat.hopto.me:9000/live/123456789/1234/16937.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein:Series HD2
+http://showsat.hopto.me:9000/live/123456789/1234/16936.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeIN:JimJim
+http://showsat.hopto.me:9000/live/123456789/1234/12455.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeIN:BARAEM
+http://showsat.hopto.me:9000/live/123456789/1234/12464.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN:Be.Junior
+http://showsat.hopto.me:9000/live/123456789/1234/12467.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BeIN:JUNIOR_HD
+http://showsat.hopto.me:9000/live/123456789/1234/12454.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein:Fatafeat
+http://showsat.hopto.me:9000/live/123456789/1234/16929.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein:Cartoon Network HD
+http://showsat.hopto.me:9000/live/123456789/1234/16934.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein:Discovery Kids HD
+http://showsat.hopto.me:9000/live/123456789/1234/16933.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein:Discovery Life HD
+http://showsat.hopto.me:9000/live/123456789/1234/16932.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein:Discovery Max HD
+http://showsat.hopto.me:9000/live/123456789/1234/16931.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein:Discovery Turbo Xtra
+http://showsat.hopto.me:9000/live/123456789/1234/16930.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein:Nat Geo
+http://showsat.hopto.me:9000/live/123456789/1234/16926.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN:D_f
+http://showsat.hopto.me:9000/live/123456789/1234/14585.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein:Boomerang HD
+http://showsat.hopto.me:9000/live/123456789/1234/16935.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein:Gourmet HD
+http://showsat.hopto.me:9000/live/123456789/1234/16928.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein:HGTV HD
+http://showsat.hopto.me:9000/live/123456789/1234/16927.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",##### MyHD ######
+http://showsat.hopto.me:9000/live/123456789/1234/14582.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MYHD:MBC_1
+http://showsat.hopto.me:9000/live/123456789/1234/11085.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MYHD:MBC_2_HD
+http://showsat.hopto.me:9000/live/123456789/1234/11084.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MYHD:MBC_3_HD
+http://showsat.hopto.me:9000/live/123456789/1234/11083.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MYHD:MBC_4_HD
+http://showsat.hopto.me:9000/live/123456789/1234/11082.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MYHD:MBC_Masr
+http://showsat.hopto.me:9000/live/123456789/1234/11077.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MYHD:MBC_Masr_2
+http://showsat.hopto.me:9000/live/123456789/1234/11076.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MYHD:MBC_Drama _HD
+http://showsat.hopto.me:9000/live/123456789/1234/11081.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MYHD:MBC+_Drama _HD
+http://showsat.hopto.me:9000/live/123456789/1234/10201.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MYHD:MBC_MAX_HD
+http://showsat.hopto.me:9000/live/123456789/1234/11079.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MYHD:MBC_Variety_HD
+http://showsat.hopto.me:9000/live/123456789/1234/11078.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MYHD:MBC_ACTION
+http://showsat.hopto.me:9000/live/123456789/1234/11080.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MYHD:MBC_Bollywood_HD
+http://showsat.hopto.me:9000/live/123456789/1234/11075.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MBC_SPORTS_1
+http://showsat.hopto.me:9000/live/123456789/1234/7413.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MBC_SPORTS_2
+http://showsat.hopto.me:9000/live/123456789/1234/7412.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MBC_SPORTS_3
+http://showsat.hopto.me:9000/live/123456789/1234/7411.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MBC_SPORTS_4
+http://showsat.hopto.me:9000/live/123456789/1234/12936.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",####### EGYPT #######
+http://showsat.hopto.me:9000/live/123456789/1234/44.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Nile-Sport
+http://showsat.hopto.me:9000/live/123456789/1234/7417.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:AlAhly
+http://showsat.hopto.me:9000/live/123456789/1234/7416.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:NILE_Drama
+http://showsat.hopto.me:9000/live/123456789/1234/3985.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Dmc_Sports
+http://showsat.hopto.me:9000/live/123456789/1234/7415.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:ON_SPORT
+http://showsat.hopto.me:9000/live/123456789/1234/10972.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:ON_DRAMA
+http://showsat.hopto.me:9000/live/123456789/1234/10966.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:ON E HD
+http://showsat.hopto.me:9000/live/123456789/1234/10969.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:ON_TV
+http://showsat.hopto.me:9000/live/123456789/1234/10967.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:DMC_HD
+http://showsat.hopto.me:9000/live/123456789/1234/10964.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:DMC_DREAMA
+http://showsat.hopto.me:9000/live/123456789/1234/10965.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Nile_Family
+http://showsat.hopto.me:9000/live/123456789/1234/2423.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Nile_Cinema
+http://showsat.hopto.me:9000/live/123456789/1234/2426.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Nile_Comedy
+http://showsat.hopto.me:9000/live/123456789/1234/2425.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Nile Life
+http://showsat.hopto.me:9000/live/123456789/1234/9920.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Nile_News
+http://showsat.hopto.me:9000/live/123456789/1234/3681.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:cairo_drama
+http://showsat.hopto.me:9000/live/123456789/1234/10353.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:CAIRO_AFLAM
+http://showsat.hopto.me:9000/live/123456789/1234/9928.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Rotana_Classic
+http://showsat.hopto.me:9000/live/123456789/1234/4397.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Rotana_drama
+http://showsat.hopto.me:9000/live/123456789/1234/14186.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:rotana-cinema
+http://showsat.hopto.me:9000/live/123456789/1234/4368.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:ROTANA_CLIP
+http://showsat.hopto.me:9000/live/123456789/1234/2632.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:ROTANA_MASRIA
+http://showsat.hopto.me:9000/live/123456789/1234/2638.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Rotana-Aflem
+http://showsat.hopto.me:9000/live/123456789/1234/4366.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:rotana_music
+http://showsat.hopto.me:9000/live/123456789/1234/2637.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Rotana_Khalijia
+http://showsat.hopto.me:9000/live/123456789/1234/10970.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:AlHayat
+http://showsat.hopto.me:9000/live/123456789/1234/9253.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:AlHayat2
+http://showsat.hopto.me:9000/live/123456789/1234/4372.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Sada Drama
+http://showsat.hopto.me:9000/live/123456789/1234/16249.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:AlKAHERA_WALNAS
+http://showsat.hopto.me:9000/live/123456789/1234/9747.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Alkahera Wa Alnas 2
+http://showsat.hopto.me:9000/live/123456789/1234/16248.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Almehwar
+http://showsat.hopto.me:9000/live/123456789/1234/9934.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:CBC
+http://showsat.hopto.me:9000/live/123456789/1234/3675.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:CBC_EXTRA
+http://showsat.hopto.me:9000/live/123456789/1234/855.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:CBC_DRAMA
+http://showsat.hopto.me:9000/live/123456789/1234/3677.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:CBC_SOFRA
+http://showsat.hopto.me:9000/live/123456789/1234/853.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:TEN
+http://showsat.hopto.me:9000/live/123456789/1234/10349.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:DREAM
+http://showsat.hopto.me:9000/live/123456789/1234/3661.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:dream 2
+http://showsat.hopto.me:9000/live/123456789/1234/10348.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Melody_CINEMA
+http://showsat.hopto.me:9000/live/123456789/1234/3589.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:AlNahar-drama
+http://showsat.hopto.me:9000/live/123456789/1234/4386.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:AlNahar
+http://showsat.hopto.me:9000/live/123456789/1234/4002.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Al-Nahar-Drama
+http://showsat.hopto.me:9000/live/123456789/1234/2418.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Moga_Comedy
+http://showsat.hopto.me:9000/live/123456789/1234/3674.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:f_Drama
+http://showsat.hopto.me:9000/live/123456789/1234/3595.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:MELODY_CLASSIC
+http://showsat.hopto.me:9000/live/123456789/1234/2419.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:panorama_film
+http://showsat.hopto.me:9000/live/123456789/1234/10358.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Panorama-Drama1
+http://showsat.hopto.me:9000/live/123456789/1234/2630.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Panorama-Drama2
+http://showsat.hopto.me:9000/live/123456789/1234/2421.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Panorama Food
+http://showsat.hopto.me:9000/live/123456789/1234/12705.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:darbaka_aflam
+http://showsat.hopto.me:9000/live/123456789/1234/10354.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:toktok_cinema
+http://showsat.hopto.me:9000/live/123456789/1234/10351.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Sudan-SPORT
+http://showsat.hopto.me:9000/live/123456789/1234/9932.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Sha3beyat
+http://showsat.hopto.me:9000/live/123456789/1234/9914.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:alrai
+http://showsat.hopto.me:9000/live/123456789/1234/9916.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:alsharka
+http://showsat.hopto.me:9000/live/123456789/1234/9910.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:alwake
+http://showsat.hopto.me:9000/live/123456789/1234/9942.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Alyamn
+http://showsat.hopto.me:9000/live/123456789/1234/9929.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:elsharq
+http://showsat.hopto.me:9000/live/123456789/1234/9935.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Mekameleen
+http://showsat.hopto.me:9000/live/123456789/1234/9936.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Mazzika
+http://showsat.hopto.me:9000/live/123456789/1234/9924.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Cima Alibaba
+http://showsat.hopto.me:9000/live/123456789/1234/9925.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Melody Hits
+http://showsat.hopto.me:9000/live/123456789/1234/9923.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:B4U_Aflam
+http://showsat.hopto.me:9000/live/123456789/1234/4008.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:B4U_PLUS
+http://showsat.hopto.me:9000/live/123456789/1234/3616.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Zee-Aflam
+http://showsat.hopto.me:9000/live/123456789/1234/4359.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:ZEE_ALWAN
+http://showsat.hopto.me:9000/live/123456789/1234/3617.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:Beur-tv
+http://showsat.hopto.me:9000/live/123456789/1234/9937.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:alforsan
+http://showsat.hopto.me:9000/live/123456789/1234/9930.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NILE:AL_Aqsa
+http://showsat.hopto.me:9000/live/123456789/1234/9921.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",####### Morocco #######
+http://showsat.hopto.me:9000/live/123456789/1234/8647.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MAR:ALMAGHRIBIA
+http://showsat.hopto.me:9000/live/123456789/1234/8202.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MAR:Al_Oula_MMARoc
+http://showsat.hopto.me:9000/live/123456789/1234/8205.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MAR:2M_MARoc
+http://showsat.hopto.me:9000/live/123456789/1234/8204.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MAR:Assadissa
+http://showsat.hopto.me:9000/live/123456789/1234/8199.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MAR:ARrabiaa
+http://showsat.hopto.me:9000/live/123456789/1234/8200.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MAR:Arryadia
+http://showsat.hopto.me:9000/live/123456789/1234/8201.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MAR:Medi1_SAT
+http://showsat.hopto.me:9000/live/123456789/1234/8203.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MAR:TAMAZIGHT_MMAROC
+http://showsat.hopto.me:9000/live/123456789/1234/8198.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Moroco 1 Alaoula
+http://showsat.hopto.me:9000/live/123456789/1234/16686.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Moroco 2m Monde
+http://showsat.hopto.me:9000/live/123456789/1234/16687.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Moroco 3 Arriadia
+http://showsat.hopto.me:9000/live/123456789/1234/16685.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Moroco 4 Arrabiaa
+http://showsat.hopto.me:9000/live/123456789/1234/16684.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Moroco 6 Assadissa
+http://showsat.hopto.me:9000/live/123456789/1234/16683.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Moroco 8 Tamazight
+http://showsat.hopto.me:9000/live/123456789/1234/16682.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Moroco Almaghribia
+http://showsat.hopto.me:9000/live/123456789/1234/16681.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Moroco Almaghribia2
+http://showsat.hopto.me:9000/live/123456789/1234/16680.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Moroco Medi 1TV
+http://showsat.hopto.me:9000/live/123456789/1234/16679.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MAR:Téle maroc
+http://showsat.hopto.me:9000/live/123456789/1234/11096.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MAR:MAROC_AFLAM1
+http://showsat.hopto.me:9000/live/123456789/1234/8604.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MAR:MAROC_AFLAM2
+http://showsat.hopto.me:9000/live/123456789/1234/8603.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MAR:MAROC_AFLAM3
+http://showsat.hopto.me:9000/live/123456789/1234/11560.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",MAR:MAROC_AFLAM4
+http://showsat.hopto.me:9000/live/123456789/1234/11561.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",####### Emarat #######
+http://showsat.hopto.me:9000/live/123456789/1234/12004.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Emarat
+http://showsat.hopto.me:9000/live/123456789/1234/12003.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Emarat:Dubai
+http://showsat.hopto.me:9000/live/123456789/1234/11998.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Emarat:Nat.Geo-Abudhabi
+http://showsat.hopto.me:9000/live/123456789/1234/12002.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Emarat:Noor.Dubai
+http://showsat.hopto.me:9000/live/123456789/1234/11999.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Emarat:One.Dubai
+http://showsat.hopto.me:9000/live/123456789/1234/11995.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Emarat:Sama.Dubai
+http://showsat.hopto.me:9000/live/123456789/1234/11996.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Emarat:Zaman.Dubai
+http://showsat.hopto.me:9000/live/123456789/1234/11997.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Emarat:Abu_Dubai_1
+http://showsat.hopto.me:9000/live/123456789/1234/2438.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",EMARAT:DUBAI-SPORT
+http://showsat.hopto.me:9000/live/123456789/1234/4369.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Emarat:Dubai-Sport_1.HD
+http://showsat.hopto.me:9000/live/123456789/1234/2435.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Emarat:DubaiSport2_HD
+http://showsat.hopto.me:9000/live/123456789/1234/2432.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Emarat:Dubai_Sports-3
+http://showsat.hopto.me:9000/live/123456789/1234/2433.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Emarat:Dubai_Sports-4
+http://showsat.hopto.me:9000/live/123456789/1234/2431.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",####### Saudi #######
+http://showsat.hopto.me:9000/live/123456789/1234/12068.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Saudi:Saudia
+http://showsat.hopto.me:9000/live/123456789/1234/4360.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Saudi.Thakafya
+http://showsat.hopto.me:9000/live/123456789/1234/12063.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Saudi.Tv1
+http://showsat.hopto.me:9000/live/123456789/1234/12065.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Saudi.Tv2
+http://showsat.hopto.me:9000/live/123456789/1234/12064.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Saudi:SAUDI_24
+http://showsat.hopto.me:9000/live/123456789/1234/12061.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Saudi:Sport
+http://showsat.hopto.me:9000/live/123456789/1234/13658.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Saudi:Thakafya
+http://showsat.hopto.me:9000/live/123456789/1234/13659.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Saudi:Ajyal
+http://showsat.hopto.me:9000/live/123456789/1234/13670.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Saudi:Quran
+http://showsat.hopto.me:9000/live/123456789/1234/13661.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Saudi:News
+http://showsat.hopto.me:9000/live/123456789/1234/13660.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Saudi:Almajd Edu
+http://showsat.hopto.me:9000/live/123456789/1234/13669.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",SAUDI:SAUDI1
+http://showsat.hopto.me:9000/live/123456789/1234/3978.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",SAUDI:SAUDI2
+http://showsat.hopto.me:9000/live/123456789/1234/3976.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",SAUDI:SUNNA
+http://showsat.hopto.me:9000/live/123456789/1234/3680.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",####### Kuwait #######
+http://showsat.hopto.me:9000/live/123456789/1234/12060.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Kuwait:Alaraby
+http://showsat.hopto.me:9000/live/123456789/1234/12051.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Kuwait:Ethraa
+http://showsat.hopto.me:9000/live/123456789/1234/12052.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Kuwait:Kuwait 1
+http://showsat.hopto.me:9000/live/123456789/1234/12059.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Kuwait:Kuwait2
+http://showsat.hopto.me:9000/live/123456789/1234/12058.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Kuwait:Plus
+http://showsat.hopto.me:9000/live/123456789/1234/12055.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Kuwait:Almajlis
+http://showsat.hopto.me:9000/live/123456789/1234/13673.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Kuwait:Sport-Plus
+http://showsat.hopto.me:9000/live/123456789/1234/13672.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",###### IRAQ ######
+http://showsat.hopto.me:9000/live/123456789/1234/10804.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",IRAQ:IraqiaSport
+http://showsat.hopto.me:9000/live/123456789/1234/10806.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",IRAQ:Al_Forat
+http://showsat.hopto.me:9000/live/123456789/1234/10822.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",IRAQ:AL_HURRA
+http://showsat.hopto.me:9000/live/123456789/1234/10834.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",IRAQ:AL-SHARQIA-TV
+http://showsat.hopto.me:9000/live/123456789/1234/10831.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",IRAQ:BAGHDAD
+http://showsat.hopto.me:9000/live/123456789/1234/10830.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",IRAQ:alforat
+http://showsat.hopto.me:9000/live/123456789/1234/10812.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",IRAQ:AlIraqiya_NEW
+http://showsat.hopto.me:9000/live/123456789/1234/10807.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",IRAQ:alrashid
+http://showsat.hopto.me:9000/live/123456789/1234/10814.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",IRAQ:anb
+http://showsat.hopto.me:9000/live/123456789/1234/10809.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",IRAQ:Hadath
+http://showsat.hopto.me:9000/live/123456789/1234/10818.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",IRAQ:Shabab
+http://showsat.hopto.me:9000/live/123456789/1234/10811.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",IRAQ:NEWS
+http://showsat.hopto.me:9000/live/123456789/1234/10816.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",IRAQ:Toyor_Al_Iraq
+http://showsat.hopto.me:9000/live/123456789/1234/10824.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",##### SYRIA #####
+http://showsat.hopto.me:9000/live/123456789/1234/10096.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",SYRIA:DRAMA
+http://showsat.hopto.me:9000/live/123456789/1234/10095.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",SYRIA:Sama
+http://showsat.hopto.me:9000/live/123456789/1234/9944.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",SYRIA:Medical
+http://showsat.hopto.me:9000/live/123456789/1234/3654.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",SYRIA:Syria_TV
+http://showsat.hopto.me:9000/live/123456789/1234/3655.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",SYRIA:HALAB_TODAY
+http://showsat.hopto.me:9000/live/123456789/1234/10853.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",SYRIA:NUUR_Acham_SYRIA
+http://showsat.hopto.me:9000/live/123456789/1234/10856.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",########  LEBANON #########
+http://showsat.hopto.me:9000/live/123456789/1234/11379.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",LEBANON:FUTURE
+http://showsat.hopto.me:9000/live/123456789/1234/10797.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",LEBANON:LDC
+http://showsat.hopto.me:9000/live/123456789/1234/10799.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",LEBANON:NBN
+http://showsat.hopto.me:9000/live/123456789/1234/10801.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",LEBANON:Almayadeen
+http://showsat.hopto.me:9000/live/123456789/1234/10802.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",LEBANON:LBC
+http://showsat.hopto.me:9000/live/123456789/1234/9912.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",LEBANON:ALJADEED
+http://showsat.hopto.me:9000/live/123456789/1234/10861.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",LEBANON:ALMANAR
+http://showsat.hopto.me:9000/live/123456789/1234/10241.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",LEBANON:OTV
+http://showsat.hopto.me:9000/live/123456789/1234/10859.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",LEBANON:MTV
+http://showsat.hopto.me:9000/live/123456789/1234/11050.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",LEBANON:Lebanon TV
+http://showsat.hopto.me:9000/live/123456789/1234/10800.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",LEBANON:Noor_Sat
+http://showsat.hopto.me:9000/live/123456789/1234/10860.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",LEBANON:Al-Janoubia
+http://showsat.hopto.me:9000/live/123456789/1234/10839.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",##### Algeria #####
+http://showsat.hopto.me:9000/live/123456789/1234/8616.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ALG:algerie
+http://showsat.hopto.me:9000/live/123456789/1234/5615.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ALG:BAHIA
+http://showsat.hopto.me:9000/live/123456789/1234/8608.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ALG:AL NAHAR
+http://showsat.hopto.me:9000/live/123456789/1234/9745.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ALG:Benna
+http://showsat.hopto.me:9000/live/123456789/1234/8606.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ALG:Algeria 5
+http://showsat.hopto.me:9000/live/123456789/1234/11125.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ALG:Berbère Jeunesse
+http://showsat.hopto.me:9000/live/123456789/1234/11118.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ALG:DZAIR_TV
+http://showsat.hopto.me:9000/live/123456789/1234/11117.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ALG:Berbère Télévision
+http://showsat.hopto.me:9000/live/123456789/1234/11116.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ALG:CHOUROUK
+http://showsat.hopto.me:9000/live/123456789/1234/11124.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ALG:SAMIRA TV
+http://showsat.hopto.me:9000/live/123456789/1234/8615.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ALG:BEUR_TV
+http://showsat.hopto.me:9000/live/123456789/1234/10944.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ALG:EL_FADJR TV
+http://showsat.hopto.me:9000/live/123456789/1234/10947.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ALG:EL-BILAD-TV
+http://showsat.hopto.me:9000/live/123456789/1234/10946.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ALG:D-zair-news
+http://showsat.hopto.me:9000/live/123456789/1234/9938.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ALG:rai music2
+http://showsat.hopto.me:9000/live/123456789/1234/12868.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ALGEREIA AFLAM 1
+http://showsat.hopto.me:9000/live/123456789/1234/12864.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ALG:rai music1
+http://showsat.hopto.me:9000/live/123456789/1234/12869.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",####### TUNISIE #######
+http://showsat.hopto.me:9000/live/123456789/1234/4742.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",TUN:TN Aljanoubia
+http://showsat.hopto.me:9000/live/123456789/1234/8646.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",TUN:M-Tunisia
+http://showsat.hopto.me:9000/live/123456789/1234/8640.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",TUN:TN_Tunisna
+http://showsat.hopto.me:9000/live/123456789/1234/8639.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",TUN:Zaytouna_Hidaya
+http://showsat.hopto.me:9000/live/123456789/1234/8638.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",TUN:ALMUSTAKILLAH
+http://showsat.hopto.me:9000/live/123456789/1234/11130.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",TUN:Tunisia-NAT_1
+http://showsat.hopto.me:9000/live/123456789/1234/10852.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",TUN:TUNISNA
+http://showsat.hopto.me:9000/live/123456789/1234/10843.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",TUN:Zitouna-TV
+http://showsat.hopto.me:9000/live/123456789/1234/10836.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",TUN:TN_Zaytouna
+http://showsat.hopto.me:9000/live/123456789/1234/4753.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",TUN:Attessia
+http://showsat.hopto.me:9000/live/123456789/1234/11101.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",TUN:Nessma
+http://showsat.hopto.me:9000/live/123456789/1234/10850.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",TUN:Hannibal
+http://showsat.hopto.me:9000/live/123456789/1234/10849.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",####### LIBYA #######
+http://showsat.hopto.me:9000/live/123456789/1234/12024.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",LIBYA:Panorama
+http://showsat.hopto.me:9000/live/123456789/1234/12021.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",LIBYA:Libya 218
+http://showsat.hopto.me:9000/live/123456789/1234/12015.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",LIBYA:Libya Alwatanya
+http://showsat.hopto.me:9000/live/123456789/1234/12016.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",LIBYA:LIBYA ONE
+http://showsat.hopto.me:9000/live/123456789/1234/12018.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",LIBYA:LIBYA TV
+http://showsat.hopto.me:9000/live/123456789/1234/12020.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",LIBYA:libya_Alhadath
+http://showsat.hopto.me:9000/live/123456789/1234/12601.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",LIBYA:naba
+http://showsat.hopto.me:9000/live/123456789/1234/12603.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",IRAQ:ANB-BAGDAD
+http://showsat.hopto.me:9000/live/123456789/1234/3656.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",####### Jordan #######
+http://showsat.hopto.me:9000/live/123456789/1234/12083.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Jordan:Jordan Today
+http://showsat.hopto.me:9000/live/123456789/1234/12071.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Jordan:Noor
+http://showsat.hopto.me:9000/live/123456789/1234/12074.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Jordan:Jorden
+http://showsat.hopto.me:9000/live/123456789/1234/12073.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",JORDAN:JASKO
+http://showsat.hopto.me:9000/live/123456789/1234/9931.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Jordan:Roya
+http://showsat.hopto.me:9000/live/123456789/1234/12081.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Jordan:Sport
+http://showsat.hopto.me:9000/live/123456789/1234/12080.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Jordan:Zwina
+http://showsat.hopto.me:9000/live/123456789/1234/12078.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Jordan:Nart TV
+http://showsat.hopto.me:9000/live/123456789/1234/12077.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",####### Palestine #######
+http://showsat.hopto.me:9000/live/123456789/1234/12035.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Palestine
+http://showsat.hopto.me:9000/live/123456789/1234/12030.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Palestine.live
+http://showsat.hopto.me:9000/live/123456789/1234/12034.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Palestine.Alraea tv
+http://showsat.hopto.me:9000/live/123456789/1234/12033.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Palestine.News
+http://showsat.hopto.me:9000/live/123456789/1234/12032.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",PALESTINE.TODAY
+http://showsat.hopto.me:9000/live/123456789/1234/12031.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",PALESTINE:Alyawm
+http://showsat.hopto.me:9000/live/123456789/1234/12029.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",####### QATAR #######
+http://showsat.hopto.me:9000/live/123456789/1234/12028.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",QATAR:alrayan
+http://showsat.hopto.me:9000/live/123456789/1234/12026.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",QATAR:Qatar
+http://showsat.hopto.me:9000/live/123456789/1234/12027.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:ALKASS-1
+http://showsat.hopto.me:9000/live/123456789/1234/3635.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:ALKASS-2
+http://showsat.hopto.me:9000/live/123456789/1234/3634.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:ALKASS-4
+http://showsat.hopto.me:9000/live/123456789/1234/2428.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:ALKASS-5
+http://showsat.hopto.me:9000/live/123456789/1234/11559.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",###### ARAB_NEWS ######
+http://showsat.hopto.me:9000/live/123456789/1234/10361.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NEWS:ANN
+http://showsat.hopto.me:9000/live/123456789/1234/9744.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NEWS:watan tv
+http://showsat.hopto.me:9000/live/123456789/1234/3586.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NEWS:alhadath
+http://showsat.hopto.me:9000/live/123456789/1234/10240.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NEWS:TRT Arabic
+http://showsat.hopto.me:9000/live/123456789/1234/10237.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NEWS:AlArabiya
+http://showsat.hopto.me:9000/live/123456789/1234/11133.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NEWS:AlJazeera
+http://showsat.hopto.me:9000/live/123456789/1234/7410.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NEWS:Al MANAR TV
+http://showsat.hopto.me:9000/live/123456789/1234/3652.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NEWS:Aljazeera mubasher
+http://showsat.hopto.me:9000/live/123456789/1234/4391.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NEWS:Alhiwar
+http://showsat.hopto.me:9000/live/123456789/1234/9913.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NEWS:ARAB
+http://showsat.hopto.me:9000/live/123456789/1234/9933.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NEWS:DW_ Alarabiya
+http://showsat.hopto.me:9000/live/123456789/1234/3621.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NEWS:BBC_Arabia
+http://showsat.hopto.me:9000/live/123456789/1234/3625.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NEWS:SKY_NEWS_ARABIA
+http://showsat.hopto.me:9000/live/123456789/1234/3629.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NEWS:FRANCE_24_(AR)
+http://showsat.hopto.me:9000/live/123456789/1234/3626.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NEWS:AlJazeera_Documentary
+http://showsat.hopto.me:9000/live/123456789/1234/3618.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",NEWS:AlJazeera_Mubasher
+http://showsat.hopto.me:9000/live/123456789/1234/3619.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",####### KIDS-ARABIC #######
+http://showsat.hopto.me:9000/live/123456789/1234/5377.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:TOYOR_ALJANAH
+http://showsat.hopto.me:9000/live/123456789/1234/10082.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:BEIN_JUNIOR
+http://showsat.hopto.me:9000/live/123456789/1234/10091.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:BEIN_JEEM
+http://showsat.hopto.me:9000/live/123456789/1234/10090.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:Baby
+http://showsat.hopto.me:9000/live/123456789/1234/10077.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:Nickelodeon
+http://showsat.hopto.me:9000/live/123456789/1234/10064.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:SPACETOON
+http://showsat.hopto.me:9000/live/123456789/1234/10087.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:Movie_Kids
+http://showsat.hopto.me:9000/live/123456789/1234/10075.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:TOYOR_baby
+http://showsat.hopto.me:9000/live/123456789/1234/10076.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:CARTOON NETWORK
+http://showsat.hopto.me:9000/live/123456789/1234/10084.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:Disney
+http://showsat.hopto.me:9000/live/123456789/1234/10068.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:Fatafeat
+http://showsat.hopto.me:9000/live/123456789/1234/10066.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:MODY
+http://showsat.hopto.me:9000/live/123456789/1234/10238.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:SMSM
+http://showsat.hopto.me:9000/live/123456789/1234/10239.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:Ajyal
+http://showsat.hopto.me:9000/live/123456789/1234/13061.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:Atfal Mwaheb {kids}
+http://showsat.hopto.me:9000/live/123456789/1234/13062.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:BARAEM
+http://showsat.hopto.me:9000/live/123456789/1234/13063.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:Cartoon_Network
+http://showsat.hopto.me:9000/live/123456789/1234/13051.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:HodHod
+http://showsat.hopto.me:9000/live/123456789/1234/13057.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:Kramesh
+http://showsat.hopto.me:9000/live/123456789/1234/13053.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:Sat7
+http://showsat.hopto.me:9000/live/123456789/1234/13055.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:Majid
+http://showsat.hopto.me:9000/live/123456789/1234/13059.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:Mickey
+http://showsat.hopto.me:9000/live/123456789/1234/13058.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",KIDS:SemSem
+http://showsat.hopto.me:9000/live/123456789/1234/13056.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",####### eslamic #######
+http://showsat.hopto.me:9000/live/123456789/1234/3682.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ESLAM:IQRAA
+http://showsat.hopto.me:9000/live/123456789/1234/3653.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ESLAM:QREAN-2
+http://showsat.hopto.me:9000/live/123456789/1234/9927.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ESLAM:Al_Rahma
+http://showsat.hopto.me:9000/live/123456789/1234/12754.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ESLAM:MECCA-TV
+http://showsat.hopto.me:9000/live/123456789/1234/3624.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ESLAM:AlNas
+http://showsat.hopto.me:9000/live/123456789/1234/9939.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Eslam:AlMajd_Quran
+http://showsat.hopto.me:9000/live/123456789/1234/2821.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ESLAM:Al_majd_Scientific
+http://showsat.hopto.me:9000/live/123456789/1234/12748.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ESLAM:Al_majd_Al_hadeeth
+http://showsat.hopto.me:9000/live/123456789/1234/12747.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ESLAM:AHEL AL QURAN
+http://showsat.hopto.me:9000/live/123456789/1234/12751.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ESLAM:ALResala-HD
+http://showsat.hopto.me:9000/live/123456789/1234/3620.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ESLAM:Alfajr
+http://showsat.hopto.me:9000/live/123456789/1234/5614.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ESLAM:resala-eslam
+http://showsat.hopto.me:9000/live/123456789/1234/9948.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",###### CRISTIAN-CHANNEL######
+http://showsat.hopto.me:9000/live/123456789/1234/13034.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",-:Ctv
+http://showsat.hopto.me:9000/live/123456789/1234/13033.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",+:Aghapy
+http://showsat.hopto.me:9000/live/123456789/1234/13292.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",-:NoorAlshabab
+http://showsat.hopto.me:9000/live/123456789/1234/13032.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",-:NoorAlsharq
+http://showsat.hopto.me:9000/live/123456789/1234/13031.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",-:NoorKodas
+http://showsat.hopto.me:9000/live/123456789/1234/13030.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",-:NoorMariam
+http://showsat.hopto.me:9000/live/123456789/1234/13029.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",-:NoorMusic
+http://showsat.hopto.me:9000/live/123456789/1234/13028.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",-:NoorSpirit
+http://showsat.hopto.me:9000/live/123456789/1234/13027.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",-:Noursat(Christian)
+http://showsat.hopto.me:9000/live/123456789/1234/13026.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",-:NoursatChabab(Christian)
+http://showsat.hopto.me:9000/live/123456789/1234/13025.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",+:Me Sat Christian
+http://showsat.hopto.me:9000/live/123456789/1234/16260.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",+:Sat7 Christian
+http://showsat.hopto.me:9000/live/123456789/1234/16265.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",+:Al Hayah ( cristian )
+http://showsat.hopto.me:9000/live/123456789/1234/16251.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",+:Koogi kids Christian
+http://showsat.hopto.me:9000/live/123456789/1234/16254.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",+:Miracle Christian
+http://showsat.hopto.me:9000/live/123456789/1234/16259.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",##### SUDAN #####
+http://showsat.hopto.me:9000/live/123456789/1234/16754.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Sudan Sport
+http://showsat.hopto.me:9000/live/123456789/1234/16753.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Sudan TV
+http://showsat.hopto.me:9000/live/123456789/1234/16752.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Sudan 24
+http://showsat.hopto.me:9000/live/123456789/1234/16748.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Sudan Drama
+http://showsat.hopto.me:9000/live/123456789/1234/16747.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Sudan Om Dorman
+http://showsat.hopto.me:9000/live/123456789/1234/16749.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Sudan Blue Nile
+http://showsat.hopto.me:9000/live/123456789/1234/16751.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Sudan Music
+http://showsat.hopto.me:9000/live/123456789/1234/16745.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Sudan Alamanal
+http://showsat.hopto.me:9000/live/123456789/1234/16744.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Sudan Ashoroqq
+http://showsat.hopto.me:9000/live/123456789/1234/16743.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Sudan Dabanga
+http://showsat.hopto.me:9000/live/123456789/1234/16742.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Sudan Jazeera Green
+http://showsat.hopto.me:9000/live/123456789/1234/16741.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Sudan Kassala
+http://showsat.hopto.me:9000/live/123456789/1234/16740.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Sudan Knowledge
+http://showsat.hopto.me:9000/live/123456789/1234/16750.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Sudan TV (Somalia)
+http://showsat.hopto.me:9000/live/123456789/1234/16746.m3u8
 
 
 
