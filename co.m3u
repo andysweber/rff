@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,14/08/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,16/08/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -72,11 +72,11 @@ http://www.ant1iwo.com/webtv/web-tv-live/|webdown$$start=href=\"http://l$$end=\"
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/v6twaoa6r/ant1.png",Ant1 Cyprus
 http://www.fireshow.xyz/ant1cym.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
-http://master.cystreams.com:25461/live/greek/zagoria/14.ts
+http://master.cystreams.com:25461/live/greek/omiros/14.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
 http://www.anacon.org/app/chans/cy/capitalcy.html|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://cdn.mypanel.tv/picon/cy/ExtraTV.cy.png" ,EXTRA
-http://master.cystreams.com:25461/live/greek/zagoria/15.ts
+http://master.cystreams.com:25461/live/greek/omiros/15.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://cdn.mypanel.tv/picon/cy/ExtraTV.cy.png" ,EXTRA
 http://www.anacon.org/app/chans/cy/extracy.html|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/tvg/logos/201.png",Plus 
@@ -84,7 +84,7 @@ http://www.anacon.org/app/chans/cy/pluscy.html|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
-http://master.cystreams.com:25461/live/greek/zagoria/119.ts
+http://master.cystreams.com:25461/live/greek/omiros/119.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
 http://www.lakatamia.tv/app/chans/cy/smilecy.html|webdown
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Youtube)
@@ -151,11 +151,11 @@ https://glmxantennatvsec-lh.akamaihd.net/i/live_1@536771/master.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="Mega Channel" epg-id="mega.gr" tvg-logo="https://goo.gl/nTCu62" ,MEGA (Youtube)
 https://www.youtube.com/watch?v=CoohQWgDWVs
 #EXTINF:-1 group-title="Greece" tvg-name="Mega Channel" epg-id="mega.gr" tvg-logo="https://goo.gl/nTCu62" ,MEGA 
-http://master.cystreams.com:25461/live/greek/zagoria/43.ts
+http://master.cystreams.com:25461/live/greek/omiros/43.ts
 #EXTINF:-1 group-title="Greece" tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/satellite-tv-logos/mega-cosmos.png" ,MEGA COSMOS
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/np3siv" ,SKAI
-http://master.cystreams.com:25461/live/greek/zagoria/42.ts
+http://master.cystreams.com:25461/live/greek/omiros/42.ts
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/np3siv" ,SKAI Web
 http://www.lakatamiatv.xyz/app/chans/gr/skai.html|webview zoom=100 scroll=0,100
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/np3siv" ,SKAI Youtube
@@ -163,16 +163,16 @@ http://www.tvradiogr.com/p/tv/18/skai-live.html|webdown
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/np3siv" ,SKAI official Web
 http://www.skai.gr/mobile/tv-live/|webview zoom=100 scroll=0,100
 #EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
-http://master.cystreams.com:25461/live/greek/zagoria/40.ts
+http://master.cystreams.com:25461/live/greek/omiros/40.ts
 #EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR HD
 http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="Alpha" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg" ,ALPHA (USE GREECE VPN)
 http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/kkjOp4" ,ZOUGLA
 http://zouglacam.mdc.akamaized.net/zouglalive/main/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://goo.gl/tjFpM3" ,E
+#EXTINF:-1 group-title="Greece" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://i.imgur.com/TEc8hmy.jpg" ,Epsilon TV
 https://s1.streamings.gr/epsilontv/epsilontv.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://goo.gl/tjFpM3" ,E
+#EXTINF:-1 group-title="Greece" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://i.imgur.com/TEc8hmy.jpg" ,Epsilon TV
 https://57b1c3ae400ed.streamlock.net/live/epsilontv/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/m1ZYJB" ,VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
@@ -334,7 +334,7 @@ http://5.135.92.130:36523/out/u/575_1.m3u8
 http://5.135.92.130:36523/out/u/577_1.m3u8
 #EXTINF:-1 group-title="Greece2" tvg-logo="https://goo.gl/m1ZYJB" ,VOULI
 http://5.135.92.130:36523/out/u/579_1.m3u8
-#EXTINF:-1 group-title="Greece2" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://goo.gl/tjFpM3" ,E
+#EXTINF:-1 group-title="Greece2" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://i.imgur.com/TEc8hmy.jpg" ,Epsilon TV
 http://5.135.92.130:36523/out/u/581_1.m3u8
 
 
@@ -1772,46 +1772,45 @@ http://62.210.93.115:80/live?channelId=258&uid=1917&deviceMac=00:1A:79:15:34:33
 #EXTINF:-1 group-title="UK3", 
 
 #EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/6PNa3pim.png",4Seven
-http://123tv.live/watch/4seven-live-stream-sky-137_tuteDlWTjL.html|webnoagent$$start=\"\" src=\"htt$$end===\">\u003Csource$$replace=\"\" src=\"$$replacewith=$$add===
+http://123tv.live/watch/4seven-live-stream-sky-137_tuteDlWTjL.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
 #EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/GlCExxVm.png",5USA
-http://123tv.live/watch/5usa-tv-live-stream-5usa-uk_PsExW1xTjN.html|webnoagent$$start=\"\" src=\"htt$$end===\">\u003Csource$$replace=\"\" src=\"$$replacewith=$$add===
+http://123tv.live/watch/5usa-tv-live-stream-5usa-uk_PsExW1xTjN.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
 #EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/fsCI6qDm.png",BBC News
-http://123tv.live/watch/bbc-news-live-stream-uk_xulANjUHtf.html|webnoagent$$start=\"\" src=\"htt$$end===\">\u003Csource$$replace=\"\" src=\"$$replacewith=$$add===
+http://123tv.live/watch/bbc-news-live-stream-uk_xulANjUHtf.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
 #EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/yKDqhfSm.png",BBC One
-http://123tv.live/watch/bbc-one-live-stream-uk_ZxMa9QlY9Z.html|webnoagent$$start=\"\" src=\"htt$$end===\">\u003Csource$$replace=\"\" src=\"$$replacewith=$$add===
+http://123tv.live/watch/bbc-one-live-stream-uk_ZxMa9QlY9Z.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
 #EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/euO1fqHm.png",BBC Two
-http://123tv.live/watch/bbc-two-live-stream-uk_8B65zQHneq.html|webnoagent$$start=\"\" src=\"htt$$end===\">\u003Csource$$replace=\"\" src=\"$$replacewith=$$add===
+http://123tv.live/watch/bbc-two-live-stream-uk_8B65zQHneq.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
 #EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/p3WKd91m.png",BBC World News
-http://123tv.live/watch/bbc-world-news-live-stream_eKzCxDAU9P.html|webnoagent$$start=\"\" src=\"htt$$end===\">\u003Csource$$replace=\"\" src=\"$$replacewith=$$add===
+http://123tv.live/watch/bbc-world-news-live-stream_eKzCxDAU9P.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
 #EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/B5z7SRQm.jpg",Bloomberg Europe
-http://123tv.live/watch/bloomberg-europe-live-stream_HPlsSe1wab.html|webnoagent$$start=\"\" src=\"htt$$end===\">\u003Csource$$replace=\"\" src=\"$$replacewith=$$add===
+http://123tv.live/watch/bloomberg-europe-live-stream_HPlsSe1wab.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
 #EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/adqiz2Km.png",CBBC Live Stream
-http://123tv.live/watch/cbbc-live-stream-cbbc-bbc-uk_xtizk9g79c.html|webnoagent$$start=\"\" src=\"htt$$end===\">\u003Csource$$replace=\"\" src=\"$$replacewith=$$add===
+http://123tv.live/watch/cbbc-live-stream-cbbc-bbc-uk_xtizk9g79c.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
 #EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/2H3ir5wm.png",CBS Reality 
-http://123tv.live/watch/cbs-reality-live-stream-sky-146_kGamw9TcLU.html|webnoagent$$start=\"\" src=\"htt$$end===\">\u003Csource$$replace=\"\" src=\"$$replacewith=$$add===
+http://123tv.live/watch/cbs-reality-live-stream-sky-146_kGamw9TcLU.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
 #EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/LbycMJSm.png",Channel 4
-http://123tv.live/watch/channel-4-live-stream-uk_PRFVIwBfit.html|webnoagent$$start=\"\" src=\"htt$$end===\">\u003Csource$$replace=\"\" src=\"$$replacewith=$$add===
+http://123tv.live/watch/channel-4-live-stream-uk_PRFVIwBfit.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
 #EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/nzhZbFlm.png",Channel 5
-http://123tv.live/watch/channel-5-live-stream-uk_fyppAefG99.html|webnoagent$$start=\"\" src=\"htt$$end===\">\u003Csource$$replace=\"\" src=\"$$replacewith=$$add===
+http://123tv.live/watch/channel-5-live-stream-uk_fyppAefG99.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
 #EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/DxC71PFm.png",CNBC Europe
-http://123tv.live/watch/cnbc-europe-live-stream_UhbquxKFG8.html|webnoagent$$start=\"\" src=\"htt$$end===\">\u003Csource$$replace=\"\" src=\"$$replacewith=$$add===
+http://123tv.live/watch/cnbc-europe-live-stream_UhbquxKFG8.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
 #EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/Vb3j2tAm.jpg",CNN International Europe
-http://123tv.live/watch/cnn-international-europe-live_zBrDhCw35W.html|webnoagent$$start=\"\" src=\"htt$$end===\">\u003Csource$$replace=\"\" src=\"$$replacewith=$$add===
+http://123tv.live/watch/cnn-international-europe-live_zBrDhCw35W.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
 #EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/JwXwTpkm.png",Dave Channel
-http://123tv.live/watch/dave-channel-live-stream-uktv_ghER2MSAEm.html|webnoagent$$start=\"\" src=\"htt$$end===\">\u003Csource$$replace=\"\" src=\"$$replacewith=$$add===
+http://123tv.live/watch/dave-channel-live-stream-uktv_ghER2MSAEm.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
 #EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/0eiMIP9m.png",Drama Channel
-http://123tv.live/watch/drama-channel-live-stream-d-uktv_fess9vwNNM.html|webnoagent$$start=\"\" src=\"htt$$end===\">\u003Csource$$replace=\"\" src=\"$$replacewith=$$add===
+http://123tv.live/watch/drama-channel-live-stream-d-uktv_fess9vwNNM.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
 #EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/g2ncM8Xm.png",E4
-http://123tv.live/watch/e4-live-stream-uk_1gpqexC2mZ.html|webnoagent$$start=\"\" src=\"htt$$end===\">\u003Csource$$replace=\"\" src=\"$$replacewith=$$add===
+http://123tv.live/watch/e4-live-stream-uk_1gpqexC2mZ.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
 #EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/3EjqhMSm.png",Euronews UK
-http://123tv.live/watch/euronews-uk-live-stream_iC22jxguR7.html|webnoagent$$start=\"\" src=\"htt$$end===\">\u003Csource$$replace=\"\" src=\"$$replacewith=$$add===
+http://123tv.live/watch/euronews-uk-live-stream_iC22jxguR7.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
 #EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/LClp2vem.png",Film4
-http://123tv.live/watch/film4-live-stream-uk_aMSXe4iUmm.html|webnoagent$$start=\"\" src=\"htt$$end===\">\u003Csource$$replace=\"\" src=\"$$replacewith=$$add===
+http://123tv.live/watch/film4-live-stream-uk_aMSXe4iUmm.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
 #EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/BiO7KTom.png",ITV
-http://123tv.live/watch/itv-itv1-live-stream-uk_AxYK2Qwqfn.html|webnoagent$$start=\"\" src=\"htt$$end===\">\u003Csource$$replace=\"\" src=\"$$replacewith=$$add===
+http://123tv.live/watch/itv-itv1-live-stream-uk_AxYK2Qwqfn.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
 #EXTINF:-1 group-title="UK3" tvg-logo="https://i.imgur.com/A6MHGHtm.png",FreeSports
-http://123tv.live/watch/freesports-live-stream-uk_NUGZs8XrTn.html|webnoagent$$start=\"\" src=\"htt$$end===\">\u003Csource$$replace=\"\" src=\"$$replacewith=$$add===
-
+http://123tv.live/watch/freesports-live-stream-uk_NUGZs8XrTn.html|webnoagent$$start=\tfile: \"htt$$end===\",$$replace=\tfile: \"$$replacewith=$$add===
 
 
 
@@ -1830,23 +1829,7 @@ http://123tv.live/watch/freesports-live-stream-uk_NUGZs8XrTn.html|webnoagent$$st
 
 
 #EXTINF:-1 group-title="UK4", 
-#EXTINF:-1 group-title="UK4" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
-http://..........
 
-#EXTINF:-1 group-title="UK4",MTV hits 
-http://81.200.50.4/hls/MTV_Hits_nejtv_portable_low.m3u8 
-#EXTINF:-1 group-title="UK4",MTV Live 
-http://81.200.50.4/hls/MTV_Live_nejtv_portable_low.m3u8 
-#EXTINF:-1 group-title="UK4",MTV Europe 
-http://81.200.50.4/hls/MTV_Europe_nejtv_portable_low.m3u8 
-#EXTINF:-1 group-title="UK4",MTV Dance 
-http://81.200.50.4/hls/MTV_Dance_nejtv_portable_low.m3u8 
-#EXTINF:-1 group-title="UK4",MTV Rocks 
-http://81.200.50.4/hls/MTV_Rocks_nejtv_portable_low.m3u8 
-#EXTINF:-1 group-title="UK4",VH1 
-http://81.200.50.4/hls/VH1_nejtv_portable_low.m3u8 
-#EXTINF:-1 group-title="UK4",VH1 Classic 
-http://81.200.50.4/hls/VH1_Classic_nejtv_portable_low.m3u8
 
 
 
@@ -3681,38 +3664,160 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/811.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Italy2-PREMIUM",
 
-#EXTINF:-1 group-title="Italy2-PREMIUM",ANIMAL PLANET | SD
-http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/2332.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",FOX | HD
-http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/533.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",FOX COMEDY | HD
-http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/223.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",NATIONAL GEOGRAPHIC | HD
-http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/2315.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",PREMIUM CALCIO 2 | SD
-http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/3610.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",PREMIUM EMOTION | SD
-http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/230.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",RAI2 | HD
-http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/204.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",SKY CALCIO 1 | SD
-http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/5205.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",SKY CALCIO 2 | SD
-http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/5206.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",SKY CALCIO 3 | SD
-http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/5207.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",SKY CALCIO 4 | SD
-http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/5208.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",SKY FOXCRIME | HD
-http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/239.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",SKY PRIMAFILA 3 | SD
-http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/2297.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",SKY PRIMAFILA 4 | SD
-http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/2296.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",SKY UNO | HD
-http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/535.m3u8
-#EXTINF:-1 group-title="Italy2-PREMIUM",TELETICINO | SD
-http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/2285.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI1.png",RAI 1 HD 
+http://5.189.187.55:8000/live/Fadil/skype/367.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RETE4.png",RETE 4 HD 
+http://5.189.187.55:8000/live/Fadil/skype/370.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TOPCRIME.png",TOPCRIME 
+http://5.189.187.55:8000/live/Fadil/skype/997.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI5.png",RAI 5 
+http://5.189.187.55:8000/live/Fadil/skype/1518.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIGULP.png",RAI GULP 
+http://5.189.187.55:8000/live/Fadil/skype/1519.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIPREMIUM.png",RAI PREMIUM 
+http://5.189.187.55:8000/live/Fadil/skype/1521.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAISCUOLA.png",RAI SCUOLA 
+http://5.189.187.55:8000/live/Fadil/skype/1522.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIYOYO.png",RAI YOYO HD 
+http://5.189.187.55:8000/live/Fadil/skype/1525.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIMOVIE.png",RAI MOVIE 
+http://5.189.187.55:8000/live/Fadil/skype/1520.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_19_36E3_6A4_13E_820000_0_0_0.png",RSI LA1 HD 
+http://5.189.187.55:8000/live/Fadil/skype/854.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_19_36E4_6A4_13E_820000_0_0_0.png",RSI LA2 HD 
+http://5.189.187.55:8000/live/Fadil/skype/853.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYCINEMA+1.png",SKY CINEMA +1 HD 
+http://5.189.187.55:8000/live/Fadil/skype/647.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYCINEMA+24.png",SKY CINEMA +24 HD 
+http://5.189.187.55:8000/live/Fadil/skype/373.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYHITS.png",SKY CINEMA HITS HD 
+http://5.189.187.55:8000/live/Fadil/skype/371.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/43/Joi_logo.svg/revision/latest/scale-to-width-down/499?cb=20100309145139",PREMIUM JOI 
+http://5.189.187.55:8000/live/Fadil/skype/364.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/43/Joi_logo.svg/revision/latest/scale-to-width-down/499?cb=20100309145139",PREMIUM JOI +24 
+http://5.189.187.55:8000/live/Fadil/skype/2667.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://i.imgur.com/MyZGKeG.png",PREMIUM STORIES 
+http://5.189.187.55:8000/live/Fadil/skype/1393.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIMOVIE.png",RAI MOVIE 
+http://5.189.187.55:8000/live/Fadil/skype/1520.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Sky_cinema_family_hd_2016.png",SKY CINEMA FAMILY HD 
+http://5.189.187.55:8000/live/Fadil/skype/375.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://www.epg-guide.com/wordpress/wp-content/uploads/2017/06/Sky-Cinema-Passion.png",SKY CINEMA PASSION HD 
+http://5.189.187.55:8000/live/Fadil/skype/376.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYCOMEDY.png",SKY CINEMA COMEDY HD 
+http://5.189.187.55:8000/live/Fadil/skype/2812.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://www.thelogodb.com/images/media/logo/qqvpvw1482143587.png",SKY CINEMA MAX HD 
+http://5.189.187.55:8000/live/Fadil/skype/2723.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://www.lospettacolo.it/img/logos/cni.png",SKY CINEMA CULT HD 
+http://5.189.187.55:8000/live/Fadil/skype/698.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://www.thelogodb.com/images/media/logo/uxsytw1482143116.png",SKY CINEMA CLASSIC HD 
+http://5.189.187.55:8000/live/Fadil/skype/699.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://i.imgur.com/WyavUpz.png",SKY UNO HD 
+http://5.189.187.55:8000/live/Fadil/skype/2783.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYATLANTIC.png",SKY ATLANTIC HD 
+http://5.189.187.55:8000/live/Fadil/skype/2609.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png",FOX HD 
+http://5.189.187.55:8000/live/Fadil/skype/2803.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png",FOX LIFE HD 
+http://5.189.187.55:8000/live/Fadil/skype/3749.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXANIMATION.png",FOX ANIMATION HD 
+http://5.189.187.55:8000/live/Fadil/skype/3006.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FINELIVING.png",FINE LIVING 
+http://5.189.187.55:8000/live/Fadil/skype/1502.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ALICE.png",ALICE 
+http://5.189.187.55:8000/live/Fadil/skype/1225.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://i.imgur.com/AeLroKj.png",SKY SPORT 24 HD 
+http://5.189.187.55:8000/live/Fadil/skype/395.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://i.imgur.com/GM9BhHH.png",SKY SPORT 1 IT HD 
+http://5.189.187.55:8000/live/Fadil/skype/393.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://i.imgur.com/JM9osWD.png",SKY SPORT 2 IT HD 
+http://5.189.187.55:8000/live/Fadil/skype/394.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://i.imgur.com/CfwpEyD.png",SKY SPORT 3 IT HD 
+http://5.189.187.55:8000/live/Fadil/skype/396.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SUPERTENNIS.png",SUPER TENNIS 
+http://5.189.187.55:8000/live/Fadil/skype/1528.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png",EUROSPORT 1 HD IT 
+http://5.189.187.55:8000/live/Fadil/skype/2131.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png",EUROSPORT 2 IT 
+http://5.189.187.55:8000/live/Fadil/skype/2132.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/4a/Logo_si.JPG/revision/latest?cb=20161118191326",SPORTITALIA 
+http://5.189.187.55:8000/live/Fadil/skype/1178.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://i.imgur.com/CmFj0p2.png",SKY SPORT MOTOGP IT HD 
+http://5.189.187.55:8000/live/Fadil/skype/708.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://i.imgur.com/gwmcmK2.png",SKY SPORT F1 IT HD 
+http://5.189.187.55:8000/live/Fadil/skype/397.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/cd/Premium_calcio.png/260px-Premium_calcio.png",PREMIUM CALCIO 1 HD 
+http://5.189.187.55:8000/live/Fadil/skype/2027.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/cd/Premium_calcio.png/260px-Premium_calcio.png",PREMIUM CALCIO 
+http://5.189.187.55:8000/live/Fadil/skype/358.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/cd/Premium_calcio.png/260px-Premium_calcio.png",PREMIUM CALCIO HD 
+http://5.189.187.55:8000/live/Fadil/skype/1399.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://i.imgur.com/7WANvWD.png",PREMIUM SPORT HD 
+http://5.189.187.55:8000/live/Fadil/skype/1494.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://i.imgur.com/LYnoEog.png",PREMIUM SPORT 2 HD 
+http://5.189.187.55:8000/live/Fadil/skype/2207.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXSPORTS.png",FOX SPORTS HD 
+http://5.189.187.55:8000/live/Fadil/skype/2810.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/b5/Sky_Supercalcio_2010.png/revision/latest?cb=20150524203909",SKY SUPERCALCIO HD 
+http://5.189.187.55:8000/live/Fadil/skype/398.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png",DISCOVERY CHANNEL HD 
+http://5.189.187.55:8000/live/Fadil/skype/1184.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSCIENCE.png",DISCOVERY SCIENCE HD 
+http://5.189.187.55:8000/live/Fadil/skype/1707.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png",NATIONAL GEOGRAPHIC CHANNEL HD 
+http://5.189.187.55:8000/live/Fadil/skype/357.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png",NAT GEO WILD HD 
+http://5.189.187.55:8000/live/Fadil/skype/700.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOPEOPLE.png",NAT GEO PEOPLE HD 
+http://5.189.187.55:8000/live/Fadil/skype/1002.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORY.png",HISTORY 
+http://5.189.187.55:8000/live/Fadil/skype/1208.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://1.bp.blogspot.com/-Vvltgm_uA-k/WRJCVTCzDgI/AAAAAAAAF7s/2bnaDHmgptoc6NqpauMNM4flGiI5_eYvgCLcB/s1600/gambero_rosso.png",GAMBERO ROSSO 
+http://5.189.187.55:8000/live/Fadil/skype/2032.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DMAXX.png",DMAX HD 
+http://5.189.187.55:8000/live/Fadil/skype/1181.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://pbs.twimg.com/profile_images/3405285164/804f48f225ce563bf5038ae3d698fab5_400x400.png",PREMIUM CINEMA HD 
+http://5.189.187.55:8000/live/Fadil/skype/650.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://i.imgur.com/W5rqigb.png",PREMIUM CINEMA 2 HD 
+http://5.189.187.55:8000/live/Fadil/skype/1156.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://i.imgur.com/63ViXvw.png",PREMIUM CINEMA +24 
+http://5.189.187.55:8000/live/Fadil/skype/1392.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://i.imgur.com/W5rqigb.png",PREMIUM CINEMA 2 +24 
+http://5.189.187.55:8000/live/Fadil/skype/1391.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://i.imgur.com/vP0vLFh.png",PREMIUM ACTION HD 
+http://5.189.187.55:8000/live/Fadil/skype/1395.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://i.imgur.com/vP0vLFh.png",PREMIUM ACTION +24 
+http://5.189.187.55:8000/live/Fadil/skype/1397.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://i.imgur.com/LQUpJYB.png",PREMIUM CINEMA COMEDY 
+http://5.189.187.55:8000/live/Fadil/skype/764.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://i.imgur.com/hvhMPUA.png",PREMIUM CRIME HD 
+http://5.189.187.55:8000/live/Fadil/skype/1286.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://i.imgur.com/hvhMPUA.png",PREMIUM CRIME +24 
+http://5.189.187.55:8000/live/Fadil/skype/360.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/43/Joi_logo.svg/revision/latest/scale-to-width-down/499?cb=20100309145139",PREMIUM JOI 
+http://5.189.187.55:8000/live/Fadil/skype/364.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/43/Joi_logo.svg/revision/latest/scale-to-width-down/499?cb=20100309145139",PREMIUM JOI +24 
+http://5.189.187.55:8000/live/Fadil/skype/2667.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://i.imgur.com/8LdlWXR.png",PREMIUM CINEMA ENERGY HD 
+http://5.189.187.55:8000/live/Fadil/skype/363.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://i.imgur.com/czn3088.png",PREMIUM CINEMA EMOTION 
+http://5.189.187.55:8000/live/Fadil/skype/362.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="http://i.imgur.com/MyZGKeG.png",PREMIUM STORIES 
+http://5.189.187.55:8000/live/Fadil/skype/1393.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1280px-Logo_Studio_Universal.svg.png",PREMIUM STUDIO UNIVERSAL 
+http://5.189.187.55:8000/live/Fadil/skype/366.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png",DISNEY CHANNEL 
+http://5.189.187.55:8000/live/Fadil/skype/1287.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYXD.png",DISNEY XD 
+http://5.189.187.55:8000/live/Fadil/skype/1182.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png",CARTOON NETWORK 
+http://5.189.187.55:8000/live/Fadil/skype/1510.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONITO.png",CARTOONITO 
+http://5.189.187.55:8000/live/Fadil/skype/1180.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/09/FRISBEE_Logo_2013.png/revision/latest?cb=20130709193922",FRISBEE 
+http://5.189.187.55:8000/live/Fadil/skype/1215.m3u8
+#EXTINF:-1 group-title="Italy2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BOING.png",BOING 
+http://5.189.187.55:8000/live/Fadil/skype/1511.m3u8
 
 
 
@@ -6891,29 +6996,6 @@ http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/chunks.m3u8
 
 #EXTINF:-1 group-title="Portugal3",
 
-#EXTINF:-1 group-title="Portugal3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png" ,==Portugal==
-http://..........
-#EXTINF:-1 group-title="Portugal3",RTP 1
-http://62.28.213.14:9981/stream/channelid/1439506767
-#EXTINF:-1 group-title="Portugal3",RTP 2
-http://62.28.213.14:9981/stream/channelid/1580833545
-#EXTINF:-1 group-title="Portugal3",RTP 3
-http://62.28.213.14:9981/stream/channelid/1434611461
-#EXTINF:-1 group-title="Portugal3",RTP Memória
-http://62.28.213.14:9981/stream/channelid/775982095
-#EXTINF:-1 group-title="Portugal3",SIC
-http://62.28.213.14:9981/stream/channelid/1682111017
-#EXTINF:-1 group-title="Portugal3",TVI
-http://62.28.213.14:9981/stream/channelid/1402355728
-#EXTINF:-1 group-title="Portugal3",ARTV
-http://62.28.213.14:9981/stream/channelid/670173256
-#EXTINF:-1 group-title="Portugal3",HD
-http://62.28.213.14:9981/stream/channelid/533292623
-#EXTINF:-1 group-title="Portugal3",BastidoTv
-http://62.28.213.14:9981/stream/channelid/1482516710
-#EXTINF:-1 group-title="Portugal3",BastidoTv2
-http://62.28.213.14:9981/stream/channelid/1063252727
-
 
 
 
@@ -7175,7 +7257,24 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/961.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Portugal2-PREMIUM",
 
-
+#EXTINF:-1 group-title="Portugal2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png",SPORT TV+ 
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4048.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png",SPORT TV 1 
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4046.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png",SPORT TV 2 
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4045.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png",SPORT TV 3 HD 
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4044.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png",SPORT TV 4 HD 
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4043.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png",SPORT TV 5 
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4042.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png",SPORTING TV 
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4041.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png",EUROSPORT 1 PT 
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4051.m3u8
+#EXTINF:-1 group-title="Portugal2-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/E!.png",E! ENTERTAINMENT 
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4506.m3u8
 
 
 
@@ -7433,48 +7532,6 @@ http://94.43.239.178:8080/CHANNEL752/BITRATE0/playlist.m3u8
 #EXTINF:0 group-title="Georgia-WebTV",TV11
 http://94.43.239.178:8080/CHANNEL846/BITRATE0/playlist.m3u8
 
-#EXTINF:-1 group-title="Georgia-WebTV",1 GEORGIA
-http://188.93.94.141/gpb/index.m3u8
-#EXTINF:-1 group-title="Georgia-WebTV",1 TV Georgia HD 
-http://188.93.94.135/gpbhd/index.m3u8 
-#EXTINF:-1 group-title="Georgia-WebTV",2TV 
-http://188.93.94.135/meore/index.m3u8 
-#EXTINF:-1 group-title="Georgia-WebTV",afxazetis xma 1080
-http://188.93.94.141/abkhaz/index.m3u8
-#EXTINF:-1 group-title="Georgia-WebTV",axali arxi
-http://188.93.94.141/axali2hq/index.m3u8
-#EXTINF:-1 group-title="Georgia-WebTV",basti bubu
-http://188.93.94.141/bbb/index.m3u8
-#EXTINF:-1 group-title="Georgia-WebTV",ertsulovneba
-http://188.93.94.141/ertsulovneba/index.m3u8
-#EXTINF:-1 group-title="Georgia-WebTV",GDS TV 
-http://188.93.94.135/gdstv/index.m3u8 
-#EXTINF:-1 group-title="Georgia-WebTV",Iberia 
-http://188.93.94.135/iberiatv/index.m3u8 
-#EXTINF:-1 group-title="Georgia-WebTV",Imedi 
-http://188.93.94.135/imedi/index.m3u8 
-#EXTINF:-1 group-title="Georgia-WebTV",kavkasia
-http://188.93.94.141/caucasia/index.m3u8
-#EXTINF:-1 group-title="Georgia-WebTV",maestro
-http://188.93.94.141/maestro/index.m3u8
-#EXTINF:-1 group-title="Georgia-WebTV",maestro 24
-http://188.93.94.141/maestro24/index.m3u8
-#EXTINF:-1 group-title="Georgia-WebTV",marao
-http://188.93.94.141/marao/index.m3u8
-#EXTINF:-1 group-title="Georgia-WebTV",meore arxi
-http://188.93.94.141/meore/index.m3u8
-#EXTINF:-1 group-title="Georgia-WebTV",obieqtivi
-http://188.93.94.141/obiektivi/index.m3u8
-#EXTINF:-1 group-title="Georgia-WebTV",pirveli TV 720
-http://188.93.94.141/pirvelitv/index.m3u8
-#EXTINF:-1 group-title="Georgia-WebTV",qartuli 1080
-http://188.93.94.141/qartuli/index.m3u8
-#EXTINF:-1 group-title="Georgia-WebTV",rustavi 2
-http://188.93.94.141/rustavi2hqnew/index.m3u8
-#EXTINF:-1 group-title="Georgia-WebTV",RTV HD 
-http://188.93.94.135/rtv/index.m3u8
-#EXTINF:-1 group-title="Georgia-WebTV",silk universal 720
-http://188.93.94.141/silk_sport4/index.m3u8
 
 
 
@@ -12959,32 +13016,7 @@ http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",
 
-#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",قناة القرآن الكريم
-http://iptv-janberyan.com:25461/live/janberyan/janberyan/152.ts
-#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",قناة السنة النبوية
-http://iptv-janberyan.com:25461/live/janberyan/janberyan/151.ts
-#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",▁ ▂ ▄☆BeIN SPORTS HD☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/live/janberyan/janberyan/14.ts
-#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BeIN SPORTS HD1
-http://iptv-janberyan.com:25461/live/janberyan/janberyan/2.ts
-#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BeIN SPORTS HD2
-http://iptv-janberyan.com:25461/live/janberyan/janberyan/3.ts
-#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BeIN SPORTS HD3
-http://iptv-janberyan.com:25461/live/janberyan/janberyan/4.ts
-#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BeIN SPORTS HD4
-http://iptv-janberyan.com:25461/live/janberyan/janberyan/5.ts
-#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BeIN SPORTS HD5
-http://iptv-janberyan.com:25461/live/janberyan/janberyan/6.ts
-#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BeIN SPORTS HD6
-http://iptv-janberyan.com:25461/live/janberyan/janberyan/9.ts
-#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BeIN SPORTS HD7
-http://iptv-janberyan.com:25461/live/janberyan/janberyan/10.ts
-#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BeIN SPORTS HD8
-http://iptv-janberyan.com:25461/live/janberyan/janberyan/11.ts
-#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BeIN SPORTS HD9
-http://iptv-janberyan.com:25461/live/janberyan/janberyan/12.ts
-#EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BeIN SPORTS HD10
-http://iptv-janberyan.com:25461/live/janberyan/janberyan/13.ts
+
 #EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",▁ ▂ ▄☆BeIN SPORTS SD☆▄ ▂ ▁
 http://iptv-janberyan.com:25461/live/janberyan/janberyan/23.ts
 #EXTINF:-1 group-title="United.Arab.Emirates5_PREMIUM",BeIN SPORTS SD1
