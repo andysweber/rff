@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,18/08/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,20/08/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -737,18 +737,6 @@ https://www.youtube.com/watch?v=7sIsiHbDi_0
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 #EXTINF:-1 group-title="USA1-PREMIUM-Wuffy_Player"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,Wuffy Player.
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="USA1-PREMIUM-Wuffy_Player"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="USA1-PREMIUM-Wuffy_Player"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="USA1-PREMIUM-Wuffy_Player"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="USA1-PREMIUM-Wuffy_Player"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="USA1-PREMIUM-Wuffy_Player"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="USA1-PREMIUM-Wuffy_Player"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
-https://www.youtube.com/watch?v=7sIsiHbDi_0
 #EXTINF:-1 group-title="USA1-PREMIUM-Wuffy_Player" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
 http://.....
 
@@ -1095,7 +1083,146 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1117.m3u8$http-refferer
 
 #EXTINF:-1 group-title="USA2-PREMIUM",
 
-
+#EXTINF:-1 group-title="USA2-PREMIUM",A&E
+http://178.132.6.74:8282/live/ramo/ramo1/3517.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",ABC news
+http://178.132.6.74:8282/live/ramo/ramo1/3516.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",AFN SPORTS
+http://178.132.6.74:8282/live/ramo/ramo1/3515.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",AFN SPORTS 2
+http://178.132.6.74:8282/live/ramo/ramo1/3514.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Amazing Facts TV
+http://178.132.6.74:8282/live/ramo/ramo1/3513.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",AMC
+http://178.132.6.74:8282/live/ramo/ramo1/3512.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Animal Planet
+http://178.132.6.74:8282/live/ramo/ramo1/3511.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Bein Sports USA HD
+http://178.132.6.74:8282/live/ramo/ramo1/3510.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Bloomberg
+http://178.132.6.74:8282/live/ramo/ramo1/3509.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Boston City TV
+http://178.132.6.74:8282/live/ramo/ramo1/3508.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Bravo HD
+http://178.132.6.74:8282/live/ramo/ramo1/3507.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CBS
+http://178.132.6.74:8282/live/ramo/ramo1/3506.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CBS 2
+http://178.132.6.74:8282/live/ramo/ramo1/3505.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CBSN HD
+http://178.132.6.74:8282/live/ramo/ramo1/3504.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Cinemax ActionMax East
+http://178.132.6.74:8282/live/ramo/ramo1/3503.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Cinemax Moremax
+http://178.132.6.74:8282/live/ramo/ramo1/3502.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CNBC
+http://178.132.6.74:8282/live/ramo/ramo1/3501.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CNN HD
+http://178.132.6.74:8282/live/ramo/ramo1/3500.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",CW HD
+http://178.132.6.74:8282/live/ramo/ramo1/3499.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",ESPN 2 HD
+http://178.132.6.74:8282/live/ramo/ramo1/3498.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",ESPN HD
+http://178.132.6.74:8282/live/ramo/ramo1/3497.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Food Network
+http://178.132.6.74:8282/live/ramo/ramo1/3496.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Fox HD
+http://178.132.6.74:8282/live/ramo/ramo1/3495.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Fox News
+http://178.132.6.74:8282/live/ramo/ramo1/3494.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Fox Sport 1 HD
+http://178.132.6.74:8282/live/ramo/ramo1/3493.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Fox Sport 2 HD
+http://178.132.6.74:8282/live/ramo/ramo1/3492.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Freeform HD
+http://178.132.6.74:8282/live/ramo/ramo1/3491.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",HBO
+http://178.132.6.74:8282/live/ramo/ramo1/3490.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",HBO Comedy
+http://178.132.6.74:8282/live/ramo/ramo1/3489.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",HBO Family
+http://178.132.6.74:8282/live/ramo/ramo1/3488.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",HBO SIGNATURE
+http://178.132.6.74:8282/live/ramo/ramo1/3487.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",HBO ZONE
+http://178.132.6.74:8282/live/ramo/ramo1/3486.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",History Channel
+http://178.132.6.74:8282/live/ramo/ramo1/3485.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",KTVU News
+http://178.132.6.74:8282/live/ramo/ramo1/3484.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Max West
+http://178.132.6.74:8282/live/ramo/ramo1/3483.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Mello TV
+http://178.132.6.74:8282/live/ramo/ramo1/3482.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",National Geographic
+http://178.132.6.74:8282/live/ramo/ramo1/3481.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBA HD
+http://178.132.6.74:8282/live/ramo/ramo1/3480.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBC Golf HD
+http://178.132.6.74:8282/live/ramo/ramo1/3479.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBC HD
+http://178.132.6.74:8282/live/ramo/ramo1/3478.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBC HD  US
+http://178.132.6.74:8282/live/ramo/ramo1/3477.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",NBCSN
+http://178.132.6.74:8282/live/ramo/ramo1/3476.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Nickelodeon HD
+http://178.132.6.74:8282/live/ramo/ramo1/3475.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",O.W.N HD  (oprah winfrey network)
+http://178.132.6.74:8282/live/ramo/ramo1/3474.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",RT America HD
+http://178.132.6.74:8282/live/ramo/ramo1/3473.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",RT Documentary
+http://178.132.6.74:8282/live/ramo/ramo1/3472.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Showtime West
+http://178.132.6.74:8282/live/ramo/ramo1/3471.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Spike HD
+http://178.132.6.74:8282/live/ramo/ramo1/3470.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Sports Night
+http://178.132.6.74:8282/live/ramo/ramo1/3469.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",SportsNet One HD
+http://178.132.6.74:8282/live/ramo/ramo1/3468.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",SportsNet Ontario
+http://178.132.6.74:8282/live/ramo/ramo1/3467.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Starz Cinema HD
+http://178.132.6.74:8282/live/ramo/ramo1/3466.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Starz Edge
+http://178.132.6.74:8282/live/ramo/ramo1/3465.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",SyFy HD
+http://178.132.6.74:8282/live/ramo/ramo1/3464.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",TBS
+http://178.132.6.74:8282/live/ramo/ramo1/3463.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",TBS HD
+http://178.132.6.74:8282/live/ramo/ramo1/3462.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",The Florida Channel
+http://178.132.6.74:8282/live/ramo/ramo1/3461.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",TLC
+http://178.132.6.74:8282/live/ramo/ramo1/3460.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",TNT HD
+http://178.132.6.74:8282/live/ramo/ramo1/3459.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",TSC
+http://178.132.6.74:8282/live/ramo/ramo1/3458.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",TSN 1 HD
+http://178.132.6.74:8282/live/ramo/ramo1/3457.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",TSN 2 HD
+http://178.132.6.74:8282/live/ramo/ramo1/3456.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",TSN 3 HD
+http://178.132.6.74:8282/live/ramo/ramo1/3455.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",TSN 4 HD
+http://178.132.6.74:8282/live/ramo/ramo1/3454.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",TSN 5 HD
+http://178.132.6.74:8282/live/ramo/ramo1/3453.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",UC TV
+http://178.132.6.74:8282/live/ramo/ramo1/3452.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",USA Network
+http://178.132.6.74:8282/live/ramo/ramo1/3451.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",Willow Cricket HD
+http://178.132.6.74:8282/live/ramo/ramo1/3450.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",World Fashion HD
+http://178.132.6.74:8282/live/ramo/ramo1/3449.m3u8
+#EXTINF:-1 group-title="USA2-PREMIUM",WWE
+http://178.132.6.74:8282/live/ramo/ramo1/3448.m3u8
 
 
 
@@ -2591,354 +2718,6 @@ http://..........
 
 #EXTINF:-1 group-title="Romania3",
 
-#EXTINF:-1 group-title="Romania3",Tvr 1 
-http://zzyiptv.tk:3000/stream/romania/1 
-#EXTINF:-1 group-title="Romania3",Tvr 2 
-http://zzyiptv.tk:3000/stream/romania/2 
-#EXTINF:-1 group-title="Romania3",Tvr HD 
-http://zzyiptv.tk:3000/stream/romania/3 
-#EXTINF:-1 group-title="Romania3",ProTV 
-http://zzyiptv.tk:3000/stream/romania/4 
-#EXTINF:-1 group-title="Romania3",Antena 1 
-http://zzyiptv.tk:3000/stream/romania/5 
-#EXTINF:-1 group-title="Romania3",Kanal D 
-http://zzyiptv.tk:3000/stream/romania/6 
-#EXTINF:-1 group-title="Romania3",Prima 
-http://zzyiptv.tk:3000/stream/romania/7 
-#EXTINF:-1 group-title="Romania3",Antena Stars 
-http://zzyiptv.tk:3000/stream/romania/8 
-#EXTINF:-1 group-title="Romania3",Digi 24 
-http://zzyiptv.tk:3000/stream/romania/9 
-#EXTINF:-1 group-title="Romania3",B1 
-http://zzyiptv.tk:3000/stream/romania/10 
-#EXTINF:-1 group-title="Romania3",Antena 3 
-http://zzyiptv.tk:3000/stream/romania/11 
-#EXTINF:-1 group-title="Romania3",Realitatea Tv 
-http://zzyiptv.tk:3000/stream/romania/12 
-#EXTINF:-1 group-title="Romania3",Romania Tv 
-http://zzyiptv.tk:3000/stream/romania/13 
-#EXTINF:-1 group-title="Romania3",National TV 
-http://zzyiptv.tk:3000/stream/romania/14 
-#EXTINF:-1 group-title="Romania3",National 24 Plus 
-http://zzyiptv.tk:3000/stream/romania/15 
-#EXTINF:-1 group-title="Romania3",Pro Cinema 
-http://zzyiptv.tk:3000/stream/romania/16 
-#EXTINF:-1 group-title="Romania3",Happy Channel 
-http://zzyiptv.tk:3000/stream/romania/17 
-#EXTINF:-1 group-title="Romania3",Pro 2 
-http://zzyiptv.tk:3000/stream/romania/18 
-#EXTINF:-1 group-title="Romania3",Hbo Romania 
-http://zzyiptv.tk:3000/stream/romania/20 
-#EXTINF:-1 group-title="Romania3",Hbo 2 
-http://zzyiptv.tk:3000/stream/romania/21 
-#EXTINF:-1 group-title="Romania3",Hbo 3 
-http://zzyiptv.tk:3000/stream/romania/22 
-#EXTINF:-1 group-title="Romania3",Film Now 
-http://zzyiptv.tk:3000/stream/romania/23 
-#EXTINF:-1 group-title="Romania3",Cinemax 
-http://zzyiptv.tk:3000/stream/romania/24 
-#EXTINF:-1 group-title="Romania3",Cinemax 2 
-http://zzyiptv.tk:3000/stream/romania/25 
-#EXTINF:-1 group-title="Romania3",Axn 
-http://zzyiptv.tk:3000/stream/romania/26 
-#EXTINF:-1 group-title="Romania3",Axn Black 
-http://zzyiptv.tk:3000/stream/romania/27 
-#EXTINF:-1 group-title="Romania3",Axn White 
-http://zzyiptv.tk:3000/stream/romania/28 
-#EXTINF:-1 group-title="Romania3",Axn Spin 
-http://zzyiptv.tk:3000/stream/romania/29 
-#EXTINF:-1 group-title="Romania3",Cinemaraton 
-http://zzyiptv.tk:3000/stream/romania/30 
-#EXTINF:-1 group-title="Romania3",Tv 1000 
-http://zzyiptv.tk:3000/stream/romania/31 
-#EXTINF:-1 group-title="Romania3",Comedy Central 
-http://zzyiptv.tk:3000/stream/romania/32 
-#EXTINF:-1 group-title="Romania3",Paramount channel 
-http://zzyiptv.tk:3000/stream/romania/34 
-#EXTINF:-1 group-title="Romania3",Film Cafe 
-http://zzyiptv.tk:3000/stream/romania/35 
-#EXTINF:-1 group-title="Romania3",TNT 
-http://zzyiptv.tk:3000/stream/romania/37 
-#EXTINF:-1 group-title="Romania3",Bollywood TV 
-http://zzyiptv.tk:3000/stream/romania/38 
-#EXTINF:-1 group-title="Romania3",Bollywood Clasic 
-http://zzyiptv.tk:3000/stream/romania/39 
-#EXTINF:-1 group-title="Romania3",Digi Sport 1 
-http://zzyiptv.tk:3000/stream/romania/40 
-#EXTINF:-1 group-title="Romania3",Digi Sport 2 
-http://zzyiptv.tk:3000/stream/romania/41 
-#EXTINF:-1 group-title="Romania3",Digi Sport 3 
-http://zzyiptv.tk:3000/stream/romania/42 
-#EXTINF:-1 group-title="Romania3",Digi Sport 4 
-http://zzyiptv.tk:3000/stream/romania/43 
-#EXTINF:-1 group-title="Romania3",Telekom Sport 1 
-http://zzyiptv.tk:3000/stream/romania/44 
-#EXTINF:-1 group-title="Romania3",Telekom Sport 2 
-http://zzyiptv.tk:3000/stream/romania/45 
-#EXTINF:-1 group-title="Romania3",Telekom-Sport 3 
-http://zzyiptv.tk:3000/stream/romania/46 
-#EXTINF:-1 group-title="Romania3",Telekom-Sport 4 
-http://zzyiptv.tk:3000/stream/romania/47 
-#EXTINF:-1 group-title="Romania3",Eusport 
-http://zzyiptv.tk:3000/stream/romania/48 
-#EXTINF:-1 group-title="Romania3",Eusport 2 
-http://zzyiptv.tk:3000/stream/romania/49 
-#EXTINF:-1 group-title="Romania3",Pro X 
-http://zzyiptv.tk:3000/stream/romania/50 
-#EXTINF:-1 group-title="Romania3",Look TV 
-http://zzyiptv.tk:3000/stream/romania/51 
-#EXTINF:-1 group-title="Romania3",Look Plus 
-http://zzyiptv.tk:3000/stream/romania/52 
-#EXTINF:-1 group-title="Romania3",Animal Planet 
-http://zzyiptv.tk:3000/stream/romania/53 
-#EXTINF:-1 group-title="Romania3",History Channel 
-http://zzyiptv.tk:3000/stream/romania/54 
-#EXTINF:-1 group-title="Romania3",Discovery Channel 
-http://zzyiptv.tk:3000/stream/romania/55 
-#EXTINF:-1 group-title="Romania3",Discovery Science 
-http://zzyiptv.tk:3000/stream/romania/56 
-#EXTINF:-1 group-title="Romania3",National Geographic 
-http://zzyiptv.tk:3000/stream/romania/57 
-#EXTINF:-1 group-title="Romania3",National Geographic Wild 
-http://zzyiptv.tk:3000/stream/romania/58 
-#EXTINF:-1 group-title="Romania3",Crime Investigation 
-http://zzyiptv.tk:3000/stream/romania/59 
-#EXTINF:-1 group-title="Romania3",ID 
-http://zzyiptv.tk:3000/stream/romania/60 
-#EXTINF:-1 group-title="Romania3",Digi World 
-http://zzyiptv.tk:3000/stream/romania/61 
-#EXTINF:-1 group-title="Romania3",Digi Animal World 
-http://zzyiptv.tk:3000/stream/romania/62 
-#EXTINF:-1 group-title="Romania3",Digi Life 
-http://zzyiptv.tk:3000/stream/romania/63 
-#EXTINF:-1 group-title="Romania3",Viasat History 
-http://zzyiptv.tk:3000/stream/romania/64 
-#EXTINF:-1 group-title="Romania3",Viasat Nature 
-http://zzyiptv.tk:3000/stream/romania/65 
-#EXTINF:-1 group-title="Romania3",Viasat Explorer 
-http://zzyiptv.tk:3000/stream/romania/66 
-#EXTINF:-1 group-title="Romania3",BBC Earth 
-http://zzyiptv.tk:3000/stream/romania/67 
-#EXTINF:-1 group-title="Romania3",TLC 
-http://zzyiptv.tk:3000/stream/romania/68 
-#EXTINF:-1 group-title="Romania3",Travel Channel 
-http://zzyiptv.tk:3000/stream/romania/69 
-#EXTINF:-1 group-title="Romania3",Travel Mix 
-http://zzyiptv.tk:3000/stream/romania/70 
-#EXTINF:-1 group-title="Romania3",Disney Channel 
-http://zzyiptv.tk:3000/stream/romania/71 
-#EXTINF:-1 group-title="Romania3",Disney Junior 
-http://zzyiptv.tk:3000/stream/romania/72 
-#EXTINF:-1 group-title="Romania3",Megamax 
-http://zzyiptv.tk:3000/stream/romania/73 
-#EXTINF:-1 group-title="Romania3",Minimax 
-http://zzyiptv.tk:3000/stream/romania/74 
-#EXTINF:-1 group-title="Romania3",Catoon Network 
-http://zzyiptv.tk:3000/stream/romania/75 
-#EXTINF:-1 group-title="Romania3",Boomerang 
-http://zzyiptv.tk:3000/stream/romania/76 
-#EXTINF:-1 group-title="Romania3",Nickelodeon 
-http://zzyiptv.tk:3000/stream/romania/77 
-#EXTINF:-1 group-title="Romania3",Nick Jr 
-http://zzyiptv.tk:3000/stream/romania/78 
-#EXTINF:-1 group-title="Romania3",Duck TV 
-http://zzyiptv.tk:3000/stream/romania/79 
-#EXTINF:-1 group-title="Romania3",ZU TV 
-http://zzyiptv.tk:3000/stream/romania/80 
-#EXTINF:-1 group-title="Romania3",U TV 
-http://zzyiptv.tk:3000/stream/romania/81 
-#EXTINF:-1 group-title="Romania3",Music Channel 
-http://zzyiptv.tk:3000/stream/romania/82 
-#EXTINF:-1 group-title="Romania3",Kiss TV 
-http://zzyiptv.tk:3000/stream/romania/83 
-#EXTINF:-1 group-title="Romania3",Mooz Hits 
-http://zzyiptv.tk:3000/stream/romania/85 
-#EXTINF:-1 group-title="Romania3",Mooz RO! 
-http://zzyiptv.tk:3000/stream/romania/86 
-#EXTINF:-1 group-title="Romania3",Mooz Dance 
-http://zzyiptv.tk:3000/stream/romania/87 
-#EXTINF:-1 group-title="Romania3",Hit Music Channel 
-http://zzyiptv.tk:3000/stream/romania/88 
-#EXTINF:-1 group-title="Romania3",Taraf Tv 
-http://zzyiptv.tk:3000/stream/romania/89 
-#EXTINF:-1 group-title="Romania3",Impact Tv 
-http://zzyiptv.tk:3000/stream/romania/90 
-#EXTINF:-1 group-title="Romania3",Dibi Tv 
-http://zzyiptv.tk:3000/stream/romania/91 
-#EXTINF:-1 group-title="Romania3",Diaspora TV 
-http://zzyiptv.tk:3000/stream/romania/92 
-#EXTINF:-1 group-title="Romania3",Etno 
-http://zzyiptv.tk:3000/stream/romania/93 
-#EXTINF:-1 group-title="Romania3",Favorit Tv 
-http://zzyiptv.tk:3000/stream/romania/94 
-#EXTINF:-1 group-title="Romania3",Hora TV 
-http://zzyiptv.tk:3000/stream/romania/95 
-#EXTINF:-1 group-title="Romania3",Etnic TV 
-http://zzyiptv.tk:3000/stream/romania/96 
-#EXTINF:-1 group-title="Romania3",Miorita TV 
-http://zzyiptv.tk:3000/stream/romania/97 
-#EXTINF:-1 group-title="Romania3",Balkanika 
-http://zzyiptv.tk:3000/stream/romania/98 
-#EXTINF:-1 group-title="Romania3",VH 1 
-http://zzyiptv.tk:3000/stream/romania/100 
-#EXTINF:-1 group-title="Romania3",Magic TV 
-http://zzyiptv.tk:3000/stream/romania/101 
-#EXTINF:-1 group-title="Romania3",Fishing & Hunting 
-http://zzyiptv.tk:3000/stream/romania/107 
-#EXTINF:-1 group-title="Romania3",Fashion Tv 
-http://zzyiptv.tk:3000/stream/romania/108 
-#EXTINF:-1 group-title="Romania3",Agro Tv 
-http://zzyiptv.tk:3000/stream/romania/109 
-#EXTINF:-1 group-title="Romania3",Neptun TV 
-http://zzyiptv.tk:3000/stream/romania/110 
-#EXTINF:-1 group-title="Romania3",Tvr 3 
-http://zzyiptv.tk:3000/stream/romania/111 
-#EXTINF:-1 group-title="Romania3",Fine Living 
-http://zzyiptv.tk:3000/stream/romania/112 
-#EXTINF:-1 group-title="Romania3",TVH 
-http://zzyiptv.tk:3000/stream/romania/113 
-#EXTINF:-1 group-title="Romania3",6TV 
-http://zzyiptv.tk:3000/stream/romania/114 
-#EXTINF:-1 group-title="Romania3",TV Paprika 
-http://zzyiptv.tk:3000/stream/romania/115 
-#EXTINF:-1 group-title="Romania3",Food Network 
-http://zzyiptv.tk:3000/stream/romania/116 
-#EXTINF:-1 group-title="Romania3",Da Vinci 
-http://zzyiptv.tk:3000/stream/romania/117 
-#EXTINF:-1 group-title="Romania3",Nasul TV 
-http://zzyiptv.tk:3000/stream/romania/118 
-#EXTINF:-1 group-title="Romania3",Trinitas 
-http://zzyiptv.tk:3000/stream/romania/119 
-#EXTINF:-1 group-title="Romania3",Speranta TV 
-http://zzyiptv.tk:3000/stream/romania/120 
-#EXTINF:-1 group-title="Romania3",Credo TV 
-http://zzyiptv.tk:3000/stream/romania/121 
-#EXTINF:-1 group-title="Romania3",Alfa Omega 
-http://zzyiptv.tk:3000/stream/romania/122 
-#EXTINF:-1 group-title="Romania3",TVR International 
-http://zzyiptv.tk:3000/stream/romania/123 
-#EXTINF:-1 group-title="Romania3",PRO TV International 
-http://zzyiptv.tk:3000/stream/romania/124 
-#EXTINF:-1 group-title="Romania3",Antena International 
-http://zzyiptv.tk:3000/stream/romania/125 
-#EXTINF:-1 group-title="Romania3",TVR Iasi 
-http://zzyiptv.tk:3000/stream/romania/126 
-#EXTINF:-1 group-title="Romania3",TVR Cluj 
-http://zzyiptv.tk:3000/stream/romania/127 
-#EXTINF:-1 group-title="Romania3",TVR Craiova 
-http://zzyiptv.tk:3000/stream/romania/128 
-#EXTINF:-1 group-title="Romania3",TVR Targu Mures 
-http://zzyiptv.tk:3000/stream/romania/129 
-#EXTINF:-1 group-title="Romania3",TVR Timisoara 
-http://zzyiptv.tk:3000/stream/romania/130 
-#EXTINF:-1 group-title="Romania3",Digi 24 Craiova 
-http://zzyiptv.tk:3000/stream/romania/131 
-#EXTINF:-1 group-title="Romania3",Digi 24 Iasi 
-http://zzyiptv.tk:3000/stream/romania/132 
-#EXTINF:-1 group-title="Romania3",Digi 24 Constanta 
-http://zzyiptv.tk:3000/stream/romania/133 
-#EXTINF:-1 group-title="Romania3",Digi 24 Timisoara 
-http://zzyiptv.tk:3000/stream/romania/134 
-#EXTINF:-1 group-title="Romania3",Digi 24 Oradea 
-http://zzyiptv.tk:3000/stream/romania/135 
-#EXTINF:-1 group-title="Romania3",Digi 24 Brasov 
-http://zzyiptv.tk:3000/stream/romania/136 
-#EXTINF:-1 group-title="Romania3",Digi 24 Galati 
-http://zzyiptv.tk:3000/stream/romania/137 
-#EXTINF:-1 group-title="Romania3",Digi 24 Cluj-Napoca 
-http://zzyiptv.tk:3000/stream/romania/138 
-#EXTINF:-1 group-title="Romania3",Inedit Tv 
-http://zzyiptv.tk:3000/stream/romania/139 
-#EXTINF:-1 group-title="Romania3",Orizont TV 
-http://zzyiptv.tk:3000/stream/romania/142 
-#EXTINF:-1 group-title="Romania3",BANAT TV 
-http://zzyiptv.tk:3000/stream/romania/143 
-#EXTINF:-1 group-title="Romania3",Cromtel 
-http://zzyiptv.tk:3000/stream/romania/144 
-#EXTINF:-1 group-title="Romania3",IasI TV 
-http://zzyiptv.tk:3000/stream/romania/145 
-#EXTINF:-1 group-title="Romania3",ITV RO 
-http://zzyiptv.tk:3000/stream/romania/146 
-#EXTINF:-1 group-title="Romania3",TV Sud Est 
-http://zzyiptv.tk:3000/stream/romania/147 
-#EXTINF:-1 group-title="Romania3",TV Sat 
-http://zzyiptv.tk:3000/stream/romania/148 
-#EXTINF:-1 group-title="Romania3",Est TV 
-http://zzyiptv.tk:3000/stream/romania/149 
-#EXTINF:-1 group-title="Romania3",VP TV 
-http://zzyiptv.tk:3000/stream/romania/150 
-#EXTINF:-1 group-title="Romania3",Nest Suceava 
-http://zzyiptv.tk:3000/stream/romania/151 
-#EXTINF:-1 group-title="Romania3",ATV 
-http://zzyiptv.tk:3000/stream/romania/152 
-#EXTINF:-1 group-title="Romania3",TeleMoldova+ 
-http://zzyiptv.tk:3000/stream/romania/153 
-#EXTINF:-1 group-title="Romania3",InfinitTv 
-http://zzyiptv.tk:3000/stream/romania/154 
-#EXTINF:-1 group-title="Romania3",Acum Tv 
-http://zzyiptv.tk:3000/stream/romania/155 
-#EXTINF:-1 group-title="Romania3",SomaX 
-http://zzyiptv.tk:3000/stream/romania/156 
-#EXTINF:-1 group-title="Romania3",Tele M 
-http://zzyiptv.tk:3000/stream/romania/157 
-#EXTINF:-1 group-title="Romania3",Alpha Tv 
-http://zzyiptv.tk:3000/stream/romania/158 
-#EXTINF:-1 group-title="Romania3",Telestar 1 
-http://zzyiptv.tk:3000/stream/romania/160 
-#EXTINF:-1 group-title="Romania3",MediaTv 
-http://zzyiptv.tk:3000/stream/romania/161 
-#EXTINF:-1 group-title="Romania3",Bucovina TV 
-http://zzyiptv.tk:3000/stream/romania/164 
-#EXTINF:-1 group-title="Romania3",TV Buzau 
-http://zzyiptv.tk:3000/stream/romania/167 
-#EXTINF:-1 group-title="Romania3",Bit Tv 
-http://zzyiptv.tk:3000/stream/romania/173 
-#EXTINF:-1 group-title="Romania3",Kiss Fm 
-http://zzyiptv.tk:3000/stream/romania/188 
-#EXTINF:-1 group-title="Romania3",RadioZu 
-http://zzyiptv.tk:3000/stream/romania/189 
-#EXTINF:-1 group-title="Romania3",Virgin Radio 
-http://zzyiptv.tk:3000/stream/romania/190 
-#EXTINF:-1 group-title="Romania3",Pro FM 
-http://zzyiptv.tk:3000/stream/romania/191 
-#EXTINF:-1 group-title="Romania3",Romantic FM 
-http://zzyiptv.tk:3000/stream/romania/192 
-#EXTINF:-1 group-title="Romania3",Magic FM 
-http://zzyiptv.tk:3000/stream/romania/193 
-#EXTINF:-1 group-title="Romania3",Europa FM 
-http://zzyiptv.tk:3000/stream/romania/194 
-#EXTINF:-1 group-title="Romania3",Digi FM 
-http://zzyiptv.tk:3000/stream/romania/195 
-#EXTINF:-1 group-title="Romania3",National FM 
-http://zzyiptv.tk:3000/stream/romania/196 
-#EXTINF:-1 group-title="Romania3",Rock FM 
-http://zzyiptv.tk:3000/stream/romania/197 
-#EXTINF:-1 group-title="Romania3",Radio Bucuresti FM 
-http://zzyiptv.tk:3000/stream/romania/198 
-#EXTINF:-1 group-title="Romania3",Smart FM 
-http://zzyiptv.tk:3000/stream/romania/199 
-#EXTINF:-1 group-title="Romania3",One FM 
-http://zzyiptv.tk:3000/stream/romania/200 
-#EXTINF:-1 group-title="Romania3",Vibe FM 
-http://zzyiptv.tk:3000/stream/romania/201 
-#EXTINF:-1 group-title="Romania3",Dance FM 
-http://zzyiptv.tk:3000/stream/romania/202 
-#EXTINF:-1 group-title="Romania3",Radio Vacanta HITS! 
-http://zzyiptv.tk:3000/stream/romania/203 
-#EXTINF:-1 group-title="Romania3",Radio Vacanta Dance 
-http://zzyiptv.tk:3000/stream/romania/204 
-#EXTINF:-1 group-title="Romania3",Radio Gaga 
-http://zzyiptv.tk:3000/stream/romania/205 
-#EXTINF:-1 group-title="Romania3",Radio Guerrilla 
-http://zzyiptv.tk:3000/stream/romania/206 
-#EXTINF:-1 group-title="Romania3",Radio Gold FM 
-http://zzyiptv.tk:3000/stream/romania/207 
-#EXTINF:-1 group-title="Romania3",Radio Popular 
-http://zzyiptv.tk:3000/stream/romania/209 
-#EXTINF:-1 group-title="Romania3",Antena Satelor 
-http://zzyiptv.tk:3000/stream/romania/210 
-#EXTINF:-1 group-title="Romania3",Romania Actualitati 
-http://zzyiptv.tk:3000/stream/romania/211
 
 
 
@@ -3071,118 +2850,97 @@ http://185.134.228.141:8891
 
 
 
-#EXTINF:-1 group-title="Bulgaria2",
+#EXTINF:-1 group-title="Bulgaria-Premium",
 
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/255px-Flag_of_Bulgaria.svg.png" ,==Bulgaria==
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/255px-Flag_of_Bulgaria.svg.png" ,==Bulgaria==
 http://..........
 
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE: RETRY
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE: RETRY
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Bulgaria2"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,AGAIN IF 
+#EXTINF:-1 group-title="Bulgaria-Premium"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,AGAIN IF 
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Bulgaria2"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,FAILED.
+#EXTINF:-1 group-title="Bulgaria-Premium"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,FAILED.
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
 http://.....
 
 
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/DIEMASPORT2.png", Diema Sport 2 (Диема Спорт 2)
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/DIEMASPORT2.png", Diema Sport 2 (Диема Спорт 2)
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPMqZKIjz0wSUtocw2bvXWxgZBB6vamn78nsNBgqfn6O3YCG%2f7rIENtFFO%2bLULUE3U7nexWs38bCu4RlJiCjLXc2QEl0l6uufwwSfK2XoJ1FShLMyPLek8N0xHPkljv%2bTYHabrNpJwMCiUXE8IYb8b%2fUXLF77scjWD1MscSM7bD7PLmK0hvwmacK8Ui9bdE%2ffPs3yCViUqZjyyxSp8tjLVOM3Ya%2fb9Ldth8Fjsp3eKt8%2b99NuGScQ6WYfD9zMM7%2fil74%2fqApxX334hUh1H1TQZHS1DBggosqkDICtQN5ELsQ1M5RtFvvSu%2bgn5eDoXtP1J60IEdA6qKpHSsBHLEFeLoq%2b8PvwDJe1FvDsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/DIEMASPORT.png", Diema Sport (Диема Спорт)
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/DIEMASPORT.png", Diema Sport (Диема Спорт)
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAN0EmSgjAAAMAHWZTKkpiDBwRkDRhkc25DQEkYQEBELB%2fv9BO6TXDUpGVnlRQaWs2c8X3GbtmEHcW2011VuSVGplvLybtfobP7pcnAC33L0LMrJcQwKP5uE7gF0oFwvEqtwThVfXQ7lnVGCXlRv42i57SGOaILOlumN7Of8xyG5B5nGeFuVXSzpg6k6LbG6pUrIA7ztRIEPElEr71UlPKeDfa8UDc6puDNPNzljyEMke%2bawB55ZbOxh73P9CaK7cT1TuK8338yUOdDa0s5ix%2b4KflHgaKmiZIkwKO6E2QobwQEZFnYKABBXTEOMtp8FqK4asWNix9kpjn%2bj2DTiaXJbPtDi8w%2bilUnvUy1r9P9F4MJgYA7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/EUROSPORT1.png", Eurosport 1
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/EUROSPORT1.png", Eurosport 1
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwUtygjAAANADOYyRBBIWLkJM5FOhhLTQ7rAW2oAOf8Hx8L638r7mapKSJHaS59eP9lzTvtnwtb9MGnmkD1jlRYWZjW3kjJ0C2j8rdS8yL9xIdDHJfe1tmMx%2b%2byi528ynFM7a9%2bpvcmRwE5YBjbpByfez%2bOT6bV0yiZ1C%2f8YEVP%2fNjwpO1tUWPR1IzKLdVgA3rpnDuxS7VF5Y6nPFCsGrnTu4yBS3duQV10dx6LZkScbpWU8zbh4QDIWGsqxuTwubjJkQGlhQYiCMgOHYCBnAsh18sLiLHPCMs%2fxvKnWVLLU5hTr%2fOqI5oPv9CylVbs8PAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/BNT1.png", BNT 1 (БНТ 1)
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/BNT1.png", BNT 1 (БНТ 1)
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPMmZDQuShD4RgyTZVmtU3aYqWrV6mRjv9%2bD1HFbdUQzCgGvO9DkTViRhYsr2nMm1GGMXLq%2fNk0mp1xoNxvtOTKqwnrFgm7Lrc9QkX6wWm6MiCLPPdGDyoo59wNNxjzYYsrAerkyBWjVUOdC76%2fLEEl%2ff0A4Kq%2bc3dqmBTSFS%2fGbmd8Dy9QV0WLU2o3ikB6fd1XMvrvYtedHsw9MWvZvm1NWxAFob4vOHikzilf3tmcUgCaz%2bq9ONgm1IbQhMz3zMRRsAkLkImcFyCQycKEAEf4Dn2SGa2%2bIDuTwc6SRH9bVarf7%2fypfkPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/IDXTRA.png", ID Xtra
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/IDXTRA.png", ID Xtra
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAvMhJC4sFDEGpZoXRi9611qUs63dp16%2fj4PSePHTot8NWEblnEKIJOPwqUmf1WzW3M1kh%2bzM6K%2b7Oew3rQuCyyIdq51%2brgZ%2fPZpiUVLcLCA8OUrb3KieB67iSrDBbszzs7bbDkfUeSyvhtpnfdRu%2fw9oaN4Pl3wJbqQmH6YuHtWT06%2fOhbsZ%2bk7%2f2pF5EOnLZ7muFFzuJKJLCPz%2fEcJPHSPsfR6qIrOQysua6m6wr2KVEQRkCxTIQUYJgW9gzmIAscE4pHfKfq4G2q%2f0WMutQa627b%2f4H2Hyn7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/NOVATV.png", Nova TV
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/NOVATV.png", Nova TV
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwcmOgjAAANAPMoROFwoHDwWLQqAsE2dob2wKigpDMUr8%2bHnv6h3daCcCjcy9pqrfhD4XB51YAjjeDQympEjsGbALFH%2b9BbUrztKbbqX5%2bAsSd%2bbn52N1rAE%2bjtTNxhgXVVDXgoKfPh9Kckq7pQjBb9peRBvMqiijV348L41co3PDde6p53x5LXUox66t6tMGTjILe3oHc%2bu0Uq0DH0Y%2bfc%2bQjGK3RrKycJf70GSNf8iay6dBTF0RTAhLSfLWwYdQ6HkQIYP6zDYwxcBwLIwNQCyH7gh3sQM%2bUkWqrOJFxdOdejbFeioztt3%2bA8OZ6VMPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/BNTHD.png", BNT HD  (БНТ HD)
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/BNTHD.png", BNT HD  (БНТ HD)
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/IwEAAB%2bLCAAAAAAABAANy8lygjAAANAPchgCJMQcemAVWTKihRJukGgFtMhilA4f377705uLx8RAw2jaQ5s2AomUVMD%2f4eIXRNk9LacgsLygG8SBsaDTpPo6%2b%2bNQNlfmQqketycree6PxeelHeoTB4%2f3Icp7mPXhchubt4uR1rSPxc%2fexTzDc8B7yY7hMne075vtQJO9HhtUjUrdvgU52Fiq77TQm4qCZBdcnec%2bd3Yw1kY%2bafU9fe4O0y3uIuyiJG49tN7ztHBfVzYSKU3q4BVh3XF0w1Cwb20ViCFQiAmhApBJ%2fpdnQwJWzruQal%2bP%2bpmh2XC0QpRkyTNMvUqaiH1vJmkLnYMuTj7%2bAMAbHUAjAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/EUROSPORT2.png", Eurosport 2
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/EUROSPORT2.png", Eurosport 2
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwclygjAAANAPYhiBBGIOHthpEcMu440WUxbDUqCUDB%2fve%2bm2t5j19TCttxg%2bUZ0zq9FD1g8AR3o5haHjfd0e3n32BP7gbB8di1NFdhLzWslZSvzFdYljmZ0yBAb3SE50m%2fh0%2bjNxbgfj4KFt5hifi1K7Ng0jnUqUilCt6DSQRkn9%2bdMxWmqL%2fIz0tt1j6u%2bFS0Ei%2bymvi1ezjZJhn5ZxV%2bX7xDcifMy%2f%2bdKQdY3dqcuPAN5QrqJMxNU%2f6rvsUJFimgoAInL0swgRlESsQShKqoaRpdoGxNJxGlk8foPlZcQCyKaqWPwSbZfLG3AFpesPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/NOVASPORT.png", Nova Sport
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/NOVASPORT.png", Nova Sport
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwclygjAAANAPYpiyBEIOHgSTlK2RfbkJRYGOVEADMny8713lMPbaR7cZ%2fb2c9HKsi77IM9NMvZWic%2bIOPrNxmUEBSI4tM8ibTk3x077cZ8iUUbeVlxuUkvptxIQ7SdVidWVHOgrmEoSj78xALwSvr38j4ixRfHPxAnp5yhN5ql1D%2b7kF7rELhjXdxs1rnIsfUOgwniQnc5kFTqe0UdJu8LbozfFbtfTo%2bVXhM%2bVaG01k3cOmouDfrrbYzvwre%2b0aVCxLUVURkqMhAggkEekAiJKmI3jSsAmQtPd0e2BU%2fgkA5WQkiKVFkC2Hwwda7aoKDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/DIEMA.png", Diema (Диема)
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/DIEMA.png", Diema (Диема)
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAANyktygjAAANADMUwBE5MsXBBCRgGRAiq4U0KVjwVSfjocvq7f639uFgd%2bDWtNsIZV1f3tTkFoSDm56eXojZ7LlMjhc0w5jRy9dUPqoVgO2lwmtAvgUCgvoHwmrmor9%2bK3ZhrybjFO%2fT760PNyVTpyzIM7LspwlbSPLlu%2f5tLWZa6TMONRdcv1YZzBlF1FeypTEfeCOPI79f9g84jEhMs92z7EIfw927M4tNDhpzF5uqZZ28vIMn9vbNug4Ph5PuwXiAzLMlYrFXETqwABTSVrAFQNrgli0KaAaIuCcWkUaHcS3Vc4ZaQ57mhjbjb%2fk7pqnw8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/BALKANIKA.png", Balkanika Music Television
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/BALKANIKA.png", Balkanika Music Television
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwV3XQjAAAOAf5DiYGbvoIkPEyUd42Z0SatGXlXX68e%2fzIF7ubvmivi0GtE3Fp8tcJHx%2beUNcF4crC3Qazh8gNWFZz8NVaQ2IX8%2f6AiZGSbTdq5XGtdLc09FRsoMCra7rzoUbRH0e3zkgiSTZYsSwzNDo%2bKYC7NYeuNKF9%2fzglMueqGU25PMyO2dysqhovBjdNhNTJSnow5OptSl69umXblNl0WvKQqqJdNq6Ujxmk1vlDz3gkX87bli5BpXw0Z879avVL%2fdgLDqXuOJlnzUufoYJCAG6Lpve2pKhCVUZIwhl1UDYdAzXhlj9FcTXd43jJII93kEzf9Y%2buePWsxP8buoo3rEHxMNAjqRY%2fQN5OvhdOwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/PLANETA.png", Planeta TV
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/PLANETA.png", Planeta TV
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPMqZBiDz0gWiiVnXojmpfdlySWmmV6gXj43uOkTyn%2fxfvXRz5hbXPhGTnI51MJjJ5hQxUYDtibIc7eRgI%2fRXU6EN%2bVobdKppP%2feTQoJ51r4XZpajBo6r3nd6K5zah6a2QY89TpSpTvsId87b0QX5gpymJHNP5MvC3Fr2yfeTqp0m7SW3XEAHuDh%2fGuzO2KPxo7yDHL%2bUIsd0lQcvqTyzK9DDkZPD8Fcqhz26LyWX9x1tY5GEcxh9tMZFOiG4YKqKOrUIEgYotCFVgWhh55saFGCx%2bl4sGlEiheFaa2KjvV3tzWa%2b%2frKZOsw8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/NATGEOWILD.png", Nat Geo Wild
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/NATGEOWILD.png", Nat Geo Wild
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAANzFFugjAAANADEUJXSrEffrRSBYYUQYHxs4gDlyIOIVAwHt69A7yGDVj2XRi6xOiyKOCZ14hkDMJbmGUi4HeT4kV1jFY86nOuDkwN4%2fFKpxoE8SX2LphF%2b2nAYvxN8ih%2fyGNUk5M%2fBcbfoJC8U%2fjYypV3iNOkdJcKBmlW5UaqhOgHjX%2bazVK4bVg7NwNn3dfkivomjdMyX7URE3vPgBCaYX440CdFu59PFqvmnxjDJwSP8p6gF9%2fZrQ9KFH6TBsd9%2b7JsuNlA09TtLV3pyEZAJxghHVj%2foWNxhgh4PRM0n5Uli6Rwz%2b0u4tNCLbVevwEVuxb1DwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/KINONOVA.png", Kino Nova
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/KINONOVA.png", Kino Nova
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwcmOgjAAANAPmhAqtCwHD1QoYR2xyHYxAQdkkVXHQvh438MBDf1hC8nD1iM8%2bW9Q203SzaOvNYrxw7bLBVdhMFleOvTru2lFqh9QaTr3J%2fIw%2bCP%2fWmVJNM6qfnHH%2bTWsdU2KNjmfFHd4QWjG2K40kym9fjY60mIxSJkQvp1EHbviSVe%2b6QUhHTMnWnJgfOoKFpkzInLNC4zuC3pIM%2bR117biWD5sJWJuZNqWppaoY76J9vma%2fqLsxmhQ3dxmGnckC6eTIIqcTDSFgzIEnCpByAEkqbKODAxVsPOee19YlJCcz9eAamQA9PU5Hr9ShRhhDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/NATGEO.png", National Geographic
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/NATGEO.png", National Geographic
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/IwEAAB%2bLCAAAAAAABAANzEtygjAAANADOUxSBUIWXZDwlyIon5KdhBJM6iAiODgevn0HeLUz0GCm9EUOmya%2fiP3JGH5B9lgMFA5zEJTNaW1rfqqhncX7q7P3VawKxwDL%2bNQrxdwgwhbeZdDyUwV4kfCJJHVrwYr4IqwKziTuewQSplh%2bmGvnywylX%2f0vuB55WWxzYt9N95YNRa48ItcErPJ4voDGFPfRThaxTi0DPBRJeUsfufg2gTcvdjQr%2bCSgfPMf654qCVXfpdcHSt8G2lK63e005NmWpiMdatjUdQ0aJkaO4RIdw%2fc0Acma8cMt3S7EMncm6ncxzoZ0I84d9aehjT33%2bGKR9fkHXdhSUyMBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/PLANETAHD.png", Planeta HD
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/PLANETAHD.png", Planeta HD
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwUmSgjAAAMAHTVFEE0hy8BBCIGyKWixyQ2QVEUZHxeLx0z11Devjipc0IufUaUY0v3FQVKOfOR3LH3UjQ7ol5idrcWJ4GA4il34m4qZYMRLWCZFtwL5%2b%2frRHfk%2f3fdKQ2wgi%2fHy3p%2bzz7m9wwt5W9umkFR4PBCx3INladUXBM1gF7qP4kvMA%2fVvo5OT6ii3k0qGc7cfEHahar%2bPPn9wnvc68i6064wsYZn3YqV5xxNd8Vy9p0bL61Jm%2bmFwxi3jR8JrzNYQKthhREEZAoTpCCtB0ik1NGIiCJeI4ulRH50DU36yXc5nc5cA2m3%2fHnHGVDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/DISNEYCHANNEL.png", Disney Channel
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/DISNEYCHANNEL.png", Disney Channel
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPMqbZSISHPgR1WVOlFaUvO6iqdam4TZl%2bfM%2bxKlOz6U6LVJ4sy88mtbfbePAYgGhQ%2bs6s8T1UXb1OntX8DgNvYuXKi2M%2f%2bSdSXwymORPcfonFdTfa5oFNcMj9psO5MlLb2WU8f%2fnnBQWXc0jtMe3isVLBUIzx%2btA9suJaiJ1n1F6owDackvXfJO%2fgmOlzy2VhPvWEA3MDyiJXlGlNYzslKWAkbdwowkcb0Y9hrD5n8E%2fSWhhhnH8wgboOJUkkJlVERBAQVRkhEWBZJQY%2baEgFHyN1%2b2saZjl4Xa17rKyJPMJyv%2f8CETc09w8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/DISCOVERYCHANNEL.png", Discovery Channel
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/DISCOVERYCHANNEL.png", Discovery Channel
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/IwEAAB%2bLCAAAAAAABAAFwdtugjAAANAPMmRFCoWHPXB1gi1SpYW%2bLGJIuTgQFUTCx%2b%2bcViWnnFS43KVGFw1ZBlQzcgL1ro1PyUtb6Nyf8H1oWjl90Nm6vF8oq4AQJPxizDauPjzL8lSTHNoLiY%2b7mZ50Um6CQw3sdArr%2figbaQ38llXbziSCcn9XxiHu36VQi2UxRta1TjNPdAYPqS4sCaJzvjxqUbOfa4Bwxmhxey7e6HGNszJCn1QCIjoDOxQNq1vh5nVxfympQk1LulVHW9fdapqCAttUIIJAsQwIFaAbFvJ034EWWKdO9NLbx27Sz8l1Y%2f0dCjPd48EZ35TnXvFAsd1G0DuM%2bfc%2f0%2foysCMBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/FOX.png", Fox
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/FOX.png", Fox
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAPMkYmQuTBg6pbULurLvW2rWDXpbGYMOPj95x6tOzFcHdpiPL4mPAUqp9M40jvXbStaf%2flq2mj07QD%2b8pg5ROgRMZfgNZegQGctmBNkyplBAkbQPDu6Ovm0aKL4%2fLi8J97%2beFgiS%2bj5LvHg%2b%2fgHXl3UQguPdusFKrwf%2bcmqfulZImhvMgYeMIeBcrm%2fLlPyFiGYQmbw8umLADmmbjeNhc1YyGuh0TeTw1D24aqKmPXMmSEEZCJjpAMNJ3gq%2bZcEAFnpbcP%2fl3la9GG1Y1S90qX0jLNf3IZkjL7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/FENTV.png", Fen TV (Фен ТВ)
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/FENTV.png", Fen TV (Фен ТВ)
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwcmOgjAAANAPMkSWttiDh0JZSqZCFS3hxmJgYNSCKEL8%2bHnvLrJEGgfCqL%2bwtTRh8WzGy5hEUWbVZfbuC3YjeJ3yqo4GPznNzk4WOUu84CSsdirHa51u7WrgbZNIJDaREIzG6goAiM%2fnQXf4p1mYl0Erre8R4PE2CjrL275N8zUbKu%2bIKr05OfVigQ%2fdSRExNqSA5gt3FXXhzwCOy7uY2v4zbY4Yxsj%2fw7vUWcumUEwGh%2b%2fCcVwBdFGUcikety%2b0Tdc1LUuzfbLTgA10DSMANB0ibFPoOQDrX8kVGofwF3ahIqiVNA6fvNnv%2fwFpospzDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/ROMATV.png", Roma TV
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/ROMATV.png", Roma TV
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwcuWgiAAANAP6nhSBMmFC4TUHDJNbaqd%2bRqiscxXdfz47hXen5YetlTSIXk%2bgMpHMtwG%2bO4lT5cNWdQA7XrsoBO1NRKOLYzJT2tQLyz9Q5kH7LdYtB3d0LMIeXp9NCke%2fDzqljtmd%2fdAY89LwTMDH%2f1GaprM9v%2br40qyAellV1TD5Q7Aei3kCHxxFYhx10Mh3zu3yRPH5Gzy10Qnn0RNndu1NU9RgEOcaTKp7Y2ITzPCgFKg6wp2yEqBGKqKaUCoqMgwMUNrG5rqrLujH392lHx6t6q2yUt9uwaxrC%2btuTTy%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/BNT2.png", BNT 2 (БНТ 2)
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/BNT2.png", BNT 2 (БНТ 2)
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPMsYlQTz0QSWWohudIPZNQ28u0WlZ7fTje07zB2r2SkgAEJMxSf1Q1KV2iDL0%2bs%2fvNfa4HCc8%2bUYSlAVbO3qtpSW4bYt5jmylokOxKrLNRAL59iQL%2fwaQwejDUoql562SjawUFOQ91rSBSBz4e1KLp3k2bu8eL7uWHhDNHxyUaycLuYTV8z4E3am6ePiiV8dfFjLYjLE5EbLFixx7w0x5K2xHgwlb4ecH9fuOzMcli9t3FUQfyzF93wRAdQIPqdCBuuraEKq6ZbsOtsgWuvqHJkt%2bbdA5QnGV7tbLrTW4lW02X7wiaLkPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/DIEMAFAMILY.png", Diema Family (Диема Фемили)
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/DIEMAFAMILY.png", Diema Family (Диема Фемили)
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwceSgjAAANAP2mGIKSQ5eECKK6IkFCk3V0BUQKQI4%2fjx%2b95%2bqshv2zKm9iFNDB9%2bOnh5ybBjRbc7sHkC0bZxFi96pYtOfNPOpqjkKL8ZY9arPgrTZTOPuh27ziewhXk9as794LMlXcUylbjMl0jlIQdGXbgMU1nukyA7OQc5aH%2bvcwWDPePOkb%2fbzGJ1WVgDfo6yLJCHamGEwcBdOhfb%2fhE9bvNTtGaXFiv33JAByGoLujQYhKoSQAnQM5kn1x0gp%2bt6%2feUuCnS73onLgyRTDL%2bEQsOACCnU1pmCKQYK1zBWANE4NYm1wRx8Xf1%2b67U0INHYVL7V%2fHjeW4jJjEugjX7e8Tf2qGPDDrP1Pw20MIQ7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/FOXLIFE.png", Fox Life
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/FOXLIFE.png", Fox Life
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwcmOgjAAANAPIgRsC4WDB2pBHTaVZaSXyaDsVEjYhPjxvmeEc5ec4guqfSGg9yMALPB5jv05r4O5aAZWZmoqDLNQtbdHmSsy7%2fkEWb90gL%2bNJ3zDnMRx5t%2b3JeygXxOWCuXR2HYxQjlVMhaxG%2fUi51RNnLitFvZjazzcif02XkshKmzqMe1lwl3nRaN9rXhqL5lzdDDoXLPUipFc57AwV%2bGdgGEu%2f6M6kw5cb6cf6anDj5qcmxXu%2fm7dI4WN9fooGBwOAEIRW4YmIoxkUVcREmVF1TFVTIJ0%2bWNdmLQlOBgAkQaric7FWqfLfv8FrA0R5g8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/CITYTV.png", City TV
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/CITYTV.png", City TV
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwcmSQ0AAANAPUkrrRXNwsCcMI5aMdktErJOeIKJSPn7eO%2bPx2yMs6q0pmR5xagKetbCWfLTKZdW9bqbny3WVNyGCcqAGOEtRXHv9pzDSnhFM2du%2bb5dw7O59yxyNXQT86%2fIQ8mORxPOX3UnCmg1wiZtmbvkruC21ykFa54a0kXJGV%2bZ0q5XBwnKeW259qD%2b0x%2bU00xxwLpAUuFsAqugwVPr%2b9BPjen68E%2fZ3wvaU74RCy4IIidQ1VBFTDERNwVgERNGoTRwTa2BHUVWPB3MMpp%2bIqE0JlRmrJ13%2fB85N5Uv7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/MAGIC.png", Magic TV
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/MAGIC.png", Magic TV
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwUtygjAAANADOQwhCYQsXPAxIFISEGjDzijW%2bmlRBCPD4fsehrDAjtZjznDXDjwjiBz1MAHURdVo%2buX9gZLP3srvsvBkqtPzuXpcdccp%2by7jNnDqHrzIQiCU99tpgLa4cHMENAcqPDFc%2fGl6UdV7Q6u06cZ8tA%2bBZmLdDFFvMin3mXp6tfpYJPtJiCb8EkT6bXN05aoqZf3OYs8RKiSJs7MuatN4v7eCTr5gP6dbBa%2b1NY%2fb3fMgEFQ696e1%2b5ptAoMAImQQ5rkGJhgY1MHYALZDSWivfEzBnDxi6HPecxOEYoqCqLCeV2%2b5%2fAdS3TErDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/KANAL3.png", Kanal 3 (Канал 3)
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/KANAL3.png", Kanal 3 (Канал 3)
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/IwEAAB%2bLCAAAAAAABAAFwclygjAAANAPYhi2AObQAwlSBAJFJFhuiKA2bLIpGT%2b%2b7xEeW9xseld2nt%2fvOy3juHCrlgzLVAi1d2PHhUeP8qZCTBqqzEPTgoMC1zNnf9JJCsvKe9Rm7L5%2b%2blUlpicVw7STGLYWOl9mFAmo3hsNYP2LoqbWqUG4d%2bgO9nKlSTtn3S8es3OnlXmvWG1FAuuY2kzBwchzTSZoF2wrv0w869c%2bU2maxSoqnxgWdTWjzV%2bvH2dMm%2bQc%2bNGD7WcfWB%2fdVDFWNU00HWsnAhPIIjQAEGXdgKat7xGA8qfKT6GbTlWmdqF%2bufvjFgkDy5OjE7PEDvM3zoYB3oWpkr%2f%2bASWYOSsjAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/SPORTAL.png", Sportal.bg
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/SPORTAL.png", Sportal.bg
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwd1ugjAYANAHWoiFFj974YXFiiCgSxGnN4vKX7tKFSSo4eF3Dv6%2bv8LHpusfmXkrPSkCYZImyNipPvyVYZakjfYWU6qvMS%2bP4OS692UUxh22Y%2fLYHyfP5JYKWS35cwAeGF%2bxWTVouLj%2b2ab8g1I7ig6IAcxCCR19DRGRhZJv8L3mQrO76MNX%2f%2fOVP1nuKnFWIl4WLCjjgbdt23RUSyow3Q62yo1Jk1QdncOG1EXdba9mcR1PkgGugO%2fML8LrXTK64Hieg7EFq8XMIkCQRaeEWMidUli6nBGKxtuqq3e1i%2fRal3vRiureK1rN5%2f9gqPSsDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/THE_VOICE.png", The Voice Bulgaria
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/THE_VOICE.png", The Voice Bulgaria
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/IwEAAB%2bLCAAAAAAABAAFwcuWQzAAANAPchyvJFjMQqLq1ZbRdsoOJV6D0lFyfPzcuzIKFCfRevwelubndHChrA0fkjaBEElCGJzDYCZHmeIsRQ6Vs%2fmSfSImZJ5r157bIdasnofNuNfO5%2f4b%2fE7H5v4IMbRjJbu0ZqH%2bgcRvRXQrpq1ua9ZNFSnjjhiSzAL96WM3c%2fs6v1fW4N7MaOO8dzgvG9GcdrhSFD1VqchHC2hHcDeEueWCdzx6EW6TLh4Wss%2bQoks5wdes3MzXyu9QlQmRFYVXLUPjgQpEXkcA8CJEumrCAwa6uNdjX60pHh0xf4ysiOHJ5riNoyVuXk8EUuaXzhX1kUDzr3%2bdqmQ9IwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/HARMONIA.png", Harmonia TV (Хармония ТВ)
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/HARMONIA.png", Harmonia TV (Хармония ТВ)
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwVGTQkAAAOAfZEy7LNs%2b9LAhLlZpNuLlRthLJ0SrY%2frx9306ruPHcjKj5VeRWdpcfRaN41JOvu4E7FGlcRnQ30vNyOjeSeOu9JSf2vj1B7SQDW8vs7O2ftK6N%2fBWijIipDHanTWbTcLfWVlNSynaPkhm35FvCs6TQPkrx%2fHXSv4cqYg7moT8LuFZkIXC2cNi2JfavbPzFo37Ywy15Iadg9Vdbd1jQwELMQn4Kjk89vV%2bolFUNXM6cj8zbF40B2Zz5kWbzSdENpwNOOTBnALV%2ff4YWLMsTddVvKNrFWEEVGIipALDJNg2nC0i4PMAadGRfiXB8yLxTTmsK%2ffEUsnC5dWtZaBzhTJ0U56g2PwDYvKuwzsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/BIT.png", Bit TV
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/BIT.png", Bit TV
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwcmSQ0AAANAPmlKaNM3BQbqJBEGMsdzEHpm2hLGUj5%2f37gGtXTd7Tq6fEO0HC3Jb9nnyvriINDMUotvXzAZ9bs5l6%2fyOzbQF7lP1ChRphhYWzvQujMujmSqTXzA3xRY2MN9pq3Uv6ocnUc4%2f53sIuJAbX46n6SrdvK7CpUdBqxfGUHFd%2bpHmGdo2S0OXG3fQp5FjstYfYV9qNXzIlma1RKRFOeJ8HVGRkBNNvsNhFw8B8RjzpxODdFViIIKAkUUIGSCIMiKCdoYyOG6NJORXu4Zw9cmC0zirrlBVlH%2ftbXn8%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/STARA_ZAGORA.png", TV Stara Zagora
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/STARA_ZAGORA.png", TV Stara Zagora
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwcGSgiAAANAPapwIMOTQQQlN19CUyjpWG1lG4W6mTB%2ffe3nhITNRr3U1UendpnmTg1YwpZtVVxYgPuaFGdg5XxzE%2f3qbhJlPkrEwk%2bxcDoXc1e02iLwbwos4slHjRaqSxf2i%2bz93brK0haQEtd3uUj4u0f6kTjdpKzEoX9tRP8K2S5I6jKod4lxqjUe0B3X83IQxXQB4fev90QxLV8gAzx%2bpePgHdCRcdwxbswx5%2bNN9YPQUKeW56X4ZW3mXj0sgYxAhh4S%2b52CCgUOnGDvAnVIyd3mAKfhsaAaxwjQoAtiQixyY97q%2bZ7Mvrtbosg8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/AUTO_MOTO.png", 100 Auto Moto TV
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/AUTO_MOTO.png", 100 Auto Moto TV
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/IwEAAB%2bLCAAAAAAABAAFwcmOgjAAANAPIqTYheUwB8RStG6AVuRiYBgFAmqjlkL8%2bHnvQ0n2GVAbLYFxpBN1z9Mh8xtjmcH3Q8ZFnjR6P3KZly4CaB%2fCm4yfLxtP9%2fVBSyaiFpRDnc6FaiDhVt6pIg%2f5RrV0aawqLtxo2tUP8Hvl7%2fHYL3QSbprNMxfFuoTeyefUCOfVa1rEz%2f6Pa8vbrspOZdc0JvatvIIEstoeyj3MeJrs5NiycCY6cuOR9HvwarpvrmRwmHma3ek6xZfLlzgwCCBCphP6rokdbJmejbFpEdtzFoTOsWd924%2bhWj2io8VEFitWV8Ew4zI%2b8R3SbHvugG30RSUGRX%2f%2bAfNdZeIjAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/ONAIR.png", Bulgaria ON AIR (България Он Ер)
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/ONAIR.png", Bulgaria ON AIR (България Он Ер)
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwceSgjAAANAP2mE2lARy8ABEqcIGkHYTpEhHUJHx4%2fe91kBe4PO5ug9HRZa2iSTG4Pe%2fr6bYkaLTXcqXpz6NWxjzvD07dfGUM9P0EbWQoa1VwNVBgJ1fY8TJdFttz55mSJo0IlvvJBx1Zu59G7KkXT7xj7DeUQ%2fXaONr5Vz%2bBWAUB5uGdeWWeuG4PQgqkM8p24pqSesrcSiafEDltYwDj0R51KmWLs6YPYPzkJhaAt13k8rW5fopH%2ffwLeC6jdnXXh0O32DMpgUpA4Yka%2bjy%2bEKRU1WO5xnxJEuMIAqAwUgQGAARFgk8KgIGX9M5xVOTNYW1f3SdaplPICXdR0iGtty97gYcyCaGQfHlKE1WF17h4nK71qpSlV7u5B%2b6aZyqTwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/TVART.png", TVArt
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/TVART.png", TVArt
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwcdugzAAANAPihDGmOEDBzPbQMOmwA1RIGaGoVhEfHzfE580XFd6G8h453do9sjjK8KTOBjZ0tgOeL8%2fxdDeUr5usO9M315NZXK2n4wuMBqKbqC9quvu5kcnq6VpOOxfUu0vGwiz%2byqQLpwjlt2q6oKFfiVAFNpZhdZhlh08%2fPR4bmbRTT5fOiFh%2bC4k%2fLbOKn7MZqRYRzZkPYaumjOj%2f9GuZkc7REvkNQD%2fbdS7JAUaBhRFTrGJyiEFAQ7LCHFAkrFiSpaOMLiCmD2OeNpdq8zzJPXItFos1LR%2f9hH2r%2fsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/TRAVELTV.png", Travel TV
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/TRAVELTV.png", Travel TV
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwclygjAAANAPchhiFpaDB0CpoSiyGGhuMg0iDbIERRw%2fvu8Z%2bnm4sGBPBLf1CVb3B%2bVLWwTK866zF4vdCqxws5yfDImtCOnw5y5FUzwBdzoZB52MrqJe95UACnd5ChKr%2fy64z%2f2v7CdiKpqaDiFSWFCfWf8K8%2fF0JDed6iwK0uZB%2b0MRZK4hZftEkly9x4WV9cip3iXh%2btcoe1i%2f46bHi8MbxXyVb%2bXoiuTIqvHeAma2H7XX6C2DjEp0atVcfogJPQ8ipJm%2bY2nYxECzDYw1QAzb3JKdi23wgZY8iC5L8%2bE1Odkkl3A41M5m8w8TMjYlDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria2" tvg-logo="https://www.firstonetv.net/images/logos/bg/TRAVELHD.png", Travel HD
+#EXTINF:-1 group-title="Bulgaria-Premium" tvg-logo="https://www.firstonetv.net/images/logos/bg/TRAVELHD.png", Travel HD
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwdu2QkAAANAPsqwGMy4PPZiRHExJLtWbM3IwIUph%2bfizN%2bZtWdy%2fXndrKJuzvU8m%2f%2bpqdldhKRxwNLx2tCoKVnqPwm%2bjN7tlVI281KHP%2fvOFiH7MjE%2fQuWrM%2bQrHcUpT%2fjkPtbzb4HduhHbNG3SI%2fYV5sq8vPwB0l4GkJklo694iqxtpLaEl0bkwbqg5YWW%2fv4LcJjEpLuHfAyOTD00eMB4s9HeBjS4wy5zbOBKedX8s16ZS5C5xKch4fQI9WZEmEyIriqjZpi5CDQLRUCEUAVINzUI7DA2wCqrTLr30CgPLvndkHtPNITltt%2f9tPKS9DwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:4 group-title="Bulgaria3",
 
 
 
@@ -4597,266 +4355,204 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11462.m3u8
 
 #EXTINF:-1 group-title="France4-PREMIUM",
 
-#EXTM3U
-#EXTINF:-1 group-title="France4-PREMIUM",TF1 HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/16.ts
-#EXTINF:-1 group-title="France4-PREMIUM",C8 HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/3.ts
-#EXTINF:-1 group-title="France4-PREMIUM",GAME ONE
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/19.ts
-#EXTINF:-1 group-title="France4-PREMIUM",SYFY
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/11.ts
-#EXTINF:-1 group-title="France4-PREMIUM",13EME RUE
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/30.ts
-#EXTINF:-1 group-title="France4-PREMIUM",ARTE HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/9.ts
-#EXTINF:-1 group-title="France4-PREMIUM",ATV Guadeloupe
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/37.ts
-#EXTINF:-1 group-title="France4-PREMIUM",ATV Martinique
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/38.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CANAL 10
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/25.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CANAL J
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/34.ts
-#EXTINF:-1 group-title="France4-PREMIUM",ESPN
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/29.ts
-#EXTINF:-1 group-title="France4-PREMIUM",ETV GP
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/32.ts
-#EXTINF:-1 group-title="France4-PREMIUM",FRANCE 2 HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/4.ts
-#EXTINF:-1 group-title="France4-PREMIUM",FRANCE 3 HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/5.ts
-#EXTINF:-1 group-title="France4-PREMIUM",FRANCE 4 HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/6.ts
-#EXTINF:-1 group-title="France4-PREMIUM",FRANCE 5 HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/7.ts
-#EXTINF:-1 group-title="France4-PREMIUM",FRANCE Ô HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/8.ts
-#EXTINF:-1 group-title="France4-PREMIUM",Guadeloupe 1 ere
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/18.ts
-#EXTINF:-1 group-title="France4-PREMIUM",GULLI
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/17.ts
-#EXTINF:-1 group-title="France4-PREMIUM",Guyane 1ere
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/23.ts
-#EXTINF:-1 group-title="France4-PREMIUM",HISTOIRE
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/27.ts
-#EXTINF:-1 group-title="France4-PREMIUM",LCI
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/35.ts
-#EXTINF:-1 group-title="France4-PREMIUM",M6 HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/15.ts
-#EXTINF:-1 group-title="France4-PREMIUM",Martinique 1 ere
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/24.ts
-#EXTINF:-1 group-title="France4-PREMIUM",MTV
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/20.ts
-#EXTINF:-1 group-title="France4-PREMIUM",MTV HITS
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/13.ts
-#EXTINF:-1 group-title="France4-PREMIUM",NOVELAS TV
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/26.ts
-#EXTINF:-1 group-title="France4-PREMIUM",NRJ 12 HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/14.ts
-#EXTINF:-1 group-title="France4-PREMIUM",PARIS PREMIERE
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/28.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TELE MICRO
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/36.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TF1 SERIES FILMS
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/33.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TFX
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/31.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TRACE TROPICAL
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/21.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TRACE URBAN
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/22.ts
-#EXTINF:-1 group-title="France4-PREMIUM",USHUAIA TV HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/12.ts
-#EXTINF:-1 group-title="France4-PREMIUM",W9 HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/10.ts
-#EXTINF:-1 group-title="France4-PREMIUM",A+
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/39.ts
-#EXTINF:-1 group-title="France4-PREMIUM",ALIZES GP
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/42.ts
-#EXTINF:-1 group-title="France4-PREMIUM",BBLACK CARIBBEAN
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/47.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CNEWS
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/43.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TF1-SD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/5.ts
+#EXTINF:-1 group-title="France4-PREMIUM",FRANCE_2-SD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/6.ts
+#EXTINF:-1 group-title="France4-PREMIUM",FRANCE_3-SD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/7.ts
+#EXTINF:-1 group-title="France4-PREMIUM",FRANCE_4-SD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/8.ts
+#EXTINF:-1 group-title="France4-PREMIUM",FRANCE_5-SD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/9.ts
+#EXTINF:-1 group-title="France4-PREMIUM",M6-SD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/11.ts
+#EXTINF:-1 group-title="France4-PREMIUM",FRANCE_0-SD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/10.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TFX-SD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/352.ts
+#EXTINF:-1 group-title="France4-PREMIUM",RTL_9
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/699.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TF1-Series-Films-SD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/1144.ts
+#EXTINF:-1 group-title="France4-PREMIUM",6TER
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/27.ts
+#EXTINF:-1 group-title="France4-PREMIUM",C8-H.265
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/25.ts
 #EXTINF:-1 group-title="France4-PREMIUM",CSTAR
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/48.ts
-#EXTINF:-1 group-title="France4-PREMIUM",FRANCE 24
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/44.ts
-#EXTINF:-1 group-title="France4-PREMIUM",KTO
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/50.ts
-#EXTINF:-1 group-title="France4-PREMIUM",L'EQUIPE
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/45.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TEVA
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/46.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TNH
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/51.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TV BREIZH
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/49.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TV5 MONDE
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/40.ts
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/1093.ts
+#EXTINF:-1 group-title="France4-PREMIUM",W9
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/707.ts
+#EXTINF:-1 group-title="France4-PREMIUM",13_EME_RUE
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/47.ts
+#EXTINF:-1 group-title="France4-PREMIUM",PARIS_PREMIERE
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/720.ts
+#EXTINF:-1 group-title="France4-PREMIUM",ARTE
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/936.ts
+#EXTINF:-1 group-title="France4-PREMIUM",WEO
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/849.ts
+#EXTINF:-1 group-title="France4-PREMIUM",COMEDIE+
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/1092.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CANAL+
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/12.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CANAL+CINEMA
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/14.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CANAL+DECALE
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/13.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CANAL+FAMILY
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/16.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CANAL+SERIES
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/17.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CINE_EMOTION
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/20.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CINE_FAMIZ
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/19.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CINE_CLASSIC
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/21.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CINE_CLUB
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/940.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CINE_FRISSON
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/18.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CINE_FX
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/702.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CINE_POLAR
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/703.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CINE_PREMIER
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/939.ts
+#EXTINF:-1 group-title="France4-PREMIUM",OCS_CHOC
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/712.ts
+#EXTINF:-1 group-title="France4-PREMIUM",OCS_CITY
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/150.ts
+#EXTINF:-1 group-title="France4-PREMIUM",OCS_GEANT
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/149.ts
+#EXTINF:-1 group-title="France4-PREMIUM",OCS_MAX
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/148.ts
+#EXTINF:-1 group-title="France4-PREMIUM",ACTION
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/31.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TCM
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/722.ts
+#EXTINF:-1 group-title="France4-PREMIUM",USHUAIA_TV-HD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/43.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CHASSE-PECHE-H.265
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/695.ts
+#EXTINF:-1 group-title="France4-PREMIUM",PLANETE+
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/700.ts
+#EXTINF:-1 group-title="France4-PREMIUM",PLANETE-AE
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/33.ts
+#EXTINF:-1 group-title="France4-PREMIUM",PLANETE-CI
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/32.ts
+#EXTINF:-1 group-title="France4-PREMIUM",DISCOVRY
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/354.ts
+#EXTINF:-1 group-title="France4-PREMIUM",DISCOVRY-SCI
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/355.ts
+#EXTINF:-1 group-title="France4-PREMIUM",SCIENCE_VIE-H.265
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/1171.ts
+#EXTINF:-1 group-title="France4-PREMIUM",RMC-DECOUVERTE
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/854.ts
 #EXTINF:-1 group-title="France4-PREMIUM",VOYAGE
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/52.ts
-#EXTINF:-1 group-title="France4-PREMIUM",ZOUK TV
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/41.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CNN HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/53.ts
-#EXTINF:-1 group-title="France4-PREMIUM",DISCOVERY SC
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/55.ts
-#EXTINF:-1 group-title="France4-PREMIUM",SEASONS
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/54.ts
-#EXTINF:-1 group-title="France4-PREMIUM",INDIES LIVE TV
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/56.ts
-#EXTINF:-1 group-title="France4-PREMIUM",IOTV
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/57.ts
-#EXTINF:-1 group-title="France4-PREMIUM",EUROSPORT 1 HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/58.ts
-#EXTINF:-1 group-title="France4-PREMIUM",ATV GUYANE
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/66.ts
-#EXTINF:-1 group-title="France4-PREMIUM",BEIN SPORT 1
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/61.ts
-#EXTINF:-1 group-title="France4-PREMIUM",BEIN SPORT 2
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/62.ts
-#EXTINF:-1 group-title="France4-PREMIUM",BEIN SPORT 3
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/63.ts
-#EXTINF:-1 group-title="France4-PREMIUM",BET
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/67.ts
-#EXTINF:-1 group-title="France4-PREMIUM",DISCOVERY HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/64.ts
-#EXTINF:-1 group-title="France4-PREMIUM",NAT GEO  HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/60.ts
-#EXTINF:-1 group-title="France4-PREMIUM",NAT GEO WILD HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/59.ts
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/719.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TOUT_LHISTOIRE
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/706.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CARTON_NET-HD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/40.ts
+#EXTINF:-1 group-title="France4-PREMIUM",PIWI-HD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/698.ts
+#EXTINF:-1 group-title="France4-PREMIUM",BOOMERANG-HD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/42.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TIJI
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/705.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TELETOON-HD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/943.ts
+#EXTINF:-1 group-title="France4-PREMIUM",BOING
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/710.ts
+#EXTINF:-1 group-title="France4-PREMIUM",ZOUZOUS
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/996.ts
+#EXTINF:-1 group-title="France4-PREMIUM",MANGAS
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/35.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CANAL_J-H.265
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/45.ts
+#EXTINF:-1 group-title="France4-PREMIUM",DISNEY_CHANNEL
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/48.ts
+#EXTINF:-1 group-title="France4-PREMIUM",DISNEY_CINEMA
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/942.ts
+#EXTINF:-1 group-title="France4-PREMIUM",DISNEY_JUNIOR
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/704.ts
+#EXTINF:-1 group-title="France4-PREMIUM",DISNEY_XD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/718.ts
 #EXTINF:-1 group-title="France4-PREMIUM",NICKELODEON
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/65.ts
-#EXTINF:-1 group-title="France4-PREMIUM",tv shalom
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/68.ts
-#EXTINF:-1 group-title="France4-PREMIUM",ABC NEWS
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/71.ts
-#EXTINF:-1 group-title="France4-PREMIUM",ABC USA
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/78.ts
-#EXTINF:-1 group-title="France4-PREMIUM",Access Sacramento
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/79.ts
-#EXTINF:-1 group-title="France4-PREMIUM",Almavison (USA)
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/80.ts
-#EXTINF:-1 group-title="France4-PREMIUM",Alternative (USA)
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/81.ts
-#EXTINF:-1 group-title="France4-PREMIUM",Bloomberg (USA)
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/82.ts
-#EXTINF:-1 group-title="France4-PREMIUM",BT Sport
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/70.ts
-#EXTINF:-1 group-title="France4-PREMIUM",C-SPAN  2 (USA)
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/83.ts
-#EXTINF:-1 group-title="France4-PREMIUM",C-SPAN (USA)
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/84.ts
-#EXTINF:-1 group-title="France4-PREMIUM",C-Span3 (USA)
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/85.ts
-#EXTINF:-1 group-title="France4-PREMIUM",C-TN (USA)
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/86.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CANAL 11 HAITI
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/87.ts
-#EXTINF:-1 group-title="France4-PREMIUM",Caraibes FM HAITI
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/88.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CBN News (USA)
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/89.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CBNS USA HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/90.ts
-#EXTINF:-1 group-title="France4-PREMIUM",EXCELSIOR TV HAITI
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/91.ts
-#EXTINF:-1 group-title="France4-PREMIUM",Imedia Haiti
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/92.ts
-#EXTINF:-1 group-title="France4-PREMIUM",Insight UK
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/93.ts
-#EXTINF:-1 group-title="France4-PREMIUM",Konpa Events TV
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/94.ts
-#EXTINF:-1 group-title="France4-PREMIUM",MSNBC
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/69.ts
-#EXTINF:-1 group-title="France4-PREMIUM",NAGO TV
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/74.ts
-#EXTINF:-1 group-title="France4-PREMIUM",PERFECT STREAM HAITI - chunklist
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/95.ts
-#EXTINF:-1 group-title="France4-PREMIUM",Radio Ginem
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/96.ts
-#EXTINF:-1 group-title="France4-PREMIUM",Radio Kiskeya HAITI
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/97.ts
-#EXTINF:-1 group-title="France4-PREMIUM",Radio scoop HAITI
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/98.ts
-#EXTINF:-1 group-title="France4-PREMIUM",Radio Shalom
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/99.ts
-#EXTINF:-1 group-title="France4-PREMIUM",RADIO TELE BOSTON
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/100.ts
-#EXTINF:-1 group-title="France4-PREMIUM",RADIO TELE CARAIBES  HAITI
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/73.ts
-#EXTINF:-1 group-title="France4-PREMIUM",RADIO TELE ECLAIR
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/101.ts
-#EXTINF:-1 group-title="France4-PREMIUM",RADIO TELE ECLAIR HAITI
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/102.ts
-#EXTINF:-1 group-title="France4-PREMIUM",RADIO TELE SUPER STAR HAITI
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/103.ts
-#EXTINF:-1 group-title="France4-PREMIUM",RADIO VISION 2000 HAITI
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/104.ts
-#EXTINF:-1 group-title="France4-PREMIUM",RT USA
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/105.ts
-#EXTINF:-1 group-title="France4-PREMIUM",RTE HAITI
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/106.ts
-#EXTINF:-1 group-title="France4-PREMIUM",RTG 18
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/107.ts
-#EXTINF:-1 group-title="France4-PREMIUM",RTVC
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/108.ts
-#EXTINF:-1 group-title="France4-PREMIUM",scoop TV
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/75.ts
-#EXTINF:-1 group-title="France4-PREMIUM",SKY TV HAITI
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/109.ts
-#EXTINF:-1 group-title="France4-PREMIUM",STORM TV
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/110.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TELE AMANIY HAITI
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/76.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TELE ANACAONA
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/111.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TELE PACIFIC HAITI
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/112.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TELE PLURIEL HAITI
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/113.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TELE SOLEIL HAITI
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/114.ts
-#EXTINF:-1 group-title="France4-PREMIUM",THM HAITI
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/115.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TRIPOTAY LAKAY
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/77.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TV METROPOLE HAITI
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/116.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TV SIGNAL HAITI
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/117.ts
-#EXTINF:-1 group-title="France4-PREMIUM",U9TV HAITI
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/72.ts
-#EXTINF:-1 group-title="France4-PREMIUM",COLOR VISION 9
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/118.ts
-#EXTINF:-1 group-title="France4-PREMIUM",AB MOTEUR HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/120.ts
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/966.ts
+#EXTINF:-1 group-title="France4-PREMIUM",NICKELODEON_JUNIOR
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/1034.ts
+#EXTINF:-1 group-title="France4-PREMIUM",GULLI
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/44.ts
+#EXTINF:-1 group-title="France4-PREMIUM",GAME_ONE
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/721.ts
+#EXTINF:-1 group-title="France4-PREMIUM",GAME_ONE-H.265
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/24.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CANAL+SPORT-HD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/15.ts
+#EXTINF:-1 group-title="France4-PREMIUM",beINSPORTS-1-H.265
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/2.ts
+#EXTINF:-1 group-title="France4-PREMIUM",beINSPORTS-2-H.265
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/3.ts
+#EXTINF:-1 group-title="France4-PREMIUM",beINSPORTS-3-H.265
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/4.ts
+#EXTINF:-1 group-title="France4-PREMIUM",INFOSPORT-HD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/696.ts
+#EXTINF:-1 group-title="France4-PREMIUM",EQUIDIA_LIVE-HD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/755.ts
+#EXTINF:-1 group-title="France4-PREMIUM",FOOT+24-HD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/754.ts
+#EXTINF:-1 group-title="France4-PREMIUM",EUROSPORT_1HD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/1091.ts
+#EXTINF:-1 group-title="France4-PREMIUM",EUROSPORT_2HD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/1211.ts
+#EXTINF:-1 group-title="France4-PREMIUM",L'EQUIPE_21-HD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/37.ts
+#EXTINF:-1 group-title="France4-PREMIUM",FRANCE_24
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/852.ts
+#EXTINF:-1 group-title="France4-PREMIUM",C NEWS
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/38.ts
+#EXTINF:-1 group-title="France4-PREMIUM",LCI
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/41.ts
+#EXTINF:-1 group-title="France4-PREMIUM",BFM
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/937.ts
 #EXTINF:-1 group-title="France4-PREMIUM",EURONEWS
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/122.ts
-#EXTINF:-1 group-title="France4-PREMIUM",EUROSPORT 2 HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/119.ts
-#EXTINF:-1 group-title="France4-PREMIUM",KMT
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/123.ts
-#EXTINF:-1 group-title="France4-PREMIUM",KOUROU TV
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/124.ts
-#EXTINF:-1 group-title="France4-PREMIUM",MCM
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/121.ts
-#EXTINF:-1 group-title="France4-PREMIUM",FX HD - USA
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/125.ts
-#EXTINF:-1 group-title="France4-PREMIUM",ABC HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/129.ts
-#EXTINF:-1 group-title="France4-PREMIUM",ESPN U HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/127.ts
-#EXTINF:-1 group-title="France4-PREMIUM",NBA TV HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/130.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TSN 4 HD
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/126.ts
-#EXTINF:-1 group-title="France4-PREMIUM",USA Network
-http://162.12.217.154:25461/live/rachidsxm1969-2018/sxm-rachid-1993/128.ts
-
-
-
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/853.ts
+#EXTINF:-1 group-title="France4-PREMIUM",NUMERO-23
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/356.ts
+#EXTINF:-1 group-title="France4-PREMIUM",AB1-HD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/353.ts
+#EXTINF:-1 group-title="France4-PREMIUM",AB-Moteurs
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/1227.ts
+#EXTINF:-1 group-title="France4-PREMIUM",CHERIE_25
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/39.ts
+#EXTINF:-1 group-title="France4-PREMIUM",NRJ-12
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/34.ts
+#EXTINF:-1 group-title="France4-PREMIUM",SYFY
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/351.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TEVA
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/28.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TMC
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/29.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TV5_MONDE
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/709.ts
+#EXTINF:-1 group-title="France4-PREMIUM",TV_BREIZH
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/30.ts
+#EXTINF:-1 group-title="France4-PREMIUM",M6_MUSIC
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/938.ts
+#EXTINF:-1 group-title="France4-PREMIUM",NAT-GEO-WILD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/26.ts
+#EXTINF:-1 group-title="France4-PREMIUM",MTV_BASE
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/1209.ts
+#EXTINF:-1 group-title="France4-PREMIUM",MTV_DANCE
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/1210.ts
+#EXTINF:-1 group-title="France4-PREMIUM",MTV_HITS
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/1208.ts
+#EXTINF:-1 group-title="France4-PREMIUM",beINSPORTS-MAX-3-FullHD
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/851.ts
+#EXTINF:-1 group-title="France4-PREMIUM",VIRGIN
+http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/59.ts
 
 
 
@@ -7282,6 +6978,427 @@ http://5.189.187.55:8000/live/Fadil/skype/2925.m3u8
 http://5.189.187.55:8000/live/Fadil/skype/2537.m3u8
 #EXTINF:-1 group-title="Portugal3-PREMIUM" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHELSEATV.png" ,CHELSEA TV
 http://5.189.187.55:8000/live/Fadil/skype/434.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Portugal4-PREMIUM",●●●●●● NACIONAIS ●●●●●●
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/203.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",RTP 1 HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/6.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",RTP 1
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/297.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",RTP 2 HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/8.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",RTP 2
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/7.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",RTP 3
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/19.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SIC HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/11.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SIC
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/9.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TVI HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/15.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TVI
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/16.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",●●●●●● INFORMAÇÃO ●●●●●●
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/202.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SIC NOTICIAS HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1350.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SIC NOTICIAS
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/18.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TVI 24
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/20.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",CMTV HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1329.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",CMTV
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/17.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",A BOLA TV
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/37.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",Porto Canal HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2781.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",PORTO CANAL
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/29.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",●●●●●● ENTRETENIMENTO ●●●●●●
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/204.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SIC RADICAL HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1330.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SIC RADICAL
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/27.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SIC MULHER
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/25.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SIC Caras HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2780.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SIC CARAS
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/26.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TVI FICCAO
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/21.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",24 KITCHEN HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/139.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",CANAL Q
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/132.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TLC
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/112.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",E! ENTERTAINMENT
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/115.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TVI REALITY
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/22.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TVI REALITY MOSAICO
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2782.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TVI Reality - Camara 1
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/303.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TVI Reality  Camara 2
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1332.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TVI Reality  Camara 3
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1333.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TVI Reality  Camara 4
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1334.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",●●●●●● DESPORTO ●●●●●●
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/205.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SPORT TV+ HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/296.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SPORT TV +
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/45.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SPORT TV 1 FULL HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/299.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SPORT TV 1 HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/52.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",Sport TV 1 HDE
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2821.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SPORT TV 1
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/46.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SPORT TV 2 FULL HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/300.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SPORT TV 2 HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/53.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SPORT TV 2
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/47.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SPORT TV 3 FULL HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/301.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SPORT TV 3 HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/54.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SPORT TV 3
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/48.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SPORT TV 4 FULL HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1335.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SPORT TV 4 HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/309.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SPORT TV 4
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/49.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SPORT TV 5 FULL HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1336.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SPORT TV 5 HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/308.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SPORT TV 5
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/50.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",BTV 1 FULL HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/60.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",BTV 1 HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/62.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",BTV 1 HD1
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2822.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",BTV 1
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/58.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",Sporting TV HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1337.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SPORTING TV
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/40.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",EUROSPORT 1 HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/43.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",EUROSPORT
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/41.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",EUROSPORT 2
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/42.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",CACAVISION
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/133.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",CACA E PESCA
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/134.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TOROS TV
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/111.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",Toros TV HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2810.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",REAL MADRID TV
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/39.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",CHELSEA TV
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/38.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",MOTORVISION HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/121.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",MOTORS TV
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/122.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",FUEL TV HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1348.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",FUEL TV
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/125.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",Kombat Sport
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1000.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",FIGHT NETWORK HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/36.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",PFC
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/114.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",●●●●●● FILMES  ●●●●●●
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/206.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TVCINE 1 HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/86.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TVCINE 1
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/82.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TVCINE 2 HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/87.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TVCINE 2
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/83.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TVCINE 3 HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/88.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TVCINE 3
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/84.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TVCINE 4 HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/89.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TVCINE 4
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/85.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",HOLLYWOOD HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/74.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",HOLLYWOOD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/73.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",FOX Movies HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1345.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",FOX MOVIES
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/67.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",AMC HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1276.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",AMC
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/63.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",CINEMUNDO
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/80.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",●●●●●● SERIES ●●●●●●
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/207.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TV SERIES HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/65.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TV SERIES
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/81.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",AXN
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2814.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",AXN HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/78.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",AXN WHITE HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/76.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",AXN BLACK HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/77.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",FOX
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2816.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",FOX HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/70.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",FOX Life
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2817.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",FOX LIFE HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/69.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",FOX Crime
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2818.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",FOX CRIME HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/71.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",FOX COMEDY
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/72.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",FOX Comedy HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1344.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",FOX NEWS
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/360.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SyFy HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1346.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SYFY
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/79.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SUNDANCE HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/75.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",●●●●●● INFANTIL ●●●●●●
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/208.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",DISNEY JUNIOR
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/94.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",DISNEY CHANNEL
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/90.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",NICK JR.
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/4746.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SIC K
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/28.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",CANAL PANDA
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/95.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",BABY TV
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/97.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",BABY FIRST
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/93.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",BIGGS
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/96.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",CARTOON NETWORK
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/98.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",JIM JAM
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/92.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",NICKELODEON
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/91.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",●●●●●● DOCUMENTARIOS ●●●●●●
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/210.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TRAVEL CHANNEL HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/109.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",National Geographic
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2819.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",NATIONAL GEOGRAPHIC HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/119.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",Nat Geo Wild HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1343.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",NAT GEO WILD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/120.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",DISCOVERY HD SHOWCASE HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/128.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",Outdoor Channel HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1341.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",DISCOVERY CHANNEL
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/129.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",ODISSEIA
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/118.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",HISTORIA
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/124.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",CNBC EUROPE
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/361.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",MCS EXTREME
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/34.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SKY NEWS
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/113.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",CNN
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/130.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",EUROSPORT NEWS
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/304.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",FRANCE 24
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/126.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",EURONEWS
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/127.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",DOG TV
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1338.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",A&E
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/138.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",BBC WORLD NEWS
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/135.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",Deutsche Welle
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1279.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",E! Entertainment HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2829.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",BBC ENTERTAINMENT
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/137.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",CBS REALITY
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/131.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",MCS LIFESTYLE
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/123.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",FASHION TV HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1331.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",FASHION TV
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1339.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",CANÇAO NOVA
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/306.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",BLOOMBERG
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/307.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",Fine Living Network HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1340.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",Crime Investigation
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1342.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",●●●●●● INTERNACIONAIS ●●●●●●
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/211.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TV RECORD HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/311.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TV RECORD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/107.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",GLOBO
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/23.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",RECORD NEWS
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/310.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",SBT BRASIL
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/315.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",REDE TV
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/305.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",RTP MEMORIA
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/30.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",RTP MADEIRA
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/31.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",RTP AFRICA
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/33.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",RTP ACORES
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/32.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",GLOBO PREMIUM
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/24.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TVE INTERNACIONAL
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/317.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TVE 24 HORAS
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/316.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TV GALICIA
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/108.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",Angelus TV
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2807.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",AR TV
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2812.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",FOOD NETWORK
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2823.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",Food Network HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2830.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",KBS World HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2826.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",Kuriakos
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2808.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",Outdoor HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2813.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",1   1
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2827.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",Localvisao TV HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2809.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TPA INTERNACIONAL
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2824.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",Travel Channel
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2820.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TV Fatima
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/2806.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",●●●●●● Musica ●●●●●●
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/209.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",VH1
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/102.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",VH1 CLASSIC
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/106.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",TRACE TV
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/110.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",MTV PORTUGAL
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/100.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",MTV DANCE
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/101.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",MCM TOP
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/104.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",MCM POP
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/103.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",C-MUSIC
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/99.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",AFRO MUSIC
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/105.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",MEZZO
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/1278.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",MEZZO LIVE HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/327.m3u8
+#EXTINF:-1 group-title="Portugal4-PREMIUM",ICONCERTS HD
+http://lusosat.dnsfor.me:8000/live/daniel/sousa/326.m3u8
+
 
 
 
@@ -11576,51 +11693,6 @@ httphost://$http-raw=http://www.p3g.tv/hembedplayer/tencricketraaa/2/600/420$htt
 
 #EXTINF:-1 group-title="India4-premium",
 
-#EXTINF:-1 group-title="India4-premium" ,IN: UTV Movies
-http://izgemma.ddns.net:8000/live/shaun/shaun/290.ts
-#EXTINF:-1 group-title="India4-premium" ,IN: Star Sports 1 HD 
-http://izgemma.ddns.net:8000/live/shaun/shaun/612.ts
-#EXTINF:-1 group-title="India4-premium" ,IN: Star Sports 2 
-http://izgemma.ddns.net:8000/live/shaun/shaun/309.ts
-#EXTINF:-1 group-title="India4-premium" ,IN: Star Sports 2 HD 
-http://izgemma.ddns.net:8000/live/shaun/shaun/611.ts
-#EXTINF:-1 group-title="India4-premium" ,IN: Star Sports 3 
-http://izgemma.ddns.net:8000/live/shaun/shaun/308.ts
-#EXTINF:-1 group-title="India4-premium" ,IN: Star Sports 3 HD 
-http://izgemma.ddns.net:8000/live/shaun/shaun/610.ts
-#EXTINF:-1 group-title="India4-premium" ,IN: Star Sports 4 
-http://izgemma.ddns.net:8000/live/shaun/shaun/307.ts
-#EXTINF:-1 group-title="India4-premium" ,IN: Star plus HD 
-http://izgemma.ddns.net:8000/live/shaun/shaun/268.ts
-#EXTINF:-1 group-title="India4-premium" ,IN: Star Plus 2 HD 
-http://izgemma.ddns.net:8000/live/shaun/shaun/286.ts
-#EXTINF:-1 group-title="India4-premium" ,STAR JALSHA | SD 
-http://izgemma.ddns.net:8000/live/shaun/shaun/6299.ts
-#EXTINF:-1 group-title="India4-premium",SUN TV TAMIL | SD 
-http://izgemma.ddns.net:8000/live/shaun/shaun/279.ts
-#EXTINF:-1 group-title="India4-premium" ,UK: Star Life OK.
-http://izgemma.ddns.net:8000/live/shaun/shaun/1778.ts
-#EXTINF:-1 group-title="India4-premium" ,UK: Star Gold
-http://izgemma.ddns.net:8000/live/shaun/shaun/6285.ts
-#EXTINF:-1 group-title="India4-premium" ,UK@ Star Plus.
-http://izgemma.ddns.net:8000/live/shaun/shauno/11301.ts
-#EXTINF:-1 group-title="India4-premium" ,UK@ Star Bharat.
-http://izgemma.ddns.net:8000/live/shaun/shaun/22412.ts
-#EXTINF:-1 group-title="India4-premium" ,UK@ Star Life OK
-http://izgemma.ddns.net:8000/live/shaun/shaun/11300.ts
-#EXTINF:-1 group-title="India4-premium" ,UK@ Star Gold HD
-http://izgemma.ddns.net:8000/live/shaun/shaun/11321.ts
-#EXTINF:-1 group-title="India4-premium" ,Star Media Family Guy
-http://izgemma.ddns.net:8000/live/shaun/shaun/22812.ts
-#EXTINF:-1 group-title="India4-premium" ,Star Media Top Gear
-http://izgemma.ddns.net:8000/live/shaun/shaun/17966.ts
-#EXTINF:-1 group-title="India4-premium" ,IN: Colors Tv HD
-http://izgemma.ddns.net:8000/live/shaun/shaun/270.ts
-#EXTINF:-1 group-title="India4-premium" ,UK: Colors HD
-http://izgemma.ddns.net:8000/live/shaun/shaun/1767.ts
-#EXTINF:-1 group-title="India4-premium" ,UK: Colours (Backup)
-http://izgemma.ddns.net:8000/live/shaun/shaun/14080.ts
-
 
 
 
@@ -14035,7 +14107,374 @@ http://tv2iptv.com:8000/live/power/power2018/17602.m3u8
 
 #EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",
 
-
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeINSport_HD_News
+http://62.210.247.124:25461/live/iptvtop/iptvtop/5802.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_BEIN_SPORTS_MAX_1
+http://62.210.247.124:25461/live/iptvtop/iptvtop/5803.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_BEIN_SPORTS_MAX_2
+http://62.210.247.124:25461/live/iptvtop/iptvtop/5804.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeINSports_HD1
+http://62.210.247.124:25461/live/iptvtop/iptvtop/5805.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeINSports_HD2
+http://62.210.247.124:25461/live/iptvtop/iptvtop/5806.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeINSports_HD3
+http://62.210.247.124:25461/live/iptvtop/iptvtop/5807.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeINSports_HD4
+http://62.210.247.124:25461/live/iptvtop/iptvtop/5808.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeINSports_HD5
+http://62.210.247.124:25461/live/iptvtop/iptvtop/5809.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeINSports_HD6
+http://62.210.247.124:25461/live/iptvtop/iptvtop/5810.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeINSports_HD7
+http://62.210.247.124:25461/live/iptvtop/iptvtop/5811.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeINSports_HD8
+http://62.210.247.124:25461/live/iptvtop/iptvtop/5812.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeINSports_HD9
+http://62.210.247.124:25461/live/iptvtop/iptvtop/5813.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:beINSPORTS_10HD
+http://62.210.247.124:25461/live/iptvtop/iptvtop/5814.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BEINSPORTS_11HD
+http://62.210.247.124:25461/live/iptvtop/iptvtop/5815.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BEINSPORT_13HD
+http://62.210.247.124:25461/live/iptvtop/iptvtop/5816.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BEINSPORT_14HD
+http://62.210.247.124:25461/live/iptvtop/iptvtop/5817.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BEINSPORT_15HD
+http://62.210.247.124:25461/live/iptvtop/iptvtop/5818.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BEINSPORT_16HD
+http://62.210.247.124:25461/live/iptvtop/iptvtop/5819.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:Bein_Movies1_HD
+http://62.210.247.124:25461/live/iptvtop/iptvtop/5820.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:Bein_Movies2_HD
+http://62.210.247.124:25461/live/iptvtop/iptvtop/5821.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeinMovies3_HD
+http://62.210.247.124:25461/live/iptvtop/iptvtop/5822.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeinMovies4_HD
+http://62.210.247.124:25461/live/iptvtop/iptvtop/5823.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Iqraa
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6738.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:Makkah_TV
+http://62.210.247.124:25461/live/iptvtop/iptvtop/7339.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:_SAUDI_QURAN_HD
+http://62.210.247.124:25461/live/iptvtop/iptvtop/7338.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:Saoudia_Alsunna_Nabaouya
+http://62.210.247.124:25461/live/iptvtop/iptvtop/7337.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:AL_RESALA
+http://62.210.247.124:25461/live/iptvtop/iptvtop/7362.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Saoudi_01
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6754.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:AL_MAJD_QURAN
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6806.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:AL_MAJD
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6804.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:AL_FAJAR TV
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6729.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:AL_OULA
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6712.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:2M_MAROC
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6713.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:AL_MAGHARIBIA
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6719.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Tamazight
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6715.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Medi_1_Sat
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6714.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:Tele_Maroc
+http://62.210.247.124:25461/live/iptvtop/iptvtop/7331.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ASSADISA
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6716.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ar:Aflam
+http://62.210.247.124:25461/live/iptvtop/iptvtop/7363.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ARRIADIA
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6717.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ARRABIAA
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6718.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:Zee_alwan
+http://62.210.247.124:25461/live/iptvtop/iptvtop/7124.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:Zee_aflam
+http://62.210.247.124:25461/live/iptvtop/iptvtop/7125.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:AL_MAJD_KIDS
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6805.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:AL_MAJD_HADITH
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6807.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:AL_MAJD_EDUCATIONAL
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6808.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Al_bilad
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6695.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Al_Anwar
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6772.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Algerie5_Quoran
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6710.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Canal_Algerie
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6709.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ALGERIE_3
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6711.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:EL_DJAZAIRIA
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6704.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Samira_TV
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6696.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Dzair_TV
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6708.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Numedia
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6697.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ECHOUROUK_TV
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6705.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Echourouk_news
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6707.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ECHOROUK_BENNA
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6706.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TN_Tunisna
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6689.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TN_Tunisia_Nat_1
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6684.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TN_Tunisia_Nat_2
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6685.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TN_Tunisia_First_TV
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6692.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TN_Nessma_TV
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6686.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TN_Hannibal
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6688.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TNN
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6731.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TN_Zaytouna_TV
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6693.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TN_Zaytouna_Hidaya_TV
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6694.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:OSN_Yahala_Shabab
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6678.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:OSN_Yahala_Drama
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6677.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:OSN_Yahala
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6676.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:OSN_Movies_Premiere
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6683.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:OSN_Movies_Kids_HD
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6682.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:OSN_Movies_HD
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6681.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:OSN_Movies_First_HD
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6680.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:OSN_Movies_Action
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6679.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:OSN_MBC_DRAMA
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6673.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:OSN_CINEMA_2
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6675.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:OSN_CINEMA_1
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6674.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_1_HD
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6785.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_2_HD
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6786.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_3_HD
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6787.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_Max
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6795.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_MASR_2
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6797.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_MASR_1
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6796.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_Drama_HD
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6788.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_Drama
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6793.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_BOLLYWOOD
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6798.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_Action
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6794.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_1
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6789.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_2
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6790.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_3
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6791.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_4
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6792.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ART_Aflam_1
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6668.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ART_Aflam_2
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6669.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ART_Hekayat
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6671.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ART_Hekayat_2
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6672.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ART_Cinema
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6670.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ALjazeera
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6771.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:KIDs_SpaceToon
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6811.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:KIDs_MODY_KIDS
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6812.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:KIDs_KOKKY_TV
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6816.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:KIDs_KIDZINA
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6813.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Toyour_baybi
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6817.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:KIDs_CARTOON_NETWORK
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6818.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:KIDs_AL_MAJD_CHILDREN
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6814.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:KIDs_AJYAL_TV
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6815.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:KID_TOYOR_ALJANNA
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6819.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:KID_Semsem
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6820.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Kid_baraem
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6821.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ABU_DHABI_SPORTS_1
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6726.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ABU_DHABI_SPORTS_2
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6727.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:DUBAI_SPORT_4
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6746.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Dubai_Sport_3
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6745.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:DUBAI_ZAMAN
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6741.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Abu_Dhabi_Drama
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6725.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Dubai_Sama
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6744.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Dubai_One
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6742.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Dubai_Noor
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6743.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Dubai_Drama
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6740.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Dubai
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6739.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:CBC_TV
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6801.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:CBC_EXTRA
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6802.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:CBC_2
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6800.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:CBC
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6799.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Beur_Tv
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6769.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:BBC_Arabic
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6770.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ABUDHABI
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6724.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TN_El_HiwAr:Ettounsi_TV
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6687.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TN_Attesia_TV
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6691.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TN_Aljanoubia
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6690.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TIME_TURKI
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6732.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TIME_TAXI
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6733.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TIME_FILM
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6734.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TIME_COMEDY
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6735.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TIME_CINEMA
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6736.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Syria_TV
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6747.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Syria_Nour
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6748.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Syria_Lkhbaria
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6749.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Syria_Drama
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6750.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Syria_1
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6751.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Star_Film
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6752.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Sofra
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6803.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ROTANA_MUSIC
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6777.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Rotana_Masriya
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6776.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Rotana_Khaliji
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6775.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Rotana_Clip
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6778.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Rotana_Classic
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6774.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Rotana_Cinema
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6773.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:QatarTV_HD
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6737.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:QatarTV
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6730.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Otv
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6755.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ONT
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6756.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Oman_tv1
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6757.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:oman_thakafia
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6759.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Oman_Riyadhia
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6758.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:NILE_SPORT
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6784.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Nile_Life
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6783.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Nile_family
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6780.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Nile_Drama
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6781.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Nile_Comedy
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6782.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:NILE_CINEMA
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6779.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:NBN
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6760.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:National_Geographic_abu_dhabi
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6728.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Nahar_youm
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6761.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Nahar_drama
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6762.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Nahar_cinema
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6763.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Nahar
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6764.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_Pro_Sport_02
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6810.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC Pro Sport 1
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6809.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Bahia_tv
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6698.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:kuwait_tv3
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6720.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:kuwait_tv2
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6721.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:kuwait_tv1
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6722.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:KUWAIT_SPORT
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6723.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:KBC
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6699.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Jsc-Mubasher
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6765.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:JSc_Docum
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6766.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Jsc_Arabic
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6767.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Gear_One
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6768.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ENTV
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6700.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ENNAHARTV
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6701.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ENNAHAr:LAKI
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6702.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Elsharq_TV
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6753.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:El_Heddaf_TV
+http://62.210.247.124:25461/live/iptvtop/iptvtop/6703.ts
 
 
 
