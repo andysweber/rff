@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,20/08/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="https://goo.gl/eimzf3" ,21/08/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://goo.gl/eimzf3" ,TUTORIAL VIDEO
@@ -11889,6 +11889,34 @@ httphost://$http-raw=http://unblocked.lol/beinsports13$http-refferer=https://unb
 
 #EXTINF:-1 group-title="United.Arab.Emirates4",
 
+#EXTINF:-1 group-title="United.Arab.Emirates4",Bein Sport 1HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/6872.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4",Bein Sport 2HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/6871.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4",Bein Sport 3HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/6870.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4",Bein Sport 4HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/6869.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4",Bein Sport 5HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/6868.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4",Bein Sport 6HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/6867.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4",Bein Sport 7HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/6866.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4",Bein Sport 8HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/6865.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4",Bein Sport 9HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/6864.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4",Bein Sport 10HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/6863.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4",Bein Sport 11HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2745.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4",Bein Sport 12HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2746.ts
+#EXTINF:-1 group-title="United.Arab.Emirates4",Bein Sport 13HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2747.ts
+
+
 #EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 1
 http://nl.setv.ma:8000/live/moukhtar/123456/94845.ts
 #EXTINF:-1 group-title="United.Arab.Emirates4",BEIN SPORTS 2
@@ -14518,13 +14546,13 @@ http://62.210.247.124:25461/live/iptvtop/iptvtop/6703.ts
 
 #EXTINF:-1 group-title="SERBIA",
 
-#EXTINF:-1 group-title="SERBIA",ARENA SPORT 1HD LIVE 24/7
+#EXTINF:-1 group-title="SERBIA" tvg-logo="http://www.tvarenasport.com/images/logo-arenaA1-big.png",ARENA SPORT 1HD LIVE 24/7
 http://5.135.92.130:36523/out/u/484_1.m3u8
-#EXTINF:-1 group-title="SERBIA",ARENA SPORT 2HD LIVE 24/7
+#EXTINF:-1 group-title="SERBIA" tvg-logo="http://www.tvarenasport.com/images/logo-arenaA2-big.png",ARENA SPORT 2HD LIVE 24/7
 http://5.135.92.130:36523/out/u/487_2.m3u8
-#EXTINF:-1 group-title="SERBIA",ARENA SPORT 3HD LIVE 24/7
+#EXTINF:-1 group-title="SERBIA" tvg-logo="http://www.tvarenasport.com/images/logo-arenaA3-big.png",ARENA SPORT 3HD LIVE 24/7
 http://5.135.92.130:36523/out/u/490_2.m3u8
-#EXTINF:-1 group-title="SERBIA",ARENA SPORT 4HD LIVE 24/7
+#EXTINF:-1 group-title="SERBIA" tvg-logo="http://www.tvarenasport.com/images/logo-arenaA4-big.png",ARENA SPORT 4HD LIVE 24/7
 http://5.135.92.130:36523/out/u/494_2.m3u8
 #EXTINF:-1 group-title="SERBIA",SPORT KLUB 1HD LIVE 24/7
 http://5.135.92.130:36523/out/u/499_2.m3u8
