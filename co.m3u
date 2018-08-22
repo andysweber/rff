@@ -4068,119 +4068,243 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/523.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="France2-PREMIUM",
 
-#EXTINF:-1 group-title="France2-PREMIUM",TLC TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/11451.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",BFM Busines
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/18886.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",BFM Paris
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/18885.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",LM TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/14252.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CHERIE_25
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15209.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",IL TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15219.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",FOOT
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15230.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",HD1
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15239.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",BFM Paris TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/20408.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",BFM Business TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22122.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",8 Mont Blanc TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22125.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",C8
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/20399.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",EURONEWS
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15227.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",CGTN Français TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15197.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",EUROPA 1
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22121.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",LEQUIPE21
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15245.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",Grand Littoral TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22093.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",QVC TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22114.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",RUSSIA TODAY
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/21069.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",PLANETE CI
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15263.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",Télésud
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22119.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",TV Cristal
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22113.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",TV LANDES
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22123.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",TV Pitchoun
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15249.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",TV Vendée
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22115.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",ZOUZOU TV HD
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/20411.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",NUMERO 23 HD
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/20397.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",NLM TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22117.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",MONACO
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/18889.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",Nancy TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22116.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",OL TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/20407.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",TL 7
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22120.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",Ouatch TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22124.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",PlUG RTL
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15265.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",TV 7
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/9016.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",TéléNantes
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22111.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",info: TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22118.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",Alsace 20 TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22131.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",Assemblée Nationale TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22136.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",LCP  100%
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22127.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",RMC DECOUVERTE
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15267.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",TéléGrenoble Isère
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22128.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",TVPI
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22134.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",Azur TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22126.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",KTO TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22133.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",TV_BREIZH
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15278.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",Bip TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/22135.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",Dieu TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/18888.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",WEO
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/18890.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",La Chaine Normande
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/11450.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",WEO_HD
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15283.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",Mouv’ TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/11453.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",GONG TV   local
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/15606.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM", Public Sénat TV
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/11590.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",EUROSPORT
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/11459.m3u8
-#EXTINF:-1 group-title="France2-PREMIUM",C NEWS
-http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/11462.m3u8
 
+#EXTINF:-1 group-title="France2-PREMIUM",TF1 Full HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3505.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TF1 HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/699.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",France 2
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/793.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",France 3
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/37.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",France 5
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/39.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",M6 FULL HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/790.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ARTE Full HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/801.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",C8 HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/654.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",W9
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TMC Full HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/798.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TFX (NT1)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/796.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",NRJ 12
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/215.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",France 4 HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/794.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BFM TV
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/106.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CStar HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/233.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Gulli
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/226.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",France O
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/40.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TF1 Serie Film
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/200.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",L Equipe
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/102.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",6TER  HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/668.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",NUMERO 23  HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/507.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM", RMC DECOUVERTE HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/865.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",CHERIE 25 HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/512.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",A la carte 1
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/871.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM", CINE+ A LA DEMANDE
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/870.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Canal+  Family HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/116.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Canal+  Decale HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/103.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Cine+  Premier HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/114.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Cine+  Frisson HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/117.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Cine+  Emotion HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/19.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Cine+  Famiz HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/20.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Cine+  Classic HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/18.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Cine+  Club HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/1353.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Cine+ Polar HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/1357.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",OCS CHOC HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/66.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",OCS CITY HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/657.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",OCS GEANT HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/113.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",OCS MAX HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/101.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TCM CINEMA  HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/499.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Action
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/4.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Comedie+
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/23.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",13eme Rue
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",SyFy
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/81.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",E! ENTERTAINEMENT HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/31.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",MCM HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/490.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Game One
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/212.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Mangas
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/53.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",AB1
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/228.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",AB3 CH
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3044.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TV breizh
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/91.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Paris premiere
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/67.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",RTL9
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/77.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Teva HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3058.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Nrj Hit HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3043.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TRACE URBAN HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/496.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM", Trace Tropical
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3073.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TV5 Monde
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/90.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Planete+
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/70.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Planete+  Action et Experience
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/69.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Planete+  Crime et Investigation
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/71.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",National Geographic
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/63.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",NAT GEO WILD HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/98.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Voyage
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/118.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Ushuaia TV
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/115.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",HISTOIRE HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/687.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Toute lHistoire
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/87.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Science et Vie HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/694.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Discovery Channel
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/27.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Discovery Science HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/99.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Animaux
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/6.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",TREK HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/504.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",SEASON HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/505.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Chasse et peche
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/17.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Infosport+
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/42.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Eurosport 1
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/33.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Eurosport 2
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/34.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",RMC sport 2 HD (SFR)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/253.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",RMC sport 3 HD (SFR)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3069.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",RMC sport 4 HD (SFR)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3248.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISNEY JUNIOR  HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/29.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",NICKELODEON JR HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/493.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Tiji
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/85.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Piwi+
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/68.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Boomerang
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/10.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Cartoon network
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/15.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",NICKELODEON HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/686.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISNEY XD  HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/491.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Disney Channel
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/28.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Boing HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/285.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Gong TV
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/286.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",MTV France HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/1394.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Ciné FX HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/1345.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",MCM Top HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/1401.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",GOLF+ HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/289.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Equidia Live HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/1392.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN SPORTS MAX 4
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/353.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN SPORTS MAX 5
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/352.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN SPORTS MAX 6
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/351.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN SPORTS MAX 7 HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/494.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN SPORTS MAX 8 HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/495.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN SPORTS MAX 9 HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/514.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BEIN SPORTS MAX 10 HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/652.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Golf Channel France HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/1402.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",RFM TV HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/1369.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Elle Girl HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/1387.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",BFM BUSINESS HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/500.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Canal J
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/13.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISNEY CINEMA  HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/492.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Teletoon+
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/82.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",MTV HITS HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/682.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",France 24 (en Français)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/108.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",A+ HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3380.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",ALTICE STUDIO HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3379.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISCOVERY FAMILY HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3378.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",DISCOVERY INVESTIGATION HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3374.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",Foot+ 24/24
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/199.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",J-ONE HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/383.m3u8
+#EXTINF:-1 group-title="France2-PREMIUM",SerieClub
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3549.m3u8
 
 
 
@@ -4354,205 +4478,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11462.m3u8
 
 
 #EXTINF:-1 group-title="France4-PREMIUM",
-
-#EXTINF:-1 group-title="France4-PREMIUM",TF1-SD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/5.ts
-#EXTINF:-1 group-title="France4-PREMIUM",FRANCE_2-SD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/6.ts
-#EXTINF:-1 group-title="France4-PREMIUM",FRANCE_3-SD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/7.ts
-#EXTINF:-1 group-title="France4-PREMIUM",FRANCE_4-SD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/8.ts
-#EXTINF:-1 group-title="France4-PREMIUM",FRANCE_5-SD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/9.ts
-#EXTINF:-1 group-title="France4-PREMIUM",M6-SD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/11.ts
-#EXTINF:-1 group-title="France4-PREMIUM",FRANCE_0-SD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/10.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TFX-SD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/352.ts
-#EXTINF:-1 group-title="France4-PREMIUM",RTL_9
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/699.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TF1-Series-Films-SD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/1144.ts
-#EXTINF:-1 group-title="France4-PREMIUM",6TER
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/27.ts
-#EXTINF:-1 group-title="France4-PREMIUM",C8-H.265
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/25.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CSTAR
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/1093.ts
-#EXTINF:-1 group-title="France4-PREMIUM",W9
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/707.ts
-#EXTINF:-1 group-title="France4-PREMIUM",13_EME_RUE
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/47.ts
-#EXTINF:-1 group-title="France4-PREMIUM",PARIS_PREMIERE
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/720.ts
-#EXTINF:-1 group-title="France4-PREMIUM",ARTE
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/936.ts
-#EXTINF:-1 group-title="France4-PREMIUM",WEO
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/849.ts
-#EXTINF:-1 group-title="France4-PREMIUM",COMEDIE+
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/1092.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CANAL+
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/12.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CANAL+CINEMA
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/14.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CANAL+DECALE
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/13.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CANAL+FAMILY
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/16.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CANAL+SERIES
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/17.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CINE_EMOTION
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/20.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CINE_FAMIZ
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/19.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CINE_CLASSIC
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/21.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CINE_CLUB
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/940.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CINE_FRISSON
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/18.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CINE_FX
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/702.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CINE_POLAR
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/703.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CINE_PREMIER
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/939.ts
-#EXTINF:-1 group-title="France4-PREMIUM",OCS_CHOC
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/712.ts
-#EXTINF:-1 group-title="France4-PREMIUM",OCS_CITY
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/150.ts
-#EXTINF:-1 group-title="France4-PREMIUM",OCS_GEANT
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/149.ts
-#EXTINF:-1 group-title="France4-PREMIUM",OCS_MAX
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/148.ts
-#EXTINF:-1 group-title="France4-PREMIUM",ACTION
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/31.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TCM
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/722.ts
-#EXTINF:-1 group-title="France4-PREMIUM",USHUAIA_TV-HD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/43.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CHASSE-PECHE-H.265
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/695.ts
-#EXTINF:-1 group-title="France4-PREMIUM",PLANETE+
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/700.ts
-#EXTINF:-1 group-title="France4-PREMIUM",PLANETE-AE
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/33.ts
-#EXTINF:-1 group-title="France4-PREMIUM",PLANETE-CI
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/32.ts
-#EXTINF:-1 group-title="France4-PREMIUM",DISCOVRY
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/354.ts
-#EXTINF:-1 group-title="France4-PREMIUM",DISCOVRY-SCI
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/355.ts
-#EXTINF:-1 group-title="France4-PREMIUM",SCIENCE_VIE-H.265
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/1171.ts
-#EXTINF:-1 group-title="France4-PREMIUM",RMC-DECOUVERTE
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/854.ts
-#EXTINF:-1 group-title="France4-PREMIUM",VOYAGE
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/719.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TOUT_LHISTOIRE
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/706.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CARTON_NET-HD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/40.ts
-#EXTINF:-1 group-title="France4-PREMIUM",PIWI-HD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/698.ts
-#EXTINF:-1 group-title="France4-PREMIUM",BOOMERANG-HD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/42.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TIJI
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/705.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TELETOON-HD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/943.ts
-#EXTINF:-1 group-title="France4-PREMIUM",BOING
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/710.ts
-#EXTINF:-1 group-title="France4-PREMIUM",ZOUZOUS
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/996.ts
-#EXTINF:-1 group-title="France4-PREMIUM",MANGAS
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/35.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CANAL_J-H.265
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/45.ts
-#EXTINF:-1 group-title="France4-PREMIUM",DISNEY_CHANNEL
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/48.ts
-#EXTINF:-1 group-title="France4-PREMIUM",DISNEY_CINEMA
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/942.ts
-#EXTINF:-1 group-title="France4-PREMIUM",DISNEY_JUNIOR
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/704.ts
-#EXTINF:-1 group-title="France4-PREMIUM",DISNEY_XD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/718.ts
-#EXTINF:-1 group-title="France4-PREMIUM",NICKELODEON
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/966.ts
-#EXTINF:-1 group-title="France4-PREMIUM",NICKELODEON_JUNIOR
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/1034.ts
-#EXTINF:-1 group-title="France4-PREMIUM",GULLI
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/44.ts
-#EXTINF:-1 group-title="France4-PREMIUM",GAME_ONE
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/721.ts
-#EXTINF:-1 group-title="France4-PREMIUM",GAME_ONE-H.265
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/24.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CANAL+SPORT-HD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/15.ts
-#EXTINF:-1 group-title="France4-PREMIUM",beINSPORTS-1-H.265
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/2.ts
-#EXTINF:-1 group-title="France4-PREMIUM",beINSPORTS-2-H.265
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/3.ts
-#EXTINF:-1 group-title="France4-PREMIUM",beINSPORTS-3-H.265
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/4.ts
-#EXTINF:-1 group-title="France4-PREMIUM",INFOSPORT-HD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/696.ts
-#EXTINF:-1 group-title="France4-PREMIUM",EQUIDIA_LIVE-HD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/755.ts
-#EXTINF:-1 group-title="France4-PREMIUM",FOOT+24-HD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/754.ts
-#EXTINF:-1 group-title="France4-PREMIUM",EUROSPORT_1HD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/1091.ts
-#EXTINF:-1 group-title="France4-PREMIUM",EUROSPORT_2HD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/1211.ts
-#EXTINF:-1 group-title="France4-PREMIUM",L'EQUIPE_21-HD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/37.ts
-#EXTINF:-1 group-title="France4-PREMIUM",FRANCE_24
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/852.ts
-#EXTINF:-1 group-title="France4-PREMIUM",C NEWS
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/38.ts
-#EXTINF:-1 group-title="France4-PREMIUM",LCI
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/41.ts
-#EXTINF:-1 group-title="France4-PREMIUM",BFM
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/937.ts
-#EXTINF:-1 group-title="France4-PREMIUM",EURONEWS
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/853.ts
-#EXTINF:-1 group-title="France4-PREMIUM",NUMERO-23
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/356.ts
-#EXTINF:-1 group-title="France4-PREMIUM",AB1-HD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/353.ts
-#EXTINF:-1 group-title="France4-PREMIUM",AB-Moteurs
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/1227.ts
-#EXTINF:-1 group-title="France4-PREMIUM",CHERIE_25
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/39.ts
-#EXTINF:-1 group-title="France4-PREMIUM",NRJ-12
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/34.ts
-#EXTINF:-1 group-title="France4-PREMIUM",SYFY
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/351.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TEVA
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/28.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TMC
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/29.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TV5_MONDE
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/709.ts
-#EXTINF:-1 group-title="France4-PREMIUM",TV_BREIZH
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/30.ts
-#EXTINF:-1 group-title="France4-PREMIUM",M6_MUSIC
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/938.ts
-#EXTINF:-1 group-title="France4-PREMIUM",NAT-GEO-WILD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/26.ts
-#EXTINF:-1 group-title="France4-PREMIUM",MTV_BASE
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/1209.ts
-#EXTINF:-1 group-title="France4-PREMIUM",MTV_DANCE
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/1210.ts
-#EXTINF:-1 group-title="France4-PREMIUM",MTV_HITS
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/1208.ts
-#EXTINF:-1 group-title="France4-PREMIUM",beINSPORTS-MAX-3-FullHD
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/851.ts
-#EXTINF:-1 group-title="France4-PREMIUM",VIRGIN
-http://smart-iptv2016.com:9500/live/medoum1/sky.de_groupe112/59.ts
 
 
 
@@ -14135,374 +14060,198 @@ http://tv2iptv.com:8000/live/power/power2018/17602.m3u8
 
 #EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",
 
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeINSport_HD_News
-http://62.210.247.124:25461/live/iptvtop/iptvtop/5802.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_BEIN_SPORTS_MAX_1
-http://62.210.247.124:25461/live/iptvtop/iptvtop/5803.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR_BEIN_SPORTS_MAX_2
-http://62.210.247.124:25461/live/iptvtop/iptvtop/5804.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeINSports_HD1
-http://62.210.247.124:25461/live/iptvtop/iptvtop/5805.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeINSports_HD2
-http://62.210.247.124:25461/live/iptvtop/iptvtop/5806.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeINSports_HD3
-http://62.210.247.124:25461/live/iptvtop/iptvtop/5807.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeINSports_HD4
-http://62.210.247.124:25461/live/iptvtop/iptvtop/5808.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeINSports_HD5
-http://62.210.247.124:25461/live/iptvtop/iptvtop/5809.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeINSports_HD6
-http://62.210.247.124:25461/live/iptvtop/iptvtop/5810.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeINSports_HD7
-http://62.210.247.124:25461/live/iptvtop/iptvtop/5811.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeINSports_HD8
-http://62.210.247.124:25461/live/iptvtop/iptvtop/5812.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeINSports_HD9
-http://62.210.247.124:25461/live/iptvtop/iptvtop/5813.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:beINSPORTS_10HD
-http://62.210.247.124:25461/live/iptvtop/iptvtop/5814.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BEINSPORTS_11HD
-http://62.210.247.124:25461/live/iptvtop/iptvtop/5815.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BEINSPORT_13HD
-http://62.210.247.124:25461/live/iptvtop/iptvtop/5816.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BEINSPORT_14HD
-http://62.210.247.124:25461/live/iptvtop/iptvtop/5817.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BEINSPORT_15HD
-http://62.210.247.124:25461/live/iptvtop/iptvtop/5818.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BEINSPORT_16HD
-http://62.210.247.124:25461/live/iptvtop/iptvtop/5819.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:Bein_Movies1_HD
-http://62.210.247.124:25461/live/iptvtop/iptvtop/5820.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:Bein_Movies2_HD
-http://62.210.247.124:25461/live/iptvtop/iptvtop/5821.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeinMovies3_HD
-http://62.210.247.124:25461/live/iptvtop/iptvtop/5822.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:BeinMovies4_HD
-http://62.210.247.124:25461/live/iptvtop/iptvtop/5823.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Iqraa
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6738.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:Makkah_TV
-http://62.210.247.124:25461/live/iptvtop/iptvtop/7339.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:_SAUDI_QURAN_HD
-http://62.210.247.124:25461/live/iptvtop/iptvtop/7338.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:Saoudia_Alsunna_Nabaouya
-http://62.210.247.124:25461/live/iptvtop/iptvtop/7337.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:AL_RESALA
-http://62.210.247.124:25461/live/iptvtop/iptvtop/7362.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Saoudi_01
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6754.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:AL_MAJD_QURAN
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6806.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:AL_MAJD
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6804.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:AL_FAJAR TV
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6729.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:AL_OULA
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6712.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:2M_MAROC
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6713.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:AL_MAGHARIBIA
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6719.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Tamazight
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6715.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Medi_1_Sat
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6714.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:Tele_Maroc
-http://62.210.247.124:25461/live/iptvtop/iptvtop/7331.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ASSADISA
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6716.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ar:Aflam
-http://62.210.247.124:25461/live/iptvtop/iptvtop/7363.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ARRIADIA
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6717.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ARRABIAA
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6718.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:Zee_alwan
-http://62.210.247.124:25461/live/iptvtop/iptvtop/7124.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:Zee_aflam
-http://62.210.247.124:25461/live/iptvtop/iptvtop/7125.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:AL_MAJD_KIDS
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6805.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:AL_MAJD_HADITH
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6807.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:AL_MAJD_EDUCATIONAL
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6808.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Al_bilad
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6695.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Al_Anwar
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6772.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Algerie5_Quoran
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6710.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Canal_Algerie
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6709.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ALGERIE_3
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6711.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:EL_DJAZAIRIA
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6704.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Samira_TV
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6696.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Dzair_TV
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6708.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Numedia
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6697.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ECHOUROUK_TV
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6705.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Echourouk_news
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6707.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ECHOROUK_BENNA
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6706.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TN_Tunisna
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6689.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TN_Tunisia_Nat_1
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6684.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TN_Tunisia_Nat_2
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6685.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TN_Tunisia_First_TV
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6692.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TN_Nessma_TV
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6686.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TN_Hannibal
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6688.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TNN
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6731.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TN_Zaytouna_TV
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6693.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TN_Zaytouna_Hidaya_TV
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6694.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:OSN_Yahala_Shabab
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6678.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:OSN_Yahala_Drama
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6677.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:OSN_Yahala
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6676.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:OSN_Movies_Premiere
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6683.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:OSN_Movies_Kids_HD
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6682.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:OSN_Movies_HD
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6681.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:OSN_Movies_First_HD
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6680.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:OSN_Movies_Action
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6679.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:OSN_MBC_DRAMA
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6673.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:OSN_CINEMA_2
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6675.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:OSN_CINEMA_1
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6674.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_1_HD
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6785.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_2_HD
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6786.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_3_HD
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6787.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_Max
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6795.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_MASR_2
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6797.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_MASR_1
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6796.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_Drama_HD
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6788.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_Drama
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6793.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_BOLLYWOOD
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6798.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_Action
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6794.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_1
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6789.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_2
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6790.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_3
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6791.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_4
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6792.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ART_Aflam_1
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6668.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ART_Aflam_2
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6669.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ART_Hekayat
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6671.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ART_Hekayat_2
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6672.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ART_Cinema
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6670.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ALjazeera
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6771.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:KIDs_SpaceToon
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6811.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:KIDs_MODY_KIDS
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6812.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:KIDs_KOKKY_TV
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6816.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:KIDs_KIDZINA
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6813.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Toyour_baybi
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6817.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:KIDs_CARTOON_NETWORK
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6818.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:KIDs_AL_MAJD_CHILDREN
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6814.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:KIDs_AJYAL_TV
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6815.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:KID_TOYOR_ALJANNA
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6819.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:KID_Semsem
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6820.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Kid_baraem
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6821.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ABU_DHABI_SPORTS_1
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6726.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ABU_DHABI_SPORTS_2
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6727.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:DUBAI_SPORT_4
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6746.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Dubai_Sport_3
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6745.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:DUBAI_ZAMAN
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6741.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Abu_Dhabi_Drama
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6725.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Dubai_Sama
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6744.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Dubai_One
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6742.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Dubai_Noor
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6743.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Dubai_Drama
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6740.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Dubai
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6739.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:CBC_TV
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6801.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:CBC_EXTRA
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6802.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:CBC_2
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6800.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:CBC
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6799.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Beur_Tv
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6769.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:BBC_Arabic
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6770.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ABUDHABI
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6724.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TN_El_HiwAr:Ettounsi_TV
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6687.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TN_Attesia_TV
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6691.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TN_Aljanoubia
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6690.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TIME_TURKI
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6732.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TIME_TAXI
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6733.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TIME_FILM
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6734.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TIME_COMEDY
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6735.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:TIME_CINEMA
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6736.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Syria_TV
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6747.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Syria_Nour
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6748.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Syria_Lkhbaria
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6749.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Syria_Drama
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6750.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Syria_1
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6751.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Star_Film
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6752.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Sofra
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6803.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ROTANA_MUSIC
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6777.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Rotana_Masriya
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6776.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Rotana_Khaliji
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6775.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Rotana_Clip
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6778.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Rotana_Classic
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6774.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Rotana_Cinema
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6773.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:QatarTV_HD
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6737.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:QatarTV
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6730.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Otv
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6755.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ONT
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6756.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Oman_tv1
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6757.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR:oman_thakafia
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6759.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Oman_Riyadhia
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6758.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:NILE_SPORT
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6784.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Nile_Life
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6783.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Nile_family
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6780.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Nile_Drama
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6781.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Nile_Comedy
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6782.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:NILE_CINEMA
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6779.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:NBN
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6760.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:National_Geographic_abu_dhabi
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6728.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Nahar_youm
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6761.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Nahar_drama
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6762.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Nahar_cinema
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6763.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Nahar
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6764.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC_Pro_Sport_02
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6810.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:MBC Pro Sport 1
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6809.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Bahia_tv
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6698.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:kuwait_tv3
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6720.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:kuwait_tv2
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6721.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:kuwait_tv1
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6722.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:KUWAIT_SPORT
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6723.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:KBC
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6699.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Jsc-Mubasher
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6765.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:JSc_Docum
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6766.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Jsc_Arabic
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6767.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Gear_One
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6768.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ENTV
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6700.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ENNAHARTV
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6701.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:ENNAHAr:LAKI
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6702.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:Elsharq_TV
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6753.ts
-#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Ar:El_Heddaf_TV
-http://62.210.247.124:25461/live/iptvtop/iptvtop/6703.ts
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | MBC 1
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/54.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | MBC 2
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/55.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | MBC 3
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/56.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | MBC 4
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/57.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB |  MBC ACTION HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2808.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | MBC Max
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/60.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | MBC Drama
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/59.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | MBC Bolywood
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/58.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | Tunisie Nationale 1
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/88.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | Tunisie Nationale 2
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/89.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | ElHiwar Ettounsi
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/32.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | ATTESSIA
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/35.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | Nessma
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/64.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | Hannibal tv
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/41.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | ART Aflem 1
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/594.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | ART Aflem 2
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/595.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | ART Cinema
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/119.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | Rotana Cinema Massriya
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/75.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | Rotana Cinema
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/72.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | Rotana classic
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/73.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | Rotana Clip
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/74.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | Rotana MASSRIYA
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/606.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | Rotana Music
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/76.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | ROTANA KHALIJIA
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2744.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | CBC
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/16.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | CBC Drama
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3409.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | CBC Sofra
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3410.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | AL ARABIYA HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/612.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | Cima
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/683.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | Nile Drama
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/603.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | Seevii Drama HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/645.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB |  AL HAYAT
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2951.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | Dzair Tv
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3289.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | Samira TV
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3428.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | Ennahar TV Algérie
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/94.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | Arryadia
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/86.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | 2M National
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/62.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | 2M Maroc
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2939.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB |  AL MAYADEEN
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2935.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB |  AL SHARQIYA HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2925.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB |  ALJAZEERA DOCUMENTARY
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2917.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB |  Al-Nahar Drama
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2896.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB |  DUBAI SPORTS 1 HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2854.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB |  DUBAI TV HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2852.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB |  NILE CINEMA
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2800.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB |  PANORAMA DRAMA
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2750.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB |  SAMA DUBAI HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2741.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB |  SAUDI 1 TV
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2738.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB |  SAUDI TV 2
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2730.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB |  ZEE AFLAM
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2723.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",ARB | Alhayat We Alnas
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3288.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",(AR) AL ARABIA
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3367.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",(AR) ALJADEED
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3366.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",(AR) ALJAZEERA
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3365.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",(AR) AL AAN
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3364.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",(AR) BBC ARABIC
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3363.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",(AR) DW ARABIA
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3362.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",(AR) Al Insen
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3361.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",(AR) HEKAYAT
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3360.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",(AR) HEKAYAT 2
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3359.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",(AR) LDC
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3358.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",(AR) MTV LEBANON
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3357.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",(AR) AL Hurra
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3356.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",(AR) O TV
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3355.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",(AR) ON TV
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3354.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",(AR) OSN ON DEMANDE 1
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3353.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",(AR) OSN ON DEMANDE 2
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3352.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",(AR) OSN ON Demande 3
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3348.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",(AR) OSN ON DEMANDE EXTRA 1
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3351.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",(AR) OSN ON DEMANDE EXTRA 2
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3350.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",(AR) OSN ON DEMANDE EXTRA 3
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3349.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",(AR) SAMA DUBAI
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3347.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein 3 AR HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/122.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein 4 AR HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/123.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein 5 AR HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/124.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein 6 AR HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/165.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN 7 AR HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/166.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein 8 AR HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/167.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein 9 AR HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/168.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein 10 AR HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/169.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein 11 AR HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/170.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",BEIN 12 AR HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/92.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein 12 EN
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/171.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein 13
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/293.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein 14
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/294.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",Bein 15
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/295.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR  BEIN SPORT 3 HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2878.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR  BEIN SPORT 4 HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2877.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR  BEIN SPORT 5 HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2876.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR  BEIN SPORT 6 HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2875.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR  BEIN SPORT 7 HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2874.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR  BEIN SPORT 8 HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2873.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR  BEIN SPORT 9 HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2872.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR  BEIN SPORT 10 HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2881.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR  BEIN SPORT 11 HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2880.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates6_PREMIUM",AR  BEIN SPORTS NEWS HD
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2870.m3u8
 
 
 
@@ -14515,6 +14264,683 @@ http://62.210.247.124:25461/live/iptvtop/iptvtop/6703.ts
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Tunisie_Nat_1
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/63.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Tunisie_Nat_2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/518.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_EL_HIWAR_ETTOUNSI
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/519.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_NESSMA_TV
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/520.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_ATTASSIA_TV
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/522.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_HANNIBAL_TV
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/521.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_AL_JANOUBIA
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/523.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_M_TUNISA
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1210.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_TELVZA_TV
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/525.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_TOUNESNA
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/524.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Carthage_Plus
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/442.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_ZAYTOONA
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/527.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",TN_ALINSEN
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1209.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_TT1_TV
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/526.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",R_TN_Radio_National
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1846.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",R_TN_Mosaique_FM
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1847.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",R_TN_Jeunes_FM
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1850.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",R_TN_Jawhara
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1848.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",R_TN_Sfax_FM
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1849.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BeOutQ_1
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1216.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BeOutQ_2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1215.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BeOutQ_3
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1214.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BeOutQ_4
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1213.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BeOutQ_5
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1212.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BeOutQ_6
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1211.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BeOutQ_7
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2008.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BeOutQ_8
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2009.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BeOutQ_9
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2010.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BeOutQ_10
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2011.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",*-*-*-*-*_beIN-Arabic_*-*-*-*-*
+http://bechatv.pro/229988547/51251O5478/promo.flv
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_1HEVC
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/975.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_2HEVC
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/974.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_3HEVC
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/973.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_4HEVC
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/972.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_5HEVC
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/971.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_6HEVC
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/970.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_7HEVC
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/969.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_8HEVC
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/968.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_9HEVC
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/967.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_10HEVC
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/976.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_11HEVC
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1002.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_12HEVC
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1003.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BEIN_SPORTS_1_hd
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BEIN_SPORTS_2_hd
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BEIN_SPORTS_3_hd
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/3.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BEIN_SPORTS_4_hd
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/4.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BEIN_SPORTS_5_hd
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/5.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BEIN_SPORTS_6_hd
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/6.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BEIN_SPORTS_7_hd
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/7.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BEIN_SPORTS_8_hd
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/8.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BEIN_SPORTS_9_hd
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/9.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BEIN_SPORTS_10_hd
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/10.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BEIN_SPORTS_11_hd
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/11.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BEIN_SPORTS_12_hd
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/12.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_1
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/528.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/529.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_3
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/530.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_4
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/531.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_5
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/532.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_6
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/533.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_7
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/534.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_8
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/535.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_9
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/536.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_10
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/537.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Sport_11
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/717.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BeinSports_MAX1
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/3328.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BeinSports_MAX2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/3329.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BeinSports_MAX3
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/3330.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BeinSports_MAX4
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/3331.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",VIP_BeIN_Sport_NBA_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/716.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Movies1
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/718.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Movies2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/719.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Movies3
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/720.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Movies4
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1960.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Box_Office
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/3327.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BEIN_DRAMA
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2900.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_beIN_Series
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2856.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_beIN_Dlife
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2874.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_bein_AMC
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2880.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_bein_DMAX
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2883.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_bein_GROUMMET
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2885.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_bein_HGTV
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2886.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Fatafeat
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2884.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Animal_Planet
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2881.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BEIN_FOX_Movie
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2878.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BEIN_Jeem
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2879.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Bein_Baraim
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2882.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_bein_JUNIOR
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2887.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",*-*-*-*-*_OSN_*-*-*-*-*
+http://w.bsshare.biz/229988547/51251O5478/promo.flv
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_ALYOUM
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/567.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_MBC+_DRAMA
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/563.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_ORBIT_CINEMA_1_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/555.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_ORBIT_CINEMA_2_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/556.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_YAHALA_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/557.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_YAHALA_SHABAB
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/559.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_YAHALA_CINEMA
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2876.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_YAHALA_DRAMA_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/558.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_MOVIES_DRAMA
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/545.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_MOVIES_PREMIERE_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/541.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_MOVIES_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/542.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_MOVIES_FIRST_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/543.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_MOVIES_FESTIVAL
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/544.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_MOVIES_COMEDY_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/546.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_MOVIES_ACTION_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/547.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_MOVIES_ACTION _2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/553.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_FIRST_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/564.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_STAR_MOVIES_2_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/554.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_OSN_STAR_Movies_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1663.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_OSN_MOVIE_PREMIERE
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1661.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_FIRST_COMEDY_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/565.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_OSN_Movie_Kids
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1656.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_OSN_MOVIE
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1655.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_OSN_Fight
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1657.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_OSN_FANN
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1662.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_SPORT_CRICKET_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/552.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_DISCOVERY_SCIENCE_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/560.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_DISCOVERY_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/561.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_ANIMAL_PLANET
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/566.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_ON_DEMAND_1_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/562.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_OSN_ON_Demande_2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1665.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_OSN_ON_Demande_3
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1664.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_OSN_ON_DEMANDE_EXTRA_1
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1660.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_OSN_ON_DEMANDE_EXTRA_2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1659.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_OSN_ON_DEMANDE_EXTRA_3
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1658.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_osn_box_office_1
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1654.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_osn_box_office_2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1653.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_osn_box_office_3
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1652.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_SPORT_1
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2314.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_SPORT_2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2315.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_SPORT_3
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2316.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_SPORT_4
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2317.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_AD_SPORTS_1_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1688.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_AD_SPORTS_2_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1687.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_AD_Sports_3_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2310.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",OSN_AD_Sports_4_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2311.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",*-*-*-*-*_Arabic_*-*-*-*-*
+http://w.bsshare.biz/229988547/51251O5478/promo.flv
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_ALKASS_SPORT_1_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/548.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_ALKASS_SPORT_2_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/549.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_ALKASS_SPORT_3_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/550.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_ALKASS_SPORT_4_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/551.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_ALKASS_SPORT_5_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1812.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_MBC_PRO_SPORT_1
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2165.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_MBC_PRO_SPORT_2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2166.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_MBC_PRO_SPORT_3
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2167.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_MBC_PRO_SPORT_4
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2168.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_DUBAI_RACING1
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2839.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_DUBAI_RACING2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2838.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Dubai_Sports1
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2837.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_DUBAI_SPORT2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2835.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_DUBAI_SPORTS3
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2836.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_DUBAI_SPORT4
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2834.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_ON_SPORT
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2888.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_DMC_Sports
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2819.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_NatGeoAd
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/776.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Aljazeera_Documentary
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/117.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_al_jazeera
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/119.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_AL_ARABIYA
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1676.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_AL_ARABIYA_ALHADATH
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1675.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_FRANCE_24_ARAB
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1674.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_BBC_NEW_ARAB
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1677.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ART_ART_Cinema
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/279.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ART_Aflam_1
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/281.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ART_Aflam_2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/280.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ART_Hekayat
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/283.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",ART_Hekayat_2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/282.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_MBC1
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2320.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Mbc2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/722.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Mbc3
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/723.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Mbc4
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/724.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_MbcAction
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/726.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_MBC_Variety
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2873.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_MbcBollywood
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/728.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_MbcDrama
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/727.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_MbcMax
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/725.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_MbcMasr
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/729.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_MbcMasr2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/730.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_RotanaCinema
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/790.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_RotanaClassic
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/791.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_RotanaMasriya
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/792.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_RotanaKhaliji
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/794.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_RotanaClip
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/795.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_RotanaMusic
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/793.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_ROTANA_AFLAM
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2890.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Fox_Movies_Action
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2899.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_CBC
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/69.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Cbc+2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1004.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_CbcSofra
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/732.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_CbcExtra
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/731.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_CbcDrama
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/733.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_alhayah
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/750.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Alhayah2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/751.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_AlhayahSeries
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/752.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Alnahar
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/734.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_AlNahar_2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1811.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_AlnaharCinema
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/737.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_ALnaharDrama
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/735.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_AlnaharAlyoum
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/736.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_DMC
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2821.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_DMC_DRAMA
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2820.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_ON_E
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2818.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_SeeVii Al Aoula HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2789.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_SeeVii Beelink HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2788.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_SeeVii Drama_HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2787.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_SeeVii Shamiya HD
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2786.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_ZeeAlwan
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/762.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_ZeeAflam
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/761.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_B4uPlus
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/763.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_B4uAflam
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/764.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Panorama_Film
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/777.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Panorama_Drama
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/779.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Panorama_Drama_2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1684.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Panorama_Food
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1685.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_PanoramaComedy
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/778.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_TimeComedy
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/784.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_TimeCinma
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/782.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Cima
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/760.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_CairoDrama
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/786.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_CairoAflam
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/785.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_StarCinema1
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/780.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_StarCinema2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/781.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_MogaComedy
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/758.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_MelodyClassic
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/757.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_MelodyAflam
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/756.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Melody_Drama
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2889.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_NileDrama
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/797.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_NileComedy
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/798.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_NileCinma
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/796.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Time_FILM
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1797.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Ten
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1799.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Ten_2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1798.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Sada_Elbalad_Drama
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1801.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Sada_Elbalad_2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1802.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Nile_Sport
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1804.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Nile_Life
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1794.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Nile_Family
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1795.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Moga_Cinema
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1806.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Dream
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/753.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_DREAM2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2872.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_alkaheraWaAlnas
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/755.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Dubai_Zaman
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1671.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Dubai_Drama
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1672.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Cairo_Cinema
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1670.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Abu_Dhabi
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1669.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Abu_dhabi_Emarat
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1667.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Abu_Dhabi_drama
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1668.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_abu_dhabi_sport
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1666.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Jeem
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1845.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Baraem
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/765.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_CNarabia
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/767.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_spacetoon
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1673.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_ToyorAlJanah
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/766.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Karameesh
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1686.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Almajd
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/741.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_AlmajdQuran
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/742.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_AlmajdAhadeeth
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/744.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_AlmajdScientific
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/743.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Almajd_KIDS
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2794.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_KsaSunna
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/746.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_KsaQuran
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/745.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Iqraa
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/747.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Alresalah
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/739.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Alrahma
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/740.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Alnas
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/738.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_otvLebanon
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/768.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_ontv
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/759.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_AlmasryaAflam
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/788.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Almasriyah
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/787.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Almasriya1
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/748.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Almasriya2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/749.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_ALmehwar
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/754.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_nbnLebanon
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/769.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_mtvLebanon
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/770.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_LbcLebanon
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/772.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_futureLebanon
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/773.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_aljadeedLebanon
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/774.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_almanarLebanon
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/775.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_ALMUSTAKILLAH
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1603.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Canal_Algérie
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2870.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Algerie_1
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1614.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Samira_TV
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1605.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Ennahar
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1606.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Elbilad
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1604.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Kbc_Algeirer
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1610.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_DZAIR_NEWS
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2871.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_El_Heddaf
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1611.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Echourrouk_News
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1609.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Echourrouk
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1607.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Echourook_Beena
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1608.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Dzaier_TV
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1613.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Djazairia
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1612.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Beur_TV
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1615.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_AL_OULA
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1621.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_2M_Morocco
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1623.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Assadissa
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1622.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Arriadhia
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1627.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Tamazight
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1624.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Medi_1_Sat
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1628.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Magharibia
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1626.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Numidia_News
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/443.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_libia_news
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2897.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Libya_24
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2895.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Libya_Hadash
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2893.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Libya_One
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2896.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Libya_TV
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2898.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Libya218
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2894.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_TV_A3
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2892.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_AlAqsa
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2831.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Syria_Drama
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/96.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Syria_Aloula
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/95.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Syria
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/94.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Sama_Dubai
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/86.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Dubai_TV
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/87.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Dubai_Sports
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/133.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Dubai_One
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/88.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Alalam
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2779.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Albaghdadiah
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2784.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_ALMAYADEEN
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2780.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_AlSharqiya
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2785.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_AlSumaria
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2783.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_IRAQIYA
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2792.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Palastin
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2791.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Toyor_Al_Iraq
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2793.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_ToyorBaby
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2778.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Wanasa
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2790.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Al_Sharja
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/89.m3u8
+#EXTINF:-1 group-title="United.Arab.Emirates7_PREMIUM",AR_Al_Kout_tv
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/91.m3u8
 
 
 
